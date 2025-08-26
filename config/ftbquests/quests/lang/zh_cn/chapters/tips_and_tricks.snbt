@@ -1,0 +1,40 @@
+{
+	quest.0152938EE5651409.quest_desc: ["此任务由&6AllTheMods Staff&r或&2社区贡献者&r编写,用于AllTheMods Mod包.\\n\\n由于所有&6AllTheMods&r包均根据&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods Team&r发布的公共包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你处于编辑模式."]
+	quest.0790D3BB481162A6.quest_desc: [
+		"需要一个便携式工作台？那便携式&a锻造台&f怎么样？"
+		""
+		"&l&8Crafting &a便携工具&f&r添加了你最喜欢的一些制作站的便携版本!这在游戏早期是必备的."
+	]
+	quest.0790D3BB481162A6.quest_subtitle: "更少的放置,更多的制作"
+	quest.0790D3BB481162A6.title: "制作...在棍子上!"
+	quest.0C856BBB1679A7DD.quest_desc: ["在这一页,你会发现一些有用的物品和信息来帮助你的旅程!"]
+	quest.0C856BBB1679A7DD.quest_subtitle: "以及其他有用的物品!"
+	quest.0F8F37D7E12078F5.quest_subtitle: "完成所有提示!"
+	quest.219AA017149C36E2.quest_desc: ["陷阱商人地毯会立即杀死任何在附近生成的流浪商人!\\n\\n这些可能是整个包中最好的物品."]
+	quest.219AA017149C36E2.quest_subtitle: "不再有烦人的交易者!"
+	quest.32ECD93A8F2FAB8F.quest_desc: ["&6喷气背包&r是广受欢迎的移动方式.\\n\\n制作喷气背包需从&6木质喷气背包&r开始!它可升级至&5&a创造喷气背包&f&r.\\n\\n虽然存在多种版本,但功能完全一致.所有喷气背包均可置于&a胸甲槽&f、背部饰品栏或饰品栏中.\\n\\n运作需消耗FE能量,可用任意充电器充能!飞行时会持续消耗能量,耗尽时将坠落.\\n飞行时需启动引擎(默认V键),按住空格键上升,松开即下落.\\n\\n若需悬停功能(默认未绑定按键),启用后可在固定高度飞行:空格键升高,Shift键下降.\\n\\n通过油门控制飞行速度:默认(,)键减速,(.)键加速!"]
+	quest.32ECD93A8F2FAB8F.title: "&l&6&d&a铁质飞行背包&f&f"
+	quest.3B4BF42C55C8BBBF.quest_desc: ["是否厌倦了挖掘时方块掉落在够不到的地方？\\n\\n&4磁石&r解决此烦恼!手持&4磁石&r时&a右键点击&f即可激活,5格半径内的掉落物与方块将自动吸附.\\n\\n也可将&4磁石&r装备在饰品栏持续生效!\\n\\n若需关闭&4磁石&r(如在&a怪物农场&f附近),再次&a右键点击&f即可停用.\\n\\n还可升级扩大吸附范围!"]
+	quest.3B4BF42C55C8BBBF.title: "&l&9基础型&4磁石"
+	quest.5EE945A1185E8336.quest_desc: ["&l&7功能性存储&r新增可存放多组同类物品的&7抽屉&r,升级后可容纳更多!\\n\\n非常适合存储圆石、种子等大量获取的物品!"]
+	quest.5EE945A1185E8336.quest_subtitle: "&d储物抽屉&f?"
+	quest.5EE945A1185E8336.title: "&l&7功能性存储&r"
+	quest.637981B64BBE0D92.quest_desc: ["&a充电站&r是极实用的&a前期&f设备.\\n\\n核心功能是为物品&a充入FE能量&f,可通过管道输入能源或燃烧燃料产生能量.\\n\\n将需&a充电&f物品放入最右侧槽位即可."]
+	quest.637981B64BBE0D92.title: "&l&a&a充电小帮手&f"
+	quest.722978AC0C1B2649.quest_desc: ["轻松实现&9水&r无限自动化供应.\\n\\n需要更多&9水&r？再造一台即可!"]
+	quest.722978AC0C1B2649.quest_subtitle: "&a适用于&f反应堆冷却剂"
+	quest.722978AC0C1B2649.title: "无限&9水源&r"
+	quest.7A514E27E1A7FE32.quest_desc: ["钻石还能制作&l&c&d建筑手杖&f&r模组中的实用建造工具.\\n\\n这些工具既能协助扩建基地,也能用&c&a毁灭手杖&f&r快速清理区域."]
+	quest.7A514E27E1A7FE32.title: "&l&c&d建筑小帮手&f&r"
+	quest.7EC8814940C4C3D7.quest_desc: ["使用此物品可缩小体型,既便于自动化工程操作,也充满趣味性."]
+	quest.7EC8814940C4C3D7.quest_subtitle: "亲爱的,我缩小了自己"
+	quest.7EC8814940C4C3D7.title: "&a个人缩放设备&f"
+	task.172162127C8F6E4E.title: "任意商贩地毯"
+	task.3B1F1A7CAC8B7BC7.title: "抽屉"
+	task.3DC008A578A93CCF.title: "技巧与诀窍!"
+	task.42DA8E971B27ACED.title: "药水妙用"
+	task.47A1F59A538E3C4B.title: "&d建筑小帮手&f"
+	task.4AEB792F6A939B3A.title: "版权所有"
+	task.6038387EA35404CD.title: "便携式合成"
+	task.6A965CD027BF762F.title: "版权所有"
+}

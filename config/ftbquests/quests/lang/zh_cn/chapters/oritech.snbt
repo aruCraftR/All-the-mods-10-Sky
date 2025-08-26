@@ -1,0 +1,115 @@
+{
+	quest.01C0DC225CB25A0C.quest_subtitle: "猎人附加组件允许激光瞄准生物"
+	quest.01C0DC225CB25A0C.title: "伤害生物"
+	quest.02315D55EB638E3C.quest_subtitle: "制作生物质来使用它"
+	quest.0C9F9196CA49FF8D.quest_subtitle: "找到镍矿石来开始你的旅程"
+	quest.0C9F9196CA49FF8D.title: "&d奥瑞科技&f 开端"
+	quest.0EC0F93FA4B4BE49.quest_desc: ["该机器仅能通过&5末影激光&r供能,用于合成高价值物品."]
+	quest.0EC0F93FA4B4BE49.quest_subtitle: "终极合成设备"
+	quest.114EACA9B32B32FB.quest_subtitle: "你懂的..."
+	quest.11A4C57600E692EC.quest_subtitle: "提升机器能量容量"
+	quest.124CD4B8876B81F6.quest_subtitle: "储存你产生的能量"
+	quest.124CD4B8876B81F6.title: "能量存储"
+	quest.161EDD68FF1A7F1B.quest_subtitle: "以熔岩为燃料"
+	quest.1630CFBFB562C43B.quest_subtitle: "使用液态燃料发电"
+	quest.175509632CBF8631.quest_desc: ["提升所有粉碎配方产率."]
+	quest.175509632CBF8631.quest_subtitle: "进阶粉碎机"
+	quest.1831B35A3239B583.quest_subtitle: "同步执行多项配方"
+	quest.1B2BD489D5173B40.quest_subtitle: "获取途径丰富"
+	quest.1D9A00C81C2A97F0.quest_subtitle: "平平无奇"
+	quest.1F139091C1B4E50B.quest_subtitle: "标准电路板"
+	quest.208F759905CF7744.quest_desc: [
+		"无人机端口传输较快,但需保持至少&450格&r距离方能运作."
+		""
+		"部署两个无人机端口后,持&5目标定位器&r对其&a潜行右键&r以存储位置.在第二个端口界面中放入&5目标定位器&r."
+		""
+		"当存放&5目标定位器&r的端口内有物品时,将自动派遣无人机运输."
+	]
+	quest.208F759905CF7744.quest_subtitle: "是的,有无人机系统"
+	quest.24310BEACE75749D.quest_desc: [
+		"插件可为&5&d奥瑞科技&f&r设备提供升级与模块化功能."
+		""
+		"插件需安装于类插座接口,数量取决于所用机器核心."
+		""
+		""
+		"{image:atm:textures/questpics/oritech/ori-addon-slot.png width:50 height:100 align:left}"
+		""
+		"插件同时赋予机器额外功能,特定配方需安装专属插件方可运作."
+	]
+	quest.24310BEACE75749D.quest_subtitle: "物超所值"
+	quest.290C1416EA2B5DF2.quest_subtitle: "略显枯燥"
+	quest.2A69272FD3C57924.quest_subtitle: "略有提升"
+	quest.310FA9380CB3E0BB.quest_subtitle: "允许向离心机添加流体"
+	quest.334AB2ED426108C7.quest_subtitle: "随你怎么称呼,反正它能粉碎"
+	quest.35BC118040E7428F.quest_desc: [
+		"末影激光具备多重功能:"
+		""
+		"1. 能以光束形态传输能量"
+		"2. 用于材料转化"
+		"3. 可破坏方块"
+		"4. 加速紫水晶生长"
+	]
+	quest.35BC118040E7428F.quest_subtitle: "切勿在猫附近使用"
+	quest.38F4448F9603FE68.quest_subtitle: "距离伟大仅两步之遥"
+	quest.3DD27DED791C6A0B.quest_desc: ["使用&5&d奥瑞科技&f&r处理矿石需配置&a离心机&r(含&6流体插件&r)及&a粉碎机&r或&6碎片熔炉&r."]
+	quest.3DD27DED791C6A0B.quest_subtitle: "最大输出"
+	quest.3DD27DED791C6A0B.title: "矿石处理"
+	quest.3EB34CC8A3B0DB3C.quest_subtitle: "不可用作仓鼠饲料"
+	quest.418E0A23EC74F320.quest_desc: ["这是未来发展的关键设备."]
+	quest.418E0A23EC74F320.quest_subtitle: "你让我晕头转向..."
+	quest.46EFCAE81C09368A.quest_desc: [
+		"机器核心是&9&d奥瑞科技&f&r的基础元件.用机器核心&a右击&f机器以组装它们."
+		""
+		"它们不直接影响机器速度或效率,仅影响可安装的改造组件数量."
+	]
+	quest.46EFCAE81C09368A.quest_subtitle: "所有机器都使用机器核心"
+	quest.46EFCAE81C09368A.title: "&a机器核心&f"
+	quest.49D03933633D6A45.quest_subtitle: "这是人工智能"
+	quest.4CFA7EE8174E3FD8.quest_subtitle: "提升能量输入速率"
+	quest.4ED29ACF4A699E1B.quest_subtitle: "更棒棒"
+	quest.50243E5CF1B156ED.quest_desc: ["获取&5钚粉&r需对世界中采集的&a铀矿晶体&r进行充能."]
+	quest.50243E5CF1B156ED.quest_subtitle: "铀矿晶体充能"
+	quest.5189D72ED3808DC6.quest_desc: [
+		"用目标定位器&a按住Shift并右击&r紫晶母岩,再&a按住Shift并右击&r激光器设定目标."
+		""
+		"这些水晶不仅美观,还能储存能量并用于制造更复杂的机械."
+	]
+	quest.5189D72ED3808DC6.quest_subtitle: "用激光给紫水晶充能"
+	quest.53880926982968FD.quest_subtitle: "呼唤吾名"
+	quest.53D5A6F210DF199C.quest_subtitle: "稳定传输10k RF/t能量"
+	quest.53D5A6F210DF199C.title: "能量传输"
+	quest.55DCCC4035B8BB2A.quest_subtitle: "混合下界合金与铂金"
+	quest.58819CE09A648A43.quest_subtitle: "这些将用于制造多数机器"
+	quest.58819CE09A648A43.title: "基础建造组件"
+	quest.5932B5AD48F6AB74.quest_desc: ["对&2&d奥瑞科技&f&r管道使用&5管道加速器&r可提升抽取速度."]
+	quest.5932B5AD48F6AB74.quest_subtitle: "让它们更快"
+	quest.5E9AF8BB2C67DCCE.quest_subtitle: "多种液体运输方式"
+	quest.5E9AF8BB2C67DCCE.title: "液体运输"
+	quest.5F8363EC8F4499B6.quest_subtitle: "合金冶炼"
+	quest.6134991F25B25B42.quest_desc: ["&l组装机&r不仅能合成&a新物品&r,还可提升部分物品的产出率."]
+	quest.6134991F25B25B42.quest_subtitle: "不仅是合成台"
+	quest.6134991F25B25B42.title: "组合万物"
+	quest.6539582429A70EE8.quest_subtitle: "&d奥瑞科技&f可兼容本整合包多数能源"
+	quest.6EBFA16D212A7B22.quest_subtitle: "最棒棒"
+	quest.6FFD0301AC8C83ED.quest_subtitle: "能耗降低"
+	quest.7032AC2B9066CC39.quest_desc: ["将其置于扩展槽可增加附加组件安装空间."]
+	quest.7032AC2B9066CC39.quest_subtitle: "更多扩展组件!"
+	quest.7084E47579D62B52.quest_subtitle: "实现更多功能的电路"
+	quest.70FAD4013FA8A14A.quest_subtitle: "提升处理速度"
+	quest.72E7AE66F2A7C4C4.quest_subtitle: "在机器中使用流体"
+	quest.7937DE650CABC1FF.quest_subtitle: "以熔炉燃料驱动"
+	quest.7CBAD1047B087803.quest_desc: [
+		"获得&e矿簇&r后,在离心机安装流体扩展组件即可注入&a&a硫酸&f&r.用此酸处理&e矿簇&r可获得宝石."
+		""
+		"也可使用&9水&r处理,但产量较低."
+		""
+		"&l&o&n注意&r"
+		""
+		"当前部分配方存在异常,会输出矿粉或金属粒."
+	]
+	quest.7CBAD1047B087803.quest_subtitle: "离心处理矿物团块能获得宝石....？"
+	quest.7CBAD1047B087803.title: "旋转成宝石"
+	quest.7D2F41DD9774DDA7.title: "物品运输"
+	task.7C454550A8F933AC.title: "能源生产"
+	task.7C85CBE79E91F28B.title: "附加组件"
+}

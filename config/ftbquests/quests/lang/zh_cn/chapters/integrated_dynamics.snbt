@@ -1,0 +1,61 @@
+{
+	quest.1568CBFA09827137.quest_desc: ["功能与逻辑编程器相同,但此设备可在任意位置使用."]
+	quest.1B5C86AE05678420.quest_desc: ["右键点击接口时将显示以下选项功能:\\n\\n&l设置面&r:在屏幕顶部设置接口模拟的”作用面"]
+	quest.232A06C9FF0EE7B2.quest_desc: ["&a门瑞欧种子&f可用于自动化生产门瑞欧浆果、门瑞欧原木及门瑞欧树苗."]
+	quest.232A06C9FF0EE7B2.quest_subtitle: "门瑞欧自动化"
+	quest.2F37E284BB83BFF6.quest_desc: ["扳手用于旋转或拆除特定方块,按住Shift键并在空中右键单击可切换模式."]
+	quest.33F4A7613764A016.quest_desc: ["功能与导入器相似,但执行导出操作."]
+	quest.33F4A7613764A016.quest_subtitle: "导出系统"
+	quest.3BC94B0B922C0708.quest_desc: ["这些是制作物品/流体/能量导入设备的合成材料."]
+	quest.3C9539083BCC145C.quest_desc: ["&a门瑞欧蜜蜂&f可用于自动化生产晶化门瑞欧块."]
+	quest.3C9539083BCC145C.quest_subtitle: "门瑞欧自动化"
+	quest.437F4945AFBE0825.quest_desc: ["右键点击导入器或导出器将打开菜单,主要用于设置过滤(例如:当变量卡设为圆石时,导出器仅发送圆石).\\n\\n插入变量时&a左侧&f的”+”按钮可打开新界面,此处可修改传输速率实现&d无限&r物品/流体/能量传输,并执行其他操作.\\n\\n左上角的设置选项功能与接口设置基本一致."]
+	quest.44DA091B53473723.quest_desc: ["&a机械&f挤压器需消耗能量进行挤压操作."]
+	quest.450EDE68EC992A5A.quest_desc: ["接口会&c读取&r其指向容器的内容,功能类似&b应用能源2&r的存储总线.\\n\\n示例:附着接口的箱子内存有100个圆石,意味着你的集成动力网络系统中存在100个圆石,很简单,对吧？"]
+	quest.450EDE68EC992A5A.quest_subtitle: "接口操作界面说明!"
+	quest.499CF9F39CED8899.quest_desc: ["&b&d集成动力&f&r(ID)是用于存储、物品/能量/流体传输等功能的物流模组!\\n\\n门瑞欧树生成于梅内格林生态域.\\n\\n本任务将讲解模组基础概念,如需深入探索请查阅任务奖励手册."]
+	quest.499CF9F39CED8899.quest_subtitle: "培育门瑞欧"
+	quest.499CF9F39CED8899.title: "&b&d动态联合/集成动力&f"
+	quest.4A05C037C0EE40BD.quest_desc: ["逻辑电缆与其他电缆不同.普通电缆类似漏斗,物品需经过:1号容器→电缆→2号容器.逻辑电缆则省去中间环节,大幅降低延迟.\\n\\n它们专用于连接输入器与接口."]
+	quest.4A05C037C0EE40BD.quest_subtitle: "组建网络"
+	quest.4A05C037C0EE40BD.title: "逻辑电缆"
+	quest.4D4152032F0410D2.quest_desc: ["&a逻辑编程器&f可设定变量值.该值可用于物品/流体过滤,甚至设定数值.\\n\\n举个简单例子:左侧选择&b物品&r,在弹出界面的中央槽位放入指定物品,右下槽位放入&b变量卡片&r.将此卡片插入输入器/输出器后,将仅传输对应方块!"]
+	quest.4D4152032F0410D2.quest_subtitle: "进阶应用"
+	quest.4D62C62B523C69EC.quest_desc: ["&a发电机&f通过燃烧煤炭等可燃物产生FE能量."]
+	quest.4D62C62B523C69EC.quest_subtitle: "能源供给!"
+	quest.56BF647EA84FFF7E.quest_desc: ["实时显示正在进行的合成配方."]
+	quest.56BF647EA84FFF7E.quest_subtitle: "配方显示"
+	quest.60D9F04E91171D16.quest_desc: ["可作为变量存储器,亦可用于高级网络.\\n\\n若需构建高级网络,请查阅&e集成动力学&r手册."]
+	quest.62B4A37CFDECA679.quest_desc: ["门瑞欧树脂将流向挤压机两侧.在挤压机旁放置&a烘干池&f可承接树脂.\\n\\n7.5秒后树脂将固化为&a结晶门瑞欧&f."]
+	quest.65D89991A45BC042.quest_desc: ["在工作台上放置合成接口并右击,将出现&b变量卡片&r槽位.\\n\\n用逻辑编程器在左上角搜索&e配方&r,创建自动合成配方并存入&b变量卡片&r.若配方&c&l需要&r合成中间产物,请为每个中间产物创建配方,最终将所有配方存入合成接口."]
+	quest.65D89991A45BC042.quest_subtitle: "&l&c自&6动&e合&a成&b系&d统&9"
+	quest.65FA86357BC60573.quest_desc: ["现在学习物品转移步骤:\\n\\n&l1.&r在容器(如箱子/储罐)上安装接口\\n\\n&l2.&r在目标容器安装输入器(拉取物品)或输出器(发送物品)\\n\\n&l3.&r用电缆连接两者,在输入器/输出器中插入变量卡片即可运作!"]
+	quest.65FA86357BC60573.quest_subtitle: "物品传输!"
+	quest.68498ADEF9765F81.quest_desc: ["制作结晶门瑞欧块需先将门瑞欧原木放入挤压机.跳上挤压机将其转化为树脂.\\n\\n发送红石信号可清空挤压机."]
+	quest.6ABDBE41880CFDA9.quest_desc: ["本任务由&6AllTheMods开发组&r或&2社区贡献者&r创作,适用于AllTheMods整合包.\\n\\n根据&e保留所有权利&r许可协议,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您看到本提示,说明正处于编辑模式."]
+	quest.6C9191DA4B1039D6.quest_desc: ["食用梅里尔浆果可短暂获得&a夜视&f效果."]
+	quest.6D75CF34957ECCD9.quest_desc: ["&a能量&f电池用于存储FE能量.传输能量需使用&6&a能量接口&f&r."]
+	quest.6D75CF34957ECCD9.quest_subtitle: "能量存储"
+	quest.72F57D77C3FB366D.quest_desc: ["门瑞欧结晶方块可合成结晶梅里尔碎块,后者是ID装置的核心合成材料."]
+	quest.72F57D77C3FB366D.quest_subtitle: "&a主要合成材料&f"
+	quest.72F57D77C3FB366D.title: "结晶梅里尔碎块"
+	quest.73EA326304C01C3B.quest_desc: [
+		"将输入器置于来源容器,接口置于目标容器,用逻辑线缆连接二者.将变量卡插入输入器并自定义设置.\\n\\n可设置为整数上限导入(超过20亿)."
+		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
+		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
+		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
+	]
+	quest.73EA326304C01C3B.quest_subtitle: "物品输入"
+	quest.7413BB136EF9D6C5.quest_desc: ["&a技工&f的&a烘干池&f需消耗能量进行干燥作业"]
+	quest.79C1105A84B8BF8F.quest_desc: ["变量卡是启动物品输入等交互的必要组件.将其插入输入器卡槽进行配置.\\n\\n通过+按钮可编辑所有参数:输入数量、物品槽位、传输频道等.\\n\\n若仅需基础物品传输,插入后调整数量上限即可."]
+	quest.79C1105A84B8BF8F.title: "变量卡"
+	task.166BA23E49F6DCD6.title: "输入器"
+	task.1C045BB5FAFCF4D3.title: "接口"
+	task.1C7C0F345759111C.title: "输出器"
+	task.22CCBBC66D509404.title: "物流网络!"
+	task.238B5BA2FAE9785B.title: "版权所有"
+	task.2656ACB55A33D4FE.title: "接口操作界面"
+	task.267CE316E1F8FA83.title: "版权所有"
+	task.4209A06A392362DB.title: "输入器 \\ 输出器界面"
+	task.5DD862CF56AF7BF9.title: "梅里尔原木"
+}

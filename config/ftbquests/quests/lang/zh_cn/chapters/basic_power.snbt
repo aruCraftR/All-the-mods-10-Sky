@@ -1,0 +1,88 @@
+{
+	quest.0BB42C5861B22D32.quest_desc: ["&b&a菌丝网络产能反应堆&f&r由所有同时运行的菌丝发电机组成,需放置在反应堆方块附近,总产能为&a25兆通量能量/每刻&r.\\n\\n虽然原理简单,但需自动化部分流程:查明各菌丝发电机的消耗材料并实现自动化供应——部分较简单,但如&o附魔剥离菌丝发电机&r则较复杂.\\n\\n完成自动化后,你还能建造更多反应堆."]
+	quest.0BB42C5861B22D32.quest_subtitle: "这可不是'你的'菌丝反应堆"
+	quest.0BB42C5861B22D32.title: "&9&d工业先锋&f: &b&a菌丝网络产能反应堆&f"
+	quest.11D09E918015355C.quest_desc: ["&d通用机械&f的&c&a热力发电机&f&r采用独特产能机制,拥有两种模式:\\n\\n&9被动模式:&r用熔岩源或流动方块包围发电机,通过热能持续产能.在顶部放置熔岩源并让其沿侧边流下,注意提前连接能量管道!\\n\\n&9主动模式:&r放入煤炭或木材等可燃物燃烧产能,但效率较低."]
+	quest.11D09E918015355C.title: "&c&a热力发电机&f"
+	quest.1409C17773B6A131.quest_desc: ["所有升级组件均提升&e&lPipez&r传输量,同时拓展功能:\\n\\n基础升级:支持红石控制&e&lPipez&r\\n\\n改进升级:可设置分配模式(最近优先/最远优先/循环分配/随机分配)\\n\\n高级升级:添加过滤器功能\\n\\n终极升级:无新功能,但大幅提升传输量!"]
+	quest.1409C17773B6A131.title: "&9Pipez:&a升级组件"
+	quest.1BE26A00A420DAE3.quest_desc: ["本模组需要&a&a通量核心&f&r与&a通量方块&r合成网络核心部件,请各准备若干."]
+	quest.1BE26A00A420DAE3.quest_subtitle: "这些核心材料不可或缺"
+	quest.1BE26A00A420DAE3.title: "核心合成材料"
+	quest.1F81EA5E45424308.quest_desc: ["若需多样化机器供能方案,可在此处探索!\\n\\n能量传输提供&a有线&r与&9无线&r多种选择."]
+	quest.1F81EA5E45424308.title: "&f&l能量传输系统"
+	quest.27A4FA38992448A0.quest_desc: [
+		"&d通量网络&f 还能实现跨维度无线物品充能!\\n\\n在能源系统中安装通量插头后,请合成 &9&a通量控制器&f&r 并放置.\\n\\n右击打开界面,进入「无线充电」标签页.在此可选择需要自动充能的物品栏区域.最后点击底部开关启用无线充电功能,并确认应用设置!\\n"
+		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
+	]
+	quest.27A4FA38992448A0.title: "无线充电"
+	quest.2EB7784D5296F410.quest_desc: [
+		"&a右击&f功能正常的通量网络方块可打开此界面.\\n\\n每个通量插头或接出点均可自定义命名、优先级及能量传输上限,实现系统全链路精准管控.\\n\\n&a绕过限制&r 可无视设定阈值.\\n\\n其他标签页主要显示网络统计数据!\\n"
+		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
+	]
+	quest.35ABB0DEE70DF7FD.quest_desc: ["信不信由你,&aPowah&r 模组能提供绝佳的...能量获取方案.\\n\\n请查阅 &cPowah&r 任务章节了解更多!"]
+	quest.35ABB0DEE70DF7FD.title: "更多 &aPowah&r 能源!"
+	quest.35CC898E0E49FE58.quest_desc: ["&9&d通量网络&f&r 是满足无线能源需求的终极解决方案.\\n\\n该模组本身不产生能源,但能跨维度存储并无线传输能量,甚至可为物品栏物品充能.\\n\\n飞行中也能为喷气背包持续充能.\\n\\n启动模组需先制作通量粉尘:合成 &a压缩黑曜石x1&f(工作台用9个黑曜石合成),放置后在其上方放置红石.在悬浮红石正上方(隔1格高度)放置黑曜石,最后左键击打该黑曜石."]
+	quest.35CC898E0E49FE58.quest_subtitle: "终极无线能源解决方案"
+	quest.35CC898E0E49FE58.title: "&8&d通量网络&f"
+	quest.36DEA17CBB696CC7.quest_desc: ["右击通量插头打开控制界面,点击右上角+号创建首个网络.需设置密码(可选配颜色)!\\n\\n在 &a网络选择&f 标签页激活该插头的网络.若插头已连接能源,即可通过 &a通量接出点&f 在系统任意处获取能源!\\n\\n高阶技巧:创建多组网络可实现不同能源分区供给!"]
+	quest.36DEA17CBB696CC7.quest_subtitle: "成为网络管理员!"
+	quest.3BDB94F17765EE77.quest_desc: ["若需巨量能源,可升级 &9中期能源&r 章节方案:扩建 &a反应堆&r,将 &9&a热力发电机&f&r 升级至硝化级.尽情发挥!\\n\\n当然,您可能需要更澎湃的能源."]
+	quest.3BDB94F17765EE77.quest_subtitle: "超乎所需的澎湃能量"
+	quest.3BDB94F17765EE77.title: "终极能源方案"
+	quest.42D173B9FF8D16E4.quest_desc: ["需要初期能源方案？以下方式助您启动能源系统:\\n\\n虽产能有限,但前期获取简易且成本低廉!"]
+	quest.42D173B9FF8D16E4.quest_subtitle: "初始能源方案"
+	quest.42D173B9FF8D16E4.title: "&8&l&a游戏早期&f 能源选项"
+	quest.43D83CFA824B0A70.quest_desc: ["&9&d通用机械&f&r 拥有难以超越的终极能源方案.&d&a湮灭反应堆&f&r 可产出高达80MRF/t的能量,若想学习建造方法,请务必查阅 &a&d通用机械&f:&d反应堆&r 任务章节!"]
+	quest.43D83CFA824B0A70.quest_subtitle: "聚变启动!"
+	quest.43D83CFA824B0A70.title: "&9&d通用机械&f: &d&a湮灭反应堆&f"
+	quest.477B411F84342EEA.quest_desc: ["&d通用机械&f 是最优秀的能量存储模组之一,尤其适用于游戏前期.\\n\\n基础能量立方体配置简易、合成方便且储能庞大.它支持升级,还能通过界面为内部物品充能!\\n\\n欲了解能量立方体升级及模组详情,请前往 &a&d通用机械&f&r 任务章节!"]
+	quest.477B411F84342EEA.title: "&9&d通用机械&f:&a能量立方体"
+	quest.48DC9E8E9D21A2FA.quest_desc: ["&d通用机械&f 提供多种可再生能源发电方式.\\n\\n&9&a太阳能发电模块&f&r 利用阳光满足基础能源需求,夜间无法工作且需露天放置(玻璃可覆盖).\\n\\n&9&a风力发电机&f&r 通过风力发电.其转速取决于放置的Y轴高度(除非玩家手动旋转),且上方不得有任何方块遮挡."]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "这 &a太阳能&f..."
+	quest.48DC9E8E9D21A2FA.title: "&9&d通用机械&f: &a&a再生能源&f"
+	quest.4AB0DD227471FDBF.quest_desc: ["本章节专注能源相关全攻略!\\n\\n此处将介绍能量生产、存储与传输的基础方式."]
+	quest.4AB0DD227471FDBF.quest_subtitle: "全是 &a帕瓦&f!"
+	quest.4AB0DD227471FDBF.title: "&c基础能源"
+	quest.4EEAB467C722ECE7.quest_desc: ["这些基础管道可通过管道升级强化.\\n\\n要从方块抽取能量:将管道置于方块旁,在连接侧使用管道扳手&6Shift+右键&r设置为抽取模式.\\n\\n&e&lPipez&r 模组还支持物品/气体/液体传输!亦可制作全能型 &a&a通用管道&f&r.\\n\\n其他扳手也兼容 &e&lPipez&r!"]
+	quest.4EEAB467C722ECE7.title: "&9Pipez:&a&a能量管道&f"
+	quest.56B6ABF3D6EA0D84.quest_desc: ["配置完接入口后,即可从网络获取能源.&9&a通量接出点&f&r 正是为此设计:将网络能量导向附着方块(管道/线缆或直接连接机器).\\n\\n对接出点&6右键&r选择 ”&a网络选择&f” 标签页,可调整能量抽取速率、优先级等参数(操作同接入口)."]
+	quest.56B6ABF3D6EA0D84.title: "接入网络能源"
+	quest.5C47935A3B2877FF.quest_desc: ["&d通用机械&f 提供美观的线缆传输能量.\\n\\n若连接的机器自带能量交互功能,则无需配置线缆；否则需用 &9配置器&r &6Shift右键&r切换线缆的抽取/输出模式."]
+	quest.5C47935A3B2877FF.quest_subtitle: "&d通用机械&f's &a能量传输&f Pipe"
+	quest.5C47935A3B2877FF.title: "&9&d通用机械&f:&a通用线缆"
+	quest.5E41363F9AE243F3.quest_desc: ["你不能永远靠煤炭维持基地运转!若资源充足,是时候升级能源系统了!\\n\\n这些方案通常需要简单配置,但能提供充足能量支撑你深入游戏进程."]
+	quest.5E41363F9AE243F3.title: "&b&l中期能源方案"
+	quest.5F078A574A783B02.quest_desc: ["建立通量网络的首个必要物品是&9&a通量接入点&f&r.\\n\\n接入点用于从附着方块中”抽取”能量.除小型缓冲外,接入点本身不存储能量,无需担心其消耗所有能源.\\n\\n建议将接入点放置在能量立方等储能方块上.它可连接线缆、管道或任何发电设备的输出端.\\n\\n学习建立首个网络的方法,请查阅下一任务!"]
+	quest.5F078A574A783B02.quest_subtitle: "即插即用!"
+	quest.5F078A574A783B02.title: "启动你的网络"
+	quest.682034C680FDEDC2.quest_desc: [
+		"&9&d通用机械&f&r的&a&a输导矩阵&f&r是终极储能方案.\\n\\n若需游戏中最强储能设备,请查阅&a&d通用机械&f:&r &d反应堆&f&r任务章节.\\n"
+		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+	]
+	quest.682034C680FDEDC2.title: "More &a能量存储&f"
+	quest.6D6E07564D8FDD8D.quest_desc: ["&a&d极限反应堆&f&r提供可完全自定义尺寸、效率等参数的多方块反应堆.\\n\\n学习&d极限反应堆&f入门知识,请查阅该模组的任务章节!"]
+	quest.6D6E07564D8FDD8D.quest_subtitle: "可定制反应堆!"
+	quest.6D6E07564D8FDD8D.title: "&9&d极限反应堆&f:&a反应堆"
+	quest.72EA25D05C46D39A.quest_desc: ["&9&d动态联合/集成动力&f&r提供简易储能系统.&a电池&f可在合成网格中组合以提升总储量!"]
+	quest.72EA25D05C46D39A.quest_subtitle: "内置电池"
+	quest.72EA25D05C46D39A.title: "&9&d动态联合/集成动力&f:&b能量电池"
+	quest.76EA017B12E8F01B.quest_desc: ["本节展示不同储能方式!"]
+	quest.76EA017B12E8F01B.title: "&f&l能量存储"
+	quest.79AD74A863EA43CB.quest_desc: ["&d通量网络&f确实提供网络能量存储方案!\\n\\n这些设备拥有海量储能空间,还可升级扩容!"]
+	quest.79AD74A863EA43CB.quest_subtitle: "能量存储"
+	quest.79AD74A863EA43CB.title: "通量存储"
+	quest.7A979BEB20C9591E.quest_desc: ["通量粉尘可通过&6&d资源蜜蜂&f&r自动化生产!\\n\\n使用&a黑曜石蜜蜂&f可将&a红石蜜蜂刷怪蛋&f转化为通量粉尘蜜蜂&a刷怪蛋&f."]
+	quest.7A979BEB20C9591E.title: "自动化通量粉尘"
+	quest.7FE969CB4B419FC6.quest_desc: ["稍加研究&d通用机械&f,此机器可实现万物无线传输.\\n\\n可设置特定频道单独传输物品、能量甚至&d通用机械&f的气体,功能极为强大."]
+	quest.7FE969CB4B419FC6.quest_subtitle: "不仅限于能量传输"
+	quest.7FE969CB4B419FC6.title: "&9&d通用机械&f: &6&a量子传送装置&f"
+	task.098F1B932F851616.title: "管道升级"
+	task.2D0212699F99459F.title: "&a通量网络"
+	task.35C1DBD4544C9BB0.title: "感应单元"
+	task.3D721B55E8D33FE8.title: "&d通量网络&f操作界面"
+	task.44C02386C9B8E0D3.title: "感应供应器"
+	task.59DE118DD6597A4E.title: "可再生&d通用机械&f能源发生器"
+	task.6C4B8A2662030CB0.title: "通用线缆"
+	task.76378687551A79C3.title: "能量方块"
+}

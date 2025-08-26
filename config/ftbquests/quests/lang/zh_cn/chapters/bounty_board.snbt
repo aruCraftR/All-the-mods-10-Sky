@@ -1,0 +1,39 @@
+{
+	quest.08B60D8A25008CCC.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确许可,不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您看到此说明,表明您正处于编辑模式."]
+	quest.09C82CDDA800D8C9.quest_desc: ["&a凋零摄魂&f 是第二个Minecraft Boss,属于可选挑战.\\n\\n需搭建凋灵结构召唤:用4个&a灵魂沙&f摆成T形,顶部放置3个&a凋灵骷髅头颅&f即可召唤!\\n\\n它拥有300点生命值,会飞行并向玩家或生物发射&a凋灵骷髅头骨&f.\\n\\n当生命值减半时,它将获得抵御远程攻击的护盾,需用剑或斧击杀.\\n\\n击败后掉落:&a下界之星&f、概率获得&a凋灵灵魂碎片&f及大量Corail模组物品."]
+	quest.09C82CDDA800D8C9.title: "Kill &a凋零摄魂&f"
+	quest.0E20A9B79D1C6637.quest_desc: ["&a看守兽&f 是1.20版本添加的Boss.\\n\\n他通过3个自然生成的&a幽匿尖啸体&f连续触发而生成,或者在第一个看守兽生成后任何尖啸体触发时生成.\\n\\n他是Minecraft添加的最强大的生物,拥有500点生命值,攻击造成超过20点生命值的伤害.\\n\\n他的攻击包括近战攻击和对远处目标的声波冲击.\\n\\n他唯一的弱点是失明,但就像盲侠一样,这反而增强了他的其他感官!如果你靠近,他能闻到你的气味,所以要小心制造噪音!\\n\\n如果你设法杀死他,他会掉落:&a幽匿催发体&f、看守兽甲壳和深心."]
+	quest.0E20A9B79D1C6637.title: "杀死 &a看守兽&f"
+	quest.0F55D0B4D5094EDB.quest_desc: ["在为ATM7制作许多任务线时,商人村民觉得在任务屏幕上不断推搡我很有趣.\\n\\n”干掉他们.全部干掉.”\\n\\n- AlfredGG \\n\\n”我支持这个!” \\n\\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "”这是私人恩怨” - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "杀死 &a商人&f 村民和他烦人的羊驼"
+	quest.17F3AC15ADCFB175.title: "&l&9&a结束&f 悬赏:&r&e 末影人"
+	quest.1F18B64C84C8809D.title: "&l&9主世界悬赏:&r&e 蜘蛛"
+	quest.2B05A29C62676EB2.title: "&l&9主世界悬赏:&r&e 僵尸"
+	quest.2BD077EFE77B8EBB.quest_desc: ["僵尸有不同的变种,在其他生物群系中生成."]
+	quest.2BD077EFE77B8EBB.title: "僵尸变种"
+	quest.3371F9248D403664.title: "&l&c&a地狱&f 悬赏:&r&e &a凋灵骷髅&f"
+	quest.3813F5C1760C3A79.quest_desc: ["&a猪灵蛮兵&f 出现在这里可能会引起争议,但我认为他们是小Boss.\\n\\n他们在堡垒中与普通猪灵一起生成,但这些是敌对而非中立.我个人讨厌这一点,特别是因为如果你攻击他们,所有猪灵都会对你敌对.\\n\\n他们有50点生命值,并用&a金斧&f攻击你.通常&a金斧&f几乎不造成伤害,但当他们使用时,却像神一样强大!\\n\\n他们不掉落任何东西,更像是堡垒的障碍物!"]
+	quest.3813F5C1760C3A79.title: "杀死一个 &a猪灵蛮兵&f"
+	quest.41C0948CD9D50322.quest_desc: ["在这里,你会找到通过击杀敌人获得的所有奖励."]
+	quest.41C0948CD9D50322.quest_subtitle: "杀死所有 &aMojang徽标&f"
+	quest.41C0948CD9D50322.title: "&a悬赏榜&f"
+	quest.42822B1E8A53D051.title: "&l&9主世界悬赏:&r&e 骷髅"
+	quest.56DA46DC82F6665D.quest_desc: ["&a荒野奇美拉&f 是由&d新生魔艺&f添加的Boss,需要通过它来推进进度.\\n\\n他需要通过仪式召唤,然后战斗!"]
+	quest.56DA46DC82F6665D.title: "杀死 &a荒野奇美拉&f"
+	quest.5AC497F76A086A5C.title: "&l&9主世界悬赏:&r&e 女巫"
+	quest.6141DE779232C8AA.title: "&l&c&a地狱&f 悬赏:&r&e 烈焰人"
+	quest.6827836C8E675A94.quest_desc: ["骷髅有不同的变种,就像僵尸一样!"]
+	quest.6827836C8E675A94.title: "骷髅变种"
+	quest.728BE1816DA23DC0.quest_desc: ["&a末影龙&f是守卫&a结束&f的Boss.\\n\\n当你进入一个&a末地传送门&f时,你会到达&a末地&f岛屿,她就在那里生成.\\n\\n她有200颗心,可以用火球攻击或撞击你.\\n\\n你必须破坏柱子上的&a末影水晶&f,因为它们会治疗她,以便杀死她!\\n\\n一旦你杀死她,她会掉落:奥术精华、史诗着色袋、龙皮、来自两个不同模组的&a龙鳞&f,以及一堆经验!\\n\\n然后传送门会打开,这样你可以返回主世界,或者你可以找到一个&a末地折跃门&f来探索外岛.你还会在传送门上找到一个&a龙蛋&f."]
+	quest.728BE1816DA23DC0.title: "杀死&a末影龙&f"
+	quest.77FC692AC94D2EEF.title: "&l&9主世界赏金:&r&e苦力怕"
+	task.00CBF98DE4E9CC90.title: "保留所有权利"
+	task.171FD27057746E80.title: "杀死1个凋灵"
+	task.1809F1F9A3043683.title: "杀死1个&a末影龙&f"
+	task.1D136D138EF82DA9.title: "杀死2个商人羊驼"
+	task.452B65E139D9E12D.title: "Kill 1 &a荒野奇美拉&f"
+	task.596ABB45C0612AAF.title: "杀死1个流浪商人"
+	task.65E53C9C5AE98B69.title: "保留所有权利"
+	task.69678CAC075C8EA5.title: "杀死1个监守者"
+}
