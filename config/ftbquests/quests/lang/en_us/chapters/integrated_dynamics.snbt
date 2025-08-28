@@ -1,15 +1,13 @@
 {
 	quest.1568CBFA09827137.quest_desc: ["Same thing as Logic Programmer, only this one can be used anywhere."]
 	quest.1B5C86AE05678420.quest_desc: ["When you right-click on an interface, it brings up several options, here's what they all do:\\n\\n&lSet Side&r: At the top of the screen, you can set the side that the interface \"acts\" like it's on. It can be useful for machines with specific input/output sides.\\n\\n&lTicks/Operation&r: If an interface is set to 10 ticks/operation, it will import/export once every 10 ticks (0.5 seconds).\\n\\n&lPriority&r: Sends items to the inventory with the higher priority interface on it.\\n\\n&lItem/Energy Channels&r: This will split your system into multiple channels. You can push and pull from different places in your network."]
-	quest.232A06C9FF0EE7B2.quest_desc: ["Menril Seeds can be used to automate Menril Berries, Menril Logs and Menril Saplings."]
-	quest.232A06C9FF0EE7B2.quest_subtitle: "Automating Menril"
 	quest.2F37E284BB83BFF6.quest_desc: ["The Wrench is used to rotate or destroy certain blocks, shift right-click in the air to change modes."]
 	quest.33F4A7613764A016.quest_desc: ["Works like Importers do, only they export instead."]
 	quest.33F4A7613764A016.quest_subtitle: "Exporting"
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3C9539083BCC145C.quest_desc: ["Menril Bees can be used to automate Crystallized Menril Chunks."]
 	quest.3C9539083BCC145C.quest_subtitle: "Automating Menril"
-	quest.437F4945AFBE0825.quest_desc: ["When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \"+\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send &dINFINITE&r items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings."]
+	quest.437F4945AFBE0825.quest_desc: ["When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \"+\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send &dINFINITE&r items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings.\\n\\nNote: Lag may limit transfer rate."]
 	quest.44DA091B53473723.quest_desc: ["The Mechanical Squeezer uses energy to squeeze."]
 	quest.450EDE68EC992A5A.quest_desc: ["Interfaces &cread&r whatever they're looking at. You can think of this like an &bAE2&r Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?"]
 	quest.450EDE68EC992A5A.quest_subtitle: "Interfaces Have GUIs!"
