@@ -1,55 +1,55 @@
 {
-	quest.030AC1AF8F735550.quest_desc: ["向储罐输入液体需借助管道系统.\\n\\n水力泵可免费自动注入水源,但流速较缓!"]
+	quest.030AC1AF8F735550.quest_desc: ["向储罐输入液体需使用管道系统.\\n\\n水力泵可自动注入水流但速度缓慢,其优势在于无需消耗资源!"]
 	quest.030AC1AF8F735550.title: "管道"
-	quest.06B85804163DD18B.quest_desc: ["索伦箱(&dXY工艺&f作者Soaryn设计)是&dXY工艺&f专属储物箱.\\n\\n破坏方块时箱内物品不会保留!箱体表面的方格究竟有何玄机？"]
-	quest.08E484DD3E751697.quest_subtitle: "彩虹光谱中的B"
+	quest.06B85804163DD18B.quest_desc: ["Soaryn箱(Soaryn是&dXY工艺&f的作者)是该模组的专属储物箱.\\n\\n破坏方块时其中物品会掉落!箱体表面的方格图案究竟有何用途？"]
+	quest.08E484DD3E751697.quest_subtitle: "彩虹光谱中的B色系"
 	quest.08E484DD3E751697.title: "&b蓝色XY宝石"
-	quest.0D01524F249E25D7.quest_subtitle: "谁熄灭了灯光？"
-	quest.0D01524F249E25D7.title: "&8暗黑XY宝石"
-	quest.15540271BF17C2E4.quest_desc: ["&l欢迎来到&dXY工艺&f!&r\\n\\n本系列模组核心内容为&dXY工艺:世界&f与&d机械&f!\\n世界模块提供可通过筛矿获取的各类宝石."]
+	quest.0D01524F249E25D7.quest_subtitle: "谁关闭了灯光？"
+	quest.0D01524F249E25D7.title: "&8暗色XY宝石"
+	quest.15540271BF17C2E4.quest_desc: ["&l欢迎来到&dXY工艺&f!&r\\n\\n该模组系列主要包含&dXY工艺&f:世界与机械两大模块!\\n世界模块提供可通过筛矿获取的各类宝石."]
 	quest.15540271BF17C2E4.title: "&l&dXY工艺&f"
-	quest.16B4A00948D1F60D.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n因所有&6ATM&r整合包均采用&e保留所有权利&r许可协议,未经&6ATM团队&r明确授权,严禁在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务已设为隐藏状态,若你看到此提示,说明正处于编辑模式."]
-	quest.1E00DBAACDF4404F.quest_desc: ["&a收集器&f可充当廉价的&a漏斗&f装置.\\n\\n它能吸附三格半径内的所有物品,并将其输送至下方容器或自身存储空间.支持红石信号控制开关!"]
-	quest.2278A98DCDF713D7.quest_desc: ["现在是制作储罐的时候了!首先你需要建筑方块和至少1个阀门.玻璃和物品输入输出口是可选的.\\n\\n&a储罐&f必须由建筑方块的框架构成.建筑方块是指任何不透明、不受重力影响、或不是自然泥土或草皮的方块.\\n\\n像石头、木头或金属这样的物品必须构成框架和边缘.玻璃、阀门和物品输入输出口必须放置在墙壁上,内部必须是空心的.\\n\\n它的大小只能是13x13x13.一旦你完成所有这些,&a右击&f阀门,它会显示'已形成'或告诉你问题所在."]
+	quest.16B4A00948D1F60D.quest_desc: ["本任务由&6ATM官方团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e保留所有权利&r许可,未经明确授权不得在任何非官方发布的公开整合包中使用本任务.\\n\\n此任务为隐藏内容,若您能看到此文本,说明正处于编辑模式."]
+	quest.1E00DBAACDF4404F.quest_desc: ["&a收集器&f可作为经济型&a物品吸收漏斗&f使用.\\n\\n它能收集三格范围内的所有物品并输送至下方容器或自身存储空间,支持红石信号控制开关!"]
+	quest.2278A98DCDF713D7.quest_desc: ["现在开始制作储罐!首先你需要建筑方块和至少1个阀门.玻璃和物品输入输出口是可选项.\\n\\n&a储罐&f必须由建筑方块构成框架.建筑方块指所有非透明、不受重力影响且非自然泥土或草地的方块.\\n\\n必须使用石头、木材或金属等材料构建框架与边缘.玻璃、阀门和物品输入输出口必须安装在墙体内,且内部必须保持中空.\\n\\n最大尺寸为13x13x13.完成所有步骤后,&a右键点击&f阀门,系统会提示”已形成”或指出问题所在."]
 	quest.2278A98DCDF713D7.title: "&l&a储罐&f"
-	quest.2AC7BC448C007BDB.quest_desc: ["用铝加固Kivi,你会得到&a机器框架&f,这些是制作机器所需的."]
-	quest.2B5E14A47062F83C.quest_subtitle: "Roy G. Biv中的R"
-	quest.2B5E14A47062F83C.title: "&c红色Xychorium宝石"
-	quest.2C4ECA4F5B1639F4.quest_desc: ["&a光明&f场不会显示太多光,但它确实像一个&a巨型火把&f一样工作.\\n\\n怪物不会在它周围的设定区域内生成.那个区域大约是32个方块的半径."]
-	quest.2C4ECA4F5B1639F4.title: "&f光明场"
-	quest.2C7D62231AD6406A.quest_desc: ["&dXY工艺&f有一个很棒的&a流体储罐&f多方块结构!"]
+	quest.2AC7BC448C007BDB.quest_desc: ["用铝加固基维石可获得&a机器框架&f,这是制作机器必备的材料."]
+	quest.2B5E14A47062F83C.quest_subtitle: "罗伊·G·比夫中的R"
+	quest.2B5E14A47062F83C.title: "&c红色希克洛宝石"
+	quest.2C4ECA4F5B1639F4.quest_desc: ["&a光明&f领域虽不显眼,但功能类似&a巨型火把&f.\\n\\n能阻止周围约32格半径范围内生成怪物."]
+	quest.2C4ECA4F5B1639F4.title: "&f光明领域"
+	quest.2C7D62231AD6406A.quest_desc: ["&dXY工艺&f拥有强大的&a流体储罐&f多方块结构!"]
 	quest.2C7D62231AD6406A.title: "&b流体存储与操控"
-	quest.355244420EA47546.quest_desc: ["制造机是自动合成器.它会从下方的物品栏中取出物品并制作设定的配方.\\n\\n你可以用CTRL点击锁定配方.不过,它需要将制作好的物品通过管道输出."]
+	quest.355244420EA47546.quest_desc: ["制造机是自动合成装置,会从下方库存取物并按设定配方制作.\\n\\n按住CTRL点击可锁定配方,但需通过管道输出成品."]
 	quest.355244420EA47546.quest_subtitle: "自动合成器"
-	quest.39E4FC9BA89E44BC.quest_desc: ["&a气球&f棒是创造飞行的早期且有限制的来源.\\n\\n放置棒子,你会被绑在一个气球上!双击空格开始飞行,但不要飞太远.飞太远你会脱离并坠落."]
-	quest.39E4FC9BA89E44BC.quest_subtitle: "向上!"
-	quest.3E970E76372AB094.quest_desc: ["&2加速种植器&r工作方式类似于普通耕地,但有一些变化.\\n\\n它是自动浇水的,并且比普通耕地更快."]
+	quest.39E4FC9BA89E44BC.quest_desc: ["&a拴绳气球&f是早期受限的创造模式飞行源.\\n\\n放置木棍即可连接气球!双击空格开始飞行(注意距离限制).超出范围会使连接断开导致坠落."]
+	quest.39E4FC9BA89E44BC.quest_subtitle: "上升!"
+	quest.3E970E76372AB094.quest_desc: ["&2加速种植器&r功能类似普通耕地但有所升级.\\n\\n具备自动灌溉功能且生长速度优于普通耕地."]
 	quest.3E970E76372AB094.title: "&2加速种植器"
-	quest.3F68BA498E877C8C.quest_subtitle: "Roy Biv的中间名"
-	quest.3F68BA498E877C8C.title: "&a绿色Xychorium宝石"
-	quest.43F08B510FC1C06F.quest_desc: ["物品输入输出口使我们能够将物品运输进出储罐.它们可以切换为输出和输入."]
-	quest.43F08B510FC1C06F.quest_subtitle: "物品进出的地方"
+	quest.3F68BA498E877C8C.quest_subtitle: "罗伊·比夫的中间名"
+	quest.3F68BA498E877C8C.title: "&a绿色希克洛宝石"
+	quest.43F08B510FC1C06F.quest_desc: ["物品输入输出口实现物品在储罐内外的传输,可切换输出/输入模式."]
+	quest.43F08B510FC1C06F.quest_subtitle: "物品进出口"
 	quest.43F08B510FC1C06F.title: "物品输入输出口"
-	quest.4A92237E17ED5F1C.quest_desc: ["虚空容器使任何物品栏成为&a垃圾桶&f.将它放在物品栏顶部,物品就没了!"]
-	quest.5E1D4169C083ACEF.quest_desc: ["&c点火板&r在给予&a红石信号&f时,会在它前面生成火.\\n\\n当信号停止时,它会熄灭火焰."]
+	quest.4A92237E17ED5F1C.quest_desc: ["虚空容器能将任何容器变为&a垃圾桶&f.置于容器上方即可消除物品!"]
+	quest.5E1D4169C083ACEF.quest_desc: ["&c点火板&r在接收&a红石信号&f时会在前方生成火焰.\\n\\n信号停止时火焰自动熄灭."]
 	quest.5E1D4169C083ACEF.title: "&c点火板"
-	quest.623E6A855B363C8D.quest_desc: ["&9水方块&r像水一样工作,但没有流动部分.\\n\\n&a造石机&f可以用它们制作,耕地可以用它浇水,只是你不能用它进行高空落水救急.(鱼也会试图进入其中,但仍然会死)."]
-	quest.623E6A855B363C8D.quest_subtitle: "水但固体,冰？"
+	quest.623E6A855B363C8D.quest_desc: ["&9水方块&r具有水的特性但无流动效果.\\n\\n可用于制作&a造石机&f、灌溉耕地(但不能用于落地水缓冲——鱼会试图进入但仍会死亡)."]
+	quest.623E6A855B363C8D.quest_subtitle: "固态水？冰？"
 	quest.623E6A855B363C8D.title: "&9水方块"
-	quest.643FB1A3ED0EA9EC.quest_desc: ["&a阀门&f 是你储罐的核心.在这里,你将泵入或通过管道输送流体."]
-	quest.643FB1A3ED0EA9EC.quest_subtitle: "流体进出之处"
-	quest.643FB1A3ED0EA9EC.title: "阀门"
-	quest.64D0D69ADB8820DA.quest_desc: ["&8&a流体虚空&f&r 是一个方块,它会阻止所有连接到它的水.\\n\\n源方块或流动水,任何在1方块半径内的东西都会消失."]
+	quest.643FB1A3ED0EA9EC.quest_desc: ["&a阀门&f是储罐的核心部件,用于泵入或通过管道输入流体."]
+	quest.643FB1A3ED0EA9EC.quest_subtitle: "流体进出口"
+	quest.643FB1A3ED0EA9EC.title: "阀门组"
+	quest.64D0D69ADB8820DA.quest_desc: ["&8&a流体虚空&f&r方块会消除所有与之连接的水源.\\n\\n在以它为中心1格范围内的水源方块或流动水都将被清除."]
 	quest.64D0D69ADB8820DA.title: "&8&a流体虚空&f"
-	quest.69F11A94D44AB5CF.quest_subtitle: "&a非常多&f 的光!"
-	quest.69F11A94D44AB5CF.title: "&f光之Xychorium宝石"
-	quest.6D0876A402C22067.quest_desc: ["&dXY工艺&f 有一些物品存储和操作功能.不过,不如流体存储和操作那么多!"]
-	quest.6D0876A402C22067.title: "&6物品存储与操作"
-	quest.71D133BA3EC6F4FD.quest_desc: ["&a额外属性&ftor 会”生长”其下方的方块或物品,并将其移动到上方的库存中.\\n\\n这可以用于一个圆石生成器,适用于多种石头类型,一个紫水晶生成器,甚至一个 &a龙蛋&f 生成器,以及其他!"]
-	quest.71D133BA3EC6F4FD.quest_subtitle: "岩石种植!(还有更多)"
-	quest.7574A782DCFB87CE.quest_desc: ["Kivi 可以用于几件事,主要用于装饰和机器.\\n\\n你需要 Kivi 来制作 &a机器框架&f 和 &dXY工艺&f 中的其他机器.它可以与 Xychorium宝石 在切石机中用于制作装饰方块."]
-	quest.7574A782DCFB87CE.title: "&l&7基维石"
-	task.4EEF358CAC170CC4.title: "Xychorium宝石"
+	quest.69F11A94D44AB5CF.quest_subtitle: "&a超强&f光照!"
+	quest.69F11A94D44AB5CF.title: "&f荧光希克洛宝石"
+	quest.6D0876A402C22067.quest_desc: ["&dXY工艺&f包含物品存储与处理功能,但其流体存储处理系统更为突出!"]
+	quest.6D0876A402C22067.title: "&6物品存储与处理"
+	quest.71D133BA3EC6F4FD.quest_desc: ["&a额外属性&f增幅器会催生其下方的方块或物品生长,并将其移送至上方的收纳容器.\\n\\n此装置适用于多种岩石类型的圆石生成器、紫水晶生成器,甚至&a龙蛋&f生成器等多样化应用!"]
+	quest.71D133BA3EC6F4FD.quest_subtitle: "岩石耕种(及更多)!"
+	quest.7574A782DCFB87CE.quest_desc: ["基岩有多种用途,主要用于装饰和机械制造.\\n\\n制作&dXY工艺&f中的&a机器框架&f及其他机械需要基岩.它可与希克洛宝石在切石机中合成装饰性方块."]
+	quest.7574A782DCFB87CE.title: "&l&7基岩"
+	task.4EEF358CAC170CC4.title: "希克洛宝石"
 	task.55DD09212E3DB168.title: "&a流体传输管道&f"
 	task.706FA543A6C675D3.title: "版权所有"
 }

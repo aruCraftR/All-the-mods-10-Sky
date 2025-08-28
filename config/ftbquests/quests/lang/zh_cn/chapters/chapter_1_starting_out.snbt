@@ -1,163 +1,133 @@
 {
-	quest.04ACC7E762537FB4.quest_desc: [
-		"将矿石放入此装置并跳上去挤压,有时可获得2个粗矿.给予红石信号可&a重置设置&f."
-		""
-		"提示:在顶部放置&a衣架&f:)"
+	quest.01B5005BF9056A2E.quest_subtitle: "沙锤"
+	quest.040C336C718DCC7D.quest_desc: ["这是&6&lATM整合包&r,你需要&l大量&r材料.\\n\\n那么如何处理成吨的&7沙砾&r？用无数箱子装？\\n\\n不,我们可以将9个方块合成1个压缩方块.\\n\\n适用于多种方块,且均可进一步压缩!"]
+	quest.040C336C718DCC7D.title: "压缩方块"
+	quest.043AB8772206FF71.quest_desc: ["&0燧石&r可通过挖掘&7沙砾&r概率获取,或通过&b筛分&r方块获得!\\n\\n通常在&2&l我的世界&r中&0燧石&r用途有限,仅制作&a打火石&f.\\n\\n但&b&l空岛生存&r截然不同!前期务必收集保存."]
+	quest.043AB8772206FF71.title: "&8燧石"
+	quest.04ACC7E762537FB4.quest_desc: ["这里不需要复杂机器复制矿石...只需简单设备!\\n\\n&3&l挤压机&r可将&7原矿块&r转化为&7原矿&r.\\n\\n使用时放入&7原矿块&r,跳压设备即可破碎产出&7原矿&r,小概率获得额外产量!\\n\\n不仅如此!\\n\\n矿石锤能粉碎&7&a粗矿&f&r为2份&7矿粉&r,&a可熔炼&f成&7锭&r."]
+	quest.04ACC7E762537FB4.title: "简易矿石复制"
+	quest.091F1D752FA3BAAC.quest_desc: ["仅需2个&0燧石&r即可制作&0燧石剪刀&r,功能与剪刀相同但成本更低.\\n\\n用于获取&2树叶&r!\\n\\n如需羊毛也可剪取..."]
+	quest.091F1D752FA3BAAC.title: "收集&2树叶"
+	quest.0BD70DFE33D84323.quest_desc: [
+		"&b&l筛子&r是我们获取大部分资源的方式.\\n\\n放置它们后,它们不会立即起作用.我们需要给它们安装筛网才能使用.&a线筛&f是最初级的筛网,但可以升级.\\n\\n只需用筛网&a右击&f&b&l筛子&r即可安装,按住Shift&a右击&f则可取出.\\n\\n安装筛网后,可以&a右击&f将特定方块放入&b&l筛子&r进行筛选.持续&a右击&f或&a等待片刻&f,当筛选完成时会掉落物品.\\n\\n专业提示:相邻的&b&l筛子&r会同时工作!最多支持5x5区域!"
+		"{image:atm:textures/questpics/chap1/chap1_sieve.png width:100 height:100 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_sieves.png width:100 height:100 align:center}"
 	]
-	quest.0C9B97D2048A1073.quest_desc: [
-		"在空岛生存中,你会获得大量基础加工材料,如圆石、沙子和粉尘."
-		""
-		"为节省空间,可在工作台中用九个合成进行压缩."
-		""
-		"若需批量锤击,你将需要..."
-	]
-	quest.0C9B97D2048A1073.quest_subtitle: "这能节省空间与时间!"
-	quest.0C9B97D2048A1073.title: "压缩物品"
-	quest.0DE706CEFF3D04DC.quest_desc: ["&a石质桶&f可容纳熔岩(木质桶则不能).借此可制造黑石等材料."]
-	quest.0F9EE68E5D61DC91.title: "&a黄金石&f生成器"
-	quest.0FD620A455281A6D.title: "其余三种"
-	quest.10B71AD29063471F.title: "铁石生成器"
-	quest.11097D91EBF2490D.title: "&a铁网&f"
-	quest.11CE392E7A41785F.quest_desc: [
-		"初始阶段主要通过筛矿获取材料.下个任务将详解此机制."
-		""
-		"尽管大量制造砂砾!筛砂砾是推进进程的关键!"
-	]
-	quest.11CE392E7A41785F.title: "砂砾"
+	quest.0BD70DFE33D84323.title: "&b&l筛子&r与筛网"
+	quest.0D794D25F04E04A7.quest_desc: ["在&c&l&a下界&f&r无法获取&4地狱岩&r.那里相当空旷.我们需要自行制作!\\n\\n在&6&l桶&f&r中将&5&a巫水&f&r与&c岩浆&r混合即可制成&4地狱岩&r.\\n\\n也可用&8锤子&f&r粉碎后放入&b筛子&r获取更多物品!"]
+	quest.0D794D25F04E04A7.title: "&4地狱岩"
+	quest.0E7F7CF44A982EA3.quest_desc: ["&7粘土球&r与骨粉可合成&3&a瓷土&f&r.\\n\\n用于制作&3桶&f&r或大型容器&c&l熔炉&f&r!"]
+	quest.0E7F7CF44A982EA3.title: "&3&a瓷土&f"
+	quest.0FEFD055B435B17F.quest_desc: ["现在终于可以获取&c岩浆&r了.不必再担心搞砸&7&a圆石生成器&f&r!\\n\\n虽然无法制造无限&c岩浆源&f&r,但可以持续生产.\\n\\n这对&a流体混合&f及其他配方至关重要,可能需要大量储备!"]
+	quest.0FEFD055B435B17F.title: "&c岩浆"
+	quest.11032183CCCA206D.quest_desc: ["&a&a被动生物&f&r生成需要两个条件:\\n\\n1. &2草方块&r(已具备)\\n\\n2. 光照(待满足)\\n\\n在足够光照的&2草方块&r上会随机生成.\\n\\n有时需要等待较长时间."]
+	quest.11032183CCCA206D.title: "&a&a被动型生物&f"
+	quest.128A1EEAF8F45042.quest_desc: ["&5&a菌丝孢子&f&r罕见于&b筛选&f泥土时.\\n\\n作用类似&2&a草籽&f&r,放置在泥土或&2草方块&r上可获得&5菌丝&f&r!"]
+	quest.128A1EEAF8F45042.title: "霉菌来袭!"
+	quest.145917B219D0D28D.quest_desc: ["所有&b空岛&f世界都自带必需品:&2草方块&f和&2树木&f.\\n\\n需要&2树木&f获取&6木材&f及木制品.&2草方块&f有什么用？\\n\\n1. &a&a被动生物&f&r需在其上生成 2. 会向泥土蔓延 3. 按住Shift&a右击&f可获&7鹅卵石&f&r!"]
+	quest.145917B219D0D28D.title: "&2草方块"
 	quest.162AB6F9257EB71E.quest_desc: [
-		"若要在ATM10:TTS中开启自动化,需深入探索能源系统与新模组!"
+		"有多种方式可产生初始能源."
 		""
-		"第二章虽未发布,但可提前体验其包含的模组!"
+		"本整合包对「多元发电机」进行了全面升级!支持廉价升级至8倍/64倍产能,全面提升发电效率.准备大型岩浆发电机即可启动!若要在ATM10:TTS实现自动化,需深入探索能源系统与新模组!"
 		""
-		"&b发电机大全&r(层级与变更)"
+		"第二章虽未发布,可提前体验即将包含的模组!"
 		""
-		"&b&a生长加速器&f层级&r(推荐定向型,效率极佳!)"
+		"&b多元发电机&r(层级与改动)"
 		""
-		"&b地质生成&r(培育稀缺材料!)&r"
+		"&b&a生长加速器&f层级&r(推荐定向加速器,效率超群!)"
+		""
+		"&b地质生成&r(培育你缺少的材料!)&r"
 	]
 	quest.162AB6F9257EB71E.title: "&a下一页&f 章节"
-	quest.1658780534451E39.quest_desc: ["在筛网使用泥土获取种子,反复潜行可加速作物生长!"]
-	quest.1658780534451E39.title: "创建农场"
-	quest.1EFE097BA29A5C0D.quest_desc: ["准备用这些制造免费水源!"]
-	quest.1EFE097BA29A5C0D.title: "叶片处理"
-	quest.22C568A17B5D1B46.quest_desc: [
-		"若玩过原版(或任何空岛玩法),在接触ATM金属前的流程应能无师自通."
-		""
-		"若非如此,别担心!这些任务将引导你度过初期."
+	quest.1B186F14606C07D7.quest_desc: ["在&6&l木桶&r(建议使用&7&l石质&r木桶)中将&e荧石&r与&c熔岩&r结合可制成&e末地石&r.\\n\\n如同处理&4下界岩&r,我们可以用&8锤子&r将其粉碎,然后通过&b筛子&r过滤碎片!\\n\\n这将获得&3&a末影珍珠&f&r、&a末影之眼&r等物品..."]
+	quest.1B186F14606C07D7.title: "&e末地石"
+	quest.1E9F1FBAA6AAA43B.quest_desc: ["&c&a敌对生物&f&r比&a被动生物&r更易生成.\\n\\n只要环境足够黑暗,且它们距离你至少24格远,就会生成.\\n\\n若你的空岛不断扩大,记得用光照亮它!"]
+	quest.1E9F1FBAA6AAA43B.title: "&c&a敌对性生物&f"
+	quest.1FA3ACD9B8CD02FE.quest_desc: ["什么&9水&r？是&5&a巫水&f&r!\\n\\n在&5&a菌丝体块&f&r上方放置&6&l木桶&r并注入&9水&r即可获得&5&a巫水&f&r.\\n需要等待片刻,但没关系,我们有耐心!\\n\\n(注:任何靠近&5&a巫水&f&r的&5&a菌丝体块&f&r都会开始生长&c蘑菇&r!)"]
+	quest.1FA3ACD9B8CD02FE.title: "&5&a巫水&f"
+	quest.23E71537225B8392.quest_desc: [
+		"用新获得的木材制作木棍,再用木棍制成&6钩杖&r!\\n\\n可用于破坏&2树叶&r,破坏时会掉落更多&2树苗&r及新物品&e蚕&r.\\n\\n将&e蚕&r投掷到&2树叶&r上会使其感染,感染将逐渐蔓延至其他树叶.\\n\\n为何需要&e蚕&r感染？\\n\\n当然是为了获取线!直接破坏白色树叶即可获得."
+		"{image:atm:textures/questpics/chap1/chap1_tree.png width:100 height:100 align:center}"
 	]
-	quest.22C568A17B5D1B46.quest_subtitle: "欢迎来到ATM10:&a向天空进发&f!现已迈入双位数纪元."
-	quest.22C568A17B5D1B46.title: "入门指南"
-	quest.231765C07B4A12B7.quest_desc: [
-		"获得&a燧石筛网&f后,可通过筛矿获取铁等基础材料!"
-		""
-		"将矿石碎片合成完整矿石,投入熔炉熔炼!"
+	quest.23E71537225B8392.title: "感染我们的&2树"
+	quest.25B49E9D15BAEF3E.quest_desc: ["获取&9水&r有多种方式:\\n\\n&9降雨&r、&6&l木桶&r堆肥、融化&b冰&r!\\n\\n最快的方法是制造&9无限水源&r——在2x2区域中对角放置两个&9水源&r.\\n\\n从此不再为&9水&r发愁!"]
+	quest.25B49E9D15BAEF3E.title: "&9水"
+	quest.29F82373417B2006.quest_desc: ["树苗用完了？可在任务菜单右上角获取紧急树苗!该任务可重复完成:即使发生意外也无需重启世界!"]
+	quest.29F82373417B2006.title: "紧急树苗"
+	quest.2A3BF8D20EEED292.quest_desc: [
+		"&6&l(橡木)桶&r与&2&l我的世界&r原版桶截然不同.\\n\\n事实上我们需要用它处理多种物品和方块!\\n\\n可通过注入液体后投入物品来实现混合,\\n\\n甚至能混合两种液体.\\n\\n注意:与&c熔岩&r混合时请使用&7&l&a石质桶&f&r,&6木质&r桶会燃烧!\\n\\n遇到&9降雨&r时,桶内会积累&9水&r."
+		"{image:atm:textures/questpics/chap1/chap1_barrel.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_leaves.png width:100 height:110 align:center}"
 	]
-	quest.231765C07B4A12B7.title: "古董空气炸锅"
-	quest.25D1363D8890E7C3.quest_desc: [
-		"获取初始能源的方式多种多样."
-		""
-		"本整合包对「多元发电机」进行了全面升级!现以更低成本实现8倍与64倍升级,且全系列产能提升.快给自己造几台强力岩浆发电机,开始冒险吧!"
-	]
-	quest.25D1363D8890E7C3.quest_subtitle: "你的首台发电机"
-	quest.25D1363D8890E7C3.title: "初始能源"
-	quest.25E267AAAD4B992B.quest_desc: ["将沙砾放入筛网可得骨粉."]
-	quest.25E267AAAD4B992B.title: "&a骨粉&f"
-	quest.27187D13B58AC79C.title: "铜石发电机"
-	quest.29F82373417B2006.quest_desc: ["树苗用完了？可在任务菜单右上角获取应急树苗!此任务可重复完成:即使遭遇意外也无需重启世界!"]
-	quest.29F82373417B2006.title: "应急树苗"
-	quest.2C134DDBF9283407.quest_desc: ["本任务为想要快速开局的玩家提供「简单模式」起点.你可跳过此任务,不影响主线进程."]
-	quest.2C134DDBF9283407.quest_subtitle: "致想要跳过前期的玩家"
-	quest.2C134DDBF9283407.title: "先人一步"
-	quest.2CF0EE5C0651F531.quest_desc: [
-		"使用&a燧石筛网&f,你将开始获取实用资源."
-		""
-		"若想了解各类筛网的掉落物,可在JEI界面按U键查看筛网对应的产出列表."
-	]
-	quest.2CF0EE5C0651F531.quest_subtitle: "首次升级"
-	quest.2CF0EE5C0651F531.title: "&a燧石筛网&f"
-	quest.3001B2EEE5C6C9AB.quest_desc: [
-		"砍倒树木."
-		""
-		"&l重要提示:&r作为魔改空岛整合包,反复蹲起可加速任何生长(包括树木与作物)."
-	]
-	quest.3001B2EEE5C6C9AB.quest_subtitle: "万众旅程的起点"
-	quest.3001B2EEE5C6C9AB.title: "趁热砍伐"
-	quest.30A5C7F6D624883F.quest_desc: ["&a右击&f泥土播种可使土地转化为草方块/菌丝体,且会向周边泥土蔓延!"]
-	quest.35EF391AB5344094.quest_desc: ["获取资源需将圆石分解为可筛物品.\\n\\n此时锤子便派上用场.放置待处理方块后...直接敲打即可."]
-	quest.35EF391AB5344094.quest_subtitle: "老掉牙的梗"
-	quest.35EF391AB5344094.title: "锤子时间!"
-	quest.36D0417745C747B1.quest_subtitle: "双重敲击"
-	quest.36D0417745C747B1.title: "沙砾"
-	quest.3755C36AE60FF795.quest_subtitle: "只需添加树叶..."
-	quest.3755C36AE60FF795.title: "&a橡木坩埚&f"
+	quest.2A3BF8D20EEED292.title: "&6&l(橡木)桶"
+	quest.2C134DDBF9283407.quest_desc: ["为想要快速开局的玩家提供「简单模式」起始选项.此任务非必做,不影响主线进程."]
+	quest.2C134DDBF9283407.quest_subtitle: "提供给想要跳关的玩家"
+	quest.2C134DDBF9283407.title: "抢先体验"
+	quest.322F7A333B35F7FD.quest_desc: ["获取材料需要通过&b&l筛矿装置&r处理方块...但这些&7岩石&r太硬无法通过&b&l筛网&r.\\n\\n试试用&8锤子&r砸碎它们!\\n\\n以为我在开玩笑吗？用&8锤子&r破坏方块可获得粉碎后的版本!"]
+	quest.322F7A333B35F7FD.title: "&8锤具"
 	quest.376BAC497511F067.quest_desc: [
-		"在工作台中用铁锭环绕熔炉,可升级为&a铁质熔炉&f."
+		"在工作台用铁锭环绕熔炉,可升级为&a铁质熔炉&f."
 		""
-		"此类熔炉效率更高,且可通过界面左上角齿轮按钮配置自动化功能."
+		"这些熔炉熔炼更快,还可通过界面左上角的齿轮配置自动化功能."
 	]
-	quest.376BAC497511F067.quest_subtitle: "这整合包万物皆可升级？"
+	quest.376BAC497511F067.quest_subtitle: "这个整合包里所有东西都能升级吗？"
 	quest.376BAC497511F067.title: "以铁炼铁"
-	quest.38852A6C2A1F8363.quest_desc: ["低阶筛网特定物品掉落率可能高于高阶筛网!务必在JEI中查看掉落概率."]
-	quest.38852A6C2A1F8363.title: "&a钻石筛网&f"
-	quest.3A478C8399A155DB.quest_desc: ["将此装置置于&a造石机&f顶部,可自动压缩接收物,左键取出!\\n\\n&l&a右击&f设置接收物品后方可接入管道!"]
-	quest.3A478C8399A155DB.quest_subtitle: "你需要这个"
-	quest.3B2C5513A8781DD3.quest_desc: [
-		"将木桶置于菌丝上并注满水后,会产出女巫水.此液体可用于制造灵魂沙、地狱岩与黑石."
-		""
-		"&l查看JEI中此桶的用法&r"
+	quest.3948A052907BEC04.quest_subtitle: "锤击黑石"
+	quest.3C5AAFC9672F2CF7.quest_desc: ["我们还能将泥土投入&b&l筛矿装置&r获取物品!\\n\\n泥土非常稀有且必需,请确保有足够量进行&b筛取&r.\\n\\n泥土会产出&2作物&r和&2&a草籽&f&r!&2&a草籽&f&r可用于泥土生成&2草方块&r.\\n\\n任何泥土,随处可用!"]
+	quest.3C5AAFC9672F2CF7.title: "&2&a草籽&f"
+	quest.441200BE0C75C2AD.quest_desc: ["筛网可升级!需升级才能获得新物品!\\n\\n可查看JEI了解所有物品,但基本上筛网品质越高,掉落物越好.\\n\\n物品掉落类型与概率均随筛网品质变化."]
+	quest.441200BE0C75C2AD.title: "&a强化&f筛网"
+	quest.469E414BC7F0C238.quest_desc: ["&3瓷桶&r功能类似&7&a铁桶&f&r.\\n\\n更便宜、前期更易获取,但放置&c熔岩&r后会损坏!\\n\\n没听错吧？\\n\\n是的,它们不耐高温,放置&c熔岩&r后&3桶&r会破裂.\\n\\n但盛装&9水&r没问题!"]
+	quest.469E414BC7F0C238.title: "&3瓷制桶"
+	quest.488C8BDF45B9CA0F.quest_desc: [
+		"&a传送门&r是获取&a&a被动生物&f&r和&a战利品奖励&f的便捷途径!\\n\\n好吧,或许不简单.需要击退&c怪物&r波次进攻,还需&a&a末影之眼&f&r制作.\\n\\n但绝对值得!\\n\\n不同&a传送门&r提供不同奖励和&c怪物&r.此门会产出6只各类农场动物."
+		"{image:atm:textures/questpics/chap1/chap1_gateway.png width:100 height:100 align:center}"
 	]
-	quest.3F755A55B2043E5B.quest_desc: [
-		"与其他空岛模组类似,通过潜行右键草方块可获得鹅卵石,但本模组的机制略有不同."
-		""
-		"50%%概率获得普通鹅卵石,50%%概率获得其他变种鹅卵石."
+	quest.488C8BDF45B9CA0F.title: "免费生物!!!"
+	quest.4C502B5A1C1A0C58.quest_desc: ["用&5&a巫水&f&r投入&e沙子&r,就像从&9水&r中获取&7粘土&r,现在我们将得到&8&a灵魂沙&f&r.\\n\\n可&b筛取&8&a灵魂沙&f&r获得更多&c&l下界&r物品!\\n\\n对了,你可能会对&c&l下界&r感到失望..."]
+	quest.4C502B5A1C1A0C58.title: "&8&a灵魂沙&f"
+	quest.4CCA1C828677D518.quest_desc: ["按住Shift键&a右键点击&f&2草方块&r顶部可获得&7鹅卵石&r!\\n\\n适用于&7石头&f、&8深板岩&f、&7安山岩&f、&d花岗岩&f、闪长岩、&0黑石&r和&8玄武岩&r.\\n\\n可用4个&7鹅卵石&r合成对应类型的&7石头&r,或在背包中悬停时按K键批量合成!\\n\\n此方法适用于多种相似合成配方的物品,试试看!"]
+	quest.4CCA1C828677D518.title: "挖掘&2草方块"
+	quest.522B2CE771DDBA0F.quest_desc: ["我撒谎了,&6&l木桶&r不仅能混合液体与流体,还能堆肥!\\n\\n将&2作物&f、&2苔藓&f或&2树叶&r扔进&6&l(橡木)桶&r里,它们会变成泥土.\\n\\n这是前期获取更多泥土的唯一方式!"]
+	quest.522B2CE771DDBA0F.title: "制造泥土？"
+	quest.52DD11BC71F45E32.quest_desc: [
+		"&9&l熔炼盆&r只有一个存在意义:获取非免费的&9水&r!\\n\\n你可以等待&9雨水&r免费填满&6木桶&r,或者直接把&2树叶&r扔进&9&l熔炼盆&r里等待.\\n\\n相信我,&9&l熔炼盆&r的速度快得多!"
+		"{image:atm:textures/questpics/chap1/chap1_crucible.png width:100 height:100 align:center}"
 	]
-	quest.3F755A55B2043E5B.title: "全是石头,没有滚动"
-	quest.40A3726417C13F83.quest_desc: ["配方已调整:现需在注水木桶中添加牛奶."]
-	quest.40A3726417C13F83.title: "粘糊糊"
-	quest.40A495FCD317A38D.quest_desc: ["毕竟这是空岛生存.无论任务展示多少种能源方案,最终你基地里都会摆满20台这玩意儿...\\n\\n在下方放置热源时,可将鹅卵石及其他石材转化为岩浆.初始可用火把作热源,虽效率较低."]
-	quest.40A495FCD317A38D.title: "火力全开"
-	quest.42240BED17BA0948.quest_desc: [
-		"木桶是本整合包仅次于筛子的核心材料获取方式."
-		""
-		"用水可合成粘土,女巫水制灵魂沙,甚至能用树苗树叶生成泥土."
-		""
-		"注意:雨天会自动蓄水."
+	quest.52DD11BC71F45E32.title: "从&2树叶&f中获取&9水&r"
+	quest.60D53C6A50F9245B.quest_subtitle: "锤击沙砾"
+	quest.6113DCE514DBB5D4.quest_subtitle: "锤击圆石"
+	quest.62AF24DD96B7B4AD.quest_desc: ["当我们用&b&l筛子&r筛选&7矿石&r时,不会直接获得完整的&7原矿&r——那样太简单了!我们会得到&7矿碎&r!\\n\\n4个&7矿碎&r可以合成1个&7原矿块&r.\\n\\n将鼠标悬停在背包中的&7矿碎&r上按K键即可快速合成!"]
+	quest.62AF24DD96B7B4AD.title: "&7&a矿石碎块&f"
+	quest.62C9E87ECD00CA84.quest_desc: ["&b&l空岛生存&r开局和普通&2&l我的世界&r一样!砍倒那棵&2树&r!\\n\\n只是……千万别往下看.\\n\\n注意别弄丢&2树苗&r!"]
+	quest.62C9E87ECD00CA84.title: "徒手伐木"
+	quest.62FCB337688ACDBC.quest_desc: ["根本不用做&6木制工具&r,直接升级到&7石器&r阶段.\\n\\n没错,你仍然可以用&9水&f和&c岩浆&r制作&7&l&a石制发电机&f&r!\\n\\n如果选择困难模式路线,暂时无法使用这些.你需要跟随任务线逐步解锁."]
+	quest.62FCB337688ACDBC.title: "&7圆石"
+	quest.647E94E2156CB596.quest_desc: [
+		"如果你玩过&b&lATM9TTS&r,可能记得&7石头&a发电机模块&f&r会在其上方的容器中自动生成&7圆石&r.\\n\\n这些发电机的工作方式有所不同——虽然仍需在&7&l发电机&r上方放置容器收集方块,但运作机制完全不同.\\n\\n需要将&c岩浆源&r和&9水源&r分别放置在&7&l发电机&r的两个相邻面上才能开始生成&7圆石&r.\\n\\n若要生成其他方块(如&7安山岩&r或&5黑曜石&r),需将对应方块放置在&7&l发电机&r下方.查看JEI了解更多配方!\\n\\n可以升级&l&7发电机&r,这些升级会直接提高工作效率!"
+		"{image:atm:textures/questpics/chap1/chap1_stone.png width:150 height:100 align:center}"
 	]
-	quest.42240BED17BA0948.title: "欢乐木桶"
-	quest.4A536710A11856F2.quest_desc: ["空岛获取线材的方式比旧版更简单...先培育树木,将蚕放入树叶,观察虫害蔓延至整棵树!完成后用捕网采收即可!"]
-	quest.4A536710A11856F2.title: "丝丝入扣"
-	quest.53F7B1EE005A696C.quest_desc: ["向注水木桶右键撒入尘土可获得粘土."]
-	quest.53F7B1EE005A696C.title: "粘土制造术"
-	quest.54992605CC8D3CA9.quest_desc: ["无需铁锭的剪刀,用于采集树叶."]
-	quest.54992605CC8D3CA9.title: "抖音商城热卖剪刀!"
-	quest.55A7099B9A9E59EA.quest_subtitle: "保持体力至关重要"
-	quest.55A7099B9A9E59EA.title: "面包哪面抹黄油"
-	quest.592D954F384D4EA7.quest_desc: ["此锤可将矿石粉碎为矿粉,转化率1:2!实现矿石翻倍,甚至能制作钢粉."]
-	quest.5FF2B8BCB3CE6AB0.quest_desc: [
-		"即将开启大量筛矿作业.使用连锁采集配合锤子高效挖掘,建议准备自动点击器!"
-		""
-		"可搭建多重筛矿系统,单次最多处理25方块."
+	quest.647E94E2156CB596.title: "&7&l&a石制发电机&f"
+	quest.658751C690E2B520.quest_subtitle: "锤击深板岩"
+	quest.6C1D268CE2B0D05D.quest_desc: [
+		"将&3瓷土&r烧制成&c&l瓷熔炼盆&r.\\n\\n它们只有一个用途:把物品熔炼成&c岩浆&r!\\n\\n将&c&l熔炼盆&r放置在&6&a热源&f&r上方.不同&6热源&r会加速进程:&c火焰&r比&e灯笼&r效率高,&c岩浆&f又比&c火焰&r更强.\\n\\n随后将方块(如&7石头&r或&4下界岩&r)放入&c&l熔炼盆&r,经过一段时间就会生成&c岩浆&r!"
+		"{image:atm:textures/questpics/chap1/chap1_lava.png width:120 height:200 align:center}"
 	]
-	quest.5FF2B8BCB3CE6AB0.quest_subtitle: "筛矿风暴来袭"
-	quest.5FF2B8BCB3CE6AB0.title: "各就各位..."
-	quest.647E94E2156CB596.quest_desc: ["这些发电机运作机制与众不同:初级发电机可通过不同输入材料产出全套基础资源,且需在底部放置聚焦方块!"]
-	quest.647E94E2156CB596.title: "岩石(圆石)发电机"
-	quest.6580DCA54E4C9BC2.title: "&a金筛网&f"
-	quest.70063949E831D49E.quest_subtitle: "不,真的用力敲"
-	quest.70063949E831D49E.title: "尘埃"
-	quest.744E757CA323FF46.quest_desc: ["树果采集杖能大幅提升树叶掉落树苗与苹果的概率,同时也是获取蚕的方式.后续发展所需的线材将由此获得."]
-	quest.744E757CA323FF46.title: "这够弯了吗？"
-	quest.768F0E715B05D9E4.quest_desc: [
-		"筛分是本整合包最基础的资源获取方式,无数重要材料皆由此产出!"
-		""
-		"通过制作25个&a橡木筛子&f摆成5x5方阵,可批量筛分25个方块.右键点击中央筛子放入待筛物品将消耗25份材料.每组筛子需独立配置筛网,且所有筛网必须同级."
-	]
-	quest.768F0E715B05D9E4.quest_subtitle: "就像烤蛋糕一样!"
-	quest.768F0E715B05D9E4.title: "1个筛子,不要面粉"
-	quest.784B0D83F0229A08.quest_desc: ["锤击压缩方块能加速沙砾/沙子的获取.普通锤无效,需使用&a压缩锤&f!"]
-	quest.784B0D83F0229A08.quest_subtitle: "压缩锤击依然可行!"
-	quest.784B0D83F0229A08.title: "锤击压缩物品"
-	task.1BB08F6BC4167067.title: "任意#minecraft:原木"
+	quest.6C1D268CE2B0D05D.title: "&c&l瓷熔炼盆"
+	quest.6CCF2126B2BA72A6.quest_desc: ["通常我们在&2&a繁茂洞穴&f&r里能找到&2苔藓&r...呃&b&l天空&r中的洞穴在哪里呢？\\n\\n其实可以用4个&2&a草籽&f&r合成1个&2苔藓&r!\\n\\n觉得不划算？别忘了用骨粉催熟&2苔藓&r能蔓延到附近的泥土、&2草方块&r和&7石头&r上.\\n\\n&2苔藓&r可以像泥土一样被&b筛滤&r,不过获得的不是&2作物&r而是&2树苗&r!"]
+	quest.6CCF2126B2BA72A6.title: "&2苔藓"
+	quest.70C2B568FA46337F.quest_desc: ["我们需要大量&7沙砾&f/&e沙子&r/尘埃,试试一次性增产9倍!\\n\\n将9把&8锤子&r合成&8&a压缩锤&f&r,它能像处理普通方块那样&8锤击&r压缩方块.\\n\\n用&8锤子&r处理&7压缩圆石&r可获得9份&7沙砾&r."]
+	quest.70C2B568FA46337F.title: "粉碎压缩方块"
+	quest.79D6F21C1E1D1749.quest_desc: ["所有失败的&b&l空岛&r世界之痛——&5黑曜石&r.\\n\\n正如众多&b&l空岛&r玩家所知,当&9水&f接触&c熔岩源&r方块时会生成&5黑曜石&r.\\n\\n用&6&l木桶&r能更安稳地实现!"]
+	quest.79D6F21C1E1D1749.title: "&5黑曜石"
+	quest.7ADFD864139BF2F2.quest_desc: ["欢迎来到&b&l天空&r世界!\\n\\n你可能发现这里几乎一无所有!\\n\\n若遇地面过多的问题(普通&2世界&r而非&b空岛&r),请查阅&9Discord&r常见问答.\\n\\n使用指令”/skyblock gui”创建团队开启空岛!选择类型与名称即可开始,其余设置用于多人模式."]
+	quest.7ADFD864139BF2F2.quest_subtitle: "欢迎来到All The Mods 10:&a向天空进发&f!现已迈入两位数版本."
+	quest.7ADFD864139BF2F2.title: "初始指南"
+	quest.7B08D4FC6F1B0005.quest_desc: ["在&6&l木桶&r中注入&9水&r后投入尘埃方块可获得&7粘土&r!\\n\\n需&a右击&f&6&l木桶&r取出&7粘土&r.\\n\\n&7粘土&r可用于制作&c&a火焰砖&f&r和&3&a瓷土&f&r等物品."]
+	quest.7B08D4FC6F1B0005.title: "&7粘土"
+	quest.7CC729E68A89D962.quest_desc: ["在&6&l木桶&r中混合&9水&r与牛奶可获得&a&a粘液块&f&r!\\n\\n这原理是？\\n\\n不知道!\\n\\n也根本不想知道!"]
+	quest.7CC729E68A89D962.quest_subtitle: "粘糊糊实验"
+	quest.7CC729E68A89D962.title: "&a粘液"
 	task.2019707AE4DAC703.title: "{atm9.quest.start1.emergency}"
-	task.22649862928BBE26.title: "做好准备..."
 }

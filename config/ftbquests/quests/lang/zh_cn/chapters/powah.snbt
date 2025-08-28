@@ -1,49 +1,49 @@
 {
 	quest.05B0A7D0B991050F.title: "反应堆(硬化)"
-	quest.08245411AFDB63DB.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,适用于AllTheMods整合包.\\n\\n因所有&6AllTheMods&r整合包采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若你看到本提示,说明正处于编辑模式."]
-	quest.0FD62827710F0AC6.quest_desc: ["&c岩浆发电机&r在注入熔岩时可产生FE."]
-	quest.0FFF2BEE5D8EBE12.title: "反应堆(氮化)"
-	quest.1B0087400B0B8B49.quest_desc: ["&9反应堆&r是3x4x3多方块结构,通过燃烧&a铀矿&r产生FE.\\n\\n建造需36个反应堆方块.手持36个方块时,放置单个方块将自动构建反应堆.请提前清理施工区域!\\n\\n冷却反应堆可提升FE产量,可使用固态或液态&b冷却剂&r.使用固态冷却剂时需同步注入液态冷却剂.&b&a干冰&f&r是优质固态冷却剂!(注:1&a水桶&f即可).\\n\\n保持燃料仓满载,并向反应堆添加煤炭与红石(方块形态同样有效)可进一步提升FE产量."]
-	quest.1B0087400B0B8B49.title: "反应堆(初级)"
-	quest.1C273D9E046FD18A.quest_desc: ["用于使用充能宝珠为物品充能."]
-	quest.25EFC21A3C48E0B6.title: "等级:&2精神"
-	quest.33816AF0E699F19F.quest_desc: ["这个方块会从任何带电物品中抽取FE."]
-	quest.341486C9F277FEB7.title: "反应堆 (精神)"
-	quest.3CB6DC5B09C62CFE.quest_desc: ["&5&a末影道门&f&r 用于无线传输能量到相邻方块或从相邻方块传输到&7末影网络&r.\\n\\n将它们视为你的无线能量网络的无线接入点.\\n\\n注意:你只能使用&a末影单元&f来增加&a能量存储容量&r."]
-	quest.3D5F87F8E6B89C1B.quest_desc: ["&7熔炉发生器&r会燃烧像煤和木头这样的物品来产生FE."]
+	quest.08245411AFDB63DB.quest_desc: ["此任务由&6AllTheMods工作人员&r或&2社区贡献者&r创作,用于AllTheMods模组包.\\n\\n由于所有&6AllTheMods&r包均根据&e版权所有&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公共包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你处于编辑模式."]
+	quest.0FD62827710F0AC6.quest_desc: ["&c岩浆发电机&r在供应熔岩时会生成FE."]
+	quest.0FFF2BEE5D8EBE12.title: "反应堆(氮氧)"
+	quest.1B0087400B0B8B49.quest_desc: ["&9反应堆&r是一个3x4x3的多方块发电机,燃烧&a铀矿&r作为燃料来生产FE.\\n\\n要建造它,你需要制作总共36个反应堆块.手持36个时,放置一个块会自动建造反应堆.确保先清理出一些空间!\\n\\n你需要冷却反应堆以产生更多FE,可以使用固体或液体&b冷却剂&r.使用固体冷却剂时,还需要提供一些液体冷却剂.&b&a干冰&f&r是很好的固体冷却剂!(注:1&a水桶&f即可).\\n\\n你还可以通过保持燃料缓冲区满,以及向反应堆添加煤和红石来增加FE生成.使用它们的方块也可以!"]
+	quest.1B0087400B0B8B49.title: "反应堆(入门)"
+	quest.1C273D9E046FD18A.quest_desc: ["用于通过充能宝珠为物品充能."]
+	quest.25EFC21A3C48E0B6.title: "等级:&2灵动"
+	quest.33816AF0E699F19F.quest_desc: ["此方块会从任何带电物品中抽取FE能量."]
+	quest.341486C9F277FEB7.title: "反应堆(灵动级)"
+	quest.3CB6DC5B09C62CFE.quest_desc: ["&5&a末影道门&f&r用于将能量无线传输至相邻方块或从相邻方块接收能量至&7末影网络&r.\\n\\n可将其视为无线能量网络的无线接入点.\\n\\n注意:只能通过&a末影单元&f增加&a能量存储容量&r."]
+	quest.3D5F87F8E6B89C1B.quest_desc: ["&7燃烧炉&r会燃烧煤炭和木材等物品来产生FE能量."]
 	quest.3DDF87A1E5F5D009.quest_desc: [
-		"起初,你可以用铁制造&7入门&r和&b基础&r等级的机器来应付,但你最终需要使用&9充能宝珠&r来制造充能材料.\\n\\n&9充能宝珠&r会使用附近9x9区域内的&a充能杆&r为物品充能,为你创造更好的材料,以便在Powah中通过&e等级&r前进.\\n\\n要为宝珠供电,你需要将充能杆连接到&a能量管道&f上,这些管道需要被供应能量.如果你想让宝珠充能更快,要么制造更多杆,要么升级到更高等级的杆,或者两者都做!要查看杆是否连接,将你的&a扳手&r设置为链接模式,你可以将任何杆链接到宝珠."
+		"初期可使用铁锭制作&7基础级&r和&b初级&r机器,但最终需要通过&9充能宝珠&r制作充能材料.\\n\\n&9充能宝珠&r会利用周围9x9区域内&a充能杆&r为物品充能,制造更优质材料以提升&ePowah&r中的等级.\\n\\n为宝珠供能需将充能杆连接至有能量输入的&a能量管道&f.若需加速充能,可增加充能杆数量、升级更高阶充能杆或双管齐下!使用&a扳手&r切换链接模式可检查充能杆与宝珠的连接状态."
 		""
 		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
 	]
 	quest.3DDF87A1E5F5D009.title: "&9充能宝珠"
-	quest.4F1FFC02F4EAA2E6.title: "等级:&4硝基"
-	quest.52E59FCB39D66BCF.quest_desc: ["'被动能量'的最佳选择之一,&9&a热力发电机&f&r 当放置在&c&a热源&f&r上并提供稳定的水源时,会产生FE.\\n\\n目前有三种方块你可以放置它:岩浆块,产量最低；熔岩源块,稍好一些；或&c&a块&f &a烈焰水晶&f&r,提供最多的热量."]
-	quest.562BD37539EE318E.title: "等级:&c炽热"
-	quest.5BCA3F716348ECCD.quest_desc: ["&9&a能量漏斗&f&r 会为它所指向的方块(如箱子)的物品栏内的任何可充电物品充电."]
-	quest.5E090C9BB4DAA5D4.title: "等级:&a充能"
-	quest.5F6152CF085D75D6.title: "反应堆 (基础)"
-	quest.61A8FAEC4FF18449.quest_desc: ["这些可以用来为你物品栏中的物品充电,或者用来增加&7末影网络&r通道的总能量容量."]
-	quest.61DCECE1FC38E151.title: "反应堆 (硝基)"
-	quest.66ECC26BC81D0093.title: "等级:&b基础"
-	quest.6754612E9AD4B9C0.title: "反应堆 (炽热)"
+	quest.4F1FFC02F4EAA2E6.title: "等级:&4硝化级"
+	quest.52E59FCB39D66BCF.quest_desc: ["作为最佳”被动供能”方案之一,&9&a热力发电机&f&r置于&c&a热源&f&r上方并持续供水即可产生FE能量.\\n\\n当前适用三种热源:产能最低的岩浆块、效能稍高的熔岩源块,以及产能最强的&c&a烈焰水晶块&f&r."]
+	quest.562BD37539EE318E.title: "等级:&c炽焱级"
+	quest.5BCA3F716348ECCD.quest_desc: ["&9&a能量漏斗&f&r可为所指容器(如箱子)内库存中的可充电物品充能."]
+	quest.5E090C9BB4DAA5D4.title: "等级:&a充能级"
+	quest.5F6152CF085D75D6.title: "反应堆(初级)"
+	quest.61A8FAEC4FF18449.quest_desc: ["可用于为库存物品充能,或增加&7末影网络&r通道的总能量容量."]
+	quest.61DCECE1FC38E151.title: "反应堆(硝化级)"
+	quest.66ECC26BC81D0093.title: "等级:&b初级"
+	quest.6754612E9AD4B9C0.title: "反应堆(炽焱级)"
 	quest.677365A816994C8B.quest_desc: [
-		"&9&a玩家供电仪&f&r 会无线为玩家的物品充电.你必须先使用&9&a绑定卡&f&r将其绑定到一个玩家.这是基础卡,只允许发射器在&a同一维度&f工作.你可以通过使用&d&a绑定卡&f (维度)&r来升级."
+		"&9&a玩家供电仪&f&r可为玩家物品无线充能.需先用&9&a绑定卡&f&r绑定玩家(基础版仅限&a同一维度&f使用).升级至&d&a跨维度绑定卡&f&r可突破维度限制."
 		""
-		"注意:要获得玩家空中珍珠,对僵尸或尸壳使用空中珍珠."
+		"注意:对僵尸或尸壳使用天界珍珠可获得玩家天界珍珠."
 	]
-	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r 是一个科技模组,专注于生成、存储和传输&d能量&r.从基础的FE生成到产生&b250k FE/t&r的&a反应堆&r,Powah都能满足你!\\n\\n要开始,获取一些&a铀矿&r!"]
-	quest.6B2027DA7AA6FF34.title: "&a欢迎来到 &9Powah&r!!!"
+	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r是以&d能量&r生产、存储与传输为核心的科技模组.从基础FE生成到产能&b25万FE/t&r的&a反应堆&r,全面满足能源需求!\\n\\n初始阶段请先获取&a铀矿石&r!"]
+	quest.6B2027DA7AA6FF34.title: "&a欢迎来到&9Powah&r的世界!!!"
 	quest.6D88C19F47D0D469.title: "等级:&7微型"
-	quest.700F3FF7C23D0C0F.quest_desc: ["&5&a末影单元&f&r将为你的&7末影网络&r频道储存能量.要提升网络容量,请&a右击&f&a末影单元&f打开界面,添加&a电池&r或&9&a能源元件&f&r以增加总容量."]
-	quest.7678B5DD1339833E.quest_desc: ["&a太阳能电池板&f在阳光直射时产生FE能量.可使用&7末影透镜&r忽略遮挡方块的干扰."]
-	quest.78202A1CF5D86B94.quest_desc: ["Powah模组的&9能源核心&r.\\n\\n亦可升级无线&7末影网络&r的总储能容量."]
-	quest.7D52DD751DDADA1B.quest_desc: ["基础能量传输线缆."]
-	quest.7D7983F39E6E818D.title: "等级:&9镍级"
-	quest.7E92ED270C67FDE5.quest_desc: ["本模组几乎所有机器都需要&9&a绝缘外壳&f&r.\\n\\n需先制作&b能量膏&r和&a能量棒&r才能推进进程!"]
-	quest.7E92ED270C67FDE5.title: "从介电材料起步"
+	quest.700F3FF7C23D0C0F.quest_desc: ["&5末影单元&r将为您的&7末影网络&r中的频道存储能量.要增加网络的总能量容量,请&a右键点击&f&a末影单元&f打开界面,然后添加&a电池&r或&9能源元件&r以提升总容量."]
+	quest.7678B5DD1339833E.quest_desc: ["&a太阳能电池板&f在直接暴露于阳光下时会产生FE能量.但您可以使用&7末影透镜&r忽略其路径上的方块遮挡."]
+	quest.78202A1CF5D86B94.quest_desc: ["Powah模组的&9能源银行&r.\\n\\n这些也可用于升级无线&7末影网络&r的总能量存储容量."]
+	quest.7D52DD751DDADA1B.quest_desc: ["用于传输能量的基础电缆."]
+	quest.7D7983F39E6E818D.title: "等级:&9镍阶"
+	quest.7E92ED270C67FDE5.quest_desc: ["模组中几乎所有可制造的机器都需要&9绝缘外壳&r.\\n\\n您需要先制作&b粘膏&r和一些&a能量棒&r才能继续进展!"]
+	quest.7E92ED270C67FDE5.title: "从介电材料开始"
 	task.09C7E50E7E13C53C.title: "版权所有"
-	task.17F07D6404668DE6.title: "充能能量棒"
+	task.17F07D6404668DE6.title: "充能棒"
 	task.1F929F1DF23460AE.title: "&a绑定卡&f"
 	task.3282910297C28795.title: "版权所有"
 	task.36E378BF22554E0A.title: "&a能量管道&f"

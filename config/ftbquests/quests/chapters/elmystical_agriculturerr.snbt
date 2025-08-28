@@ -60,7 +60,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Inferium Watering Can"]
+			hover: ["初级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/inferium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -70,7 +70,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Prudentium Watering Can"]
+			hover: ["进阶&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/prudentium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -88,7 +88,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Tertium Watering Can"]
+			hover: ["高级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/tertium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -122,7 +122,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Inferium Machine Upgrade"]
+			hover: ["初级机器升级件"]
 			image: "mysticalagriculture:item/inferium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -132,7 +132,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Prudentium Machine Upgrade"]
+			hover: ["进阶机器升级件"]
 			image: "mysticalagriculture:item/prudentium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -142,7 +142,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Tertium Machine Upgrade"]
+			hover: ["高级机器升级件"]
 			image: "mysticalagriculture:item/tertium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -152,7 +152,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Imperium Machine Upgrade"]
+			hover: ["终极机器升级件"]
 			image: "mysticalagriculture:item/imperium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -162,7 +162,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Imperium Watering Can"]
+			hover: ["终极&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/imperium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -172,7 +172,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Supremium Watering Can"]
+			hover: ["&a终极精华洒水壶&f"]
 			image: "mysticalagriculture:item/gear/supremium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -182,7 +182,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Awakened Supremium Machine Upgrade"]
+			hover: ["觉醒至尊机器升级件"]
 			image: "mysticalagriculture:item/awakened_supremium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -224,7 +224,7 @@
 		{
 			click: "."
 			height: 1.0d
-			hover: ["Machine Frame"]
+			hover: ["&a机器框架&f"]
 			image: "mysticalagriculture:block/machine_frame"
 			rotation: 0.0d
 			width: 1.0d
@@ -264,12 +264,17 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				count: 4L
-				id: "3FBFC3BAACA69389"
-				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 4,
+					id: "3FBFC3BAACA69389"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prosperity_shard"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 0.125d
 		}
@@ -289,7 +294,7 @@
 						components: {
 							"patchouli:book": "mysticalagriculture:guide"
 						}
-						count: 1
+						count: 1,
 						id: "patchouli:guide_book"
 					}
 					type: "item"
@@ -302,14 +307,22 @@
 			]
 			shape: "gear"
 			size: 3.0d
-			tasks: [{
-				icon: {
-					id: "minecraft:wheat_seeds"
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:wheat_seeds"
+					}
+					id: "64FADC78A8AD3FE4"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:seeds)"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
 				}
-				id: "64FADC78A8AD3FE4"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			]
 			x: 0.0d
 			y: 0.125d
 		}
@@ -332,11 +345,16 @@
 			]
 			shape: "pentagon"
 			size: 1.25d
-			tasks: [{
-				id: "3D88946A32BFA35F"
-				item: { count: 1, id: "mysticalagriculture:prosperity_seed_base" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3D88946A32BFA35F"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prosperity_seed_base"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 0.125d
 		}
@@ -365,13 +383,19 @@
 			tasks: [
 				{
 					id: "41BCFBEC6E169507"
-					item: { count: 1, id: "mysticalagriculture:infusion_altar" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:infusion_altar"
+					}
 					type: "item"
 				}
 				{
-					count: 8L
+					count: 8,
 					id: "04DE1F990F95E617"
-					item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:infusion_pedestal"
+					}
 					type: "item"
 				}
 			]
@@ -398,11 +422,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "1A12DBE58B210795"
-				item: { count: 1, id: "mysticalagriculture:unattuned_augment" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1A12DBE58B210795"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:unattuned_augment"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: 2.625d
 		}
@@ -414,7 +443,7 @@
 				{
 					id: "00D6757B51347600"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:machine_frame"
 					}
 					type: "item"
@@ -425,11 +454,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "553FA41266D63F7A"
-				item: { count: 1, id: "mysticalagriculture:seed_reprocessor" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "553FA41266D63F7A"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:seed_reprocessor"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 7.625d
 		}
@@ -451,11 +485,16 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			tasks: [{
-				id: "337ABEF7C810E816"
-				item: { count: 1, id: "mysticalagriculture:tinkering_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "337ABEF7C810E816"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tinkering_table"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: 4.125d
 		}
@@ -467,7 +506,7 @@
 				{
 					id: "19B56042157CF0E6"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:machine_frame"
 					}
 					type: "item"
@@ -478,11 +517,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "2C0762C747054924"
-				item: { count: 1, id: "mysticalagriculture:soulium_spawner" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2C0762C747054924"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soulium_spawner"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 7.625d
 		}
@@ -506,11 +550,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "66A22C64B978D14E"
-				item: { count: 1, id: "mysticalagriculture:ice_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "66A22C64B978D14E"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:ice_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: -2.875d
 		}
@@ -538,12 +587,18 @@
 			tasks: [
 				{
 					id: "11EDB05BC54E502C"
-					item: { count: 1, id: "mysticalagriculture:inferium_farmland" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_farmland"
+					}
 					type: "item"
 				}
 				{
 					id: "03F5ECD810F037D8"
-					item: { count: 1, id: "mysticalagriculture:inferium_seeds" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_seeds"
+					}
 					type: "item"
 				}
 			]
@@ -570,11 +625,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "549F9D9ED163CF60"
-				item: { count: 1, id: "mysticalagriculture:earth_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "549F9D9ED163CF60"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:earth_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -4.375d
 		}
@@ -598,11 +658,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "5865E21723C2C04C"
-				item: { count: 1, id: "mysticalagriculture:water_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5865E21723C2C04C"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:water_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.5d
 			y: -4.375d
 		}
@@ -626,11 +691,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "7DEB271808127E13"
-				item: { count: 1, id: "mysticalagriculture:dirt_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7DEB271808127E13"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:dirt_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -2.375d
 		}
@@ -654,11 +724,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "5ABAC0A86621FDAE"
-				item: { count: 1, id: "mysticalagriculture:stone_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5ABAC0A86621FDAE"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:stone_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -3.375d
 		}
@@ -682,11 +757,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "2515FBAF4FB435D1"
-				item: { count: 1, id: "mysticalagriculture:deepslate_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2515FBAF4FB435D1"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:deepslate_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.5d
 			y: -3.375d
 		}
@@ -710,11 +790,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "39C1F0936A29423F"
-				item: { count: 1, id: "mysticalagriculture:fire_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "39C1F0936A29423F"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:fire_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: -4.875d
 		}
@@ -738,11 +823,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "06CFF66846E1CE0F"
-				item: { count: 1, id: "mysticalagriculture:wood_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "06CFF66846E1CE0F"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:wood_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.5d
 			y: -2.375d
 		}
@@ -754,10 +844,10 @@
 			id: "75560045ED084900"
 			rewards: [
 				{
-					count: 5
+					count: 5,
 					id: "4731F0549357E0F1"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:soulium_ore"
 					}
 					type: "item"
@@ -777,24 +867,36 @@
 			tasks: [
 				{
 					id: "1D0225C66C7B48F3"
-					item: { count: 1, id: "mysticalagriculture:soulium_dagger" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soulium_dagger"
+					}
 					type: "item"
 				}
 				{
-					count: 4L
+					count: 4,
 					id: "1E8B2243116BF6DA"
-					item: { count: 4, id: "mysticalagriculture:soul_jar" }
+					item: {
+						count: 4,
+						id: "mysticalagriculture:soul_jar"
+					}
 					type: "item"
 				}
 				{
 					id: "1E6423E09F658FC5"
-					item: { count: 1, id: "mysticalagriculture:soul_extractor" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soul_extractor"
+					}
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "084EFCD4EF91F82A"
-					item: { count: 1, id: "mysticalagriculture:soulium_seed_base" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soulium_seed_base"
+					}
 					type: "item"
 				}
 			]
@@ -819,11 +921,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "667004CD0469493D"
-				item: { count: 1, id: "mysticalagriculture:inferium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "667004CD0469493D"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: 0.125d
 		}
@@ -833,10 +940,10 @@
 			id: "4821419D44F8083F"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "6BFF97CB04F0CFBD"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:inferium_growth_accelerator"
 					}
 					type: "item"
@@ -847,11 +954,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "047D297988E59B6B"
-				item: { count: 1, id: "mysticalagriculture:inferium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "047D297988E59B6B"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: -0.875d
 		}
@@ -863,7 +975,7 @@
 				{
 					id: "701081122D492DB0"
 					item: {
-						count: 1
+						count: 1,
 						id: "minecraft:golden_apple"
 					}
 					type: "item"
@@ -874,11 +986,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "51547F271EAC0A87"
-				item: { count: 1, id: "mysticalagradditions:inferium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "51547F271EAC0A87"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:inferium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 11.0d
 			y: -0.875d
 		}
@@ -906,22 +1023,34 @@
 			tasks: [
 				{
 					id: "120DDD0418F82EC0"
-					item: { count: 1, id: "mysticalagriculture:inferium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "45249857D08CB7F7"
-					item: { count: 1, id: "mysticalagriculture:inferium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "4DE8B3ADDD0DC539"
-					item: { count: 1, id: "mysticalagriculture:inferium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "4DD5F73A2CC0848C"
-					item: { count: 1, id: "mysticalagriculture:inferium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:inferium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -948,11 +1077,19 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "7D9A58EBADE91F54"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:inferium_sword)item(mysticalagriculture:inferium_pickaxe)item(mysticalagriculture:inferium_axe)item(mysticalagriculture:inferium_shovel)item(mysticalagriculture:inferium_hoe)item(mysticalagriculture:inferium_watering_can)item(mysticalagriculture:inferium_bow)item(mysticalagriculture:inferium_crossbow)item(mysticalagriculture:inferium_shears)item(mysticalagriculture:inferium_sickle)item(mysticalagriculture:inferium_scythe)item(mysticalagriculture:inferium_fishing_rod)item(mysticalagradditions:inferium_paxel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7D9A58EBADE91F54"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:inferium_sword)item(mysticalagriculture:inferium_pickaxe)item(mysticalagriculture:inferium_axe)item(mysticalagriculture:inferium_shovel)item(mysticalagriculture:inferium_hoe)item(mysticalagriculture:inferium_watering_can)item(mysticalagriculture:inferium_bow)item(mysticalagriculture:inferium_crossbow)item(mysticalagriculture:inferium_shears)item(mysticalagriculture:inferium_sickle)item(mysticalagriculture:inferium_scythe)item(mysticalagriculture:inferium_fishing_rod)item(mysticalagradditions:inferium_paxel))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 1.125d
 		}
@@ -976,11 +1113,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "0724F3944632CE48"
-				item: { count: 1, id: "mysticalagriculture:air_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0724F3944632CE48"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:air_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: -3.875d
 		}
@@ -1001,11 +1143,16 @@
 				}
 			]
 			shape: "circle"
-			tasks: [{
-				id: "5093432E189F5F6F"
-				item: { count: 1, id: "mysticalagriculture:prudentium_farmland" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5093432E189F5F6F"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_farmland"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
 			y: -1.375d
 		}
@@ -1029,11 +1176,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "47EB67F67390D09C"
-				item: { count: 1, id: "mysticalagriculture:chicken_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "47EB67F67390D09C"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:chicken_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.5d
 			y: 3.625d
 		}
@@ -1057,11 +1209,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "1E4845AD1FC5216D"
-				item: { count: 1, id: "mysticalagriculture:squid_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1E4845AD1FC5216D"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:squid_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.5d
 			y: 4.625d
 		}
@@ -1085,11 +1242,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "2866EA9311E575B6"
-				item: { count: 1, id: "mysticalagriculture:cow_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2866EA9311E575B6"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:cow_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.000000000000007d
 			y: 2.75d
 		}
@@ -1113,11 +1275,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "745EDBA102BB6C91"
-				item: { count: 1, id: "mysticalagriculture:sheep_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "745EDBA102BB6C91"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:sheep_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 14.5d
 			y: 3.625d
 		}
@@ -1141,11 +1308,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "0B7F79DE8130BAE9"
-				item: { count: 1, id: "mysticalagriculture:fish_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0B7F79DE8130BAE9"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:fish_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
 			y: 5.5d
 		}
@@ -1169,11 +1341,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "180DD2AAD6C8F073"
-				item: { count: 1, id: "mysticalagriculture:slime_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "180DD2AAD6C8F073"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:slime_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 14.5d
 			y: 4.625d
 		}
@@ -1182,10 +1359,10 @@
 			id: "7655E1C6C5E5469F"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "3D65E78CDBFB6E47"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:prudentium_growth_accelerator"
 					}
 					type: "item"
@@ -1196,11 +1373,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "357DFF6A72C09E2E"
-				item: { count: 1, id: "mysticalagriculture:prudentium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "357DFF6A72C09E2E"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 14.0d
 			y: -0.875d
 		}
@@ -1211,7 +1393,7 @@
 				{
 					id: "53D02EDF099F02D5"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagradditions:inferium_apple"
 					}
 					type: "item"
@@ -1222,11 +1404,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "50EED9493818859D"
-				item: { count: 1, id: "mysticalagradditions:prudentium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "50EED9493818859D"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:prudentium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 16.0d
 			y: -0.875d
 		}
@@ -1252,22 +1439,34 @@
 			tasks: [
 				{
 					id: "216AD49CD1746BD3"
-					item: { count: 1, id: "mysticalagriculture:prudentium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "0231342A2C080DE3"
-					item: { count: 1, id: "mysticalagriculture:prudentium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "1721D6A39270238F"
-					item: { count: 1, id: "mysticalagriculture:prudentium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "5C37A638689F024A"
-					item: { count: 1, id: "mysticalagriculture:prudentium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -1292,11 +1491,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "4B2621F8D8FA7CA7"
-				item: { count: 1, id: "mysticalagriculture:prudentium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4B2621F8D8FA7CA7"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prudentium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
 			y: 0.125d
 		}
@@ -1319,11 +1523,19 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "41910A3BC6C0E838"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:prudentium_sword)item(mysticalagriculture:prudentium_pickaxe)item(mysticalagriculture:prudentium_axe)item(mysticalagriculture:prudentium_shovel)item(mysticalagriculture:prudentium_hoe)item(mysticalagradditions:prudentium_paxel)item(mysticalagriculture:prudentium_scythe)item(mysticalagriculture:prudentium_sickle)item(mysticalagriculture:prudentium_shears)item(mysticalagriculture:prudentium_watering_can)item(mysticalagriculture:prudentium_fishing_rod)item(mysticalagriculture:prudentium_bow)item(mysticalagriculture:prudentium_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "41910A3BC6C0E838"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:prudentium_sword)item(mysticalagriculture:prudentium_pickaxe)item(mysticalagriculture:prudentium_axe)item(mysticalagriculture:prudentium_shovel)item(mysticalagriculture:prudentium_hoe)item(mysticalagradditions:prudentium_paxel)item(mysticalagriculture:prudentium_scythe)item(mysticalagriculture:prudentium_sickle)item(mysticalagriculture:prudentium_shears)item(mysticalagriculture:prudentium_watering_can)item(mysticalagriculture:prudentium_fishing_rod)item(mysticalagriculture:prudentium_bow)item(mysticalagriculture:prudentium_crossbow))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 14.0d
 			y: 1.125d
 		}
@@ -1344,11 +1556,16 @@
 				}
 			]
 			shape: "circle"
-			tasks: [{
-				id: "64DDECE6E9C0EA29"
-				item: { count: 1, id: "mysticalagriculture:tertium_farmland" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "64DDECE6E9C0EA29"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_farmland"
+					}
+					type: "item"
+				}
+			]
 			x: 20.0d
 			y: -1.375d
 		}
@@ -1372,11 +1589,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "4645F8968B0B8BE5"
-				item: { count: 1, id: "mysticalagriculture:rabbit_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4645F8968B0B8BE5"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:rabbit_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 20.0d
 			y: 4.625d
 		}
@@ -1400,11 +1622,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "633406C0560295F7"
-				item: { count: 1, id: "mysticalagriculture:spider_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "633406C0560295F7"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:spider_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 19.5d
 			y: 3.625d
 		}
@@ -1428,11 +1655,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "4315AB4B19D55458"
-				item: { count: 1, id: "mysticalagriculture:skeleton_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4315AB4B19D55458"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:skeleton_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 20.5d
 			y: 3.625d
 		}
@@ -1456,11 +1688,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "72BC6673FB44DBB2"
-				item: { count: 1, id: "mysticalagriculture:creeper_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "72BC6673FB44DBB2"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:creeper_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 19.971938775510218d
 			y: 2.709183673469383d
 		}
@@ -1469,10 +1706,10 @@
 			id: "077B2D62FA7650FB"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "6A54FB61C32E2E0B"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:tertium_growth_accelerator"
 					}
 					type: "item"
@@ -1483,11 +1720,16 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "6D173370E40DCC5A"
-				item: { count: 1, id: "mysticalagriculture:tertium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6D173370E40DCC5A"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 19.0d
 			y: -0.875d
 		}
@@ -1498,7 +1740,7 @@
 				{
 					id: "798A268DCCD2BCE1"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagradditions:prudentium_apple"
 					}
 					type: "item"
@@ -1509,11 +1751,16 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "084D67D36A0859B7"
-				item: { count: 1, id: "mysticalagradditions:tertium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "084D67D36A0859B7"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:tertium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 21.0d
 			y: -0.875d
 		}
@@ -1539,22 +1786,34 @@
 			tasks: [
 				{
 					id: "3D221E475DF6F3C3"
-					item: { count: 1, id: "mysticalagriculture:tertium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "3584BC6827EF817C"
-					item: { count: 1, id: "mysticalagriculture:tertium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "3BCDF4DA20F35C79"
-					item: { count: 1, id: "mysticalagriculture:tertium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "492A22DE74E59FBF"
-					item: { count: 1, id: "mysticalagriculture:tertium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -1579,11 +1838,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "49DC1FFCD031DB6E"
-				item: { count: 1, id: "mysticalagriculture:tertium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "49DC1FFCD031DB6E"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:tertium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 20.0d
 			y: 0.125d
 		}
@@ -1606,11 +1870,19 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "0C92F7E44100B2BA"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:tertium_sword)item(mysticalagriculture:tertium_pickaxe)item(mysticalagriculture:tertium_axe)item(mysticalagriculture:tertium_shovel)item(mysticalagriculture:tertium_hoe)item(mysticalagradditions:tertium_paxel)item(mysticalagriculture:tertium_scythe)item(mysticalagriculture:tertium_sickle)item(mysticalagriculture:tertium_shears)item(mysticalagriculture:tertium_fishing_rod)item(mysticalagriculture:tertium_watering_can)item(mysticalagriculture:tertium_bow)item(mysticalagriculture:tertium_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0C92F7E44100B2BA"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:tertium_sword)item(mysticalagriculture:tertium_pickaxe)item(mysticalagriculture:tertium_axe)item(mysticalagriculture:tertium_shovel)item(mysticalagriculture:tertium_hoe)item(mysticalagradditions:tertium_paxel)item(mysticalagriculture:tertium_scythe)item(mysticalagriculture:tertium_sickle)item(mysticalagriculture:tertium_shears)item(mysticalagriculture:tertium_fishing_rod)item(mysticalagriculture:tertium_watering_can)item(mysticalagriculture:tertium_bow)item(mysticalagriculture:tertium_crossbow))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 19.0d
 			y: 1.125d
 		}
@@ -1634,11 +1906,19 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "323D34AF775A642B"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cucumber:sickles)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "323D34AF775A642B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cucumber:sickles)"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 4.125d
 		}
@@ -1663,11 +1943,19 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "011F410922A4D859"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cucumber:scythes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "011F410922A4D859"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cucumber:scythes)"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 4.125d
 		}
@@ -1688,11 +1976,16 @@
 				}
 			]
 			shape: "circle"
-			tasks: [{
-				id: "19D0A5FD97D7E3E8"
-				item: { count: 1, id: "mysticalagriculture:imperium_farmland" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "19D0A5FD97D7E3E8"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_farmland"
+					}
+					type: "item"
+				}
+			]
 			x: 25.0d
 			y: -1.375d
 		}
@@ -1716,11 +2009,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "61058B1004B5C97C"
-				item: { count: 1, id: "mysticalagriculture:blaze_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "61058B1004B5C97C"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:blaze_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 25.5d
 			y: 2.625d
 		}
@@ -1744,11 +2042,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "67E85827062B8B79"
-				item: { count: 1, id: "mysticalagriculture:ghast_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "67E85827062B8B79"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:ghast_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 24.5d
 			y: 3.625d
 		}
@@ -1772,11 +2075,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "23CCD297E830C925"
-				item: { count: 1, id: "mysticalagriculture:enderman_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "23CCD297E830C925"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:enderman_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 24.5d
 			y: 2.625d
 		}
@@ -1806,13 +2114,19 @@
 			tasks: [
 				{
 					id: "0932A42E423E21A3"
-					item: { count: 1, id: "mysticalagriculture:experience_seeds" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:experience_seeds"
+					}
 					type: "item"
 				}
 				{
-					count: 4L
+					count: 4,
 					id: "08B7E48447228764"
-					item: { count: 4, id: "mysticalagriculture:experience_capsule" }
+					item: {
+						count: 4,
+						id: "mysticalagriculture:experience_capsule"
+					}
 					type: "item"
 				}
 			]
@@ -1824,10 +2138,10 @@
 			id: "06EAA74E0A10CBB6"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "67DE821A47EE4A6F"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:imperium_growth_accelerator"
 					}
 					type: "item"
@@ -1838,11 +2152,16 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "77C281598A060103"
-				item: { count: 1, id: "mysticalagriculture:imperium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "77C281598A060103"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 24.0d
 			y: -0.875d
 		}
@@ -1853,7 +2172,7 @@
 				{
 					id: "19E1D47A8CFA5B44"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagradditions:tertium_apple"
 					}
 					type: "item"
@@ -1864,11 +2183,16 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "6B6B34B77A5563FC"
-				item: { count: 1, id: "mysticalagradditions:imperium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6B6B34B77A5563FC"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:imperium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 26.0d
 			y: -0.875d
 		}
@@ -1894,22 +2218,34 @@
 			tasks: [
 				{
 					id: "5C510B48A85397B6"
-					item: { count: 1, id: "mysticalagriculture:imperium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "4C60EA95AA2084D1"
-					item: { count: 1, id: "mysticalagriculture:imperium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "2DB5403F9514E6DD"
-					item: { count: 1, id: "mysticalagriculture:imperium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "4B8C4F4457E2367F"
-					item: { count: 1, id: "mysticalagriculture:imperium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -1934,11 +2270,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "4BEC4730588463FE"
-				item: { count: 1, id: "mysticalagriculture:imperium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4BEC4730588463FE"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:imperium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 25.0d
 			y: 0.125d
 		}
@@ -1961,11 +2302,19 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "34551E919FD101CF"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:imperium_sword)item(mysticalagriculture:imperium_pickaxe)item(mysticalagriculture:imperium_axe)item(mysticalagriculture:imperium_shovel)item(mysticalagriculture:imperium_hoe)item(mysticalagradditions:imperium_paxel)item(mysticalagriculture:imperium_sickle)item(mysticalagriculture:imperium_scythe)item(mysticalagriculture:imperium_shears)item(mysticalagriculture:imperium_fishing_rod)item(mysticalagriculture:imperium_watering_can)item(mysticalagriculture:imperium_bow)item(mysticalagriculture:imperium_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "34551E919FD101CF"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:imperium_sword)item(mysticalagriculture:imperium_pickaxe)item(mysticalagriculture:imperium_axe)item(mysticalagriculture:imperium_shovel)item(mysticalagriculture:imperium_hoe)item(mysticalagradditions:imperium_paxel)item(mysticalagriculture:imperium_sickle)item(mysticalagriculture:imperium_scythe)item(mysticalagriculture:imperium_shears)item(mysticalagriculture:imperium_fishing_rod)item(mysticalagriculture:imperium_watering_can)item(mysticalagriculture:imperium_bow)item(mysticalagriculture:imperium_crossbow))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 24.0d
 			y: 1.125d
 		}
@@ -1989,11 +2338,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "5A642FC70B7F231C"
-				item: { count: 1, id: "mysticalagriculture:breeze_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5A642FC70B7F231C"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:breeze_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 25.5d
 			y: 3.625d
 		}
@@ -2014,11 +2368,16 @@
 				}
 			]
 			shape: "circle"
-			tasks: [{
-				id: "02ED3169ADC0E7F9"
-				item: { count: 1, id: "mysticalagriculture:supremium_farmland" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "02ED3169ADC0E7F9"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_farmland"
+					}
+					type: "item"
+				}
+			]
 			x: 30.0d
 			y: -1.375d
 		}
@@ -2043,11 +2402,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "3E93D20A19EEAD09"
-				item: { count: 1, id: "mysticalagriculture:wither_skeleton_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3E93D20A19EEAD09"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:wither_skeleton_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 30.0d
 			y: 2.625d
 		}
@@ -2056,10 +2420,10 @@
 			id: "3E555B364FD88B43"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "5F5B63485F758C67"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:supremium_growth_accelerator"
 					}
 					type: "item"
@@ -2070,11 +2434,16 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "7498D8BAED3AA632"
-				item: { count: 1, id: "mysticalagriculture:supremium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7498D8BAED3AA632"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 29.0d
 			y: -0.875d
 		}
@@ -2085,7 +2454,7 @@
 				{
 					id: "6A5C4EB951F6F10A"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagradditions:imperium_apple"
 					}
 					type: "item"
@@ -2096,11 +2465,16 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "6A0FAC4CA0768455"
-				item: { count: 1, id: "mysticalagradditions:supremium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A0FAC4CA0768455"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:supremium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 31.0d
 			y: -0.875d
 		}
@@ -2126,22 +2500,34 @@
 			tasks: [
 				{
 					id: "596B05D2C017A3A4"
-					item: { count: 1, id: "mysticalagriculture:supremium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "2D35459D09DE4348"
-					item: { count: 1, id: "mysticalagriculture:supremium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "2FF5CD7746B6C122"
-					item: { count: 1, id: "mysticalagriculture:supremium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "5B823E7DB3B4894A"
-					item: { count: 1, id: "mysticalagriculture:supremium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -2167,11 +2553,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "6F496FD2BCFE21BA"
-				item: { count: 1, id: "mysticalagriculture:supremium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6F496FD2BCFE21BA"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:supremium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 30.0d
 			y: 0.125d
 		}
@@ -2197,22 +2588,34 @@
 			tasks: [
 				{
 					id: "6A66020F75FB0CDB"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_helmet" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_helmet"
+					}
 					type: "item"
 				}
 				{
 					id: "33823BEEA08AFE8F"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_chestplate" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_chestplate"
+					}
 					type: "item"
 				}
 				{
 					id: "5F4BDE8731B7CA86"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_leggings" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_leggings"
+					}
 					type: "item"
 				}
 				{
 					id: "1B5875E635B468A2"
-					item: { count: 1, id: "mysticalagriculture:awakened_supremium_boots" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_boots"
+					}
 					type: "item"
 				}
 			]
@@ -2238,11 +2641,19 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "3E133AC7B615971D"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:supremium_sword)item(mysticalagriculture:supremium_pickaxe)item(mysticalagriculture:supremium_axe)item(mysticalagriculture:supremium_shovel)item(mysticalagriculture:supremium_hoe)item(mysticalagradditions:supremium_paxel)item(mysticalagriculture:supremium_scythe)item(mysticalagriculture:supremium_sickle)item(mysticalagriculture:supremium_shears)item(mysticalagriculture:supremium_fishing_rod)item(mysticalagriculture:supremium_watering_can)item(mysticalagriculture:supremium_bow)item(mysticalagriculture:supremium_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3E133AC7B615971D"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:supremium_sword)item(mysticalagriculture:supremium_pickaxe)item(mysticalagriculture:supremium_axe)item(mysticalagriculture:supremium_shovel)item(mysticalagriculture:supremium_hoe)item(mysticalagradditions:supremium_paxel)item(mysticalagriculture:supremium_scythe)item(mysticalagriculture:supremium_sickle)item(mysticalagriculture:supremium_shears)item(mysticalagriculture:supremium_fishing_rod)item(mysticalagriculture:supremium_watering_can)item(mysticalagriculture:supremium_bow)item(mysticalagriculture:supremium_crossbow))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 29.0d
 			y: 1.125d
 		}
@@ -2265,11 +2676,19 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "4F6E8F2EC33DB910"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:awakened_supremium_sword)item(mysticalagriculture:awakened_supremium_pickaxe)item(mysticalagriculture:awakened_supremium_axe)item(mysticalagriculture:awakened_supremium_shovel)item(mysticalagriculture:awakened_supremium_hoe)item(mysticalagradditions:awakened_supremium_paxel)item(mysticalagriculture:awakened_supremium_scythe)item(mysticalagriculture:awakened_supremium_sickle)item(mysticalagriculture:awakened_supremium_shears)item(mysticalagriculture:awakened_supremium_fishing_rod)item(mysticalagriculture:awakened_supremium_watering_can)item(mysticalagriculture:awakened_supremium_bow)item(mysticalagriculture:awakened_supremium_crossbow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4F6E8F2EC33DB910"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:awakened_supremium_sword)item(mysticalagriculture:awakened_supremium_pickaxe)item(mysticalagriculture:awakened_supremium_axe)item(mysticalagriculture:awakened_supremium_shovel)item(mysticalagriculture:awakened_supremium_hoe)item(mysticalagradditions:awakened_supremium_paxel)item(mysticalagriculture:awakened_supremium_scythe)item(mysticalagriculture:awakened_supremium_sickle)item(mysticalagriculture:awakened_supremium_shears)item(mysticalagriculture:awakened_supremium_fishing_rod)item(mysticalagriculture:awakened_supremium_watering_can)item(mysticalagriculture:awakened_supremium_bow)item(mysticalagriculture:awakened_supremium_crossbow))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 29.0d
 			y: 6.625d
 		}
@@ -2285,7 +2704,7 @@
 				{
 					id: "4F06F68D2FBAB8DB"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:awakened_supremium_essence"
 					}
 					type: "item"
@@ -2304,11 +2723,16 @@
 			]
 			shape: "hexagon"
 			size: 2.0d
-			tasks: [{
-				id: "3DB6441F3AE36AAB"
-				item: { count: 1, id: "mysticalagriculture:awakened_supremium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3DB6441F3AE36AAB"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 30.0d
 			y: 5.125d
 		}
@@ -2342,19 +2766,28 @@
 			tasks: [
 				{
 					id: "18EF4F05A89E6B62"
-					item: { count: 1, id: "mysticalagriculture:awakening_altar" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakening_altar"
+					}
 					type: "item"
 				}
 				{
-					count: 4L
+					count: 4,
 					id: "7BFAF64BFE1A537D"
-					item: { count: 1, id: "mysticalagriculture:awakening_pedestal" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakening_pedestal"
+					}
 					type: "item"
 				}
 				{
-					count: 4L
+					count: 4,
 					id: "0B83A9AFF8703E87"
-					item: { count: 1, id: "mysticalagriculture:essence_vessel" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:essence_vessel"
+					}
 					type: "item"
 				}
 			]
@@ -2367,10 +2800,10 @@
 			id: "1CF8263756EE8F2A"
 			rewards: [
 				{
-					count: 2
+					count: 2,
 					id: "04BD3F159DDCBAB4"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:cognizant_dust"
 					}
 					type: "item"
@@ -2388,12 +2821,17 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				count: 4L
-				id: "4B044D41247AC672"
-				item: { count: 1, id: "mysticalagriculture:cognizant_dust" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 4,
+					id: "4B044D41247AC672"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:cognizant_dust"
+					}
+					type: "item"
+				}
+			]
 			x: 29.0d
 			y: 2.625d
 		}
@@ -2402,10 +2840,10 @@
 			id: "52BB58D470560219"
 			rewards: [
 				{
-					count: 3
+					count: 3,
 					id: "3C27F1D6F50CCA1E"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:awakened_supremium_growth_accelerator"
 					}
 					type: "item"
@@ -2416,11 +2854,16 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "6A78A6F73101A91D"
-				item: { count: 1, id: "mysticalagriculture:awakened_supremium_growth_accelerator" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A78A6F73101A91D"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_growth_accelerator"
+					}
+					type: "item"
+				}
+			]
 			x: 28.5d
 			y: 5.125d
 		}
@@ -2441,12 +2884,23 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "231C01B33E5B4FF0"
-				item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:awakened_supremium" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "231C01B33E5B4FF0"
+					item: {
+						components: {
+							"minecraft:entity_data": {
+								id: "productivebees:configurable_bee"
+								type: "productivebees:awakened_supremium"
+							}
+						}
+						count: 1,
+						id: "productivebees:spawn_egg_configurable_bee"
+					}
+					match_components: "fuzzy"
+					type: "item"
+				}
+			]
 			x: 31.5d
 			y: 5.125d
 		}
@@ -2457,7 +2911,7 @@
 				{
 					id: "34D0B97E4A230F3F"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagradditions:supremium_apple"
 					}
 					type: "item"
@@ -2468,11 +2922,16 @@
 					xp: 200
 				}
 			]
-			tasks: [{
-				id: "2FE3AA52E00E80AF"
-				item: { count: 1, id: "mysticalagradditions:insanium_apple" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2FE3AA52E00E80AF"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:insanium_apple"
+					}
+					type: "item"
+				}
+			]
 			x: 36.0d
 			y: 1.25d
 		}
@@ -2494,11 +2953,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "59E1982F653123DC"
-				item: { count: 1, id: "mysticalagradditions:insanium_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "59E1982F653123DC"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:insanium_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 35.0d
 			y: 0.125d
 		}
@@ -2509,7 +2973,7 @@
 				{
 					id: "6C1B3A1043D7B93F"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:machine_frame"
 					}
 					type: "item"
@@ -2520,11 +2984,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "3FF302EAE4C9BF1E"
-				item: { count: 1, id: "mysticalagriculture:furnace" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3FF302EAE4C9BF1E"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:furnace"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 7.625d
 		}
@@ -2545,11 +3014,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "250A0320FF2BC775"
-				item: { count: 1, id: "mysticalagriculture:watering_can" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "250A0320FF2BC775"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:watering_can"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 4.125d
 		}
@@ -2576,11 +3050,19 @@
 			]
 			shape: "none"
 			size: 2.0d
-			tasks: [{
-				id: "51A3E013D2B3D744"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:inferium_upgrade)item(mysticalagriculture:prudentium_upgrade)item(mysticalagriculture:tertium_upgrade)item(mysticalagriculture:imperium_upgrade)item(mysticalagriculture:supremium_upgrade)item(mysticalagriculture:awakened_supremium_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "51A3E013D2B3D744"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:inferium_upgrade)item(mysticalagriculture:prudentium_upgrade)item(mysticalagriculture:tertium_upgrade)item(mysticalagriculture:imperium_upgrade)item(mysticalagriculture:supremium_upgrade)item(mysticalagriculture:awakened_supremium_upgrade))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 9.125d
 		}
@@ -2602,11 +3084,19 @@
 				}
 			]
 			shape: "pentagon"
-			tasks: [{
-				id: "2DA0BD7B2834A560"
-				item: { components: { "ftbfiltersystem:filter": "or(item(mysticalagriculture:witherproof_block)item(mysticalagriculture:witherproof_bricks)item(mysticalagriculture:witherproof_glass))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2DA0BD7B2834A560"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(mysticalagriculture:witherproof_block)item(mysticalagriculture:witherproof_bricks)item(mysticalagriculture:witherproof_glass))"
+						}
+						count: 1,
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 22.5d
 			y: -1.375d
 		}
@@ -2617,7 +3107,7 @@
 				{
 					id: "520C2FC59AD01CD0"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:machine_frame"
 					}
 					type: "item"
@@ -2628,11 +3118,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "0841884689AF19D0"
-				item: { count: 1, id: "mysticalagriculture:harvester" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0841884689AF19D0"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:harvester"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 7.625d
 		}
@@ -2655,11 +3150,16 @@
 				}
 			]
 			shape: "pentagon"
-			tasks: [{
-				id: "0C99990D814C2823"
-				item: { count: 1, id: "mysticalagriculture:mystical_fertilizer" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0C99990D814C2823"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:mystical_fertilizer"
+					}
+					type: "item"
+				}
+			]
 			x: 12.5d
 			y: -1.375d
 		}
@@ -2682,11 +3182,16 @@
 				}
 			]
 			shape: "pentagon"
-			tasks: [{
-				id: "571FFEEA2C7D87A0"
-				item: { count: 1, id: "mysticalagriculture:enchanter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "571FFEEA2C7D87A0"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:enchanter"
+					}
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: -1.375d
 		}
@@ -2695,18 +3200,25 @@
 			hide_dependency_lines: true
 			id: "224CE21E56703F6E"
 			optional: true
-			rewards: [{
-				id: "6492368F4FF254A7"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "6492368F4FF254A7"
+					type: "xp"
+					xp: 10
+				}
+			]
 			shape: "pentagon"
 			size: 0.75d
-			tasks: [{
-				id: "347729D52A71A889"
-				item: { count: 1, id: "mysticalagriculture:wand" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "347729D52A71A889"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:wand"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: -1.375d
 		}
@@ -2718,7 +3230,7 @@
 				{
 					id: "0B2C7A957214B8FA"
 					item: {
-						count: 1
+						count: 1,
 						id: "mysticalagriculture:machine_frame"
 					}
 					type: "item"
@@ -2729,11 +3241,16 @@
 					xp: 50
 				}
 			]
-			tasks: [{
-				id: "4F9743280C995231"
-				item: { count: 1, id: "mysticalagriculture:soul_extractor" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4F9743280C995231"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soul_extractor"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: 7.625d
 		}
@@ -2773,11 +3290,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "1EA536FA36DA9343"
-				item: { count: 1, id: "mysticalagradditions:creative_essence" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1EA536FA36DA9343"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:creative_essence"
+					}
+					type: "item"
+				}
+			]
 			x: 36.75d
 			y: 0.15d
 		}
@@ -2797,11 +3319,16 @@
 					xp: 200
 				}
 			]
-			tasks: [{
-				id: "3519BA3E872F1239"
-				item: { count: 1, id: "mysticalagradditions:insanium_coal_block" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3519BA3E872F1239"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:insanium_coal_block"
+					}
+					type: "item"
+				}
+			]
 			x: 36.0d
 			y: -1.0d
 		}
@@ -2821,21 +3348,31 @@
 					xp: 150
 				}
 			]
-			tasks: [{
-				id: "042BEC73CB140FA8"
-				item: { count: 1, id: "mysticalagriculture:awakened_supremium_ingot_block" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "042BEC73CB140FA8"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_supremium_ingot_block"
+					}
+					type: "item"
+				}
+			]
 			x: 30.0d
 			y: 7.125d
 		}
 		{
 			id: "7BBD85F94D98CA46"
-			tasks: [{
-				id: "601D0A55B7C843EE"
-				item: { count: 1, id: "mysticalagriculture:prosperity_shard" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "601D0A55B7C843EE"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:prosperity_shard"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: -2.5d
 		}
@@ -2859,11 +3396,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "791B49EC86FA2ED4"
-				item: { count: 1, id: "mysticalagriculture:nature_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "791B49EC86FA2ED4"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:nature_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 14.5d
 			y: -2.5d
 		}
@@ -2887,11 +3429,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "76CB80DCF31685E8"
-				item: { count: 1, id: "mysticalagriculture:dye_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "76CB80DCF31685E8"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:dye_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
 			y: -3.0d
 		}
@@ -2914,11 +3461,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "7CEBA1BACD6F6D8F"
-				item: { count: 1, id: "mysticalagriculture:nether_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7CEBA1BACD6F6D8F"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:nether_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.5d
 			y: -2.5d
 		}
@@ -2942,11 +3494,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "2647286D07E69D2B"
-				item: { count: 1, id: "mysticalagriculture:coral_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2647286D07E69D2B"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:coral_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 14.5d
 			y: -3.5d
 		}
@@ -2970,11 +3527,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "45DEDDC965563FD1"
-				item: { count: 1, id: "mysticalagriculture:limestone_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "45DEDDC965563FD1"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:limestone_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.5d
 			y: -3.5d
 		}
@@ -2998,11 +3560,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "21C93120A8D7A974"
-				item: { count: 1, id: "mysticalagriculture:basalt_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "21C93120A8D7A974"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:basalt_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 15.0d
 			y: -4.0d
 		}
@@ -3025,11 +3592,16 @@
 				}
 			]
 			shape: "diamond"
-			tasks: [{
-				id: "74EAF8AF9C218B95"
-				item: { count: 1, id: "mysticalagriculture:soulium_seeds" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "74EAF8AF9C218B95"
+					item: {
+						count: 1,
+						id: "mysticalagriculture:soulium_seeds"
+					}
+					type: "item"
+				}
+			]
 			x: 25.0d
 			y: -2.5d
 		}
@@ -3056,12 +3628,18 @@
 			tasks: [
 				{
 					id: "55A4FE092725D8AE"
-					item: { count: 1, id: "mysticalagriculture:nether_star_seeds" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:nether_star_seeds"
+					}
 					type: "item"
 				}
 				{
 					id: "1D73B0704ADA1285"
-					item: { count: 1, id: "mysticalagradditions:nether_star_crux" }
+					item: {
+						count: 1,
+						id: "mysticalagradditions:nether_star_crux"
+					}
 					type: "item"
 				}
 			]
@@ -3091,12 +3669,18 @@
 			tasks: [
 				{
 					id: "289CC26377DC0395"
-					item: { count: 1, id: "mysticalagriculture:dragon_egg_seeds" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:dragon_egg_seeds"
+					}
 					type: "item"
 				}
 				{
 					id: "27400A3E0FA23847"
-					item: { count: 1, id: "mysticalagradditions:dragon_egg_crux" }
+					item: {
+						count: 1,
+						id: "mysticalagradditions:dragon_egg_crux"
+					}
 					type: "item"
 				}
 			]
@@ -3126,12 +3710,18 @@
 			tasks: [
 				{
 					id: "71EA9BBB78FB7503"
-					item: { count: 1, id: "mysticalagriculture:awakened_draconium_seeds" }
+					item: {
+						count: 1,
+						id: "mysticalagriculture:awakened_draconium_seeds"
+					}
 					type: "item"
 				}
 				{
 					id: "5BFAA75AA4A032BB"
-					item: { count: 1, id: "mysticalagradditions:awakened_draconium_crux" }
+					item: {
+						count: 1,
+						id: "mysticalagradditions:awakened_draconium_crux"
+					}
 					type: "item"
 				}
 			]
@@ -3154,11 +3744,16 @@
 					xp: 100
 				}
 			]
-			tasks: [{
-				id: "72D232EBC6493717"
-				item: { count: 1, id: "mysticalagradditions:insanium_farmland" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "72D232EBC6493717"
+					item: {
+						count: 1,
+						id: "mysticalagradditions:insanium_farmland"
+					}
+					type: "item"
+				}
+			]
 			x: 35.0d
 			y: -1.37d
 		}

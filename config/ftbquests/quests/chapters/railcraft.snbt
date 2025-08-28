@@ -60,7 +60,7 @@
 		{
 			click: "#475E307844E3AF7F"
 			height: 2.0d
-			hover: ["水锅炉"]
+			hover: ["热水锅炉"]
 			image: "atm:textures/questpics/railcraft/rail_big_boiler.png"
 			rotation: 0.0d
 			width: 1.6754385964912282d
@@ -100,7 +100,7 @@
 		{
 			click: "#21693C4DE6531D73"
 			height: 2.0d
-			hover: ["粉碎机"]
+			hover: ["破碎机"]
 			image: "atm:textures/questpics/railcraft/rail_crusher.png"
 			rotation: 0.0d
 			width: 2.179640718562874d
@@ -156,7 +156,7 @@
 		{
 			click: "#7F4B734CFB0F0306"
 			height: 1.0d
-			hover: ["带 &a能源元件&f 的矿车"]
+			hover: ["带&a能源元件&f的矿车"]
 			image: "atm:textures/questpics/railcraft/rail_cartcell.png"
 			rotation: 0.0d
 			width: 1.24822695035461d
@@ -166,7 +166,7 @@
 		{
 			click: "#08457BEED799E600"
 			height: 1.0d
-			hover: ["轨道:移除器、中继器和放置器"]
+			hover: ["轨道:清除器、重铺器与铺设器"]
 			image: "atm:textures/questpics/railcraft/rail_carttracks.png"
 			rotation: 0.0d
 			width: 3.0225563909774436d

@@ -1,13 +1,13 @@
 {
-	quest.3708A4780ACEB34E.quest_desc: ["在本整合包中,任务系统为可选内容.模组功能不会因未完成任务而受限!\\n\\n主线任务外的独立任务链主要用作模组指引.若想遵循进度路线,请务必查看主线任务链!"]
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 &a向天空进发&f 是允许你自由探索多元模组的大杂烩整合包!\\n\\n如有疑问或问题,欢迎加入ATM的Discord社区!"]
-	quest.3BC0A50886A3222B.title: "&d欢迎来到《ATM10:重临天际》"
-	quest.49EDAA2F57D3BF1D.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n因所有&6ATM&r整合包均采用&e保留所有权利&r许可协议,未经&6ATM团队&r明确授权,严禁在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务已设为隐藏状态,若你看到此提示,说明正处于编辑模式."]
-	quest.5AC1BE754210429E.quest_desc: ["若需创建好友团队,请使用指令 &a/ftbteams party create [团队名称]&r 进行创建!"]
-	quest.56936BF15B82D29B.quest_desc: ["{image:touhou_little_maid:item/spawn_box width:100 height:100 align:center}"]
-	quest.56936BF15B82D29B.title: "&d\"无敌的女仆&7&m与她的废物主人&r&d\""
-	task.201F519941A2C7F4.title: "保留所有权利"
-	task.2C816285392535F0.title: "保留所有权利"
+	quest.3708A4780ACEB34E.quest_desc: ["在本整合包中,任务系统为可选内容.模组内容不会因未完成任务而锁定!\\n\\n主线任务外的多数独立任务链旨在提供模组引导.若想遵循进度规划,请务必查看主线任务链!"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 &a向天空进发&f 是开放式整合包,允许您按自己的方式探索各种模组!\\n\\n如有疑问或问题,欢迎加入ATM的Discord社群!"]
+	quest.3BC0A50886A3222B.title: "&d欢迎来到ATM10:天际重制版"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["本任务由&6ATM官方团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e保留所有权利&r许可,未经明确授权不得在任何非官方发布的公开整合包中使用本任务.\\n\\n此任务为隐藏内容,若您能看到此文本,说明正处于编辑模式."]
+	quest.5AC1BE754210429E.quest_desc: ["若需为您和好友创建团队,请使用指令&a/ftbteams party create (团队名称)&r进行创建!"]
+	task.201F519941A2C7F4.title: "版权所有"
+	task.2C816285392535F0.title: "版权所有"
 	task.4F13A02FB0055A62.title: "创建团队"
 	task.52BB142F044075B4.title: "任务系统"
+	quest.56936BF15B82D29B.quest_desc: ["{image:touhou_little_maid:item/spawn_box width:100 height:100 align:center}"]
+	quest.56936BF15B82D29B.title: "&d\"无敌的女仆&7&m与她的废物主人&r&d\""
 }
