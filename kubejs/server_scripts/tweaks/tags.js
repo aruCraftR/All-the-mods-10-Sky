@@ -239,6 +239,8 @@ ServerEvents.tags('item', allthemods => {
         'mysticalagriculture:nitro_crystal_seeds',
         'mysticalagriculture:compressed_iron_seeds',
         'mysticalagriculture:draconium_seeds',
+        'mysticalagriculture:marble_seeds',
+        'mysticalagriculture:marble_essence',
         'exmachinis:netherite_upgrade',
         /geore:.*tungsten.*/,
         /geore:.*monazite.*/,
@@ -260,6 +262,8 @@ ServerEvents.tags('item', allthemods => {
         'exdeorum:mechanical_sieve',
         'exdeorum:mechanical_hammer',
         /georenouveau:.*_dowsing_rod/,
+        "georenouveau:monazite_geore_golem_charm",
+        "georenouveau:tungsten_geore_golem_charm",
         'actuallyadditions:crafter_on_a_stick',
         'allthemodium:teleport_pad'
     ])

@@ -250,7 +250,63 @@ ServerEvents.recipes(allthemods => {
             '#c:storage_blocks/amethyst'
         ]
     )
+  allthemods.remove({ id: /geore:.*tungsten_shard.*/ });
+  allthemods.remove({ id: /geore:.*monazite_shard.*/ });
+
+    allthemods.custom({
+        type: 'immersiveengineering:crusher',
+        energy: 800,
+        input: {
+            item: 'geore:coal_shard'
+        },
+        result: {
+            item: 'mekanism:dust_coal',
+            count: 1
+        },
+        secondaries: []
+    }).id('allthemods:immersiveengineering/crusher/coal_dust_from_shard')
+
+    allthemods.custom({
+      "type": "modern_industrialization:macerator",
+      "eu": 2,
+      "duration": 100,
+      "item_inputs": {
+        "item": "geore:coal_shard",
+        "amount": 1
+      },
+      "item_outputs": {
+        "item": "modern_industrialization:coal_dust",
+        "amount": 1
+      }
+    }).id('allthemods:modern_industrialization/macerator/coal_dust_from_shard')
+
+    allthemods.custom({
+      "type": "industrialforegoing:crusher",
+      "input": {
+        "item": "geore:coal_shard"
+      },
+      "output": {
+        "item": "mekanism:dust_coal",
+        "count": 1
+      }
+    }).id('allthemods:industrialforegoing/crusher/coal_dust_from_shard')
+
+    allthemods.replaceInput({ input: 'minecraft:coal' }, 'minecraft:coal', '#c:coal')
+
+    allthemods.remove({ id: 'extendedae:cobblestone_cell' })
+    allthemods.shaped('extendedae:infinity_cobblestone_cell', [
+        'GLG',
+        'WCW',
+        'DDD'
+    ], {
+        G: 'ae2:quartz_glass',
+        L: 'minecraft:lava_bucket',
+        W: 'minecraft:water_bucket',
+        C: 'megacells:cell_component_256m',
+        D: 'minecraft:diamond'
+    })
 })
+
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.  
