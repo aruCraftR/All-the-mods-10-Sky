@@ -1,59 +1,59 @@
 {
 	quest.1568CBFA09827137.quest_desc: ["功能与逻辑编程器相同,但此设备可在任意位置使用."]
-	quest.1B5C86AE05678420.quest_desc: ["右键点击接口时会显示多个选项,功能如下:\\n\\n&l设置面&r:可通过顶部菜单设定接口模拟的朝向,适用于需要特定输入/输出方向的机器.\\n\\n&l刻/操作&r:若接口设置为&a10刻&f/操作,则每&a10刻&f(0.5秒)执行一次导入/导出.\\n\\n&l优先级&r:优先将物品传输至具有更高优先级接口的容器.\\n\\n&l物品/能量通道&r:将系统分割为多通道网络,可从不同节点推送或提取资源."]
-	quest.2F37E284BB83BFF6.quest_desc: ["扳手可用于旋转或拆除特定方块,Shift+右键点击空气可切换模式."]
+	quest.1B5C86AE05678420.quest_desc: ["右键点击接口时会显示多个选项,其功能如下:\\n\\n&l设置面&r:可通过屏幕顶部设置接口模拟的”作用面"]
+	quest.2F37E284BB83BFF6.quest_desc: ["扳手用于旋转或拆除特定方块,Shift+右键点击空气可切换模式."]
 	quest.33F4A7613764A016.quest_desc: ["功能与导入器类似,但执行导出操作."]
-	quest.33F4A7613764A016.quest_subtitle: "导出操作"
-	quest.3BC94B0B922C0708.quest_desc: ["这些是制作导入设备的合成材料,适用于物品、流体或能量的传输."]
-	quest.3C9539083BCC145C.quest_desc: ["&a门瑞欧蜜蜂&f可用于自动化生产门瑞欧结晶方块碎片."]
-	quest.3C9539083BCC145C.quest_subtitle: "自动化门瑞尔生产"
-	quest.437F4945AFBE0825.quest_desc: ["右键点击导入器或导出器将显示筛选菜单.例如若变量卡设置为圆石,导出器将仅传输圆石.\\n\\n插入变量时左侧有&a”+”+”+”符号,点击可打开新界面,在此可调整传输速率实现&d无限&r传输物品/流体/能量,并执行其他操作.\\n\\n左上角设置选项与接口设置基本一致.\\n\\n注意:延迟可能限制传输速率."]
-	quest.44DA091B53473723.quest_desc: ["&a技工&f挤压器需消耗能量进行挤压操作."]
-	quest.450EDE68EC992A5A.quest_desc: ["接口会&c读取&r所连接的容器内容,类似于&bAE2&r存储总线.\\n\\n举例说明:装有100个圆石的箱子连接接口后,你的ID系统便会存储这100个圆石,理解很简单吧？"]
-	quest.450EDE68EC992A5A.quest_subtitle: "接口具备图形界面!"
-	quest.499CF9F39CED8899.quest_desc: ["&b&d动态联合/集成动力&f&r(ID)是集存储、物品/能量/流体传输等功能于一体的物流模组.\\n\\n门瑞尔树生长于门格林生物群系.\\n\\n本任务将介绍模组基础概念,若需深入理解请查阅任务奖励提供的指南书."]
+	quest.33F4A7613764A016.quest_subtitle: "导出系统"
+	quest.3BC94B0B922C0708.quest_desc: ["这些是制作导入设备的合成材料,可处理物品、流体或能量的导入."]
+	quest.3C9539083BCC145C.quest_desc: ["&a门瑞欧蜜蜂&f可用于自动化生产门瑞欧结晶方块块."]
+	quest.3C9539083BCC145C.quest_subtitle: "门瑞尔自动化"
+	quest.437F4945AFBE0825.quest_desc: ["右键点击导入器或导出器将显示菜单,主要用于过滤设置.例如若变量卡设置为圆石,导出器将仅传输圆石.\\n\\n插入变量时左侧有&a”+”号&f,点击可打开新界面,在此可调整传输速率实现&d无限&r传输物品/流体/能量,并执行其他操作.\\n\\n左上角设置选项与接口设置基本相同.\\n\\n注意:延迟可能限制传输速率."]
+	quest.44DA091B53473723.quest_desc: ["&a技工&f挤压机需消耗能量进行挤压操作."]
+	quest.450EDE68EC992A5A.quest_desc: ["接口会&c读取&r所连接的容器内容,可理解为&bAE2&r的存储总线.\\n\\n举例:装有100个圆石的箱子连接接口后,你的ID网络系统中即存在100个圆石,很简单对吧？"]
+	quest.450EDE68EC992A5A.quest_subtitle: "接口具备图形操作界面!"
+	quest.499CF9F39CED8899.quest_desc: ["&b&d集成动力&f&r(ID)是集存储、物品/能量/流体传输等功能于一体的物流模组.\\n\\n门瑞尔树生成于梅格林生物群系.\\n\\n本任务涵盖模组基础概念,如需深入探索请阅读任务奖励提供的指南书."]
 	quest.499CF9F39CED8899.quest_subtitle: "培育门瑞尔"
 	quest.499CF9F39CED8899.title: "&b&d动态联合/集成动力&f"
-	quest.4A05C037C0EE40BD.quest_desc: ["逻辑电缆与其他电缆不同.其他电缆充当漏斗作用,物品会从第一个容器进入电缆,再传输到第二个容器.而逻辑电缆直接省去中间环节,同时大幅减少卡顿.\\n\\n它们仅用于连接输入口和接口."]
-	quest.4A05C037C0EE40BD.quest_subtitle: "组建网络"
+	quest.4A05C037C0EE40BD.quest_desc: ["逻辑电缆与其他电缆不同.其他电缆充当漏斗功能,物品会从第一个容器进入电缆,再传输到第二个容器.而逻辑电缆直接省去中间环节,同时大幅减少卡顿.\\n\\n它们仅用于连接输入器和接口."]
+	quest.4A05C037C0EE40BD.quest_subtitle: "构建网络"
 	quest.4A05C037C0EE40BD.title: "逻辑电缆"
-	quest.4D4152032F0410D2.quest_desc: ["&a逻辑&f编程器可设置变量值.该值可设置为物品或流体用于过滤,甚至可设定数值.\\n\\n举个简单例子:在左侧选择&b物品&r,将任意物品放入弹出的GUI界面中央槽位,并在右下角槽位放置&b变量卡&r.若将此变量卡置入输入/输出器,将只会导入/导出该指定方块!"]
+	quest.4D4152032F0410D2.quest_desc: ["&a逻辑&f编程器可设置变量值.该值可设置为物品与流体用于过滤,甚至可设定数值.\\n\\n举个简单例子:在左侧选择&b物品&r,将任意物品放入弹出的GUI中央槽位,并在右下角槽位放置&b变量卡&r.若将此变量卡放入输入器/输出器,将只会导入/导出该指定方块!"]
 	quest.4D4152032F0410D2.quest_subtitle: "进阶应用"
 	quest.4D62C62B523C69EC.quest_desc: ["&a发电机&f通过燃烧煤炭等可燃燃料产生FE能量."]
-	quest.4D62C62B523C69EC.quest_subtitle: "能源供给!"
+	quest.4D62C62B523C69EC.quest_subtitle: "能源供应!"
 	quest.56BF647EA84FFF7E.quest_desc: ["实时显示正在进行的合成配方."]
 	quest.56BF647EA84FFF7E.quest_subtitle: "配方展示"
-	quest.60D9F04E91171D16.quest_desc: ["既可作为变量存储箱使用,亦可用于高级网络.\\n\\n若想构建高级网络,请务必阅读&e集成动力学&r相关章节."]
-	quest.62B4A37CFDECA679.quest_desc: ["&a门瑞欧&f树脂将流向挤压机的两侧.在挤压机旁放置&a烘干池&f可使树脂被收集.\\n\\n7.5秒后门瑞欧树脂将转化为&a水晶化门瑞欧&f."]
-	quest.65D89991A45BC042.quest_desc: ["将合成接口置于工作台上并右键点击,会显示&b变量卡&r槽位.\\n\\n通过逻辑编程器,在左上角搜索&e配方&r,创建自动合成配方并保存至&b变量卡&r.若配方&c&l需要&r次级合成材料,需为每个材料单独创建配方,最后将所有变量卡置入合成接口."]
+	quest.60D9F04E91171D16.quest_desc: ["可作为变量存储箱使用,亦可应用于高级网络.\\n\\n若需构建高级网络,请务必阅读&e集成动力学&r相关内容."]
+	quest.62B4A37CFDECA679.quest_desc: ["&a门瑞欧&f树脂将流向挤压器的两侧.在挤压器旁放置&a烘干池&f可使树脂被收集.\\n\\n7.5秒后门瑞欧树脂将转化为&a水晶石块&f化的门瑞欧."]
+	quest.65D89991A45BC042.quest_desc: ["将合成接口放置在工作台上并右键点击,会显示&b变量卡&r槽位.\\n\\n使用逻辑编程器时,在左上角搜索&e合成配方&r,创建自动合成配方后保存至&b变量卡&r.若配方&c&l需要&r合成子项目,请为每个子项目创建配方,最后将所有配方放入合成接口."]
 	quest.65D89991A45BC042.quest_subtitle: "&l&c自&6动&e合&a成&b系&d统&9"
-	quest.65FA86357BC60573.quest_desc: ["现在开始物品传输教学,步骤如下:\\n\\n&l1.&r 在容器(如箱子或储罐)上安装接口\\n\\n&l2.&r 根据提取/输送需求,在目标容器安装输入/输出器\\n\\n&l3.&r 用电缆连接两者,将变量卡置入输入/输出器即可运作!"]
+	quest.65FA86357BC60573.quest_desc: ["现在开始物品转移操作,步骤如下:\\n\\n&l1.&r 在容器(如箱子或储罐)上安装接口\\n\\n&l2.&r 根据提取或输送需求,在目标容器安装输入器或输出器\\n\\n&l3.&r 用电缆连接两者,将变量卡插入输入器/输出器即可运行!"]
 	quest.65FA86357BC60573.quest_subtitle: "物品传输!"
-	quest.68498ADEF9765F81.quest_desc: ["制作晶化门瑞欧块需先将门瑞欧原木放入挤压机.跳上挤压机将其转化为树脂.\\n\\n发送红石信号可清空挤压机内容物."]
-	quest.6ABDBE41880CFDA9.quest_desc: ["本任务由&6ATM官方团队&r或&2社区贡献者&r创作,适用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e保留所有权利&r许可,未经明确授权不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本文,说明正处于编辑模式."]
-	quest.6C9191DA4B1039D6.quest_desc: ["食用紫莓可短暂获得&a夜视&f效果."]
-	quest.6D75CF34957ECCD9.quest_desc: ["&a能量&f电池用于存储FE能量,传输能量需配合&6&a能量接口&f&r使用."]
+	quest.68498ADEF9765F81.quest_desc: ["制作晶化门瑞欧块需先将门瑞欧原木放入挤压器.跳上挤压器将其转化为门瑞欧树脂.\\n\\n可通过红石信号清空挤压器."]
+	quest.6ABDBE41880CFDA9.quest_desc: ["本任务由&6ATM管理员&r或&2社区贡献者&r创作,适用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e保留所有权利&r许可,未经&6ATM团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本说明,表明正处于编辑模式."]
+	quest.6C9191DA4B1039D6.quest_desc: ["食用心能浆果可赋予你&a夜视&f效果,持续短暂时间."]
+	quest.6D75CF34957ECCD9.quest_desc: ["&a能量&f电池用于存储FE(锻造能量).传输能量需借助&6&a能量接口&f&r."]
 	quest.6D75CF34957ECCD9.quest_subtitle: "能量存储"
-	quest.72F57D77C3FB366D.quest_desc: ["紫晶块可合成紫晶碎片,该碎片是集成动力学的主要合成材料."]
+	quest.72F57D77C3FB366D.quest_desc: ["结晶心能块可合成结晶心能碎片,这些碎片是ID的主要合成材料."]
 	quest.72F57D77C3FB366D.quest_subtitle: "&a核心&f合成材料"
-	quest.72F57D77C3FB366D.title: "紫晶碎片"
+	quest.72F57D77C3FB366D.title: "结晶心能碎片"
 	quest.73EA326304C01C3B.quest_desc: [
-		"将输入器置于需提取物品的容器上,接口器置于目标容器,用逻辑线缆连接两者.随后将变量卡插入输入器并进行自定义设置.\\n\\n可设置为以整数上限(超20亿)的数量导入物品."
+		"将输入器置于需提取物品的容器上,接口置于目标容器,用逻辑电缆连接两者.随后将变量卡插入输入器并按需调整.\\n\\n可设置为以整数上限(超20亿)导入物品."
 		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.73EA326304C01C3B.quest_subtitle: "物品导入"
-	quest.7413BB136EF9D6C5.quest_desc: ["&a技工&f型&a烘干池&f需消耗能量进行烘干操作"]
-	quest.79C1105A84B8BF8F.quest_desc: ["变量卡是启用物品导入等交互功能的关键组件.将其插入输入器的卡槽后,可通过+按钮编辑所有参数:导入数量、物品槽位、频道设置等均可通过该卡配置.\\n\\n若仅需基础物品转移功能,插入后调整传输上限即可."]
+	quest.7413BB136EF9D6C5.quest_desc: ["&a技工&f型&a烘干池&f消耗能量进行干燥作业"]
+	quest.79C1105A84B8BF8F.quest_desc: ["变量卡是启动物品导入等交互的必要组件.将其置入输入器卡槽后,可通过+按钮编辑所有参数:导入数量、物品槽位、频道设置等.\\n\\n若仅需基础物品转移功能,插入后调整传输量上限即可."]
 	quest.79C1105A84B8BF8F.title: "变量卡"
 	task.166BA23E49F6DCD6.title: "输入器"
-	task.1C045BB5FAFCF4D3.title: "接口器"
+	task.1C045BB5FAFCF4D3.title: "接口"
 	task.1C7C0F345759111C.title: "输出器"
 	task.22CCBBC66D509404.title: "网络系统!"
 	task.238B5BA2FAE9785B.title: "版权所有"
-	task.2656ACB55A33D4FE.title: "接口器图形界面"
+	task.2656ACB55A33D4FE.title: "接口图形界面"
 	task.267CE316E1F8FA83.title: "版权所有"
 	task.4209A06A392362DB.title: "输入器 \\ 输出器图形界面"
-	task.5DD862CF56AF7BF9.title: "紫晶木材"
+	task.5DD862CF56AF7BF9.title: "心能木材"
 }

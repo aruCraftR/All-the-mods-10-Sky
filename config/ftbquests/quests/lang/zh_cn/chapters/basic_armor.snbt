@@ -1,193 +1,264 @@
 {
-	quest.004D61425172324F.quest_desc: ["&8&a链甲胸甲&f&r性能略逊于铁甲,其在&l&2我的世界&r中的主要价值源于仅能通过交易与&a生物掉落&f获取的稀有特性.\\n\\n当然这是模改版本,现在我们可以直接合成——这反而使其失去了原本的意义..."]
+	quest.001B195541AE0FA1.quest_desc: ["这是一套有趣的盔甲,我用来&a弹跳&r和&a攀爬&r,随时随地."]
+	quest.001B195541AE0FA1.quest_subtitle: "12"
+	quest.001B195541AE0FA1.title: "&a黏液盔甲"
+	quest.004D61425172324F.quest_desc: ["&8&a链甲胸甲&f&r略逊于铁甲.它在&l&2Minecraft&r中的主要用途是其难以获取的特性,仅能通过交易和&a生物资源&f获得.\\n\\n当然,这是模组版,所以我们现在可以制作它了!但这失去了它原本的意义..."]
 	quest.004D61425172324F.quest_subtitle: "12"
 	quest.004D61425172324F.title: "&8&a链甲胸甲&f"
-	quest.04B31A600004F7CB.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r套件均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若你看到此文本,说明正处于编辑模式."]
-	quest.074EC1E636CD6605.quest_desc: ["&c下界合金盔甲&r是&l&2原版&r中最顶级的护甲.其&a护甲值&f与&b钻石甲&r相同,但具有更高的&a盔甲韧性&f.\\n\\n或许是因为需要&b钻石&r才能合成它!"]
+	quest.03C059DFF8F1BF41.quest_desc: ["由&2&lPickle Tweaks&r模组添加的&a绿宝石&r盔甲提供了一套属性与钻石盔甲相似的装备,但基本上免费,因为&a绿宝石&r很容易获得."]
+	quest.03C059DFF8F1BF41.quest_subtitle: "20"
+	quest.03C059DFF8F1BF41.title: "&a绿宝石盔甲"
+	quest.04B31A600004F7CB.quest_desc: ["此任务由&6AllTheMods Staff&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e版权所有&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务故意隐藏,如果您看到此消息,说明您正处于编辑模式."]
+	quest.06B8539B731FE4BA.quest_desc: ["来自&b&l&d戴尔设备&f&r模组的&4Eclipse合金&r盔甲是&b&lJDT&r盔甲的最终且最强大的等级.虽然它提供钻石盔甲般的防护,但其真正功能来自于其能量容量和可应用的众多升级."]
+	quest.06B8539B731FE4BA.quest_subtitle: "20"
+	quest.06B8539B731FE4BA.title: "&4月蚀合金盔甲"
+	quest.074EC1E636CD6605.quest_desc: ["&c下界合金盔甲&r是&l&2原版&r中最顶级的装备.它拥有与&b钻石甲&r相同的&a护甲值&f,但具备更高的&a盔甲韧性&f.\\n\\n或许是因为需要&b钻石&r才能合成它!"]
 	quest.074EC1E636CD6605.quest_subtitle: "20"
 	quest.074EC1E636CD6605.title: "&c下界合金盔甲"
-	quest.0ABB2264CBB82470.quest_desc: ["&d&l秘典&r护甲中的&a铁质&f套装."]
+	quest.0ABB2264CBB82470.quest_desc: [
+		"&d&l奥秘&r盔甲中的&a铁质甲胄&f.\\n"
+		"&5奥术师&r套装是基础模组&5&d新生魔艺&f&r中三种主要魔法盔甲类型之一,与&5巫师&r和&c战斗法师&r套装并列.\\n\\n它提供适中数量的魔法线槽位,可赋予特殊增益与能力.相比&c战斗法师&r盔甲更具多功能性,但比&5巫师&r盔甲的线槽更少且效果较弱."
+	]
 	quest.0ABB2264CBB82470.quest_subtitle: "15"
 	quest.0ABB2264CBB82470.title: "&5奥术师套装"
-	quest.0E2515424291BB59.quest_desc: ["&d&l秘典&r护甲系列的&b钻石&f版本!"]
+	quest.0CE23DBBBFBCC372.quest_desc: ["来自&6禁忌魔法&r模组的&6莫顿盔甲&r是一套基础的前期护甲,提供比皮革甲略好的防护.其显著特点是资源消耗低且外观酷炫,但仅作为过渡性装备使用."]
+	quest.0CE23DBBBFBCC372.quest_subtitle: "11"
+	quest.0CE23DBBBFBCC372.title: "&6莫顿盔甲"
+	quest.0E2515424291BB59.quest_desc: ["&d&l奥秘&r盔甲的&b钻石&r版本!"]
 	quest.0E2515424291BB59.quest_subtitle: "20"
 	quest.0E2515424291BB59.title: "&5战斗法师套装"
 	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
 	quest.0F1D6F4729CC38F3.quest_subtitle: "下界要塞"
 	quest.0F1D6F4729CC38F3.title: "Rib &a护甲夹板&f"
-	quest.10AA2B20D86747F7.quest_desc: ["&b铁核甲&r基础属性与铁甲相同,但拥有铁甲梦寐以求的特殊能力!\\n\\n查看物品描述以了解其具体功能!"]
+	quest.10AA2B20D86747F7.quest_desc: ["&b铁核盔甲&r属性与铁甲相同,但具备铁甲梦寐以求的特殊能力!\\n\\n查看物品描述以了解其具体功能!"]
 	quest.10AA2B20D86747F7.quest_subtitle: "15"
-	quest.10AA2B20D86747F7.title: "&b铁核护甲"
+	quest.10AA2B20D86747F7.title: "&b铁核盔甲"
 	quest.1245126B4338C019.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"]
 	quest.1245126B4338C019.quest_subtitle: "&a林地大厦&f"
 	quest.1245126B4338C019.title: "Vex &a护甲夹板&f"
-	quest.13517D17E6BF015F.quest_desc: ["使用&b钻石甲&r和若干&a下级精华物品&r可合成&a下级精华护甲&r!\\n\\n还可通过匠造进行升级!"]
+	quest.13517D17E6BF015F.quest_desc: ["用&b钻石盔甲&r和若干&a下级精华物品&r可合成&a下级精华盔甲&r!\\n\\n还可通过匠造进行升级!"]
 	quest.13517D17E6BF015F.quest_subtitle: "21"
-	quest.13517D17E6BF015F.title: "&a下级精华护甲"
-	quest.17A68C4E9E9EA2B7.quest_desc: ["&e金甲&r性能介于铁甲与&7皮革甲&r之间,但耐久度更接近&7皮革甲&r.\\n\\n其主要用途是穿着&e金甲&r时猪灵会保持中立."]
+	quest.13517D17E6BF015F.title: "&a下级精华盔甲"
+	quest.17A68C4E9E9EA2B7.quest_desc: ["&e黄金盔甲&r性能介于铁甲与&7皮革甲&r之间,但耐久度更接近&7皮革甲&r.\\n\\n除了穿戴时能让猪灵保持中立外,其用途有限."]
 	quest.17A68C4E9E9EA2B7.quest_subtitle: "11"
 	quest.17A68C4E9E9EA2B7.title: "&e黄金盔甲"
-	quest.19F58E291A543228.quest_desc: ["&d&l秘典&r护甲系列的&e黄金&f版本!"]
+	quest.19F58E291A543228.quest_desc: [
+		"&d&l奥秘&r盔甲的&e黄金&r版本!"
+		""
+		"这是一套&5魔法&r盔甲,基础防御极低但拥有最强的&5魔法&r升级潜力.与其他盔甲不同,它虽抗伤能力弱,却能极大增强法术威力.\\n\\n或许连经验修补都不需要..."
+	]
 	quest.19F58E291A543228.quest_subtitle: "11"
 	quest.19F58E291A543228.title: "&5巫师套装"
-	quest.1A8440C0048EEB02.quest_desc: ["&c炽金甲&r基础属性与铁甲相同,但拥有铁甲梦寐以求的特殊能力!\\n\\n查看物品描述以了解其具体功能!"]
+	quest.1A8440C0048EEB02.quest_desc: ["&c烈焰金甲&r属性与铁甲相同,但具备铁甲梦寐以求的特殊能力!\\n\\n查看物品描述以了解其具体功能!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
-	quest.1A8440C0048EEB02.title: "&c炽金护甲"
-	quest.1C27C74722A19FC1.quest_desc: ["消耗大量昂贵的&l&5&d通用机械&f&r物品可将&5难以获取之甲&r升级为&a机械套装&r!\\n\\n现在它能储存能量,遭受伤害时消耗能量而非生命值.\\n\\n使用升级单元可进一步增强性能!"]
-	quest.1C27C74722A19FC1.quest_subtitle: "能量供应上限"
+	quest.1A8440C0048EEB02.title: "&c烈焰金盔甲"
+	quest.1C27C74722A19FC1.quest_desc: ["用大量昂贵的&l&5&d通用机械&f&r物品可将&5难以获取盔甲&r升级为&a机械套装&r!\\n\\n现在它能储存能量,遭受伤害时消耗能量而非生命值.\\n\\n可使用升级单元进一步增强!"]
+	quest.1C27C74722A19FC1.quest_subtitle: "能量供应无上限"
 	quest.1C27C74722A19FC1.title: "&a机械套装"
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "古迹废墟"
-	quest.1CC627D3FB348C89.title: "塑形者&a护甲夹板&f"
-	quest.1D27EE427ECFD6CE.quest_desc: ["&c三级合金&f的&a增强&f版本."]
+	quest.1CC627D3FB348C89.title: "塑形者 &a护甲夹板&f"
+	quest.1D27EE427ECFD6CE.quest_desc: ["&c特提姆&r的&a增强&f版本"]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
-	quest.1D27EE427ECFD6CE.title: "&9帝国护甲"
+	quest.1D27EE427ECFD6CE.title: "&9至高护甲"
 	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
 	quest.1D91E37BFD8CC911.title: "&2绿宝石&r"
 	quest.1E3E688B3B52C4D2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"]
 	quest.1E3E688B3B52C4D2.quest_subtitle: "古迹废墟"
-	quest.1E3E688B3B52C4D2.title: "提升者&a护甲夹板&f"
+	quest.1E3E688B3B52C4D2.title: "提升者 &a护甲夹板&f"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8下界合金&r"
+	quest.1FAE4A884E083283.quest_desc: ["来自&d&l&d禁忌与奥秘&f&r模组的&6提尔&r护甲是该模组中最优秀的&a防御&f装备,提供强大的防护和耐久度.它是&5奥秘龙&r护甲的升级版,需要模组后期的&6锻造&r系统."]
+	quest.1FAE4A884E083283.quest_subtitle: "37"
+	quest.1FAE4A884E083283.title: "&6提尔护甲"
 	quest.1FC7ABEAB5018E79.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_redstone.png width:100 height:150 align:center}"]
 	quest.1FC7ABEAB5018E79.title: "&4红石&r"
 	quest.211FD55DEB635A98.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_copper.png width:100 height:150 align:center}"]
 	quest.211FD55DEB635A98.title: "&6铜&r"
-	quest.2296CE4418AE62D4.quest_desc: ["&6全金属护甲&r的强化版,专为增强&d&l&d新生魔艺&f&r法术效果而设计!"]
+	quest.2296CE4418AE62D4.quest_desc: ["&6全矿物护甲&r但强化了&d&l&d新生魔艺&f&r法术!"]
 	quest.2296CE4418AE62D4.quest_subtitle: "24"
-	quest.2296CE4418AE62D4.title: "&6全金属奥术装备"
+	quest.2296CE4418AE62D4.title: "&6全矿物奥术装备"
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "&a丛林神庙&f"
 	quest.243008D4DCD789D0.title: "Wild &a护甲夹板&f"
-	quest.28408BFAA54E4FC6.quest_desc: ["&7&a皮甲&f&r是最基础的护甲套装.\\n\\n这主要是因为&c&lMojang&r预期玩家最先获得它.\\n\\n但我几乎从不制作——毕竟要凑齐这么多&8牛&f皮&r实在太难了,抱歉啊&c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["&7&a皮甲&f&r是原版中最基础的护甲套装.\\n\\n这主要是因为&c&lMojang&r预期玩家首先获得它.\\n\\n但我几乎从不制作它,因为很难找到足够的&8牛&f和&8皮革&r,抱歉&c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7&a皮甲&f"
-	quest.2A4FE9644F3B9DC1.quest_desc: ["&2谨慎合金&f的&a增强&f版本."]
+	quest.2A4FE9644F3B9DC1.quest_desc: ["&2普鲁登提姆&r的&a增强&f版本"]
 	quest.2A4FE9644F3B9DC1.quest_subtitle: "26"
-	quest.2A4FE9644F3B9DC1.title: "&c第三级盔甲"
-	quest.2E0F82F7E1B74033.quest_desc: ["&d&l&a元素魔艺&f&r &2大地盔甲&r!"]
+	quest.2A4FE9644F3B9DC1.title: "&c特提姆护甲"
+	quest.2AC0FE608759AD53.quest_desc: ["来自&e&l机械动力&r的潜水护甲不仅提供防护,还赋予多种水下建造和工作的增益效果."]
+	quest.2AC0FE608759AD53.quest_subtitle: "7 到 15"
+	quest.2AC0FE608759AD53.title: "&9潜水护甲"
+	quest.2E0F82F7E1B74033.quest_desc: [
+		"&d&l&a元素魔艺&f&r &2大地护甲&r!\\n"
+		"强化&2大地&r符文,提升土系和毒系法术效果.\\n\\n减少来自&2大地&r来源的伤害.\\n\\n穿戴全套时可将部分受到的&2大地&r伤害转化为魔力."
+	]
 	quest.2E0F82F7E1B74033.quest_subtitle: "15"
 	quest.2E0F82F7E1B74033.title: "&2地脉法师套装"
-	quest.2EAA6BE598C83F24.quest_desc: ["&d&l&a元素魔艺&f&r &3水域盔甲&r!"]
+	quest.2EAA6BE598C83F24.quest_desc: [
+		"&d&l&a元素魔艺&f&r &3水流护甲!\\n"
+		"增强&3水流&r符文效果.\\n\\n减少来自&3水流&r来源的伤害.\\n\\n穿戴全套时可将部分受到的&3水流&r伤害转化为魔力."
+	]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
-	quest.2EAA6BE598C83F24.title: "&3水术师套装"
+	quest.2EAA6BE598C83F24.title: "&3水语法师套装"
 	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
 	quest.338BD467EBE6EE1F.quest_subtitle: "&a掠夺者前哨站&f"
 	quest.338BD467EBE6EE1F.title: "哨兵 &a护甲夹板&f"
-	quest.3403D7502F7BC897.quest_desc: ["字面意义上的无敌,任何攻击都无法对你造成伤害.\\n\\n当前你需要用&e量子&b升级组件&r强化&c下界合金盔甲&r,但&6&lATM团队&r的伙伴们正在努力提升该合成配方的难度!\\n\\n而你根本无法阻止!&l哇哈哈哈"]
+	quest.3403D7502F7BC897.quest_desc: ["真正意义上的无敌,任何攻击都无法命中并造成伤害.\\n\\n当前需要通过&e量子&b升级&r强化&c下界合金护甲&r,但&6&lATM团队&r正在努力使合成配方更困难!\\n\\n而你无法阻止这一切!&l哇哈哈哈"]
 	quest.3403D7502F7BC897.quest_subtitle: "无敌"
-	quest.3403D7502F7BC897.title: "&e量子&b盔甲&r(&l&7现代工业化&r)"
-	quest.34D14B807A2DAC0F.quest_desc: ["你以为&5&l&d通用机械&f&r和&l&7&d现代工业化&f&r能独占乐趣？\\n\\n这款&5量子盔甲&r基础属性与&c下界合金盔甲&r相当,但如同&a麦卡套装&r般能利用能量生成护盾.\\n还可安装升级模块获得更强能力!例如飞行、&a夜视&f甚至自动充能.\\n\\n最精彩的是它能&a链接至&f你的存储系统!从此无论身处何地,都能自动提取能量并存取物品."]
-	quest.34D14B807A2DAC0F.quest_subtitle: "能量供应无上限"
-	quest.34D14B807A2DAC0F.title: "&5量子盔甲&r(&l&b应用能源2&r)"
+	quest.3403D7502F7BC897.title: "&e量子&b护甲&r(&l&7MI&r)"
+	quest.34D14B807A2DAC0F.quest_desc: ["你以为&5&l&d通用机械&f&r和&l&7&d现代工业化&f&r能独占所有乐趣？\\n\\n这套&5量子护甲&r基础属性与&c下界合金甲&r相当,但如同&aMeka套装&r般能将能量转化为护盾.\\n还可安装升级模块增强实力!例如飞行、&a夜视&f甚至自动充能功能.\\n\\n最妙的是它能&a直连&f你的存储系统!从此无论身处何地,都能自动提取能量与任意物品."]
+	quest.34D14B807A2DAC0F.quest_subtitle: "能量供给无上限"
+	quest.34D14B807A2DAC0F.title: "&5量子护甲&r(&l&b应用能源2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
 	quest.351159C55159C316.quest_subtitle: "&a末地城&f与末地船"
-	quest.351159C55159C316.title: "尖塔 &a护甲夹板&f"
-	quest.3512F47DADC07EAE.quest_desc: ["&5难以获取之盔甲&r但强化了&d&l&d新生魔艺&f&r法术效果!"]
+	quest.351159C55159C316.title: "尖塔&a护甲夹板&f"
+	quest.3512F47DADC07EAE.quest_desc: ["&5无法获取护甲&r但强化了&d&l&d新生魔艺&f&r法术效果!"]
 	quest.3512F47DADC07EAE.quest_subtitle: "40"
-	quest.3512F47DADC07EAE.title: "&5奥秘学者难以获取装备"
+	quest.3512F47DADC07EAE.title: "&5无法获取奥秘法具"
 	quest.3685B52446DEC809.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_gold.png width:100 height:150 align:center}"]
 	quest.3685B52446DEC809.title: "&e黄金&r"
 	quest.39796D8EE440F318.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"]
 	quest.39796D8EE440F318.quest_subtitle: "&a沙漠神殿&f"
 	quest.39796D8EE440F318.title: "Dune &a护甲夹板&f"
+	quest.3A840658A11D16A5.quest_desc: ["来自&7&d气动工艺&f&r的&7气动护甲&r是终局级模块化装备,依靠压力网络的压缩空气运作.其最大亮点是可升级性:实现超量子速飞行、极限跳跃高度及全方位危险防护."]
+	quest.3A840658A11D16A5.quest_subtitle: "15+"
+	quest.3A840658A11D16A5.title: "&7&a气动装甲&f"
 	quest.3AA836E8EDB52097.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_lapis.png width:100 height:150 align:center}"]
 	quest.3AA836E8EDB52097.title: "&9&a青金石&f&r"
-	quest.3ABE7074E500494D.quest_desc: ["&7钢&r广泛用于&5&l&d通用机械&f&r的多数机器...外加相当不错的盔甲!"]
+	quest.3ABE7074E500494D.quest_desc: ["&7钢&r是&5&l&d通用机械&f&r多数机器的核心材料...外加性能优异的护甲!"]
 	quest.3ABE7074E500494D.quest_subtitle: "20"
-	quest.3ABE7074E500494D.title: "&7&a钢制盔甲&f"
+	quest.3ABE7074E500494D.title: "&5&l&d通用机械&f&r &7&a钢制护甲&f"
 	quest.3AE0198177A8E91B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"]
 	quest.3AE0198177A8E91B.quest_subtitle: "沉船与埋藏的宝藏"
-	quest.3AE0198177A8E91B.title: "海岸 &a护甲夹板&f"
+	quest.3AE0198177A8E91B.title: "海岸&a护甲夹板&f"
+	quest.3C662D3A3537F514.quest_desc: ["来自&6&l&d奥瑞科技&f&r模组的Exo护甲专为功能性与探索设计而非战斗.每件部件都提供独特增益,但基础防护值较低."]
+	quest.3C662D3A3537F514.quest_subtitle: "17"
+	quest.3C662D3A3537F514.title: "&7Exo头盔"
 	quest.3EA3A6414AB8A39C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"]
 	quest.3EA3A6414AB8A39C.quest_subtitle: "试炼大厅"
 	quest.3EA3A6414AB8A39C.title: "Flow &a护甲夹板&f"
 	quest.3FCEF8FF45E51608.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_quartz.png width:100 height:150 align:center}"]
+	quest.44CC11E67ADD0556.quest_desc: ["来自&d&l&d禁忌与奥秘&f&r模组的&5奥秘龙铠&r是顶级护甲,提供卓越防护.该护甲是黑曜石护甲的升级版,需通过模组中的&6&a赫菲斯托斯锻炉&f&r获取特殊材料."]
+	quest.44CC11E67ADD0556.quest_subtitle: "30"
+	quest.44CC11E67ADD0556.title: "&5奥秘龙铠"
 	quest.452DC5EB02D592B8.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_amethyst.png width:100 height:150 align:center}"]
 	quest.452DC5EB02D592B8.title: "&5紫水晶&r"
-	quest.497D222F74A52DF5.quest_desc: ["这才是我想要的!铁矿十分常见,其盔甲在游戏初期极为实用.\\n\\n僵尸和骷髅根本不堪一击!"]
+	quest.4915960FBC94AD0E.quest_desc: ["&7&a压缩铁甲&f&r是前期基础护甲,作为模组装备体系的入门套.由皮革甲与&7压缩铁&r合成,示范压缩材料制作流程.\\n\\n防护值略高于皮革甲,与铁甲持平但弱于钻石甲."]
+	quest.4915960FBC94AD0E.quest_subtitle: "15"
+	quest.4915960FBC94AD0E.title: "&7&a压缩铁甲&f"
+	quest.497D222F74A52DF5.quest_desc: ["这才叫实用!铁矿常见且护甲前期性能卓越.\\n\\n僵尸与骷髅根本不足为惧!"]
 	quest.497D222F74A52DF5.quest_subtitle: "15"
-	quest.4A9CB8778D37049F.quest_desc: ["你需要通过觉醒&a魔法仪式&f获取道具,才能对&4至高盔甲&r进行再次觉醒&a魔法仪式&f.\\n\\n我认为物超所值；这是能从&2&l神秘农业&r获得的最佳盔甲!"]
+	quest.4A9CB8778D37049F.quest_desc: ["需通过觉醒&a魔法仪式&f获取材料,才能对&4至高护甲&r进行二次觉醒.\\n\\n我认为物超所值——这是&2&l神秘农业&r体系中的最强护甲!"]
 	quest.4A9CB8778D37049F.quest_subtitle: "36"
-	quest.4A9CB8778D37049F.title: "&6觉醒至高盔甲"
+	quest.4A9CB8778D37049F.title: "&6觉醒至高护甲"
 	quest.4B9C54DA5CB6D5C9.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"]
-	quest.4B9C54DA5CB6D5C9.quest_subtitle: "考古遗址"
+	quest.4B9C54DA5CB6D5C9.quest_subtitle: " Trail遗迹"
 	quest.4B9C54DA5CB6D5C9.title: "Host &a护甲夹板&f"
+	quest.4C2BB25A757CE834.quest_desc: ["&7橡胶&r护甲是游戏初期的防护套装.它主要作为中期科技合成材料而非正式装备,提供极低防护值,不适用于&4战斗&r或&2探索&r."]
+	quest.4C2BB25A757CE834.quest_subtitle: "+2"
+	quest.4C2BB25A757CE834.title: "&8橡胶护甲"
 	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
 	quest.4DF683461225690F.title: "&7铁&r"
-	quest.5064D5F99E2C69C8.quest_desc: ["&9帝国金属&f的&a强化&f版本."]
+	quest.5064D5F99E2C69C8.quest_desc: ["&9帝国合金&r的&a增强&f版本"]
 	quest.5064D5F99E2C69C8.quest_subtitle: "29"
-	quest.5064D5F99E2C69C8.title: "&4至高盔甲"
-	quest.52AFABA08674B6A8.quest_desc: ["&3振金盔甲&r但强化了&d&l&d新生魔艺&f&r法术效果!"]
+	quest.5064D5F99E2C69C8.title: "&4至高合金护甲"
+	quest.52AFABA08674B6A8.quest_desc: ["&3振金护甲&r但强化了&d&l&d新生魔艺&f&r法术效果!"]
 	quest.52AFABA08674B6A8.quest_subtitle: "32"
-	quest.52AFABA08674B6A8.title: "&3振金奥秘学者装备"
-	quest.52B61FB01D7C12A4.quest_desc: ["&a地狱金属&f的&a强化&f版本."]
+	quest.52AFABA08674B6A8.title: "&3振金奥法装备"
+	quest.52B61FB01D7C12A4.quest_desc: ["&a地狱合金&r的&a增强&f版本"]
 	quest.52B61FB01D7C12A4.quest_subtitle: "23"
-	quest.52B61FB01D7C12A4.title: "&2谨慎盔甲"
-	quest.5865951E4F81C91F.quest_desc: ["&7锇&r + &6荧石&r = &e&a强化荧石&f&r!"]
+	quest.52B61FB01D7C12A4.title: "&2谨慎合金护甲"
+	quest.57F3F5875F7CF80C.quest_desc: ["来自&b&l&d戴尔设备&f&r模组的&3天界宝石&r护甲是三级能量驱动套装,提供钻石级防护.其酷炫功能源自可安装并充能的升级模块."]
+	quest.57F3F5875F7CF80C.quest_subtitle: "20"
+	quest.57F3F5875F7CF80C.title: "&3天界宝石护甲"
+	quest.5865951E4F81C91F.quest_desc: [
+		"&7锇&r + &6荧石&r = &e&a强化荧石&f&r!\\n"
+		"它更&7坚固&r."
+	]
 	quest.5865951E4F81C91F.quest_subtitle: "20"
-	quest.5865951E4F81C91F.title: "&e&a强化荧石&f 盔甲"
+	quest.5865951E4F81C91F.title: "&e&a强化荧石&f护甲"
+	quest.59771D9B8CAD80C5.quest_desc: ["这可能是你在TTS中获得的&3第一套&r护甲,因为&7燧石&r极易获取."]
+	quest.59771D9B8CAD80C5.quest_subtitle: "12"
+	quest.59771D9B8CAD80C5.title: "&7燧石护甲"
+	quest.5A21B16F7600561A.quest_desc: ["纸板护甲是个玩笑,它是整个模组包中最差的护甲.不过或许对潜行有些益处..."]
+	quest.5A21B16F7600561A.quest_subtitle: "4"
+	quest.5A21B16F7600561A.title: "&6纸板护甲"
 	quest.5A9C646718EE92C2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vibranium.png width:100 height:150 align:center}"]
 	quest.5A9C646718EE92C2.title: "&3振金&r"
 	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
 	quest.5C83D5CDD980FD9A.quest_subtitle: "&a堡垒遗迹&f"
-	quest.5C83D5CDD980FD9A.title: "猪鼻 &a护甲夹板&f"
-	quest.5DDC15AAFD2CAF47.quest_desc: ["&b钻石盔甲&r是&l&2原版&r系列中的下一级,通常也是我们开始附魔的时候!\\n\\n我推荐保护及其各种变种,对于模组我们不必太挑剔!"]
+	quest.5C83D5CDD980FD9A.title: "猪鼻&a护甲夹板&f"
+	quest.5DDC15AAFD2CAF47.quest_desc: ["&b钻石护甲&r是&l&2原版&r系列的下一阶段,通常也是我们开始附魔的起点!\\n\\n推荐使用保护类及其变种附魔,模组环境下不必过于挑剔!"]
 	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
-	quest.5DDC15AAFD2CAF47.title: "&b钻石盔甲"
+	quest.5DDC15AAFD2CAF47.title: "&b钻石护甲"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
-	quest.5E7CCDE9229A646A.title: "&6全金属&r"
+	quest.5E7CCDE9229A646A.title: "&6全矿物&r"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
-	quest.62161BDE9AAAA4BF.quest_subtitle: "遗迹追踪"
-	quest.62161BDE9AAAA4BF.title: "寻路者 &a护甲夹板&f"
-	quest.65A529C8238E89F1.quest_desc: ["多亏了&5&l&d通用机械&f&r,我们现在可以用&9&a青金石&f&r制作盔甲!\\n\\n不过它有点烂……"]
+	quest.62161BDE9AAAA4BF.quest_subtitle: "古迹废墟"
+	quest.62161BDE9AAAA4BF.title: "寻路者&a护甲夹板&f"
+	quest.65A529C8238E89F1.quest_desc: ["借助&5&l&d通用机械&f&r,我们现在可以用&9&a青金石&f&r制作护甲!\\n\\n不过性能较差..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
-	quest.65A529C8238E89F1.title: "&9&a青金石&f 盔甲"
+	quest.65A529C8238E89F1.title: "&9&a青金石&f护甲"
 	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
 	quest.65E733AACBE62EDB.quest_subtitle: "远古城市"
 	quest.65E733AACBE62EDB.title: "Ward &a护甲夹板&f"
 	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
-	quest.66C21934DAFFAC7F.quest_subtitle: "由远古守卫者掉落"
+	quest.66C21934DAFFAC7F.quest_subtitle: "远古守卫者掉落"
 	quest.66C21934DAFFAC7F.title: "Tide &a护甲夹板&f"
 	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
 	quest.68DABFFB6B3E1A57.quest_subtitle: "要塞"
 	quest.68DABFFB6B3E1A57.title: "Eye &a护甲夹板&f"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
 	quest.6B671CB07D046BEC.title: "&b钻石&r"
-	quest.6C5F9D0D447EFB9C.quest_desc: ["你以为&l&2原版&r就是全部了吗？\\n\\n&6全金属盔甲&r拥有更多的&a护甲值&f和&a盔甲韧性&f,外加对魔法的额外防护和其他增益,你可以在&6&l全金属&r任务页面阅读详情!\\n\\n顺便说一句,制作它需要&c下界合金&r."]
+	quest.6C5F9D0D447EFB9C.quest_desc: ["以为只有&l&2原版&r装备？\\n\\n&6全矿物护甲&r拥有更高&a护甲值&f和&a韧性&f,还提供魔法抗性等强化效果,详见&6&l全矿物&r任务页面!\\n\\n注意合成需要&c下界合金&r."]
 	quest.6C5F9D0D447EFB9C.quest_subtitle: "24"
-	quest.6C5F9D0D447EFB9C.title: "&6全金属盔甲"
-	quest.6F76DA3BBAE8337B.quest_desc: ["我们能从&6&l全金属&r获得的最强盔甲,&5无法获得&r!\\n\\n现在拥有100%的&a击退抗性&f和全面提升的属性!\\n\\n还需要&3振金盔甲&r来制作."]
+	quest.6C5F9D0D447EFB9C.title: "&6全矿物护甲"
+	quest.6D45C78AD098AF87.quest_desc: ["这是高度特化的防护套装,专为抵御电击危害而非&4战斗&r设计.它作为”法拉第笼”使使用者免疫&7电线&r和&e特斯拉线圈&r的伤害."]
+	quest.6D45C78AD098AF87.quest_subtitle: "7"
+	quest.6D45C78AD098AF87.title: "&7法拉第护甲"
+	quest.6F76DA3BBAE8337B.quest_desc: ["这是我们能从&6&l全金属&r和&5无法合金&r中获得的最强护甲!\\n\\n现具备100% &a击退抗性&f且全属性提升!\\n\\n制作还需&3振金护甲&r."]
 	quest.6F76DA3BBAE8337B.quest_subtitle: "40"
-	quest.6F76DA3BBAE8337B.title: "&5无法获得盔甲"
-	quest.71C552678A0F649F.quest_desc: ["&7锇&r生成在深板岩附近,只需要铁镐开采,但它的属性比&c下界合金&r更好!"]
+	quest.6F76DA3BBAE8337B.title: "&5无法合金护甲"
+	quest.71C552678A0F649F.quest_desc: ["&7锇&r生成于深板岩附近,仅需铁镐即可开采,但属性优于&c下界合金&r!"]
 	quest.71C552678A0F649F.quest_subtitle: "21"
-	quest.71C552678A0F649F.title: "&7锇盔甲"
+	quest.71C552678A0F649F.title: "&7锇护甲"
 	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
-	quest.7279700A93E8630B.title: "&5无法获得&r"
+	quest.7279700A93E8630B.title: "&5无法合金&r"
 	quest.729DCB919A92B735.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"]
-	quest.729DCB919A92B735.quest_subtitle: "试炼密室"
+	quest.729DCB919A92B735.quest_subtitle: "试炼场"
 	quest.729DCB919A92B735.title: "Bolt &a护甲夹板&f"
-	quest.72DDA413D73E3235.quest_desc: ["&6&l全金属&r盔甲系列的下一级&3振金&r,各项属性大幅提升!\\n\\n你需要&6全金属盔甲&r来制作它."]
+	quest.72DDA413D73E3235.quest_desc: ["作为&6&l全金属&r护甲系列的进阶,&3振金&r护甲全属性大幅提升!\\n\\n需&6全金属护甲&r方可合成."]
 	quest.72DDA413D73E3235.quest_subtitle: "32"
-	quest.72DDA413D73E3235.title: "&3振金盔甲"
+	quest.72DDA413D73E3235.title: "&3振金护甲"
 	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
 	quest.76CDF08465700AA2.quest_subtitle: "远古城市"
-	quest.76CDF08465700AA2.title: "寂静 &a护甲夹板&f"
-	quest.79D3055DE0EEA6B0.quest_desc: ["&d&l&a元素魔艺&f&r &c火焰盔甲&r!"]
+	quest.76CDF08465700AA2.title: "寂静&a护甲夹板&f"
+	quest.79D3055DE0EEA6B0.quest_desc: [
+		"&d&l&a元素魔艺&f&r &c火焰护甲&r!\\n"
+		"此套装强化&c火焰&r符文,使火系法术更强大.\\n\\n提供&c火焰&r伤害抗性,全套穿戴时抗性更高.\\n\\n全套穿戴时可将部分所受&c火焰&r伤害转化为魔力."
+	]
 	quest.79D3055DE0EEA6B0.quest_subtitle: "15"
-	quest.79D3055DE0EEA6B0.title: "&c火焰法师套装"
-	quest.7B500E0577BDFF8F.quest_desc: ["&6青铜&r是&6铜&r和锡的合金.\\n\\n制作这种合金的方法有十几种,我不会告诉你正确的方法."]
+	quest.79D3055DE0EEA6B0.title: "&c纵火者套装"
+	quest.7B500E0577BDFF8F.quest_desc: ["&6青铜&r由&6铜&r与锡合金制成.\\n\\n合成方式多样,正确方法需自行探索."]
 	quest.7B500E0577BDFF8F.quest_subtitle: "18"
-	quest.7B500E0577BDFF8F.title: "&6青铜盔甲"
-	quest.7C1D407CF67786F6.quest_desc: ["&d&l&a元素魔艺&f&r 空气盔甲!"]
+	quest.7B500E0577BDFF8F.title: "&6青铜护甲"
+	quest.7C1D407CF67786F6.quest_desc: [
+		"&d&l&a元素魔艺&f&r &e空气护甲&r!\\n"
+		"强化&e空气&r符文,适用于闪电与跃迁等机动法术.\\n\\n减少&e空气&r源伤害,全套穿戴时将部分所受伤害转化为魔力."
+	]
 	quest.7C1D407CF67786F6.quest_subtitle: "15"
-	quest.7C1D407CF67786F6.title: "&f气法师套装"
-	quest.7F11ABFB2E21B7E4.quest_desc: ["盔甲是&l&2我的世界&r中非常重要的组成部分,它能保护你免受伤害.\\n\\n不同部位的盔甲提供不同的&a护甲值&f,这些数值决定了盔甲的防护效果——越高越好!\\n\\n多数盔甲可通过&a盔甲纹饰&f进行装饰改造,将盔甲与&a盔甲纹饰&f及染色物品结合即可改变外观!"]
-	quest.7F11ABFB2E21B7E4.title: "&l&b基础盔甲&r"
-	quest.7FABB77A60E7962C.quest_desc: ["将黑曜石与&b钻石&r融合可获得&a强化黑曜石粉&f!\\n\\n接着压缩&7锇矿&r使其形成锭状.\\n\\n最终这些锭能制成性能超越&6全金属盔甲&r的顶级装备!"]
+	quest.7C1D407CF67786F6.title: "&f气法者套装"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["护甲是&l&2我的世界&r中的重要组成部分,能保护你免受伤害.\\n\\n不同护甲部件提供不同&a护甲值&f,数值越高防护效果越佳!\\n\\n多数护甲可通过&a护甲夹板&f装饰:将护甲与&a护甲夹板&f及染色物品结合即可改变外观!"]
+	quest.7F11ABFB2E21B7E4.title: "&l&b基础护甲&r"
+	quest.7FABB77A60E7962C.quest_desc: ["将黑曜石与&b钻石&r融合可得&a强化黑曜石粉&f!\\n\\n再将&7锇&r压缩其中即可铸成锭.\\n\\n最终可制成属性超越&6全金属护甲&r的护具!"]
 	quest.7FABB77A60E7962C.quest_subtitle: "31"
-	quest.7FABB77A60E7962C.title: "&5&a强化黑曜石&f盔甲"
+	quest.7FABB77A60E7962C.title: "&5&a强化黑曜石&f护甲"
+	task.27B97C63DC58278E.title: "&a潜水头盔&f"
+	task.337C841AD2B16764.title: "潜水气罐"
 	task.4BDF268861CA744F.title: "版权所有"
 	task.57895147416291FE.title: "版权所有"
+	task.597120AD20EEBF1D.title: "&a潜水靴子&f"
+	task.73142F195D9B100C.title: "外骨骼胸甲"
 }

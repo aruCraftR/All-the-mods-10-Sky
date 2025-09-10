@@ -1,89 +1,89 @@
 {
 	quest.008D186B4E0ED14F.quest_desc: [
-		"&a蒸汽炉&f是另一种利用蒸汽进行高效加工的机器.\\n\\n向&a蒸汽炉&f注入蒸汽后,可对其中物品进行熔炼处理,既能将矿石熔炼成锭,也能烹饪食物.\\n\\n该机器由2x2x2的&a蒸汽炉&f方块构成."
+		"&a蒸汽炉&f是另一种利用蒸汽实现实用功能的机器.\\n\\n向&a蒸汽炉&f注入蒸汽后,可对其中物品进行熔炼处理,既能将矿石熔炼成锭,也能烹饪食物.\\n\\n该机器由2x2x2个&a蒸汽炉&f方块构成."
 		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
 	]
 	quest.008D186B4E0ED14F.title: "&a蒸汽炉&f"
 	quest.020E6AF37A0421C8.quest_desc: [
-		"&a水槽&f如同露天放置的储桶,但容量更为庞大.它可收集并储存水源供&a蒸汽机车&f使用.\\n\\n产水量取决于生物群落类型及露天程度.\\n\\n由3x3x3的&a水槽&f方块搭建而成,中心区域为空心结构."
+		"&a水槽&f如同置于户外的储水桶,但容量更为庞大.它能收集并储存水源供&a蒸汽机车&f使用.\\n\\n产水量取决于所在生物群落及露天环境.\\n\\n由3x3x3个&a水槽&f方块构成,中心为空心结构."
 		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
 	]
 	quest.020E6AF37A0421C8.title: "&a水槽&f"
-	quest.032B654201E71618.quest_desc: ["这些&c轨道工具套件&r用于将实体(即生物)与&7矿车&r结合使用.\\n\\n&c装载套件&r会收集附近生物并将其装入&7矿车&r.\\n&c卸载套件&r可将生物从&7矿车&r中释放.\\n&c倾倒套件&r会使矿车内的生物坠落到所载&6轨道&r下方的空间."]
-	quest.032B654201E71618.title: "用于移动实体的&c轨道工具套件&r"
-	quest.035C52EF63AD23A7.quest_desc: ["正如模组名称&l铁路工艺&r所示,其核心内容&5火车&r与&6铁轨&r至关重要.\\n\\n原版铁轨虽能适用多数场景,但众所周知其性能有限.制作&a强化型&r铁轨需要更特殊的材料配方!立即合成吧!(可能需要使用机器制造组件,请查阅任务相关章节!)"]
+	quest.032B654201E71618.quest_desc: ["这些&c轨道工具包&r用于让&7矿车&r搭载实体(即生物).\\n\\n&c装载工具包&r会捕捉附近生物并将其放入&7矿车&r.\\n&c卸载工具包&r可将生物移出&7矿车&r.\\n&c倾倒工具包&r会使矿车内的生物坠入下方&6轨道&r."]
+	quest.032B654201E71618.title: "&c用于运输实体的轨道工具包&r"
+	quest.035C52EF63AD23A7.quest_desc: ["正如模组名称&l铁路工艺&r所示,其核心内容&5列车&r与&6铁轨&r至关重要.\\n\\n原版&2普通铁轨&r虽能适用多数场景,但众所周知其性能有限.制作&a强化型&r铁轨需要更多特殊材料!立即合成吧!(可能需要使用机器制造组件,请查阅任务相关部分!)"]
 	quest.035C52EF63AD23A7.title: "&6&l铁轨&r!"
-	quest.068294A7C21DE550.quest_desc: ["&c轨道工具套件&r可与&6基础铁轨&r合成特殊&6功能铁轨&r.\\n\\n这些特种铁轨对&5火车&r运营至关重要,可实现停车控制、列车调度及红石信号发射等功能."]
-	quest.068294A7C21DE550.title: "&c&l轨道系统&r!"
-	quest.08457BEED799E600.quest_desc: ["这些新型&7工程矿车&r主要用于&6轨道&r铺设作业.\\n\\n&7铺轨车&r负责部署&6铁轨&r,而&7&a轨道拆除器&f&r则执行清除作业.\\n\\n&7轨道更换车&r可替换现有&6铁轨&r类型,&7轨道基础修整车&r则更换&6铁轨&r下方的支撑方块."]
-	quest.08457BEED799E600.title: "&7工程矿车&r与&6轨道系统"
+	quest.068294A7C21DE550.quest_desc: ["&c轨道工具包&r可与&6铁轨&r合成制作特殊&6功能性铁轨&r.\\n\\n这些特制铁轨对&5列车&r运行至关重要,可实现:强制停车、推进移动、红石信号发射等功能."]
+	quest.068294A7C21DE550.title: "&c&l轨道&r!"
+	quest.08457BEED799E600.quest_desc: ["这些新型&7矿车&r主要用于铺设&6轨道&r.\\n\\n&7轨道铺设机&r可放置&6轨道&r,而&7&a轨道拆除器&f&r可移除&6轨道&r.\\n\\n&7轨道替换机&r能将&6轨道&r更换为不同类型,&7轨道底层更换机&r则可替换&6轨道&r下方的方块."]
+	quest.08457BEED799E600.title: "&7矿车&r与&6轨道&r"
 	quest.0A43FD0B5C76C1C5.quest_desc: [
-		"&l&7铁路工艺&r新增了&a爆裂熔炉&f多方块结构,可将铁炼制成钢!\\n\\n建造需34个&a高炉砖&f,构成3格宽、3格长、4格高的结构.精确中心区域需保留&a两格&f空心空间.当结构完整成型并出现图形操作界面时即表示建造完成.\\n\\n在此界面可投入任何形式的铁料,产出钢与粒化矿渣."
+		"&l&7铁路工艺&r新增了&a爆裂熔炉&f多方块结构,可将铁转化为钢!\\n\\n建造需要34个&a高炉砖&f,结构为3格宽、3格长、4格高,正中心&a两&f格必须留空.当整体结构成型并出现操作界面时即建造完成.\\n\\n在此可投入任何形态的铁,产出钢与粒化沙."
 		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
 	]
 	quest.0A43FD0B5C76C1C5.title: "高炉(炼钢)"
-	quest.104049993CC62E7F.quest_desc: ["高级物品装载器具备普通装载器的全部功能,且可在&6轨道&r附近任意位置使用——包括两侧、上方或对向位置.使用&4撬棍&r可调整其朝向."]
+	quest.104049993CC62E7F.quest_desc: ["高级物品装载器具备基础装载器所有功能,且可在&6轨道&r周边任意位置使用——相邻格、上方格或另一侧.使用&4撬棍&r改变其方向."]
 	quest.104049993CC62E7F.title: "高级物品装载器"
 	quest.1698565EBB68DC85.quest_desc: [
-		"&6&aY型轨道&f&r是通过道钉锤制作的第二种轨道,能将两条&6轨道&r汇入一条.当一条&6轨道&r与另一条相交时,&6Y型轨道&r会将第一条轨道上的&7矿车&r导流至相交轨道."
+		"&6&aY型轨道&f&r是使用道钉锤制作的第二种轨道,可将两条&6轨道&r汇入一条.若存在交叉轨道,&6Y型轨道&r会将第一条轨道上的&7矿车&r导入交叉轨道."
 		"{image:atm:textures/questpics/railcraft/rail_wye.png width:100 height:100 align:center}"
 	]
 	quest.1698565EBB68DC85.title: "&6&aY型轨道&f"
 	quest.170118E3C3C072E5.quest_desc: [
-		"&6道岔轨道&r是道钉锤制作的最終级&6轨道&r,作为常规&6轨道&r的交汇点.&7矿车&r会保持原有行驶方向,但此时&6轨道&r可实现交叉通行.若两辆&7矿车&r在此相撞会怎样？会爆炸!!!开玩笑的——不过&e&a电力机车&f&r确实会爆炸."
+		"&6接轨点&r是道钉锤制作的最末类&6轨道&r,作为常规轨道交叉点使用.&7矿车&r会保持原方向行驶,但如今&6轨道&r可实现交叉.若两辆&7矿车&r在此相撞？会爆炸!!!开玩笑的——不过&e&a电力机车&f&r确实会爆炸."
 		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
 	]
 	quest.170118E3C3C072E5.title: "&6&a交接轨道&f"
 	quest.175D943160C10646.quest_desc: [
-		"&l&7铁路工艺&r使用多种机械实现不同功能,但主要用于资源生产."
+		"&l&7铁路工艺&r运用多种机械实现不同功能,主要以资源生成为主."
 		""
-		"所有机械的制造都始于&a铁锭&f!"
+		"所有机械皆以&a铁锭&f为起始材料!"
 	]
-	quest.175D943160C10646.title: "&l&7机械装置"
-	quest.17F7964611D893BE.quest_desc: ["&a流体装载器&f有助于维持&3&a蒸汽机车&f&r持续运行.需放置在&6轨道&r上方数格高度,可向&5机车头&r或&7矿车&r注入流体."]
+	quest.175D943160C10646.title: "&l&7机械装置&r"
+	quest.17F7964611D893BE.quest_desc: ["&a流体装载器&f有助于维持&3&a蒸汽机车&f&r持续运行.需放置在&6轨道&r上方数格处,可向&5机车头&r或&7矿车&r注入流体."]
 	quest.17F7964611D893BE.title: "&a流体装载器&f"
-	quest.184F98BE0F6710E2.quest_desc: ["这两种&c轨道组件&r用于控制&7矿车&r与红石信号.\\n\\n&c激活组件&r会触发经过其上方的任何&7矿车&r.\\n&c探测组件&r在&7矿车&r经过时发出红石信号.\\n\\n二者功能均类似原版&2普通轨道&r的对应组件."]
-	quest.184F98BE0F6710E2.title: "用于红石控制的&c轨道组件&r"
+	quest.184F98BE0F6710E2.quest_desc: ["这两种&c轨道组件&r用于结合&7矿车&r与红石系统.\\n\\n&c激活器组件&r会激活经过的任意&7矿车&r.\\n&c探测器组件&r在&7矿车&r经过时触发红石信号.\\n\\n二者功能类似原版&2普通轨道&r的对应组件."]
+	quest.184F98BE0F6710E2.title: "&c红石专用轨道组件&r"
 	quest.21693C4DE6531D73.quest_desc: [
-		"&a磨粉机&f如其名所示,可粉碎方块获取合成材料(例如从砖台阶中获得砖块,从金属锭中获得粉尘).\\n\\n但需要能源驱动!\\n\\n建造需使用3x2x2的粉碎机方块."
+		"&a磨粉机&f如其名所示,可粉碎方块获取合成材料(如从砖楼梯获得砖块,或从金属锭获得粉尘).\\n\\n需消耗能源运作!\\n\\n建造规格为3x2x2的粉碎机方块组合."
 		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
 	]
 	quest.21693C4DE6531D73.title: "粉碎机"
-	quest.249E5C6893387E15.quest_desc: ["这些&c轨道&r专用于停止&5机车头&r与&7矿车&r.\\n\\n&c锁定组件&r会拦停&7矿车&r,仅在收到红石脉冲时放行.\\n&c缓冲组件&r用于轨道终点,会永久停止矿车.\\n&c门控组件&r会部署与&6轨道&r联动的&a栅栏门&f."]
-	quest.249E5C6893387E15.title: "用于停止&7矿车&r的&c轨道组件&r"
-	quest.283AB56F81EF03A5.quest_desc: ["为给&6&a电力导轨&f&r和&e&a电力机车&f&r供能,您需要&e线缆框架&r.线缆框架&r需接通能源,并将电力传输至每个相连的&e线缆框架&r."]
-	quest.283AB56F81EF03A5.title: "&e线缆框架"
-	quest.2869AB982799CF0C.quest_desc: ["&c&a单向通行&f轨道组件&r原理简单:&7矿车&r仅能沿箭头指示方向行驶."]
-	quest.2869AB982799CF0C.title: "&c轨道组件&r &a单向通行&f"
+	quest.249E5C6893387E15.quest_desc: ["这些&c轨道组件&r用于停止&5机车&r和&7矿车&r.\\n\\n&c锁定套件&r会阻止&7矿车&r移动,仅在接收到红石脉冲时启动.\\n&c缓冲套件&r用于轨道末端,会永久停止矿车且不会重新启动.\\n&c门控套件&r会部署与&6轨道&r联动的&a栅栏门&f."]
+	quest.249E5C6893387E15.title: "&c轨道制动套件&r"
+	quest.283AB56F81EF03A5.quest_desc: ["要为&6&a电力导轨&f&r和&e&a电力机车&f&r供电,您需要&e框架&r.框架需接通电源,并将电力传输给每个连接的&e框架&r."]
+	quest.283AB56F81EF03A5.title: "&e框架系统&r"
+	quest.2869AB982799CF0C.quest_desc: ["&c&a单向通行&f轨道套件&r原理简单:&7矿车&r仅能沿箭头指示方向行驶."]
+	quest.2869AB982799CF0C.title: "&c单向轨道套件&r"
 	quest.2A30595DC6DDBFF7.quest_desc: [
-		"&6&a电力轨道&f&r专用于&e&a电力机车&f&r,需由&e线缆框架&r供能——注意触碰时会受到伤害."
+		"&6&a电力轨道&f&r专为&e&a电力机车&f&r设计,需由&e框架&r供电——注意接触带电轨道会受到伤害."
 		"{image:atm:textures/questpics/railcraft/rail_electric_rail.png width:150 height:100 align:center}"
 	]
 	quest.2A30595DC6DDBFF7.title: "&6&a电力轨道&f"
-	quest.2AB0FA084739827A.quest_desc: ["要实际使用&9&a隧道盾构车&f&r,你需要一个&9&a隧道盾构车钻头&f&r.\\n\\n它们有4种不同样式,挖掘效果取决于&9钻头类型&r.\\n\\n它可以附魔且有耐久度,所以记得给它附魔!"]
-	quest.2AB0FA084739827A.title: "&9&a隧道盾构车&f,钻头"
-	quest.2D00F85379A4D591.quest_desc: ["物品装载器是铁路工艺中最基础的分配器.它必须位于&6轨道&r上方,并可配置需要装载到下方&7矿车&r中的物品."]
+	quest.2AB0FA084739827A.quest_desc: ["使用&9&a隧道盾构车&f&r需要安装&9盾构车头&r.\\n\\n共4种钻头类型,挖掘效果取决于&9钻头规格&r.\\n\\n可附魔且具有耐久度,建议进行附魔强化."]
+	quest.2AB0FA084739827A.title: "&9隧道盾构车与钻头&r"
+	quest.2D00F85379A4D591.quest_desc: ["物品装载器是铁路工艺最基础的投放装置,必须安装在&6轨道&r上方,可配置需要装入下方&7矿车&r的物品类型."]
 	quest.2D00F85379A4D591.title: "物品装载器"
-	quest.31094CC16E710040.quest_desc: ["&4撬棍&r是铁路工艺的核心工具.\\n\\n对&5机车&r使用可改变其行驶方向.\\n\\n按住潜行键点击可连接&5机车&r与&7矿车&r.\\n\\n直接对&7矿车&r使用会轻推它们.\\n\\n对特殊轨道使用可切换轨道模式.\\n\\n不同&4撬棍&r仅外观和伤害值有差异."]
+	quest.31094CC16E710040.quest_desc: ["&4撬棍&r是铁路工艺核心工具.\\n\\n对&5机车&r使用可改变朝向；\\n\\nShift+点击连接&5机车&r与&7矿车&r；\\n\\n对&7矿车&r轻推可微调位置；\\n\\n对特殊轨道使用可切换模式；\\n\\n不同&4撬棍&r仅外观和伤害值有差异."]
 	quest.31094CC16E710040.quest_subtitle: "”怎么,想打劫我？”"
-	quest.365D4B1DC953D406.quest_desc: ["&7矿车&r分配器如其名所示,能将任何&7矿车&r放置到前方的&6轨道&r上,需要红石信号触发."]
-	quest.365D4B1DC953D406.title: "&7矿车&r分配器"
+	quest.365D4B1DC953D406.quest_desc: ["&7矿车&r投放器功能如其名,可将任意&7矿车&r放置到前方&6轨道&r上,需要红石信号触发."]
+	quest.365D4B1DC953D406.title: "&7矿车投放器&r"
 	quest.38451B61E3FC075B.quest_desc: [
-		"等等,既然钢回来了,那(煤)焦炭也会回归吗？当然!\\n要获取(煤)焦炭,你需要&a焦炉&f.用26个&a焦炉砖&f搭建成3x3x3中空结构(中心留空).当出现完整纹理且可打开GUI时即建造完成.\\n\\n放入煤炭或煤炭块可获得(煤)焦炭和木馏油!放入任意原木也能得到木炭和木馏油."
+		"等等,既然重现钢材,那(煤)焦炭也回归了吗？当然!\\n获取(煤)焦炭需要&a焦炉&f,用26个&a焦炉砖&f砌成3x3x3中空结构(中心留空),成型后界面可操作且纹理统一.\\n\\n放入煤炭或煤炭块可获得(煤)焦炭和木焦油!也可用原木烧制木炭和木焦油."
 		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
 	]
 	quest.38451B61E3FC075B.title: "&a焦炉&f"
-	quest.3E75AFE3482834C5.quest_desc: ["&l铁路工艺&r是完整基于&5火车&r的模组!\\n\\n从&7矿车&r到&e&a电力机车&f&r再到&9&a隧道盾构车&f&r!同时包含所有&5火车&r配件:&a信号灯&f、为火车供能的&a蒸汽锅炉&f,以及全自动系统.\\n\\n&5火车&r模型爱好者的&a强化&fel版模组!"]
-	quest.3E75AFE3482834C5.title: "&7&l铁路工艺"
+	quest.3E75AFE3482834C5.quest_desc: ["&l铁路工艺&r是以&5列车&r为核心的全方位模组!\\n\\n从&7普通矿车&r到&e&a电力机车&f&r再到&9&a隧道盾构车&f&r!更包含全套&5列车&r配件:&a交通信号灯&f、为列车供能的&a蒸汽锅炉&f及自动化系统.\\n\\n&5火车&r模型爱好者的&a终极&f强化模组!"]
+	quest.3E75AFE3482834C5.title: "&7&l铁路工艺&r"
 	quest.3E8C2E7769DFBF35.quest_desc: [
-		"与&3&a蒸汽机车&f&r不同,&e&a电力机车&f&r无需添加燃料.\\n\\n它通过&6&a电力轨道&f&r下方的&e能量框架&r供电.\\n\\n注意:只能运行在&6&a电力轨道&f&r上."
+		"与&3&a蒸汽机车&f&r不同,您无需向&e&a电力机车&f&r添加任何燃料.\\n\\n它通过&6&a电力轨道&f&r下方的&e框架&r供电运行.\\n\\n是的,它只能在&6&a电力轨道&f&r上运行."
 		"{image:atm:textures/questpics/railcraft/rail_electric.png width:100 height:100 align:center}"
 	]
 	quest.3E8C2E7769DFBF35.title: "&e&a电力机车&f"
-	quest.4071BBBE12CACD2D.quest_desc: ["&5火车&r分配器是&7矿车&r分配器的升级版,能部署整辆&5机车&r及更多组合!设置好部署方案后给予红石信号即可."]
+	quest.4071BBBE12CACD2D.quest_desc: ["&5列车&f&r发射器是&7矿车&f&r发射器的升级版.它可以发射整辆&5机车&f&r及更多内容!设置您想要部署的模式,然后给予红石信号."]
 	quest.4071BBBE12CACD2D.title: "&a列车分车站&f"
 	quest.425E375A9EC127EB.quest_desc: [
-		"&6&a强化轨道&f&r是普通&6轨道&r的升级版,速度更快且防爆."
+		"&6&a强化轨道&f&r是普通&6轨道&f&r的升级版!速度稍快且不会爆炸."
 		"{@pagebreak}"
 		"1"
 		"{image:atm:textures/questpics/railcraft/rail_reinforced1.png width:150 height:100 align:center}"
@@ -99,93 +99,93 @@
 	]
 	quest.425E375A9EC127EB.title: "&6&a强化轨道&f"
 	quest.475E307844E3AF7F.quest_desc: [
-		"&a蒸汽&f锅炉是&l&7铁路工艺&r中最实用的机器之一.需要燃料燃烧室和顶部锅炉组合.&a燃料&f燃烧室可配置1x1、2x2或3x3规格,其&a尺寸&f决定顶部锅炉的最大规模:1x1燃烧室配1x1锅炉,2x2燃烧室配2x2x3锅炉,3x3燃烧室配3x3x4锅炉.&a液体&f燃料需使用木馏油加热,固体燃料燃烧室可使用熔炉适用的任何燃料."
+		"&a水生动物&f锅炉是&l&7铁路工艺&r&r中最实用的机器之一.需要燃料火箱和顶部的某种锅炉.&a燃料&f火箱可以是1x1、2x2或3x3规格.火箱的&a规模&f决定了顶部锅炉的最大尺寸:1x1火箱仅能配1x1锅炉,2x2火箱可配2x2x3锅炉,3x3火箱可配3x3x4锅炉.&a液体&f燃料需使用木馏油加热,固体火箱可使用熔炉能用的任何燃料."
 		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
 	]
 	quest.475E307844E3AF7F.title: "锅炉"
 	quest.4A44623D8A307473.quest_desc: [
-		"&6&a高速电力轨道&f&r 类似于 &6&a电力轨道&f&r,但速度更快!它们既需要普通 &6&a高速轨道&f&r 所需的材料,也需要 &6&a电力轨道&f&r 所需的材料.还需 &c&a速度提升&f&r 和 &e框架&r 来提供动力.现在在转弯和接触时要小心!"
+		"&6&a高速电力轨道&f&r类似&6&a电力轨道&f&r但速度更快!需同时满足普通&6&a高速轨道&f&r和&6&a电力轨道&f&r的要求:&c&a速度提升&f&r组件与供电的&e框架&r.注意转弯时的操控及接触安全!"
 		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
 	]
 	quest.4A44623D8A307473.title: "&6&a高速电力轨道&f"
-	quest.50A286C268F38E09.quest_desc: ["在这个任务页面中,我花了很多时间为文本上色,试图帮助玩家理解我所指的内容.&a仅用于&f 让我意识到这可能更令人困惑,所以这里有一个图例!\\n\\n&5紫色&r 代表任何火车或机车,包括电动和 &a蒸汽机车&f 以及连接的车厢.\\n&6金色&r 代表任何轨道和铁轨,包括特殊轨道,但不包括轨道套件.\\n&c浅红色&r 代表任何轨道套件.\\n&4&a暗红色&f&r 代表撬棍.\\n&3青色&r 仅代表 &a蒸汽机车&f.\\n&e黄色&r 仅代表 &a电力机车&f.\\n&9蓝色&r 代表 &a隧道盾构车&f.\\n&7灰色&r 代表矿车和特殊车厢."]
+	quest.50A286C268F38E09.quest_desc: ["本任务页中我花费大量时间进行文本着色,以帮助玩家理解所指内容.&a但发现&f可能反而造成困惑,特此提供图例说明:\\n\\n&5紫色&f&r代表所有列车/机车(含电力机车、&a蒸汽机车&f及连接车厢)\\n&6金色&f&r代表所有轨道(含特殊轨道,不含轨道套件)\\n&c浅红色&f&r代表轨道套件\\n&4&a暗红色&f&r代表撬棍\\n&3青色&f&r专指&a蒸汽机车&f\\n&e黄色&f&r专指&a电力机车&f\\n&9蓝色&f&r代表&a隧道盾构车&f\\n&7灰色&f&r代表矿车及特殊车厢"]
 	quest.50A286C268F38E09.title: "颜色图例"
 	quest.5128B119DFFF0C4C.quest_desc: [
-		"&3&a蒸汽机车&f&r 是最基础的 &5机车&r.它可以通过加水、燃料和等待来提供动力.它需要持续的水才能保持工作.\\n\\n别担心,这意味着从顶部冒出的烟是 &a水蒸气&f,对环境是安全的.不过煤炭部分对环境并不是最好的……呃,反正是 &2Minecraft&r,我们在乎什么!"
+		"&3&a蒸汽机车&f&r是最基础的&5机车&f&r.通过添加水、熔炉燃料并等待即可驱动,需持续供水维持运行.\\n\\n无需担心顶部排放的&a水蒸气&f对环境安全——虽然燃煤部分不太环保...不过反正是&2我的世界&f&r,何必在意!"
 		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
 	]
 	quest.5128B119DFFF0C4C.title: "&3&a蒸汽机车&f"
 	quest.5180CDD196518F64.quest_desc: [
-		"&6&a镀铁轨道&f&r,类似于 &6&a废弃轨道&f&r,非常适合节省成本的人.它们比其他 &6轨道&r 慢得多,但没有脱轨的风险!"
+		"&6&a镀铁轨道&f&r与&6&a废弃轨道&f&r同样适合预算有限的玩家.速度远低于其他&6轨道&f&r,但绝无脱轨风险!"
 		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
 	]
 	quest.5180CDD196518F64.title: "&6&a镀铁轨道&f"
-	quest.53594EBA9F7BA840.quest_desc: ["高级物品卸载器与普通部件类似,但可以从任何方向使用.除了方向之外没有其他区别."]
+	quest.53594EBA9F7BA840.quest_desc: ["高级物品卸载器与普通版功能相同,但支持多方向使用.除方向适应性外无其他差异."]
 	quest.53594EBA9F7BA840.title: "高级物品卸载器"
-	quest.541D270451DA4320.quest_desc: ["&a转辙轨道&f 将用于在不同特殊 &6轨道&r 之间切换车道.上面的 &a箭头&f 显示哪个方向通往哪里."]
-	quest.54F2CB52D3A7BA87.quest_desc: ["物品卸载器与物品装载器相反.它会从 &7车厢&r 中取出物品.这个也必须位于 &6轨道&r 上方."]
+	quest.541D270451DA4320.quest_desc: ["&a转辙轨道&f用于在不同特殊&6轨道&f&r间切换线路,其上&a箭头&f标示通行方向."]
+	quest.54F2CB52D3A7BA87.quest_desc: ["物品卸载器与装载器功能相反,可从&7矿车&f&r提取物品,同样必须安装在&6轨道&f&r上方."]
 	quest.54F2CB52D3A7BA87.title: "物品卸载器"
-	quest.55D7CD0FA8F1AE48.quest_desc: ["我们来到这里的原因,&5火车&r.&a强化&f 被称为 &l&7RailCraft&r,别表现得惊讶.\\n\\n有两种不同的主要 &5火车&r 和一种特殊的采矿 &5火车&r.\\n\\n这些 &5火车&r 本身可能会有点无聊,为什么不给它们连接 &7车厢&r 呢!连接 &7车厢&r 与 &7车厢&r 以及 &5火车&r 称为耦合,而断开连接则称为解耦.要耦合 &5火车&r 和 &7车厢&r,请使用 &4撬棍&r 或带有耦合 &c轨道套件&r 的 &6轨道&r."]
-	quest.55D7CD0FA8F1AE48.title: "&7&l车厢&r 和 &5&l火车&r!"
+	quest.55D7CD0FA8F1AE48.quest_desc: ["我们聚集于此的核心原因——&5列车&r.&a强化&f轨道模组名为&l&7铁路工艺&r,不必惊讶.\\n\\n主要存在两种&5列车&r和一种特殊采矿&5列车&r.\\n\\n这些&5列车&r单独运行可能略显单调,何不为它们挂接&7矿车&r呢!将&7矿车&r与&7矿车&r、&5列车&r相互连接的操作称为耦合,断开连接则称为解耦.使用&4撬棍&r或搭载耦合&c轨道组件&r的&6轨道&r即可实现&5列车&r与&7矿车&r的耦合."]
+	quest.55D7CD0FA8F1AE48.title: "&7&l矿车&r与&5&l列车&r!"
 	quest.5820EDEF71340A1A.quest_desc: [
-		"&6&a废弃轨道&f&r 适合节省成本且具有美观性.它们可以用于跨越几个方块而不需要支撑.它们只能在与相同方向的方块相距 2 个方块,或与相反方向的方块相距 1 个方块.但它们有脱轨的风险,基本上你的 &7车厢&r 会被抛出 &6轨道&r."
+		"&6&a废弃轨道&f&r适合预算有限且注重美观的玩家.这种轨道无需支撑即可跨越数个方块,但存在脱轨风险——您的&7矿车&r可能会被甩出&6轨道&r.同向延伸时最大悬空距离为2格,反向延伸时仅限1格."
 		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
 	]
 	quest.5820EDEF71340A1A.title: "&6&a废弃轨道&f"
 	quest.5E750DB2244A67A1.quest_desc: [
-		"&6转辙轨道&r 是第一个用 Spike Maul 击中 &6轨道&r 得到的轨道.它可以帮助朝两个方向行驶,向前和向一侧.可以通过在 &6轨道&r 旁边的开关来切换方向."
+		"用道钉锤敲击&6轨道&r可获得首类变轨装置——&6道岔轨道&r.它支持前进与侧向双通行模式,通过在&6轨道&r旁放置轨道切换器即可改变方向."
 		"{image:atm:textures/questpics/railcraft/rail_turnout.png width:100 height:100 align:center}"
 	]
-	quest.5E750DB2244A67A1.title: "&6道岔轨道"
-	quest.5F458D79D43D8842.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r套件均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何非官方发布的公开整合包中使用本任务.\\n\\n此任务默认隐藏,若您能看到此说明,表明您正处于编辑模式."]
-	quest.609CA1ACFA981BD5.quest_desc: ["&c路线工具包&r需与通行券配合使用."]
-	quest.609CA1ACFA981BD5.title: "&c轨道工具包&r路线设置"
+	quest.5E750DB2244A67A1.title: "&6道岔轨道&r"
+	quest.5F458D79D43D8842.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e保留所有权利&r许可协议,未经&6ATM团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本文,说明正处于编辑模式."]
+	quest.609CA1ACFA981BD5.quest_desc: ["&c路线组件&r需与通行票证配合使用."]
+	quest.609CA1ACFA981BD5.title: "&c轨道组件&r路线系统"
 	quest.61C93ABE07742DCD.quest_desc: [
-		"&a蒸汽轮机&f可将蒸汽转化为FE和EU能量.\\n\\n需搭建3x2x2结构的&a蒸汽涡轮机壳&f组合体,内部安装涡轮发动机并接入蒸汽管道."
+		"&a蒸气轮机&f可将蒸汽转化为FE与EU能量.\\n\\n该设备为3x2x2结构的&a蒸汽涡轮机壳&f单元,需内置涡轮发动机并接入蒸汽管道方可运行."
 		"{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
 	]
 	quest.61C93ABE07742DCD.title: "&a蒸气轮机&f"
-	quest.64C105E1E2F97900.quest_desc: ["使用&a道岔重锤&f对普通&6轨道&r进行&a模式切换&f,特别适用于构建交叉轨道系统!"]
-	quest.64C105E1E2F97900.title: "「切换之道」"
-	quest.677C5D35DADA4A42.quest_desc: ["&c&a连接器&f&r用于&7矿车&r的挂接与分离(耦合为专业术语).\\n\\n可通过&4撬棍&r配置为耦合、解耦或自动耦合模式,需红石信号激活."]
-	quest.677C5D35DADA4A42.title: "&c轨道工具包&r连接器"
+	quest.64C105E1E2F97900.quest_desc: ["使用&a尖头&f道钉锤敲击普通&6轨道&r可&a切换模式&r,是打造交叉轨道的得力工具!"]
+	quest.64C105E1E2F97900.title: "”切换模式”"
+	quest.677C5D35DADA4A42.quest_desc: ["&c&a联结器&f&r用于连接或分离&7矿车&r.耦合特指连接&7矿车&r的操作.\\n\\n可通过&4撬棍&r配置为耦合、解耦或自动耦合模式,需红石信号激活."]
+	quest.677C5D35DADA4A42.title: "&c轨道组件&r耦合器"
 	quest.6C14D1B60124C2B2.quest_desc: [
-		"&9&a隧道盾构车&f&r可自动铺设&6轨道&r,尤其适用于山地隧道工程.\\n\\n启动需三要素:&9钻头&r、煤炭类燃料及&6轨道&r.集齐后即可自动作业!\\n\\n注意实时监控输入物资."
+		"&9&a隧道盾构车&f&r能自动铺设&6轨道&r,尤其适用于山体隧道工程.\\n\\n启动需三项要素:&9钻头&r、煤炭类燃料及&6轨道&r.备齐后即可自动作业!\\n\\n请注意实时监控输入物品存量."
 		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
 	]
 	quest.6C14D1B60124C2B2.title: "&9&a隧道盾构车&f"
-	quest.6C163E005351FF6D.quest_desc: ["激活状态的&c汽笛工具包&r会使&5机车头&r鸣响汽笛."]
-	quest.6C163E005351FF6D.title: "&c轨道工具包&r汽笛"
-	quest.6DB65926EE6D6C2E.quest_desc: ["下列&c轨道工具包&r用于改变&7矿车&r动量:\\n&c过渡工具包&r可调节通行&5机车&r速度,需红石供能\\n&c助推工具包&r在供能时加速&7矿车&r,断电时减速\\n&c控制工具包&r提供定向推力,通电时改变推进方向\\n&c节流工具包&r将通行&5机车&r速度调整为预设值,需红石供能\\n&c弹射工具包&r能直接将&7矿车&r弹射而出!"]
-	quest.6DB65926EE6D6C2E.title: "用于移动&7矿车&r的&c轨道工具包&r"
-	quest.6E7C4228CD2B6BB9.quest_desc: ["此&4撬棍&r含多种模式,可改变&5机车头&r外观:默认模式显示物品栏悬停说明；无效果模式呈&7灰色&r；&6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r模式呈现幽灵风格；&cC&r&2h&r&c&r&2i&r&cs&r&2t&r&cm&r&2a&r&cs&r模式则变为节日主题!"]
+	quest.6C163E005351FF6D.quest_desc: ["激活&c汽笛组件&r的红石信号将触发&5机车头&r鸣笛."]
+	quest.6C163E005351FF6D.title: "&c轨道组件&r汽笛"
+	quest.6DB65926EE6D6C2E.quest_desc: ["这些&c轨道组件&r用于改变&7矿车&r的动量.\\n\\n&c过渡组件&r会改变经过的&5机车&r的速度,需要红石供能.\\n&c助推组件&r在供能时会加速&7矿车&r,未供时则会减速.\\n&c控制组件&r可为&7矿车&r提供小幅推力,供能时将改变其推进方向.\\n&c节流组件&r会将经过的&5机车&r速度调整为预设值,需要红石供能.\\n&c弹射组件&r简直能把你的&7矿车&r发射出去!"]
+	quest.6DB65926EE6D6C2E.title: "&c轨道组件&r用于移动&7矿车&r"
+	quest.6E7C4228CD2B6BB9.quest_desc: ["这把&4撬棍&r有多种模式,每种都会改变&5机车&r的外观设计.默认为物品栏悬停时描述的状态；'无'模式会变为&7灰色&r；&6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r模式会使其变得诡异；而&cC&r&2h&r&c&r&2i&r&cs&r&2t&r&cm&r&2a&r&cs&r模式则会呈现节日风格!"]
 	quest.75DD345164EE5CD9.quest_desc: [
-		"&6&a高速轨道&f&r类似&6&a强化轨道&f&r但速度更快,需配合&c轨道工具包&r进行加速,过弯时需注意控制."
+		"&6&a高速轨道&f&r类似&6&a强化轨道&f&r但速度更快.需要配合&c轨道组件&r提升速度!转弯时请小心."
 		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
 	]
 	quest.75DD345164EE5CD9.title: "&6&a高速轨道&f"
-	quest.78D8F40AA9568511.quest_desc: ["&a机械轧机&f是&a手动轧机&f的强化版本.\\n\\n无需持续操作界面即可自动完成全部合成工序.\\n\\n唯一缺点是需持续供能!"]
-	quest.7D40B80DBBC4E160.quest_desc: ["&a人力辊压机&f将成为您制作铁路工艺多种材料的小型合成设备!\\n\\n当您放入可制作多个成品的配方时,即使您仍在查看界面,它也会自动进行合成.若在合成过程中离开&a金属辊压机&f,则会中止合成并将材料放回您的物品栏.\\n\\n最后一道配方必须手动制作!"]
-	quest.7F187E291C3D5BA7.quest_desc: ["&a流体卸载器&f与&a流体装载器&f功能完全相反.它并非位于&6轨道&r上方而是下方,不是向&3&a蒸汽机车&f&r注水而是抽取其储水.虽不清楚具体用途,但您确实可以这样做!"]
+	quest.78D8F40AA9568511.quest_desc: ["&a机械滚压机&f是&a手动滚压机&f的升级版.\\n\\n无需持续查看机器界面即可自动完成所有合成.\\n\\n唯一缺点是需外部供能!"]
+	quest.7D40B80DBBC4E160.quest_desc: ["&a手动滚压机&f是制作铁路工艺材料的多功能小型合成设备!\\n\\n放入可批量合成的配方时,即使保持界面开启也会自动合成.若在合成过程中离开&a金属滚压机&f界面,会中止合成并将材料返还库存.\\n\\n最终配方必须手动完成!"]
+	quest.7F187E291C3D5BA7.quest_desc: ["&a流体卸载器&f与&a流体装载器&f功能完全相反.它安装在&6轨道&r下方而非上方,不是给&3&a蒸汽机车&f&r注水而是抽水.虽不清楚用途,但确实可行!"]
 	quest.7F187E291C3D5BA7.title: "&a流体卸载器&f"
-	quest.7F4B734CFB0F0306.quest_desc: ["这些新型&7矿车&r与特殊&2原版&r&7矿车&r类似.&7储罐矿车&r可承载并运输各类液体,而&7能量单元矿车&r则能储存与输送能量!"]
+	quest.7F4B734CFB0F0306.quest_desc: ["这些新型&7矿车&r类似特殊的&2原版&r&7矿车&r.&7储罐矿车&r可运输储存的液体,而&7能量单元矿车&r则能输送能量!"]
 	quest.7F4B734CFB0F0306.title: "新型矿车"
 	task.025A45B704969EAE.title: "&aY型轨道&f"
-	task.03AE084C781CBA31.title: "轨道套件"
+	task.03AE084C781CBA31.title: "轨道组件"
 	task.11741300813AF742.title: "版权所有"
 	task.15BD622D04888DD8.title: "矿车"
-	task.19E2DE9D89B89D7B.title: "尖刺破城锤"
-	task.1E77B21EA9F2E9A7.title: "燃料式火箱"
-	task.2606DDF2AE263B42.title: "轨道套件"
-	task.2A2D77813F3127A6.title: "铁轨"
+	task.19E2DE9D89B89D7B.title: "刺钉锤"
+	task.1E77B21EA9F2E9A7.title: "燃式火箱"
+	task.2606DDF2AE263B42.title: "轨道组件"
+	task.2A2D77813F3127A6.title: "轨道"
 	task.3490AE43AD653256.title: "道岔轨道"
 	task.382933BEE2BCBD64.title: "&a隧道盾构车&f Heads"
 	task.395D321BFFDB098A.title: "&a交接轨道&f"
 	task.3E8F4263F7053EDD.title: "矿车"
 	task.653ED58A9B65C796.title: "撬棍"
 	task.6A4FADC04E1C9DA7.title: "&a蒸汽锅炉&f储罐"
-	task.6C12449632AD53DC.title: "轨道套件"
-	task.6D074E91F5BFC2A8.title: "轨道套件"
-	task.7B128D5D8D5530A8.title: "染色工艺"
+	task.6C12449632AD53DC.title: "轨道组件"
+	task.6D074E91F5BFC2A8.title: "轨道组件"
+	task.7B128D5D8D5530A8.title: "染色系统"
 	task.7BB13793B38DFC2C.title: "版权所有"
 }

@@ -1,115 +1,115 @@
 {
 	quest.0000A88BB40B2149.quest_desc: ["Now before you get to the Chaos Island I recommend preparing, he may look like the Ender Dragon but this one is much more difficult. You'll want Draconic Weapons or Tools that do a lot of damage as those will make it easier. He will also do a crap-ton of damage good Armor like Unobtainium or Meka-Suit will be recommeneded. (Also effects of Regeneration, Absorption, and Resistance will help you survive}. Don't worry you can always come back to fight another day if you aren't ready."]
-	quest.0000A88BB40B2149.title: "需做好万全准备"
-	quest.01612963DBBAC9A1.quest_desc: ["但愿这能护你周全."]
+	quest.0000A88BB40B2149.title: "需做好充分准备"
+	quest.01612963DBBAC9A1.quest_desc: ["此装备应能提供有效防护."]
 	quest.01612963DBBAC9A1.title: "混沌胸甲"
 	quest.0252B8F77A038D17.title: "&a飞龙自动进食模块&f"
 	quest.04695DA1BD3BF1B2.title: "&a混沌伤害模块&f"
 	quest.0499A372F55D04C8.title: "&a神龙箭矢速度模块&f"
 	quest.04BF68E4554D69AA.quest_desc: [
-		"最终且最强的八阶装备!需要378个&a觉醒龙块&f和786个&a龙锭&f方块!值得投入吗？"
+		"最终且最强的第八阶!需要378个&a觉醒龙块&f和786个&a龙锭&f方块!值得投入吗？"
 		"{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
 	]
 	quest.04BF68E4554D69AA.quest_subtitle: "&a储量&f近乎无限"
-	quest.04BF68E4554D69AA.title: "八阶"
-	quest.052E261F934AB439.quest_desc: ["还可铺设道路!"]
+	quest.04BF68E4554D69AA.title: "第八阶"
+	quest.052E261F934AB439.quest_desc: ["还可铺设路径!"]
 	quest.052E261F934AB439.title: "&a混沌锹&f"
 	quest.070F8045CC14B50D.title: "&a神龙箭矢穿透模块&f"
-	quest.0817FD6E45C127E8.quest_desc: ["此步骤虽非必需但强烈推荐!可用更多能源塔吸收和输出更多OP!"]
+	quest.0817FD6E45C127E8.quest_desc: ["此步骤虽可选但强烈推荐!使用更多能源塔可大幅提升OP传输效率!"]
 	quest.0817FD6E45C127E8.title: "More Pylons {optional)"
 	quest.0AE8B51D63327EC3.title: "&a混沌护盾回复模块&f"
-	quest.0AE930BA037DC565.quest_desc: ["查阅模块指南了解龙之研究的物品使用与升级方法!操作方式与普通弓相同——射击箭矢.每次射击会消耗弓内置能源,因此至少需要配备&a能量模块&f."]
+	quest.0AE930BA037DC565.quest_desc: ["查阅模块指南了解DE物品使用与升级方式!操作与普通弓相同——射击箭矢.每次射击会消耗弓内储存的能量,因此至少需要配备&a能量模块&f."]
 	quest.0AE930BA037DC565.title: "&a飞龙弓&f"
 	quest.0E487EACA837EA9B.title: "&a混沌护盾控制模块&f"
-	quest.10690FDB9E892250.quest_desc: ["查阅模块指南掌握龙之研究物品的使用与升级技巧!挥剑劈砍即可.拜托,这是剑啊,我还能怎么解释."]
+	quest.10690FDB9E892250.quest_desc: ["查阅模块指南掌握DE物品使用与升级技巧!挥动武器击中目标即可.拜托,这是剑啊,还需要怎么解释？"]
 	quest.10690FDB9E892250.title: "&a飞龙剑&f"
 	quest.106D08542AAFA166.quest_desc: [
-		"战斗的第一阶段需要破坏维持&a混沌守卫&f护盾的水晶.在摧毁这些水晶前你无法对其造成伤害.若无龙研武器,摧毁这些水晶绝非易事.&a混沌守卫&f发射的火球能削弱该护盾,使你有机会摧毁它(是的,他需要朝你射击/击中水晶).当水晶易受伤害时会产生粒子效果,被击中时会发出声响.越接近毁灭,声响越低沉,水晶亮度也会逐渐暗淡.一旦摧毁水晶,你终可对其造成伤害!"
+		"战斗的第一阶段需要击碎维持&a混沌守卫&f护盾的水晶.在摧毁这些水晶前你无法对其造成伤害.若无龙研武器,摧毁这些水晶并非易事.&a混沌守卫&f发射的火球能削弱此护盾,使你有机会摧毁它(是的,它需要朝你射击/击中水晶).当水晶易受伤害时会产生粒子效果,被击中时会发出声响.越接近毁灭,声响越低沉,水晶也会越发暗淡.一旦摧毁它们,你终可对其造成伤害!"
 		"{image:atm:textures/questpics/draconic/draconic_end_crystal.png width:150 height:100 align:1}"
 	]
 	quest.106D08542AAFA166.title: "定位并摧毁14个&a守卫水晶&f"
 	quest.10E4ADA1D0063EB7.title: "&a混沌箭矢速度模块&f"
 	quest.120B403D56EE5C79.title: "&a飞龙能量模块&f"
-	quest.12469CC0CCFBA1C5.quest_desc: ["最佳之剑配以最快之镐,再加 shovel？!夫复何求!"]
+	quest.12469CC0CCFBA1C5.quest_desc: ["最佳之剑配以最快镐铲？!夫复何求!"]
 	quest.12469CC0CCFBA1C5.title: "混沌法杖"
-	quest.129E09C03E40BA57.quest_desc: ["&a反应堆&f以&a觉醒龙&f为燃料,无需担心能耗效率!&a燃料转化&f决定&a觉醒龙&f何时转化为混沌能量.每次仅可容纳8个方块,且仅能在反应堆关闭时进行燃料添加或补充.SAS模式可简化此操作!燃料需放入右下角插槽."]
+	quest.129E09C03E40BA57.quest_desc: ["&a反应堆&f以&a觉醒龙&f为燃料,无需担忧其效率!&a燃料转化&f决定&a觉醒龙&f何时转化为混沌能量.每次仅能容纳8方块燃料,且仅可在反应堆关闭时进行填装.SAS模式使此操作更为简便!燃料需放入右下角槽位."]
 	quest.129E09C03E40BA57.title: "反应堆燃料"
-	quest.12BDE512C734D19A.quest_desc: ["&a龙核心&f是&d龙之进化/龙之研究&f中多种合成配方的重要原料,尤其适用于基础层级物品."]
-	quest.12BDE512C734D19A.title: "基础(龙研)核心"
+	quest.12BDE512C734D19A.quest_desc: ["&a龙核心&f是&d龙之进化/龙之研究&f众多合成配方中的关键材料,尤为基础层级物品所需."]
+	quest.12BDE512C734D19A.title: "基础(龙晶)核心"
 	quest.131AA933D59D3017.quest_desc: [
-		"第五阶需要90个&a龙锭&f方块、80个&a红石砖&f,以及4个高级稳定器或36个稳定器."
+		"五阶需90个&a龙锭&f方块与80个&a红石砖&f,外加4个高级稳定器或36个普通稳定器."
 		"{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
 	]
 	quest.131AA933D59D3017.quest_subtitle: "&a储量&f59,300,000,000 RF"
 	quest.131AA933D59D3017.title: "第五阶"
 	quest.154D9EA863FD2A32.title: "&a混沌箭矢穿透模块&f"
-	quest.164BBBD98163F64C.quest_desc: ["查阅模块说明以了解如何运用与升级龙研物品!它能创造农田或收取钱财——哦抱歉,我指的是Minecraft锄头,刚才想到别的东西了."]
+	quest.164BBBD98163F64C.quest_desc: ["查阅模块指南以深入了解DE物品的使用与升级!它能开垦农田或收取钱财——哦抱歉,我说的是Minecraft锄头,刚才想到别的了."]
 	quest.164BBBD98163F64C.title: "&a飞龙锄&f"
-	quest.165030137EF59299.title: "飞龙范围效果模块"
+	quest.165030137EF59299.title: "飞龙范围效应模块"
 	quest.166D2A191871F80E.quest_desc: ["&a飞龙镐&f的&a强化&f版本."]
 	quest.166D2A191871F80E.title: "&a神龙镐&f"
-	quest.16FF2219F110F50A.quest_desc: ["不灭模块相当于复活图腾!当生命值归零时,模块将激活并赋予吸收与恢复效果,挽救你的生命.该功能有冷却时间,需消耗OP能量重新充能.在此期间请尽量避免死亡!升级模块可缩短冷却时间."]
+	quest.16FF2219F110F50A.quest_desc: ["不灭模块效仿复苏图腾机制!当生命值归零时,模块将激活并赋予吸收与再生效果,挽救你的生命.该模块有冷却时间,需消耗OP能量重新充能.在此期间请尽量避免死亡!升级可缩短冷却时间."]
 	quest.16FF2219F110F50A.title: "飞龙不灭模块"
-	quest.1830412AB77E9526.quest_desc: ["使用弓这般原始的武器时,不必指望完美精准度——但若装配这些模块即可实现.&a箭矢&f更易命中目标且不易偏离轨道."]
+	quest.1830412AB77E9526.quest_desc: ["弓这类原始武器难以保证精准度——但使用这些模块即可实现.&a箭矢&f更易命中目标且不易偏离轨道."]
 	quest.1830412AB77E9526.title: "&a飞龙射击精度模块&f"
-	quest.1A53B6544782442E.quest_desc: ["护盾控制模块可调整实际护盾属性及恢复时机."]
+	quest.1A53B6544782442E.quest_desc: ["护盾控制可调整实际护盾值及其恢复时机."]
 	quest.1A53B6544782442E.title: "&a飞龙护盾控制模块&f"
-	quest.1C8210712349A2E3.quest_desc: ["原理简单:斧与剑能造成更多&a伤害&f.是的,效果可叠加!"]
+	quest.1C8210712349A2E3.quest_desc: ["简单明了:斧与剑能造成更多&a伤害&f.是的,效果可叠加!"]
 	quest.1C8210712349A2E3.title: "基础&a伤害模块&f"
-	quest.1D3E2363CFD4C5E0.quest_desc: ["&a聚合装置&f的等级由注入器决定.&a连接&f按升序排列:龙晶(我称之为基础级以便区分)、飞龙级、龙源级和混沌级.注入器需放置在&a聚合核心&f左右两侧,与其相隔数格距离.它们可以十字形排列,每侧最多放置5个.通过连接中继IO水晶即可为其供能,详情请查看水晶绑定说明."]
+	quest.1D3E2363CFD4C5E0.quest_desc: ["&a聚合装置&f的等级由注入器决定.&a连接&f按升序排列:龙矿(我称之为基础级以便区分)、飞龙级、龙之等级和混沌级.注入器需放置在&a聚合核心&f左右两侧,与其相隔数格距离.它们可呈十字形排列,每侧最多放置5个.为注入器供能时,连接中继IO水晶即可生效,详情请查阅水晶绑定说明."]
 	quest.1D3E2363CFD4C5E0.title: "基础等级"
 	quest.1E41A5071854DEC8.title: "&a飞龙伤害模块&f"
 	quest.1F7D147C9AF6A4FC.quest_desc: [
-		"第四等级较为特殊:首先需要26个&a红石砖&f包裹核心,随后在红石上方需要56个&a龙锭&f方块."
+		"第四等级有所不同.首先需要26个&a红石砖&f包裹核心,随后在红石上方需要56个&a龙锭&f方块."
 		"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
 	]
 	quest.1F7D147C9AF6A4FC.quest_subtitle: "&a储量&f9,880,000,000 RF"
 	quest.1F7D147C9AF6A4FC.title: "第四等级"
-	quest.20D8DA523E900A52.quest_desc: ["无线&a能量链接&f可使无线水晶为物品充能.&a多&f模块协同工作能提升承载过载能量(OP)的容量与效率."]
+	quest.20D8DA523E900A52.quest_desc: ["无线&a能量链接&f使得无线水晶可为物品充能.&a多&f模块设计能承载更强运算能力且效率更佳."]
 	quest.20D8DA523E900A52.title: "无线&a能量链接&f"
 	quest.2158A566C2F54AA9.title: "&a神龙护盾控制模块&f"
-	quest.22D383BAEF8A2B39.quest_desc: ["听说过传奇的万能工具Paxel吗？集镐、斧、铲于一体.而这个更厉害——融合剑、镐、铲功能的龙源法杖!它具备所有龙源工具的功能!"]
-	quest.22D383BAEF8A2B39.title: "龙源法杖"
+	quest.22D383BAEF8A2B39.quest_desc: ["可知传奇般的帕克赛尔？集镐、斧、铲于一体的工具？此物类似,乃剑、镐、铲的结合体!具备龙之工具全部功能!"]
+	quest.22D383BAEF8A2B39.title: "龙之权杖"
 	quest.236C936FE3BA8396.title: "&a混沌飞行模块&f"
 	quest.265D0DB0E8CED73B.title: "&a神龙箭矢重力修正模块&f"
-	quest.26DF1427AC3966DE.quest_desc: ["欢迎来到&d龙之进化/龙之研究&f,这个既有趣又强力的模组!起步需要开采龙源矿石获取&a龙尘&f.矿石生成于所有(原版)维度,但&a末地&f储量最丰富!"]
+	quest.26DF1427AC3966DE.quest_desc: ["欢迎来到&d龙之进化/龙之研究&f,这款模组极具趣味性与超强性能!起始需开采龙矿获取&a龙尘&f.其生成于所有(原版)维度,但以&a末地&f最多!"]
 	quest.26DF1427AC3966DE.title: "&d龙之进化/龙之研究&f"
-	quest.285656AF1F870AF8.quest_desc: ["这是基础级两大灌注装置之一,但千万别小看龙源箱子:容量超越双联箱子,具备熔炼与合成功能,还能自定义颜色——堪称模组中最令我钟爱的箱子!"]
+	quest.285656AF1F870AF8.quest_desc: ["虽为两大基础灌注之一,但莫小觑龙之箱匣.其容量超越双箱,可熔炼与合成物品,最妙者能变换颜色!实属模组中最令我钟爱的箱具!"]
 	quest.285656AF1F870AF8.title: "&a龙箱&f"
 	quest.28AF8DD34412CBAA.title: "&a神龙速度模块&f"
-	quest.295EB6CFEC029AE2.quest_desc: ["操作前需准备蕴含过载能量(OP)的物品:&a飞龙弓&f、&a混沌通量容器&f或能量法杖等.物品内需安装&a能量模块&f作为OP存储单元,随后制作并放置&a能量注入器&f,充入OP后将物品放入——当OP流光闪烁流动时即表示运作正常."]
-	quest.295EB6CFEC029AE2.title: "为物品添加过载能量"
+	quest.295EB6CFEC029AE2.quest_desc: ["进行此操作前,需先备妥蕴含运算能力的物品:&a飞龙弓&f、&a混沌通量容器&f或能量权杖等.物品中需置入&a能量模块&f以确定运算储量,此为物品供能之源.备齐后制作并放置&a能量注入器&f,注入运算能量,再将物品置入其中!当能量发光流动时,便知运作正常."]
+	quest.295EB6CFEC029AE2.title: "为物品添加运算能量"
 	quest.2A5C5B44E9643A5D.title: "&a混沌速度模块&f"
 	quest.2AA08313F927981E.title: "&a飞龙速度模块&f"
-	quest.2AAE61752728EA8D.quest_desc: ["处于下落状态时采矿速度会减缓(包括创造模式飞行或水中弹跳).幸运的是可通过附魔「空灵亲和」抵消此效果!虽非原版附魔但确实实用——哦等等,模块功能也是同理!"]
+	quest.2AAE61752728EA8D.quest_desc: ["'坠落'状态会减缓采集速度,包括创造模式飞行或水中弹跳.幸有空气亲和附魔可抵消此效应!虽非原版附魔但仍具实效!哦等等我本该说明模块功能...原理相同!"]
 	quest.2AAE61752728EA8D.title: "&a挖掘稳定器&f Module"
-	quest.2B6D71DAF72EAFA4.quest_desc: ["&a电容&f是&d龙之进化/龙之研究&f的储能单元,需搭配&a能量模块&f才能存储能量,记住:&a多&f多益善!"]
+	quest.2B6D71DAF72EAFA4.quest_desc: ["&a电容&f充当&d龙之进化/龙之研究&f的蓄电池,需搭配&a能量模块&f方能储能,谨记'&a多&f多益善'."]
 	quest.2B6D71DAF72EAFA4.title: "&a飞龙通量容器&f"
-	quest.2D9AF97C03C5AEC7.quest_desc: ["第五至八等级需要高级稳定器.何为高级稳定器？即9个稳定器按3x1x3布局排列,正确组合后会转化为环形结构——操作方式与单个稳定器相同."]
+	quest.2D9AF97C03C5AEC7.quest_desc: ["第五至八等级需高级稳定器.何为高级稳定器？乃九个稳定器按3x1x3区域排列,正确组合后将化为环状!制作方式同单个稳定器."]
 	quest.2D9AF97C03C5AEC7.title: "高级稳定器"
 	quest.2DB2A4A1182FE0BB.quest_desc: [
-		"第六等级需要150个&a龙锭&f方块和178个&a红石砖&f(另需36个稳定器)."
+		"第六等级需150个&a龙锭&f方块及178个&a红石砖&f(另需36个稳定器)."
 		"{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
 	]
 	quest.2DB2A4A1182FE0BB.quest_subtitle: "&a储量&f356,000,000,000 RF"
 	quest.2DB2A4A1182FE0BB.title: "第六等级"
 	quest.2E74B5149D4BD0A0.quest_desc: ["基础级(&a能量中继器&f)水晶是&d龙之进化/龙之研究&f能量传输的起点!"]
-	quest.2E74B5149D4BD0A0.title: "基础&a能量中继器&f水晶"
-	quest.30F97EB743B0A07F.quest_desc: ["查看模块部分,了解更多关于如何使用和升级龙之研究(DE)物品的信息!&a飞龙斧&f在战斗更新后类似于 Minecraft 原版斧头.它们既可以设计为斩杀敌人的武器,也可作为砍伐树木的工具."]
+	quest.2E74B5149D4BD0A0.title: "基础型&a能量中继器&f水晶"
+	quest.30F97EB743B0A07F.quest_desc: ["查看模块部分,了解更多关于DE物品使用和升级的信息!&a龙炎&f斧类似战斗更新后的Minecraft斧类武器.既可设计为斩杀敌人的武器,也可作为砍伐树木的工具."]
 	quest.30F97EB743B0A07F.title: "&a飞龙斧&f"
-	quest.3235FBD9CE21D5EE.quest_desc: ["查看模块部分,了解更多关于如何使用和升级龙之研究(DE)物品的信息!我知道各位玩家真正关心的是&a飞龙锹&f.你不必再熬夜纠结了,因为现在你知道了,DE 锹可以快速开辟道路."]
+	quest.3235FBD9CE21D5EE.quest_desc: ["查看模块部分,了解更多关于DE物品使用和升级的信息!我知道各位玩家真正关心的是&a龙炎锹&f.您无需再彻夜难眠,因为现在您知道了,DE锹类工具可以开辟路径."]
 	quest.3235FBD9CE21D5EE.title: "&a飞龙锹&f"
-	quest.32EBB3D53AA91E09.quest_desc: ["除非你是使用&a夜视&f材质包的小作弊者,否则黑暗可能会让你有些担忧.幸运的是,DE 胸甲中的&a夜视模块&f有助于克服在黑暗中看不见的恐惧——但无法消除对黑暗中隐藏之物的恐惧..."]
+	quest.32EBB3D53AA91E09.quest_desc: ["除非您是使用&a夜视&f材质包的作弊者,否则可能会对黑暗感到些许不安.幸运的是,DE胸甲中的&a夜视模块&f有助于克服在黑暗中看不见的恐惧——但无法消除对黑暗中之物的恐惧..."]
 	quest.32EBB3D53AA91E09.title: "&a夜视模块&f"
 	quest.33D2901594655A77.title: "混沌范围效果模块"
 	quest.34D3F6D54F5B26C2.quest_desc: ["升级后的锄头,会不会变成一位优雅的女士呢？"]
 	quest.34D3F6D54F5B26C2.title: "&a神龙锄&f"
 	quest.35767977FB9E0B1B.quest_desc: [
-		"二级需要 6 个&a龙锭&f块,核心每侧放置 1 个.然后显然还需要制作 4 个稳定器."
+		"二级需要6个&a龙锭&f块,核心每侧放置1个.此外显然还需要制作4个稳定器."
 		"{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
 	]
@@ -117,34 +117,34 @@
 	quest.35767977FB9E0B1B.title: "二级"
 	quest.35A674E2C6F66673.title: "&a混沌箭矢精度模块&f"
 	quest.366431661CC43A6E.quest_desc: [
-		"本任务由&6AllTheMods 团队&r或&2社区贡献者&r创作,用于 AllTheMods 整合包."
-		"由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确授权,此任务不得用于任何非&6AllTheMods 团队&r发布的公开整合包."
+		"本任务由&6ATM工作人员&r或&2社区贡献者&r创作,用于ATM整合包."
+		"由于所有&6ATM&r整合包均采用&e保留所有权利&r许可,未经明确授权,不得在任何非&6ATM团队&r发布的公开整合包中使用此任务."
 		""
 		""
 		""
-		"此任务已被故意隐藏,如果你能看到此信息,说明你正处于编辑模式."
+		"此任务已被故意隐藏,如果您能看到此信息,说明您正处于编辑模式."
 	]
-	quest.36DAFC3FECC67406.quest_desc: ["龙之研究(DE)能提供的最佳能量电池."]
+	quest.36DAFC3FECC67406.quest_desc: ["DE能提供的最佳能量电池."]
 	quest.36DAFC3FECC67406.title: "&a混沌通量容器&f"
-	quest.36F123B2A6B52A01.quest_desc: ["这些能传输更多能量并拥有更多连接.&a高&f等级能量水晶适用."]
+	quest.36F123B2A6B52A01.quest_desc: ["这些能传输更多能量并建立更多连接.&a高&f等级能量水晶适用."]
 	quest.36F123B2A6B52A01.title: "&a神龙能量中继水晶&f"
-	quest.3765485408041FC6.quest_desc: ["查看模块部分,了解更多关于如何使用和升级龙之研究(DE)物品的信息!镐具功能相当于普通六级镐.它们可以挖掘从石头到难以获取矿的所有等级方块,采集的物品会自动进入你的物品栏."]
+	quest.3765485408041FC6.quest_desc: ["查看模块部分,了解更多关于DE物品使用和升级的信息!镐具性能相当于普通六级镐.可开采从石头到难以获取之物的所有等级方块,采集的物品将自动存入您的物品栏."]
 	quest.3765485408041FC6.title: "&a飞龙镐&f"
-	quest.376D154F27A00BCD.quest_desc: ["物理特性和 DE 特性为何会相互矛盾？重力会使射出的箭随时间下坠.重力补偿模块让我们减少这方面的顾虑."]
+	quest.376D154F27A00BCD.quest_desc: ["物理特性与DE的背叛是怎么回事？重力会使射出的箭随时间下坠.重力补偿模块让我们减少这方面的顾虑."]
 	quest.376D154F27A00BCD.title: "&a飞龙箭矢减少模块&f"
-	quest.37CC51B689CB8A40.quest_desc: ["胸甲功能类似机械装甲套装(Meka-Suit).任何本应对你造成的伤害都会被抵消,转而由护盾值承受.护盾容量决定可储存的护盾值,充能速率决定恢复速度,充能时会消耗能量(OP)."]
+	quest.37CC51B689CB8A40.quest_desc: ["胸甲功能类似机械装甲套装.所有对您造成的伤害都会被抵消,转而由护盾值承受.护盾容量决定可储存的护盾值,充能速率决定恢复速度,充能时将消耗运算能力."]
 	quest.37CC51B689CB8A40.title: "&a飞龙护盾容量模块&f"
 	quest.389655CD41C7A691.quest_desc: [
-		"一级仅需制作核心和 4 个稳定器."
+		"一级仅需制作核心和4个稳定器."
 		"{image:atm:textures/questpics/draconic/draconic_core_1off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_1on.png width:100 height:100 align:1}"
 	]
 	quest.389655CD41C7A691.quest_subtitle: "&a储量&f45,500,000 RF"
 	quest.389655CD41C7A691.title: "一级"
 	quest.38AD547C36BDF4C4.title: "&a神龙箭矢精度模块&f"
-	quest.39865681B03CABAA.quest_desc: ["水具有一定粘滞性,至少比空气密度大.因此水下挖掘速度较慢.你可以使用&a水亲和模块&f的附魔效果,或直接使用此模块.任君选择!"]
+	quest.39865681B03CABAA.quest_desc: ["水具有一定粘滞性,至少比空气密度大.因此水下挖掘速度较慢.您可以选择使用&a亲水模块&f附魔,或使用此模块.决定权在您!"]
 	quest.39865681B03CABAA.title: "水适应模块"
-	quest.39AF9B1A996DA949.quest_desc: ["它就像&a下界合金剑&f,但更强大、更酷炫!"]
+	quest.39AF9B1A996DA949.quest_desc: ["它就像&a下界合金剑&f,但更强大更酷炫!"]
 	quest.39AF9B1A996DA949.title: "&a混沌剑&f"
 	quest.3B4CEE8A8CE0D6CB.quest_desc: [
 		"即将达成!第七阶.需要210个&a龙锭&f和328个&a红石砖&f!"
@@ -153,68 +153,68 @@
 	]
 	quest.3B4CEE8A8CE0D6CB.quest_subtitle: "&a储量&f:2,140,000,000,000 RF"
 	quest.3B4CEE8A8CE0D6CB.title: "第七阶"
-	quest.3BE3B54B4A681668.quest_desc: ["关键抉择时刻:你是想像重卡般碾压敌人(尽管速度较慢),还是选择做个用剑的普通人？"]
+	quest.3BE3B54B4A681668.quest_desc: ["关键抉择时刻:你是想像重卡般缓慢但致命地碾压敌人,还是选择做个用剑作战的普通人？"]
 	quest.3BE3B54B4A681668.title: "&a混沌斧&f"
-	quest.3CB8F5F1D33C8F9F.quest_desc: ["与前置任务相同,但需求量大幅增加——非常多."]
+	quest.3CB8F5F1D33C8F9F.quest_desc: ["与前一任务相同,只是需求量更大,远超之前."]
 	quest.3CB8F5F1D33C8F9F.title: "&a飞龙大护盾容量模块&f"
-	quest.3DF794EBCAA7AE1A.title: "龙息&a树木砍伐&f机"
-	quest.3FD19A001899D8C6.quest_desc: ["这个模块同时提供滑翔和真实飞行能力,更准确说是创造模式的飞行体验."]
+	quest.3DF794EBCAA7AE1A.title: "龙族&a树木砍伐机&f"
+	quest.3FD19A001899D8C6.quest_desc: ["现在这个既能滑翔又能真正飞行,更准确说是创造模式的飞行能力."]
 	quest.3FD19A001899D8C6.title: "&a神龙飞行模块&f"
-	quest.40F34EBE09DA7752.quest_desc: ["自动喂食功能会在饥饿时自动消耗背包内的食物.设有最大饱食度存储上限(每整条饥饿值为2点),基础版仅能存储相当于8块牛排的饱食度."]
+	quest.40F34EBE09DA7752.quest_desc: ["自动喂食功能会在饥饿时自动消耗背包中的食物.但设有最大食物点存储上限,每整条饥饿条算2点.基础版仅能储存相当于8块牛排的食物点."]
 	quest.40F34EBE09DA7752.title: "Basic &a自动进食模块&f"
-	quest.41BD497108CA109F.quest_desc: ["&a觉醒龙锭&f由&a聚合装置&f产出,每个聚合块可分解为9个锭.这些是&d龙之进化/龙之研究&f中第二重要的锭类,对飞龙阶和神龙阶装备至关重要."]
+	quest.41BD497108CA109F.quest_desc: ["&a觉醒龙锭&f由&a聚合装置&f中的方块产出.这些方块可分解为9个锭,是&d龙之进化/龙之研究&f中第二重要的锭类,为飞龙与龙族阶跃所必需."]
 	quest.41BD497108CA109F.title: "&a觉醒龙&f"
-	quest.421954D7D46FAAD6.quest_desc: ["&a能量核心稳定器&f用于稳定&a能量核心&f.前四阶核心仅需四周各放置4个稳定器,可通过稳定器访问核心GUI.若摆放位置过近或错误,系统会提示配置不正确."]
+	quest.421954D7D46FAAD6.quest_desc: ["&a能量核心稳定器&f用于稳定&a核心&f.前四阶核心仅需四周各放置4个稳定器.可通过稳定器访问核心GUI界面.若放置过近或位置错误会提示配置不正确."]
 	quest.421954D7D46FAAD6.title: "&a能量核心稳定器&f"
 	quest.43C2B07AB25C708E.quest_desc: ["&a飞龙弓&f的&a强化&f版本."]
 	quest.43C2B07AB25C708E.title: "&a神龙弓&f"
-	quest.45EE60207C466D6C.quest_desc: ["进入&d龙之进化/龙之研究&f需要获取&a混沌碎片&f.该碎片存在于末地混沌岛屿上,由&a混沌守卫&f看守.前往末地坐标X/Z为万倍数(如10k,10k/20k,20k)的区域寻找."]
-	quest.45EE60207C466D6C.quest_subtitle: "寻找混沌岛屿"
+	quest.45EE60207C466D6C.quest_desc: ["进入&d龙之进化/龙之研究&f需获取&a混沌碎片&f.该碎片存在于&a末地&f的混沌岛上,由&a混沌守卫&f看守.前往末地X/Z坐标为10k倍数区域(如10k,10k/10k,20k/20k等)."]
+	quest.45EE60207C466D6C.quest_subtitle: "寻找混沌岛"
 	quest.45EE60207C466D6C.title: "他在何处？"
 	quest.4638F21544D6D337.title: "&a混沌纠缠量子能量隧道模块&f"
 	quest.46C816844C513D5D.quest_desc: ["&a飞龙锹&f的&a强化&f版本."]
 	quest.46C816844C513D5D.title: "&a神龙锹&f"
 	quest.4903BDC389C73082.title: "&a神龙箭矢伤害模块&f"
 	quest.4A3A5684302C8627.title: "&a混沌护盾容量模块&f"
-	quest.4AAADEC52D16461A.quest_desc: ["本质是自动跳跃开关.个人推荐开启,但具体使用取决于你的偏好!"]
+	quest.4AAADEC52D16461A.quest_desc: ["本质是启用自动跳跃功能.个人推荐使用,但选择权在你!"]
 	quest.4AAADEC52D16461A.title: "&a攀爬模块&f"
-	quest.4AB564420C48579B.quest_desc: ["&d龙之进化/龙之研究&f认为无需全身覆盖简陋护甲——只需一件自带护盾的胸甲即可(注:实际需安装模块才能激活护盾,特此更正)."]
+	quest.4AB564420C48579B.quest_desc: ["&d龙之进化/龙之研究&f认为无需全身覆盖简陋护甲——只需一件自带护盾的胸甲即可.等等,其实需要装配模块才有效...抱歉."]
 	quest.4AB564420C48579B.title: "&a双足飞龙胸甲&f"
-	quest.4ABEF61DADBD0640.quest_desc: ["多数弓为半自动武器,需重复拉弦-释放-装箭流程.此功能可让弓在满弦时自动连续射击,只需长按&a右键&f即可持续输出!"]
+	quest.4ABEF61DADBD0640.quest_desc: ["多数弓为半自动武器:拉弦、释放、搭箭、重复.此功能可跳过这些步骤,让弓在满弦时自动射击.只需按住&a右键&f即可连续发射!"]
 	quest.4ABEF61DADBD0640.title: "&a自动射击模块&f"
-	quest.4B7840F1A8CF1378.quest_desc: ["&a聚合装置&f是制造趣味物品的核心设备.初始需要将&a聚合核心&f放置于离地一格高度,核心处可自动从JEI导入配方(中置材料,产出物生成).需在核心两侧数格外朝向核心放置注入器(详见下一任务),注入器能量供应问题将在晶体绑定任务中说明."]
+	quest.4B7840F1A8CF1378.quest_desc: ["&a聚合装置&f是制造多数(至少有趣物品)的关键.起始需要放置&a聚合核心&f(距地面约一格高).核心处可自动从JEI输入配方、放置中心物品并输出成品.需在其两侧数格外放置朝向核心的注入器,具体配置参见下一任务.注入器需要能量供应,详情见晶体绑定任务."]
 	quest.4B7840F1A8CF1378.title: "&a聚合装置&f"
-	quest.4B9FF9E972B0E530.quest_desc: ["&a能量链接&f或通道的等级越高传输能力越强,但需注意基础版无法跨维度传输.高级版本支持跨维度传输,请确保目标区块已加载."]
+	quest.4B9FF9E972B0E530.quest_desc: ["&a能量链接&f或通道等级越高传输能力越强,但请注意基础版无法跨维度传输.高级版本可以实现跨维度传输,需确保目标区块已加载."]
 	quest.4B9FF9E972B0E530.title: "&a量子能量隧道模块&f"
-	quest.4CD2ADD3601B8191.quest_desc: ["希望你的护盾能持续恢复,而不是仅在你濒死时才生效？那么你需要安装恢复模块.&a模块数量越多&f,恢复速度越快."]
+	quest.4CD2ADD3601B8191.quest_desc: ["想让护盾主动恢复而非濒死时才生效？你需要安装能量恢复模块.&a模块数量越多&f,恢复速度越快."]
 	quest.4CD2ADD3601B8191.title: "&a飞龙护盾恢复模块&f"
-	quest.4E27182763DA83DC.quest_desc: ["这是&a双足飞龙胸甲&f的&a强化&f版本."]
+	quest.4E27182763DA83DC.quest_desc: ["&a双足飞龙胸甲&f的&a强化&f版本."]
 	quest.4E27182763DA83DC.title: "&a神龙胸甲&f"
-	quest.4EFFE300EC781C3E.quest_desc: ["模块对我们的龙之进化物品至关重要——重要到没有模块就无法运作!多数模块由&a模块核心&f或前置模块合成.手持物品时按下Shift+C键可打开&a模块菜单&f,您将看到插槽与功能按钮:&a插槽&f用于放置模块,网格布局决定可容纳模块数量.标注1x1的模块占1个插槽,2x2模块则占用4个插槽.右侧的&a最低&f按钮显示当前手持物品可适用的模块类型,其余按钮仅用于调整界面外观."]
+	quest.4EFFE300EC781C3E.quest_desc: ["模块对龙之进化装备至关重要——没有模块就无法运作!多数模块由&a模块核心&f或前置模块合成.手持物品按下Shift+C键打开&a模式菜单&f,您将看到插槽与功能按钮:&a栏位&f用于安装模块,网格布局决定可容纳模块数量.标注1x1的模块占1个栏位,2x2规格的则占4个栏位.右侧&a最低&f按钮显示当前手持物品可适配的模块类型,其余按钮仅用于调整界面外观."]
 	quest.4EFFE300EC781C3E.title: "模块系统!"
 	quest.4F6A9F1AEFD535F5.title: "&a神龙大护盾容量模块&f"
 	quest.50013DD7370F8EDB.title: "&a混沌跳跃模块&f"
 	quest.5021D159A5EC2315.title: "&a神龙能量模块&f"
-	quest.51CF09EC333DB1A3.quest_desc: ["要在&d龙之进化/龙之研究&f的&a聚合装置&f中提升等级,配方所需的注入器必须达到或高于当前等级.例如制作&a飞龙斧&f至少需要6个飞龙级注入器(两侧各3个),但请注意合成核心始终无需更换."]
-	quest.51CF09EC333DB1A3.title: "飞龙等级"
+	quest.51CF09EC333DB1A3.quest_desc: ["在&d龙之进化/龙之研究&f的&a聚合装置&f中升级时,配方所需的注入器必须达到或高于当前层级.例如制作&a飞龙斧&f至少需要6个飞龙级注入器(两侧各3个),但合成核心始终通用."]
+	quest.51CF09EC333DB1A3.title: "飞龙层级"
 	quest.529123A789D790E3.title: "&a飞龙跳跃模块&f"
 	quest.52C301DF1776E0D8.title: "&a混沌箭矢伤害模块&f"
-	quest.52C3F61D678B00F5.quest_desc: ["&a混沌锄&f——我以前还跟这玩意儿打过交道呢."]
+	quest.52C3F61D678B00F5.quest_desc: ["&a混沌锄&f？我以前和这类装备打过交道."]
 	quest.52C3F61D678B00F5.title: "&a混沌锄&f"
 	quest.52EA9793A7100E75.title: "混沌不朽模块"
 	quest.542AD6FD1927C3E6.title: "龙源不朽模块"
-	quest.5443E15E226DFC86.quest_desc: ["能量塔是向&a能量核心&f输入输出能量的通道.将其放置在核心附近(至少需2座,1进1出,可增建),覆盖玻璃后会自动寻址最近的核心并完成组装.&a右键点击&f能量塔顶部的球体可切换输入/输出模式(箭头标识与结构设计会直观显示).随后连接能量水晶即可实现能量传输!"]
-	quest.5443E15E226DFC86.title: "能量通过这些装置流通"
+	quest.5443E15E226DFC86.quest_desc: ["能量塔是向&a能量核心&f传输或提取能量的接口.将其放置在核心附近(至少配置2座:1输入1输出,可扩展),覆盖玻璃后会自动连接最近的&a能量核心&f.&a右击&f塔顶的能量球可切换输入/输出模式(通过箭头标识判断),连接能量水晶即可实现能量传输."]
+	quest.5443E15E226DFC86.title: "能量流通枢纽"
 	quest.54F78C9A945CF0E7.title: "&a混沌能量模块&f"
-	quest.574E5806D1A98FE5.quest_desc: ["&a能量模块&f是最重要的基础模块,所有龙进化物品都依赖其运作.模块容量决定物品存储与吸收能量的上限(具体充电方式请参考&a能量注入器&f说明).模块等级越高,物品的能量承载与使用能力越强——这点尤为重要,因为物品升级后每次使用都会消耗更多能量."]
-	quest.574E5806D1A98FE5.title: "基础型&a能量模块&f"
-	quest.5895B7FA5497BD68.quest_desc: ["这是&a飞龙斧&f的&a强化&f版本."]
+	quest.574E5806D1A98FE5.quest_desc: ["&a能量模块&f是龙进化装备的核心组件,决定物品的能量存储与吸收上限(具体充能方式请参考&a能量注入器&f).模块层级越高,物品的能量承载力越强——这点至关重要,因为装备升级后会消耗更多能量."]
+	quest.574E5806D1A98FE5.title: "基础&a能量模块&f"
+	quest.5895B7FA5497BD68.quest_desc: ["&a飞龙斧&f的&a强化&f版本."]
 	quest.5895B7FA5497BD68.title: "&a神龙斧&f"
 	quest.594BBD31461F212D.title: "&a神龙护盾恢复模块&f"
 	quest.5ADFC45B03BAB852.quest_desc: ["这正是&a龙芯&f的用途所在."]
-	quest.5ADFC45B03BAB852.title: "龙源等级"
+	quest.5ADFC45B03BAB852.title: "龙源层级"
 	quest.5BC6CC3C09F512A7.quest_desc: [
-		"&a反应堆芯&f是反应堆的核心部件!将其放置在距注入器和稳定器5格以外的位置,&a右键点击&f可打开操作界面,其中包含状态条、球体影像、功能按钮及插槽.从左至右的状态条分别为:热量值、&a容纳力场&f、&a能量储量&f与&a燃料转化率&f(力场与能量系统已讲解,燃料机制将在后续任务说明).预热阶段热量会升至2000°C方可激活,务必注意控温——若&a温度过高&f将导致熔毁事故!&a球体&f显示核心影像(当前存在纹理显示异常的技术问题).&a功能按钮&f用于调整界面外观、启停反应堆及充能操作."
+		"&a反应堆芯&f是反应堆的核心组件.需放置在距注入器和稳定器5格以外位置,&a右击&f可打开控制界面:包含状态条、核心球体、功能按钮及插槽.状态条从左至右分别为:温度、&a容纳力场&f、&a能量储量&f、&a燃料转化&f(力场与能量已讲解,燃料系统将在后续任务说明).预热阶段温度需升至2000℃才可激活,务必注意温度&a不可过高&f,否则会导致堆芯熔毁!&a球体&f显示核心状态(当前存在纹理显示异常).&a按钮组&f用于调整界面外观、启停反应堆及充能操作."
 		"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
 	]
@@ -225,32 +225,32 @@
 		"{image:atm:textures/questpics/draconic/draconic_guardian.png width:150 height:100 align:1}"
 	]
 	quest.5C2CF51D28F84CBE.title: "击杀&a混沌守卫&f"
-	quest.5D87088E8D71DB9B.quest_desc: ["IO水晶作为可相互连接的方块,能够传输能量.使用水晶绑定器&aShift+右击&f设定起始水晶,再&a右击&f目标水晶即可建立连接.查看水晶时会显示”从方块输入”或”向方块输出”——输入端接收能量,输出端输送能量."]
+	quest.5D87088E8D71DB9B.quest_desc: ["IO水晶作为可相互连接的方块,能够传递能量.使用水晶绑定器&aShift+右击&f设定主水晶,再&a右击&f目标水晶即可建立连接.查看水晶时会显示”从方块输入”或”向方块输出”——输入端接收能量,输出端输送能量."]
 	quest.5D87088E8D71DB9B.title: "能量传输"
-	quest.5E0D78B7B2CF1729.quest_desc: ["既然这是飞龙阶内容,为何会出现龙之研究的物品？因为升级到龙之研究阶需要龙之注入器,而制作注入器必须使用&a龙芯&f.现在明白它们的关联性了吧？"]
+	quest.5E0D78B7B2CF1729.quest_desc: ["既然这是飞龙阶内容,为何会出现龙之研究的物品？因为升级到神龙阶需要龙之注射器,而制作注射器需要&a龙芯&f.现在明白它们出现的原因了吧？"]
 	quest.5E0D78B7B2CF1729.title: "&a龙芯&f"
 	quest.5E671F1F370DDE43.title: "&a神龙自动进食模块&f"
-	quest.5E8D527DE9D7DD46.quest_desc: ["将此模块装配于胸甲即可获得滑翔能力!效果类似鞘翅(但不会占用护甲槽).我更喜欢称之为'带风格的坠落'而非飞行."]
+	quest.5E8D527DE9D7DD46.quest_desc: ["将此模块装配于胸甲即可获得滑翔能力!效果类似鞘翅(但不会占用护甲槽).我更喜欢称之为'花样坠落'而非飞行."]
 	quest.5E8D527DE9D7DD46.title: "&a飞龙飞行模块&f"
-	quest.607337D8AA20FA18.quest_desc: ["被砍伐树木相连的所有木材会同步掉落."]
+	quest.607337D8AA20FA18.quest_desc: ["所有与被砍伐树木相连的木材会同时掉落."]
 	quest.607337D8AA20FA18.title: "&a飞龙树木砍伐者&f"
-	quest.60C27206F1414DD6.quest_desc: ["根据牛顿定律,作用力必然产生反作用力.通常箭矢击中生物时会因反作用力减速.装备此模块后,箭矢会视所有生物如无物,穿透目标时不会减速."]
+	quest.60C27206F1414DD6.quest_desc: ["根据牛顿定律,作用力必然产生反作用力.通常箭矢击中生物时会因反作用力减速.装备此模块后,箭矢穿透目标时不会减速,效果并非将生物变为纸片般脆弱,而是直接无视其碰撞体积."]
 	quest.60C27206F1414DD6.title: "&a神龙反箭矢免疫模块&f"
-	quest.61419D230687CBB5.quest_desc: ["速度即物体定向运动的速率.既然我们的箭矢并非来自银河护卫队,这里特指箭矢的飞行速度.升级后箭矢从弓弦到目标的飞行时间缩短,但会略微降低精准度."]
+	quest.61419D230687CBB5.quest_desc: ["速度模块决定箭矢飞行速率.每级升级都会缩短箭矢从弓弦到目标的飞行时间,但会略微降低精准度."]
 	quest.61419D230687CBB5.title: "&a飞龙箭矢速度模块&f"
-	quest.655BE42CD5BB9D82.title: "龙之研究范围效果模块"
-	quest.6601ACCDDF6CA5FF.quest_desc: ["&a反应堆&f最多储存10亿OP能量.虽然这个数字看似庞大,但很快就会达到极限.当&a能量储量&f达到100%时,热量会急剧上升导致熔毁.反应堆需要5亿OP激活运行,&a能量阀门&f可控制能量出入(注:1RF=1OP).阀门需要红石信号激活,既可输入也可输出能量.为避免熔毁必须持续输出能量,建议导入&a能量核心&f存储!"]
-	quest.6601ACCDDF6CA5FF.title: "启动加速"
-	quest.6616A62426ED4D15.quest_desc: ["注入器必须位于所有稳定器的异侧,且需与核心保持同轴.这里是能量输入的入口!要激活并产生能量,需要先提升&a能量储量&f——该数值既代表已储存能量,也即将转化为产出能量."]
+	quest.655BE42CD5BB9D82.title: "神龙范围效果模块"
+	quest.6601ACCDDF6CA5FF.quest_desc: ["&a反应堆&f最多储存10亿OP能量.当&a能量储量&f达到100%时会产生巨额热量导致熔毁.启动需要5亿OP,&a能量阀门&f可控制能量出入(注:1RF=1OP).阀门需要红石信号激活,既可输入也可输出能量.建议将输出能量导入&a能量核心&f避免熔毁!"]
+	quest.6601ACCDDF6CA5FF.title: "初始启动"
+	quest.6616A62426ED4D15.quest_desc: ["注射器必须与所有稳定器位于不同侧面,且需要与核心保持同轴.这是能量输入的入口!启动时需要先提升&a能量储量&f,该数值既代表已储存能量也包含即将产生的能量."]
 	quest.6616A62426ED4D15.title: "&a反应堆能量注入器&f"
-	quest.69396F87A09FBD85.quest_desc: ["所有镐具采矿等级相同,升级仅提升采矿速度并解锁法杖功能."]
+	quest.69396F87A09FBD85.quest_desc: ["所有镐具挖掘等级相同,升级仅提升采矿速度并解锁法杖功能."]
 	quest.69396F87A09FBD85.title: "&a混沌镐&f"
-	quest.69986817D58AC8BE.quest_desc: ["稳定器构成围绕&a反应堆芯&f的&a容纳力场&f.当力场值降为0且反应堆运行时,将引发熔毁.四个稳定器需距离核心5格以上,并与核心保持同轴排列.这些稳定器也是能量输出接口,但注意控制输出量!"]
+	quest.69986817D58AC8BE.quest_desc: ["稳定器构成&a反应堆芯&f周围的&a容纳力场&f.力场值归零且反应堆运行时将引发熔毁.四个稳定器需距离核心5格以上,且与核心保持同轴排列.这些稳定器也可用于输出能量,但注意控制输出量!"]
 	quest.69986817D58AC8BE.title: "&a反应堆稳定器&f"
 	quest.6B0CD6732BE0E819.quest_desc: ["效果等同于&a跳跃提升&f药水"]
 	quest.6B0CD6732BE0E819.title: "Basic &a指向传送模块&f"
 	quest.6B8F2E05429C185F.quest_desc: [
-		"击败后会掉落经验值、一个&a龙之心&f,最重要的是会释放&a混沌碎片&f.观察闪电即将击中的位置并在其下方挖掘,即可找到&a混沌碎片&f.挖掘可获得5个&a混沌碎片&f,这些碎片可合成为更小的部件!"
+		"击败后将掉落经验值、一个&a龙之心&f,最重要的是会释放&a混沌碎片&f.观察闪电即将击中的位置并在其下方挖掘,即可找到&a混沌碎片&f.采集后可获得5个&a混沌碎片&f,这些碎片可合成为更小的组件!"
 		"{image:atm:textures/questpics/draconic/draconic_shard.png width:150 height:100 align:1}"
 	]
 	quest.6B8F2E05429C185F.title: "Chaos Shard{s}"
@@ -260,53 +260,54 @@
 	quest.710C7FEFAA6C0979.quest_desc: ["&a飞龙剑&f的&a强化&f版本."]
 	quest.710C7FEFAA6C0979.title: "&a神龙剑&f"
 	quest.713D3B3954E58C4A.quest_desc: [
-		"三级需要26个&a龙锭&f方块完全包裹核心才能制作完成."
+		"第三阶需用26个&a龙锭&f方块完全包裹核心方可制成."
 		"{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
 	]
 	quest.713D3B3954E58C4A.quest_subtitle: "&a储量&f1,640,000,000 RF"
 	quest.713D3B3954E58C4A.title: "第三阶"
-	quest.7143CE930D08F160.quest_desc: ["&a作用面积&f是多数玩家熟悉的概念,它能提升工具的工作范围.具有3x3范围效果的镐可挖掘3x3区域,具有3x3范围效果的剑可击杀该区域内所有被击中的生物.升级品质越高,作用范围越大.注意:效果不可叠加!"]
+	quest.7143CE930D08F160.quest_desc: ["&a作用面积&f是多数玩家熟悉的术语,它能提升工具的工作范围.拥有3x3作用面积的镐可开采3x3区域,具有该属性的剑可击杀范围内所有被击中的生物.升级越高,范围越大.注意:效果不可叠加!"]
 	quest.7143CE930D08F160.title: "基础范围效果模块"
-	quest.715F9F7107374299.quest_desc: ["飞龙(&a能量中继器&f)水晶.功能与基础水晶完全相同,但能储存更多能量并建立更多连接."]
+	quest.715F9F7107374299.quest_desc: ["飞龙(&a能量中继器&f)水晶.功能与基础水晶完全相同,但可传输更多能量并建立更多链接."]
 	quest.715F9F7107374299.title: "&a飞龙能量中继水晶&f"
-	quest.731A70C25C2C7281.quest_desc: ["由此工具获取的物品将存入你的&a末影箱子&f.请使用&a开采工艺&f制作的箱子而非模组箱子."]
+	quest.731A70C25C2C7281.quest_desc: ["由此工具获取的物品将存入你的&a末影箱子&f.请使用&a开采工艺&f制作的箱子而非模组版本."]
 	quest.731A70C25C2C7281.title: "&a末影收集模块&f"
-	quest.7496B2380A23FDC6.title: "混沌&a树木砍伐&f器"
+	quest.7496B2380A23FDC6.title: "混沌&a树木砍伐器&f"
 	quest.74C715F8F24B8BAE.quest_desc: ["功能相同但具备筛选选项."]
 	quest.74C715F8F24B8BAE.title: "&a末影收集过滤模块&f"
-	quest.75F0405FFAB9C080.quest_desc: ["这是最终阶段——混沌阶所需的物品.希望您已完成讲解如何获取&a混沌碎片&f的任务分支!"]
+	quest.75F0405FFAB9C080.quest_desc: ["最终阶——混沌阶将需要此物.希望您已完成讲解如何获取&a混沌碎片&f的任务分支!"]
 	quest.75F0405FFAB9C080.title: "&a混沌核心&f"
 	quest.76064465104B1C28.title: "&a神龙护盾容量模块&f"
-	quest.763EB5C911D7E78C.quest_desc: ["注入合成的终极阶段——混沌阶.至此您可制造所有物品,不仅是工具,还包括反应堆所需的一切组件."]
+	quest.763EB5C911D7E78C.quest_desc: ["注入合成的终点即混沌阶.至此可制造所有物品,不仅是工具,还包括反应堆所需的一切组件."]
 	quest.763EB5C911D7E78C.title: "混沌阶"
-	quest.78FBB0C88182040E.quest_desc: ["若您自1.13版本后未玩过Minecraft可能会困惑,但您应该知道弩和穿透附魔.该附魔让箭矢可穿透多个目标持续造成伤害,而这个模块正是实现此功能!"]
+	quest.78FBB0C88182040E.quest_desc: ["若您未接触1.13版本后的Minecraft可能会困惑,但弩与穿透附魔可使箭矢穿透多个目标并持续造成伤害.此模块正是实现该效果!"]
 	quest.78FBB0C88182040E.title: "&a飞龙箭矢穿透模块&f"
-	quest.79886D63280DBBF3.quest_desc: ["筛选还不够？!？!您想销毁物品？!？!您这个恶魔!"]
+	quest.79886D63280DBBF3.quest_desc: ["筛选还不够？!？!您竟想销毁物品？!？!魔鬼!"]
 	quest.79886D63280DBBF3.title: "&a选择性焚烧模块&f"
 	quest.79FC674836B6340E.title: "&a神龙跳跃模块&f"
-	quest.7A4ABFCD12202A91.quest_desc: ["操作潜能是&d龙之进化/龙之研究&f的能量源.传输OP的主要(非唯一)方式是通过IO中继水晶,而要将OP注入物品则需要&a能量传输&f装置."]
-	quest.7A4ABFCD12202A91.title: "什么是能量(我们称之为OP)？"
+	quest.7A4ABFCD12202A91.quest_desc: ["操作潜能是&d龙之进化/龙之研究&f的能量源.主要(非唯一)传输方式是通过IO中继水晶,而将操作潜能注入物品需使用&a能量传输器&f."]
+	quest.7A4ABFCD12202A91.title: "何为能量(即OP)？"
 	quest.7B9F5EEC76FDD0D4.title: "&a神龙伤害模块&f"
-	quest.7C54581562D2EA75.quest_desc: ["&a速度模块&f非常实用,几乎适用于所有设备并加速其运作!剑挥动更快、镐挖掘更快、斧砍伐更快、弓射击更快,胸甲还能提升移动速度.&a速度模块&f品质越高,加速效果越显著!(顺便提醒:多数属性可叠加,两个基础&a速度模块&f可提升20%%速度!)"]
+	quest.7C54581562D2EA75.quest_desc: ["&a速度模块&f极具趣味性,几乎适用于所有设备并加速其运作!剑挥更快、镐挖更快、斧砍更快、弓射更快,胸甲还能提升移速.模块越高级,加速越明显!(注:多数属性可叠加,两个基础&a速度模块&f可提升20%%速度!)"]
 	quest.7C54581562D2EA75.title: "基础&a速度模块&f"
 	quest.7D159D333B2AC57E.quest_desc: [
-		"5亿OP？就绪.燃料？就绪.2000℃温度？就绪.点击启动按钮后,祈祷不要发生熔毁!"
+		"5亿OP？就绪.燃料？就绪.2000℃热度？就绪.点击启动按钮后,祈祷不要熔毁!"
 		"{image:atm:textures/questpics/draconic/draconic_reactor_on_down.png width:200 height:100 align:1}"
 		"{image:atm:textures/questpics/draconic/draconic_reactor_on_up.png width:150 height:150 align:1}"
 	]
-	quest.7D159D333B2AC57E.quest_subtitle: "现在让我们祈祷并希望..."
+	quest.7D159D333B2AC57E.quest_subtitle: "此刻我们唯有祈愿..."
 	quest.7D159D333B2AC57E.title: "启动反应堆"
-	quest.7D7E4C31DFE59E29.quest_desc: ["这些模块仅适用于DE弓,与之前的模块不同.&a弹射物伤害&f模块可提升弓射出的箭矢伤害.部分模块可能附带负面效果,例如这些会略微降低弓的精准度.所有效果均可叠加!"]
+	quest.7D7E4C31DFE59E29.quest_desc: ["这些模块仅适用于DE弓,与之前的模块不同.&a弹射物伤害&f模块可提升弓发射箭矢的伤害值.部分模块可能附带负面效果,例如这些会略微降低弓的精准度.所有效果均可叠加!"]
 	quest.7D7E4C31DFE59E29.title: "&a飞龙射击伤害模块&f"
 	quest.7EB1C1AE52A0027F.title: "&a混沌箭矢重力修正模块&f"
 	quest.7EB97C0DDE60DED4.quest_desc: ["来自&d龙之进化/龙之研究&f的最佳弓具,且拥有更多模块插槽!"]
 	quest.7EB97C0DDE60DED4.title: "&a混沌弓&f"
-	quest.7F757CD6F8C57733.quest_desc: ["&a能量核心&f堪称整个Minecraft中最强大的能量存储装置(即便不是最强也属顶尖).一切始于核心——这是&a能量核心&f多方块结构的中央核心(需确保略微悬空放置).放置后可查看其图形界面,包含:建造指南、降级、升级及&a组装核心&f功能.&a连接&f决定核心的规模与功率.&a建造&f指南显示该等级核心的组装方法.若备齐所有所需方块,按下&a组装核心&f即可自动完成构建!"]
+	quest.7F757CD6F8C57733.quest_desc: ["&a能量核心&f堪称整个Minecraft中最强大的能量存储装置之一.一切从核心部件开始——这是&a能量核心&f多方块结构的中央核心(需确保略微悬空放置).放置后可查看其图形界面:建造指南、降级、升级及&a组装核心&f功能.&a连接&f决定核心的规模与效能.&a建造&f指南展示该等级核心的组装方式.若备齐所有所需方块,点击&a组装核心&f即可自动完成构建!"]
 	quest.7F757CD6F8C57733.quest_subtitle: "龙之&a能量存储&f"
 	quest.7F757CD6F8C57733.title: "&a能量核心&f多方块结构"
-	task.1EFD3D7C04F9682A.title: "任务由AllTheMods提供"
-	task.2AE8A0F6A6C2D453.title: "任务由AllTheMods提供"
+	task.1EFD3D7C04F9682A.title: "AllTheMods任务集"
+	task.2AE8A0F6A6C2D453.title: "AllTheMods任务集"
 	task.61CCAD2018478894.title: "激活"
-	task.6EAC5BBFAA0184BC.title: "准备"
+	task.664130FB28E419EF.title: "输入/输出水晶"
+	task.6EAC5BBFAA0184BC.title: "准备工作"
 }

@@ -1,179 +1,179 @@
 {
-	quest.00DB5495C3A44999.quest_desc: ["按住Shift&a右键点击&f容器可清空其内容."]
-	quest.0108F3EFDFD6DFD0.quest_desc: ["&a存储&f连接器允许你将未连接至存储&a控制器&f的多个存储器互联,或连接至任何与该控制器相连的方块.\\n\\n这是一种无线连接”多方块”存储结构的方式,无需逐个右键点击连接.\\n\\n有效范围仍为14格."]
+	quest.00DB5495C3A44999.quest_desc: ["按住Shift+&a右键点击&f容器可清空其内容."]
+	quest.0108F3EFDFD6DFD0.quest_desc: ["&a存储&f连接器允许你将多个未连接至存储&a控制器&f或其关联方块的存储设备互联.\\n\\n通过这种方式可无线连接组成”多方块”存储阵列,无需逐个右键点击关联.\\n\\n有效作用范围仍为14格."]
 	quest.019CA0E35F888222.quest_subtitle: "增强筛选选项"
 	quest.019CA0E35F888222.title: "&e高级补给升级"
 	quest.0298A17C2AAC5765.quest_desc: ["使背包内堆叠上限增加8个."]
-	quest.0298A17C2AAC5765.title: "&b堆叠升级III阶"
-	quest.037415D5B965E214.quest_desc: ["此升级使背包变为不可摧毁."]
-	quest.0682DC1F2417DAEB.quest_desc: ["功能存储是一个存储类模组,添加了多种实用物品来协助存储管理,并提供高效存储同类物品的方案.\\n\\n特别适用于圆石、泥土等大量堆叠的物品管理."]
-	quest.0682DC1F2417DAEB.quest_subtitle: "&d储物抽屉&f远亲系列"
-	quest.0682DC1F2417DAEB.title: "功能存储"
-	quest.072FBEB0F6F1BC48.quest_desc: ["用于将抽屉连接至&a控制器&f,并链接&a末影抽屉&f.\\n\\n连接抽屉时,&a右键点击&f控制器方块开始配置,&a右键点击&f抽屉可将其加入网络.\\n\\n手持该工具时会显示已连接至控制器的抽屉."]
-	quest.0CD04A00529FE1C9.quest_desc: ["可制作&a铜制箱子&f(非制作&a铁箱子&f的必要前提),若想节省铁材可使用铜箱替代."]
+	quest.0298A17C2AAC5765.title: "&b堆叠升级 III阶"
+	quest.037415D5B965E214.quest_desc: ["该升级使背包获得不可摧毁的特性."]
+	quest.0682DC1F2417DAEB.quest_desc: ["功能存储是一个存储类模组,添加了多种实用物品来协助存储管理,并提供高效存储同类物品堆叠的方案.\\n\\n特别适用于圆石、泥土等大量存在的物品."]
+	quest.0682DC1F2417DAEB.quest_subtitle: "&d储物抽屉&f远亲装置"
+	quest.0682DC1F2417DAEB.title: "功能存储系统"
+	quest.072FBEB0F6F1BC48.quest_desc: ["用于将抽屉连接至&a控制器&f并链接&a末影抽屉&f.\\n\\n连接抽屉至控制器时,&a右键点击&f控制器方块开始配置,&a右键点击&f抽屉可将其加入网络.\\n\\n手持该工具时会显示已连接至控制器的所有抽屉."]
+	quest.0CD04A00529FE1C9.quest_desc: ["可制作&a铜制箱子&f但非制作&a铁箱子&f的必要前提,若想节省铁资源时可选择使用."]
 	quest.0CD04A00529FE1C9.title: "&6&a铜箱子&f"
 	quest.0D4C64DD58567758.quest_desc: ["为背包添加流体储罐功能."]
-	quest.0E057B7F76401421.quest_subtitle: "&a冷杉木&ft升级"
+	quest.0E057B7F76401421.quest_subtitle: "&a冷杉木&ft升级组件"
 	quest.0E057B7F76401421.title: "&6&a铜背包&f"
-	quest.0E0CAA31480EC0A1.quest_desc: ["使背包自动拾取物品."]
+	quest.0E0CAA31480EC0A1.quest_desc: ["使背包具备自动拾取物品功能."]
 	quest.0E0CAA31480EC0A1.quest_subtitle: "允许背包自动拾取物品."
-	quest.0E5AE195158CF344.quest_subtitle: "32倍存储升级"
+	quest.0E5AE195158CF344.quest_subtitle: "32倍存储扩容升级"
 	quest.0E5AE195158CF344.title: "&d下界合金升级"
 	quest.110D27EA86CDA62B.quest_desc: ["将物品磁吸纳入背包."]
 	quest.11A351E2CDE2A31E.quest_desc: [
-		"集成终端还能让你无线访问存储系统!只需在连接存储的逻辑缆线上安装&d动态联合/集成动力&f模组中的全向分离器,"
-		"用便携式&a存储终端&f&a右键点击&f,即可无限制访问整个存储系统."
+		"集成终端还允许您无线访问存储!只需在连接存储的逻辑缆线上安装一个来自&d动态联合/集成动力&f的全向分离器,"
+		"用便携式&a存储终端&f&a右击&f,即可无限制访问您的系统."
 	]
 	quest.11A351E2CDE2A31E.title: "&a便携存储&f访问"
-	quest.11D4EEAC61C7E530.quest_desc: ["&a收集&f升级会使抽屉从某一面自动吸取物品."]
+	quest.11D4EEAC61C7E530.quest_desc: ["&a收集&f升级会使抽屉从一侧吸入物品."]
 	quest.11D57C768032E3F7.quest_subtitle: "更多过滤选项"
 	quest.11D57C768032E3F7.title: "&e高级磁铁升级"
-	quest.122FBF5110E4CFF2.quest_desc: ["&a铁&f降级会将抽屉最大容量降至一组.适用于保持适量库存,避免物品过多."]
-	quest.1310C1E14C259807.quest_desc: ["想要定制抽屉？这些可以模仿方块的外部纹理,正面则使用不同纹理.\\n\\n按照工具提示操作即可实现."]
-	quest.134608BB2B04D96E.quest_desc: ["箱子有27个格子,可合并成双箱以存储两倍容量."]
+	quest.122FBF5110E4CFF2.quest_desc: ["&a铁&f降级会将抽屉的最大空间减少至一组.这对于保持物品库存有用,但不会太多."]
+	quest.1310C1E14C259807.quest_desc: ["想要自定义抽屉？别找了,这些可以在外部模仿一个方块的纹理,并在前面使用不同的纹理.\\n\\n按照工具提示操作即可."]
+	quest.134608BB2B04D96E.quest_desc: ["箱子有27个槽位,可以制成双箱以存储两倍的量."]
 	quest.134608BB2B04D96E.quest_subtitle: "&a箱子&f"
 	quest.134608BB2B04D96E.title: "原版存储"
-	quest.156FF8B7B724DC38.quest_desc: ["为背包的输入输出添加物品过滤器."]
+	quest.156FF8B7B724DC38.quest_desc: ["为背包的输入或输出添加物品过滤器."]
 	quest.15CD4BFDC56E9510.quest_subtitle: "更多过滤选项"
 	quest.15CD4BFDC56E9510.title: "&e高级&a工具交换器&f升级"
-	quest.1659A59303C15CC9.quest_desc: ["木桶功能与箱子相同,但不可合并.外观更具特色."]
-	quest.17DC77F7F8C68AE6.quest_desc: ["&a垃圾桶&f用于销毁不需要的物品、流体和能量."]
-	quest.17DC77F7F8C68AE6.quest_subtitle: "清理&a冗余&f物品"
+	quest.1659A59303C15CC9.quest_desc: ["桶的功能与箱子相同,只是不能合并在一起.但它们看起来很酷."]
+	quest.17DC77F7F8C68AE6.quest_desc: ["&a垃圾桶&f用于销毁不需要的物品、液体和能量."]
+	quest.17DC77F7F8C68AE6.quest_subtitle: "处理&a余下&f"
 	quest.17DC77F7F8C68AE6.title: "&a垃圾桶&f"
 	quest.1985CFD1F0425E88.quest_subtitle: "更多过滤选项"
 	quest.1985CFD1F0425E88.title: "&e高级拾取升级"
-	quest.19DFAEB6D88F3580.quest_desc: ["&a推动器&f升级允许抽屉向任意面输出物品."]
-	quest.1A4B1CA7EC15348E.quest_desc: ["使用&a&a连接工具&f&r可链接两个&a末影抽屉&f实现内容同步.\\n\\n功能类似&a末影箱&f,但以抽屉形式呈现.\\n\\n链接方法:用&a&a连接工具&f&r右键点击第一个末影抽屉,再左键点击第二个."]
+	quest.19DFAEB6D88F3580.quest_desc: ["&a推动器&f升级允许抽屉向任意一侧推出物品."]
+	quest.1A4B1CA7EC15348E.quest_desc: ["使用&a&a连接工具&f&r,您可以链接两个&a末影抽屉&f以同步其内容.\\n\\n这就像&a末影箱子&f一样,但作为抽屉使用.\\n\\n要链接,先用&a&a连接工具&f&r右击第一个&a末影抽屉&f,然后左击第二个&a末影抽屉&f."]
 	quest.1A4B1CA7EC15348E.quest_subtitle: "维度抽屉..."
 	quest.1A739D36D5E3B1AD.quest_subtitle: "更多过滤选项"
 	quest.1A739D36D5E3B1AD.title: "&e高级供给升级"
-	quest.1B72E95569B07E18.quest_subtitle: "24倍存储升级"
+	quest.1B72E95569B07E18.quest_subtitle: "x24存储升级"
 	quest.1B72E95569B07E18.title: "&b钻石升级"
-	quest.1CACE201C6AA0913.quest_desc: ["此升级会销毁抽屉满载时多余的物品.\\n\\n有效防止存储溢出或因容量不足导致的系统阻塞."]
-	quest.1CD2C6AFD788C35E.quest_desc: ["将背包内物品压缩为2x2合成配方形态."]
-	quest.1E499F94A2A193E1.quest_desc: ["为背包添加&a爆裂熔炉&f操作界面."]
-	quest.1FE052F643401232.quest_desc: ["制作背包升级时需要此物品."]
-	quest.1FE052F643401232.quest_subtitle: "升级基础组件"
-	quest.1FE17B1C7C639F88.quest_desc: ["&a存储&f &a控制器&f 可将多个存储设备整合为统一操作的大型存储多方块结构.\\n\\n由此构建的大规模存储网络可兼容应用能源或&d动态联合/集成动力&f等模组,该控制器作为所有连接存储设备的统一输入输出端口.\\n\\n连接时只需将存储设备与控制器相邻放置,或与已连接控制器的设备相邻(有效连接范围为控制器周围14格内)."]
-	quest.209DC1E9AD4C5A84.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n根据&e保留所有权利&r的许可协议,未经&6AllTheMods团队&r明确授权,禁止在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本说明,表明您正处于编辑模式."]
-	quest.25AFD10D008DF30B.quest_desc: ["所有&a末影箱&f共享同一物品栏空间,且每位玩家的存储内容独立.末影箱之间无法进行合并操作."]
+	quest.1CACE201C6AA0913.quest_desc: ["此升级会在抽屉满时销毁多余的物品.\\n\\n这可以防止溢出或避免因存储已满而导致设置备份."]
+	quest.1CD2C6AFD788C35E.quest_desc: ["将背包中的物品压缩至其2x2配方形式."]
+	quest.1E499F94A2A193E1.quest_desc: ["为背包添加&a爆裂熔炉&f图形用户界面."]
+	quest.1FE052F643401232.quest_desc: ["制作背包升级需要这些."]
+	quest.1FE052F643401232.quest_subtitle: "升级的基础"
+	quest.1FE17B1C7C639F88.quest_desc: ["&a存储&f &a控制器&f 可让您将多个存储设备视为一个大型存储多块结构进行操作.\\n\\n这能构建超大规模存储网络,并可与应用能源或&d动态联合/集成动力&f等模组联动,因为存储&a控制器&f会作为所有连接存储设备的统一输入输出端口.\\n\\n只需将存储设备放置在存储&a控制器&f相邻位置,或与已连接控制器的存储设备相邻即可实现连接(最远支持控制器四面14格范围内的设备)."]
+	quest.209DC1E9AD4C5A84.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r系列整合包均采用&e保留所有权利&r许可协议,未经明确授权不得在任何非&6AllTheMods团队&r发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本说明,表明您正处于编辑模式."]
+	quest.25AFD10D008DF30B.quest_desc: ["所有&a末影箱子&f共享同一物品栏空间,且每位玩家的存储内容独立.它们无法被合并为一个."]
 	quest.26988E22BD019628.quest_desc: ["在背包内自动熔炼物品."]
 	quest.26988E22BD019628.quest_subtitle: "自动化"
-	quest.26988E22BD019628.title: "&e自动爆破升级组件"
+	quest.26988E22BD019628.title: "&e自动爆破升级"
 	quest.26A9F402DAE15EA2.quest_desc: ["为背包添加烟熏炉操作界面."]
-	quest.2746575C929B6C50.quest_desc: ["抽屉可呈1x1、2x1或2x2规格.根据类型不同,单个抽屉可存储大量1/2/4种物品的整组堆叠."]
+	quest.2746575C929B6C50.quest_desc: ["抽屉可呈1x1、2x1或2x2规格.根据抽屉类型不同,可容纳大量单种/两种/四种物品的堆叠."]
 	quest.2746575C929B6C50.quest_subtitle: "层层堆叠"
 	quest.289ED1DFD83B9838.quest_desc: [
-		"不仅可连接物品存储,还能整合流体系统!在任何流体存储装置安装流体接口并通过逻辑线缆连接,即可将流体纳入存储网络."
+		"不仅可连接物品存储,还能联通流体!只需在任意流体存储装置上安装流体接口并通过逻辑线缆连接,即可将流体纳入系统!"
 		""
-		"便捷的流体操作方式:手持空桶点击流体源,再次点击已装填的桶即可完成灌装!"
+		"操作流体的便捷方式:背包放置空桶,点击流体后再点击空桶即可完成灌装!"
 	]
-	quest.2B422B7E0CE3590D.quest_desc: ["&a压缩抽屉&f可将放入的物品转换为微粒或方块形态.\\n\\n示例:放入&a铁锭&f后可提取9个铁粒,若放入更多铁质材料则会自动压缩为铁块."]
+	quest.2B422B7E0CE3590D.quest_desc: ["&a压缩抽屉&f可将放入的物品转换为矿粒或方块形态.\\n\\n例如:放入&a铁锭&f后可提取9个铁粒,若放入更多铁锭则会自动压缩为铁块."]
 	quest.2B422B7E0CE3590D.quest_subtitle: "自动压缩/解压"
 	quest.2F9B0C642A6BE30C.title: "&f&a铁质背包&f"
-	quest.2FC15D3916DBF4E4.quest_subtitle: "增强筛选选项"
-	quest.2FC15D3916DBF4E4.title: "&e高级虚空升级组件"
+	quest.2FC15D3916DBF4E4.quest_subtitle: "更多过滤选项"
+	quest.2FC15D3916DBF4E4.title: "&e高级虚空升级"
 	quest.3043C83CCFC9706D.quest_desc: [
-		"在建立应用能源2系统前,&9集成终端&r无疑是最佳存储解决方案."
+		"在建立应用能源2系统前,最优秀的存储解决方案当属&9集成终端&r."
 		""
 		"&9集成终端&r提供前期存储解决方案"
-		"可访问周边所有容器,并具备基础自动合成功能!"
+		"可访问周围所有箱子,并具备自动合成功能!"
 		""
-		"首先制作紫晶玻璃:将普通玻璃放入盛有紫树脂的&a烘干池&f中处理."
+		"首先制作门瑞尔玻璃:将玻璃放入盛有门瑞尔树脂的&a烘干池&f中."
 	]
 	quest.3043C83CCFC9706D.title: "集成终端"
-	quest.33882172DA8021F6.quest_desc: ["自动将背包内物品补充至玩家物品栏并保持堆叠."]
+	quest.33882172DA8021F6.quest_desc: ["使玩家物品栏中的物品始终保持来自背包内部的堆叠状态."]
 	quest.33AADC1B97E9F7A9.quest_desc: ["运输矿车即内置箱子的矿车.虽不可乘坐,但能通过轨道系统高效运输物品."]
 	quest.36BCE35215B2B6E9.quest_desc: ["自动熔炼背包中的物品."]
-	quest.36BCE35215B2B6E9.quest_subtitle: "自动"
-	quest.36BCE35215B2B6E9.title: "&e自动熔炼升级"
-	quest.38F9E9A830D3EA0C.quest_desc: ["若你认为此模组仅用于存储物品,那便错了——它还有&a流体抽屉&f!\\n\\n其运作原理与普通抽屉相同,但存储的是流体而非物品."]
+	quest.36BCE35215B2B6E9.quest_subtitle: "自动化"
+	quest.36BCE35215B2B6E9.title: "&e自动烟熏升级"
+	quest.38F9E9A830D3EA0C.quest_desc: ["如果你认为这个模组仅用于存储物品,那你就错了,还有&a流体抽屉&f!\\n\\n它们的工作方式与普通抽屉相同,但存储的是流体而非物品."]
 	quest.3A1D07AED2A841E4.quest_desc: ["自动熔炼背包中的物品."]
-	quest.3A1D07AED2A841E4.quest_subtitle: "自动"
+	quest.3A1D07AED2A841E4.quest_subtitle: "自动化"
 	quest.3A1D07AED2A841E4.title: "&e自动熔炼升级"
-	quest.3B570B3DB5F6D2CB.quest_subtitle: "16倍存储升级"
+	quest.3B570B3DB5F6D2CB.quest_subtitle: "x16 存储升级"
 	quest.3B570B3DB5F6D2CB.title: "&e黄金升级&r"
-	quest.3CE3CDB9C93CBDAD.quest_desc: ["[\"想尝试自动合成？查看完整的\",{ \"text\":\"集成动力\",\"underlined\": true,\"clickEvent\": { \"action\":\"change_page\",\"value\":\"499CF9F39CED8899\" } },\"指南!\"]"]
+	quest.3CE3CDB9C93CBDAD.quest_desc: ["[\"想尝试自动合成吗？查看完整的\",{ \"text\":\"集成动力\",\"underlined\": true,\"clickEvent\": { \"action\":\"change_page\",\"value\":\"499CF9F39CED8899\" } },\"指南!\"]"]
 	quest.3CE3CDB9C93CBDAD.title: "自动合成"
 	quest.3E33730DC2115D26.title: "&e&a金箱子&f"
-	quest.4007DFA7CC3A5FF2.quest_desc: ["为避免整个任务章节被升级项占满,请查看精妙背包升级系统\\n\\n你需要制作与&d精妙存储&f对应的部件,但其功能大致相同."]
-	quest.4007DFA7CC3A5FF2.quest_subtitle: "升级基座"
+	quest.4007DFA7CC3A5FF2.quest_desc: ["为了避免这个&o整个任务部分&r被升级项覆盖,请查看精妙背包升级\\n\\n你需要制作与&d精妙存储&f等效的升级,但它们的功能大致相同."]
+	quest.4007DFA7CC3A5FF2.quest_subtitle: "升级基础"
 	quest.45268A619787288F.title: "&e&a金质背包&f"
 	quest.46D756F4DC6CC894.title: "&d&a下界合金背包&f"
-	quest.485D5664A17E16DF.quest_subtitle: "8倍存储升级"
-	quest.485D5664A17E16DF.title: "&6铜质升级"
-	quest.4A854CD5EC70733E.quest_desc: ["为背包添加工作台操作界面."]
-	quest.4B62AF0405F68041.quest_desc: ["添加可设定背包常备物品的过滤器.按住Shift右键点击容器可进行自动补货."]
-	quest.4B62AF0405F68041.quest_subtitle: "全自动补给"
+	quest.485D5664A17E16DF.quest_subtitle: "x8 存储升级"
+	quest.485D5664A17E16DF.title: "&6铜升级"
+	quest.4A854CD5EC70733E.quest_desc: ["为背包添加工作台图形用户界面."]
+	quest.4B62AF0405F68041.quest_desc: ["添加一个过滤器,允许你告诉背包应该保持哪些物品的库存.按住Shift右键点击库存将重新填充它."]
+	quest.4B62AF0405F68041.quest_subtitle: "全部备货完毕"
 	quest.4C0BDD483CCB40C4.title: "&b&a钻石箱子&f"
 	quest.4C0EAB9F795686D0.quest_subtitle: "更多过滤选项"
 	quest.4C0EAB9F795686D0.title: "&e高级存入升级"
-	quest.4C2A60FC1F1E0328.quest_desc: ["为背包添加电池功能."]
-	quest.4E4C8BCD45766F03.quest_desc: ["此抽屉会自动将放入物品转换为压缩形态."]
-	quest.4E4C8BCD45766F03.quest_subtitle: "自动压缩/解压"
-	quest.508A8366219175FE.quest_desc: ["&a配置工具&f用于锁定抽屉记忆存储物品.\\n\\n当建立抽屉存取系统时极为实用.被&a锁定&f的抽屉不会替换已锁定的物品!"]
-	quest.52672B7FFFD51D16.quest_desc: ["为背包添加切石机操作界面."]
-	quest.53F861876B991C36.quest_desc: ["为背包添加唱片机操作界面."]
-	quest.53F861876B991C36.quest_subtitle: "音乐狂欢时刻"
-	quest.544791880F315D5A.quest_desc: ["运输船即带箱子的船.乘船时可打开箱子或直接右键操作.每艘船仅限一人乘坐."]
+	quest.4C2A60FC1F1E0328.quest_desc: ["为背包添加电池."]
+	quest.4E4C8BCD45766F03.quest_desc: ["这个抽屉会自动将放入其中的物品转换为压缩形式."]
+	quest.4E4C8BCD45766F03.quest_subtitle: "自动压缩/解压缩"
+	quest.508A8366219175FE.quest_desc: ["&a配置&f工具用于锁定抽屉,使其记住内部存放的物品.\\n\\n这在设置从抽屉推送和拉取物品的系统时非常有用.&a锁定&f的抽屉不会替换其上锁定的物品!"]
+	quest.52672B7FFFD51D16.quest_desc: ["为背包添加切石机图形用户界面."]
+	quest.53F861876B991C36.quest_desc: ["为背包添加唱片机图形用户界面."]
+	quest.53F861876B991C36.quest_subtitle: "现在我们来点音乐"
+	quest.544791880F315D5A.quest_desc: ["带箱子的船就是带有箱子的船.你可以在船上时打开箱子,或者右键点击它.一次只能有一人乘坐船."]
 	quest.56B80A7EBFE21428.quest_subtitle: "更多过滤选项"
-	quest.56B80A7EBFE21428.title: "&e高级泵取升级"
+	quest.56B80A7EBFE21428.title: "&e高级泵升级"
 	quest.57CF8C6C867B9BDA.quest_subtitle: "更多过滤选项"
 	quest.57CF8C6C867B9BDA.title: "&e高级过滤升级"
 	quest.58514FDE153FD971.quest_subtitle: "&a铁箱子&f?"
 	quest.58514FDE153FD971.title: "&f&a铁箱子&f"
-	quest.5A94A2664BFDD7B9.quest_desc: ["欢迎来到基础存储章节!\\n\\n这里汇集了无需能源的物品存储方案,以及满足存储需求的实用物品!"]
+	quest.5A94A2664BFDD7B9.quest_desc: ["欢迎来到基础存储章节!\\n\\n你将找到所有无需能源即可存储物品的基本方法,以及满足存储需求的有用物品!"]
 	quest.5A94A2664BFDD7B9.title: "基础存储"
-	quest.5E4BC0F59C90433A.quest_desc: ["&d精妙存储&f允许您用金属升级箱子和木桶以增加存储空间!还可添加功能升级模块.\\n\\n这些容器保留原版特性,但设有存储升级槽位."]
+	quest.5E4BC0F59C90433A.quest_desc: ["&d精妙存储&f允许您用金属升级箱子和木桶以增加存储空间!还可添加升级模块增强功能.\\n\\n这些容器与原版箱子或木桶类似,但配有存储升级插槽!"]
 	quest.5E4BC0F59C90433A.quest_subtitle: "”原版箱子”"
 	quest.5E4BC0F59C90433A.title: "&d精妙存储&f"
 	quest.5E4FE420B6D2C97F.quest_desc: ["将背包内物品压缩为3x3合成配方形态."]
 	quest.5E4FE420B6D2C97F.quest_subtitle: "更多过滤选项"
 	quest.5E4FE420B6D2C97F.title: "&e高级压缩升级"
 	quest.5FA9BC0D8476D322.quest_desc: ["自动喂食背包内的食物."]
-	quest.615B9062FE8CCD36.quest_desc: ["自动切换为针对当前注视方块最有效的工具."]
-	quest.61A22707DBC83818.quest_desc: ["&a存储&f接入点连接后可作为存储&a控制器&f,实现物品推入或抽出功能,本质上是抽屉网络的入口."]
+	quest.615B9062FE8CCD36.quest_desc: ["自动切换为对注视方块最有效的工具."]
+	quest.61A22707DBC83818.quest_desc: ["&a存储&f接入点连接后可充当存储&a控制器&f,实现物品推入或抽出功能,本质上是抽屉容器的接入端口."]
 	quest.668C313FF46B6005.quest_desc: ["为背包添加熔炉操作界面."]
 	quest.67704F7341EDCC49.title: "&b&a钻石背包&f"
-	quest.696E063016CAD1B9.quest_desc: ["在背包内集成Chipped工作台的合成界面."]
+	quest.696E063016CAD1B9.quest_desc: ["为背包添加凿制工作台的合成界面."]
 	quest.6A2B2C5E2ADCE366.quest_desc: ["&a精妙背包&f提供可升级背包,使用过滤器可实现炫酷功能!\\n\\n背包可置于饰品栏背部槽位,且支持染色."]
-	quest.6A2B2C5E2ADCE366.quest_subtitle: "库存空间不足"
+	quest.6A2B2C5E2ADCE366.quest_subtitle: "库存空间过小"
 	quest.6A2B2C5E2ADCE366.title: "&a精妙背包&f"
-	quest.6E3D53D1C4569A89.quest_desc: ["实现玩家与背包之间的经验值传输."]
+	quest.6E3D53D1C4569A89.quest_desc: ["实现玩家与背包间的经验值输送."]
 	quest.6E3D53D1C4569A89.quest_subtitle: "经验存储"
 	quest.6E3D53D1C4569A89.title: "&a&a经验泵&f升级"
 	quest.6E9041744C592573.quest_desc: ["增加从储罐升级模块抽取液体的功能."]
 	quest.6F6A23579CAE8013.quest_desc: [
 		"接下来请制作物品接口与逻辑线缆."
 		""
-		"将接口安装于需要连接的箱体,用逻辑线缆进行全域连接."
+		"将接口安装于需连接的箱体,用逻辑线缆进行全域连接."
 		""
-		"最后安装&a存储终端&f即可——整个存储系统将实现全局访问."
+		"最后安装&a存储终端&f即可——整个存储系统尽在掌握!"
 	]
 	quest.6F6A23579CAE8013.title: "存储系统连接"
-	quest.6FBAE89EE782DABA.quest_desc: ["当通过&a&a连接工具&f&r与其他抽屉连接后,&a控制器&f将作为枢纽核心.\\n\\n双击可将背包内所有能存入抽屉网络的物品自动收纳.\\n\\n潜行右键打开升级标签页,添加存储升级模块可扩展控制器作用范围(最大80x80x80立方区域,单边延伸40格)."]
+	quest.6FBAE89EE782DABA.quest_desc: ["当使用&a&a连接工具&f&r与其他抽屉连接后,&a控制器&f将充当”枢纽核心”.\\n\\n双击右键可自动收纳背包内所有能存入抽屉网络的物品.\\n\\n潜行右键控制器打开升级标签页,添加普通存储升级模块可扩大控制范围.最大范围为各方向40格,即80x80x80立方区域."]
 	quest.6FBAE89EE782DABA.quest_subtitle: "抽屉网络的&a智能核心&f"
-	quest.70902EF96F060672.quest_desc: ["此升级使抽屉六面输出红石信号,信号强度反映充满/空置状态.\\n\\n多槽位抽屉可指定监控特定槽位.\\n\\n0表示空置\\n15表示满额"]
-	quest.7649D648A3688D4A.quest_desc: ["&a提取&f器升级允许抽屉从任意面吸入物品."]
+	quest.70902EF96F060672.quest_desc: ["此升级使抽屉六面输出红石信号,信号强度反映充满/空闲状态.\\n\\n多槽位抽屉可配置监测特定槽位.\\n\\n0表示空置\\n15表示满额"]
+	quest.7649D648A3688D4A.quest_desc: ["&a提取&f升级允许抽屉从任意面吸入物品."]
 	quest.77F241BEE9902751.quest_desc: ["&d精妙存储&f系列最大容量的箱子"]
-	quest.77F241BEE9902751.quest_subtitle: "超大空间尽享操作乐趣!"
+	quest.77F241BEE9902751.quest_subtitle: "超大空间任您驰骋!"
 	quest.77F241BEE9902751.title: "&d&a下界合金箱子&f"
-	quest.785951190FFDAA21.quest_desc: ["使背包内物品堆叠上限增加4倍."]
-	quest.785951190FFDAA21.title: "&e堆叠升级 第二阶"
-	quest.78E51D22C16C4686.quest_desc: ["&a存储&f &a控制器&f 还能无线连接其他存储器,使用存储工具即可实现:&a右键点击&f 存储&a控制器&f 进行绑定,再&a右键点击&f 其他存储器进行链接.\\n\\n无线连接范围与常规连接相同,为14格距离."]
-	quest.7AE3C8134F5ED726.quest_desc: ["使背包内物品堆叠数量增加16."]
-	quest.7AE3C8134F5ED726.title: "&d堆叠升级 第四阶"
+	quest.785951190FFDAA21.quest_desc: ["使背包内堆叠上限增加4倍."]
+	quest.785951190FFDAA21.title: "&e堆叠升级 II 阶"
+	quest.78E51D22C16C4686.quest_desc: ["&a存储&f&a控制器&f还可无线连接其他存储器,使用存储工具即可实现:&a右键单击&f存储&a控制器&f进行绑定,再&a右键单击&f其他存储器进行链接.\\n\\n无线链接范围与常规相同,为14格距离."]
+	quest.7AE3C8134F5ED726.quest_desc: ["使背包内堆叠数量增加16."]
+	quest.7AE3C8134F5ED726.title: "&d堆叠升级 IV 阶"
 	quest.7C07D6A33F7ADB02.quest_desc: [
-		"这是背包升级模块,可让您将背包放入另一个背包中."
+		"此为背包升级模块,可让您将背包放入背包中."
 		""
-		"当您需要实现'背包套背包'时,这个功能就能派上用场."
+		"当您需要将背包放入背包时,此功能可满足需求."
 	]
 	quest.7C07D6A33F7ADB02.quest_subtitle: "背包中的背包？"
 	quest.7C0F7A1B3AB9A1A1.quest_subtitle: "更多过滤选项"
 	quest.7C0F7A1B3AB9A1A1.title: "&e高级自动补充升级"
-	quest.7E9E03274A88347D.quest_desc: ["使背包内物品堆叠数量增加2."]
-	quest.7E9E03274A88347D.title: "&f堆叠升级 第一阶"
-	quest.7EF57BBEAA4B6B08.quest_desc: ["想要通过&9&d应用能源2&f&r等模组创建虚拟存储？\\n\\n这些是升级存储系统的绝佳方式,但需要重点讨论&eNBT物品&r及其最佳存储方案.\\n\\nNBT物品指带有额外标签的物品,包括附魔物品、有耐久度的物品等.这些附加的NBT标签导致它们通常无法堆叠.\\n\\n若将大量此类物品存入AE2等存储系统,可能导致存档或服务器出现问题.\\n\\n因此最好将它们存放在箱子或袋子里!"]
+	quest.7E9E03274A88347D.quest_desc: ["使背包内堆叠数量增加2."]
+	quest.7E9E03274A88347D.title: "&f堆叠升级 I 阶"
+	quest.7EF57BBEAA4B6B08.quest_desc: ["是否想通过&9&d应用能源2&f&r等模组创建虚拟存储？\\n\\n这些是升级存储系统的绝佳方式,但需重点讨论&eNBT物品&r及其最佳存储方案.\\n\\nNBT物品指附带额外标签的物品,包括附魔物品、有耐久度物品等.这些附加的NBT标签导致它们通常无法堆叠.\\n\\n若将大量此类物品存入AE2等存储系统,可能导致存档或服务器异常.\\n\\n因此建议将其存放在箱子或袋中!"]
 	quest.7EFBFF5D0DA018E7.quest_desc: ["为背包添加自动删除物品的过滤功能."]
 	quest.7EFBFF5D0DA018E7.quest_subtitle: "为背包添加自动删除物品的过滤功能."
 	quest.7F990FBC1A691020.quest_desc: ["陷阱箱子与普通箱子功能相同,但开启时会发出红石信号,且无法合并成双箱."]
@@ -181,7 +181,7 @@
 	task.00ED02255105A973.title: "&a钻石箱子&f"
 	task.0427B441A750316F.title: "&a金箱子&f"
 	task.073D1C45B3018BBA.title: "箱子"
-	task.14FA4A933C39A406.title: "储物船"
+	task.14FA4A933C39A406.title: "运输船"
 	task.1809DDEA104A9CE8.title: "版权所有"
 	task.200CE35BF3C04F6F.title: "&a铜箱子&f"
 	task.21FBC4E0F668347C.title: "NBT与您!"
@@ -192,7 +192,7 @@
 	task.34B6EB0B801E4743.title: "&a下界合金箱子&f"
 	task.49F46466DB8EDD61.title: "&a铁箱子&f"
 	task.51CC9A8E36385400.title: "箱子"
-	task.593CD1E685B4DDAA.title: "破损升级件"
+	task.593CD1E685B4DDAA.title: "凿制升级件"
 	task.5DEBE38C614EFBB4.title: "版权所有"
 	task.6205B6B93B306A12.title: "箱子"
 }

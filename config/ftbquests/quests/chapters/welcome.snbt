@@ -27,18 +27,22 @@
 			}
 			icon_scale: 0.9d
 			id: "3BC0A50886A3222B"
-			rewards: [{
-				id: "4956CB79E44FB523"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4956CB79E44FB523"
+					type: "xp"
+					xp: 10
+				}
+			]
 			shape: "pentagon"
 			size: 3.0d
-			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "33218EFDD498E9DB"
-				type: "dimension"
-			}]
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "33218EFDD498E9DB"
+					type: "dimension"
+				}
+			]
 			x: 0.0d
 			y: -0.49642857142856656d
 		}
@@ -48,17 +52,21 @@
 			}
 			id: "3708A4780ACEB34E"
 			min_width: 250
-			rewards: [{
-				id: "4A56DF6E0204666C"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "4A56DF6E0204666C"
+					type: "xp"
+					xp: 10
+				}
+			]
 			shape: "rsquare"
 			size: 1.5d
-			tasks: [{
-				id: "52BB142F044075B4"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "52BB142F044075B4"
+					type: "checkmark"
+				}
+			]
 			x: 2.25d
 			y: -0.75d
 		}
@@ -70,16 +78,20 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5AC1BE754210429E"
-			rewards: [{
-				id: "101D2FD24AB845AC"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "101D2FD24AB845AC"
+					type: "xp"
+					xp: 10
+				}
+			]
 			size: 1.5d
-			tasks: [{
-				id: "4F13A02FB0055A62"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "4F13A02FB0055A62"
+					type: "checkmark"
+				}
+			]
 			x: -2.25d
 			y: -0.75d
 		}

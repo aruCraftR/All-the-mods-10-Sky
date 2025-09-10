@@ -11,7 +11,7 @@
 		{
 			click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
 			height: 1.0d
-			hover: ["Pilpoh's Productive Trees Guide"]
+			hover: ["皮尔波的&d林业&f指南"]
 			image: "minecraft:textures/gui/sprites/toast/tree.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -27,7 +27,7 @@
 			y: 0.9000000000000004d
 		}
 	]
-	order_index: 12
+	order_index: 14
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -54,51 +54,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "417428B25B11FB43"
-				item: { count: 1, id: "productivetrees:beech_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "417428B25B11FB43"
+					item: {
+						count: 1
+						id: "productivetrees:beech_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["0B70D40FA951E13B"]
 			id: "5B114CE7192A0549"
-			rewards: [{
-				count: 16
-				id: "16A0C8EF7603562F"
-				item: {
-					count: 1
-					id: "productivetrees:alder_log"
+			rewards: [
+				{
+					count: 16
+					id: "16A0C8EF7603562F"
+					item: {
+						count: 1
+						id: "productivetrees:alder_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5CBF04AB9933B3F8"
-				item: { count: 1, id: "productivetrees:alder_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5CBF04AB9933B3F8"
+					item: {
+						count: 1
+						id: "productivetrees:alder_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["5B114CE7192A0549"]
 			id: "00B7DD3AFC94B037"
-			rewards: [{
-				count: 16
-				id: "69C965CE63D9B4DB"
-				item: {
-					count: 1
-					id: "productivetrees:aspen_log"
+			rewards: [
+				{
+					count: 16
+					id: "69C965CE63D9B4DB"
+					item: {
+						count: 1
+						id: "productivetrees:aspen_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "18B09C72B4EA3DC3"
-				item: { count: 1, id: "productivetrees:aspen_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "18B09C72B4EA3DC3"
+					item: {
+						count: 1
+						id: "productivetrees:aspen_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.0d
 			y: -3.5d
 		}
@@ -125,31 +144,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6CE5339E54F4AB6B"
-				item: { count: 1, id: "productivetrees:elderberry_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6CE5339E54F4AB6B"
+					item: {
+						count: 1
+						id: "productivetrees:elderberry_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: -4.5d
 		}
 		{
 			dependencies: ["00B7DD3AFC94B037"]
 			id: "48B97E3C2A93BC46"
-			rewards: [{
-				count: 16
-				id: "13795C627544E44F"
-				item: {
-					count: 1
-					id: "productivetrees:hazel_log"
+			rewards: [
+				{
+					count: 16
+					id: "13795C627544E44F"
+					item: {
+						count: 1
+						id: "productivetrees:hazel_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "09509A780AA7B8D5"
-				item: { count: 1, id: "productivetrees:hazel_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "09509A780AA7B8D5"
+					item: {
+						count: 1
+						id: "productivetrees:hazel_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.5d
 			y: -3.0d
 		}
@@ -176,11 +207,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "69F31F87854CCCBE"
-				item: { count: 1, id: "productivetrees:rowan_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "69F31F87854CCCBE"
+					item: {
+						count: 1
+						id: "productivetrees:rowan_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: -4.0d
 		}
@@ -207,51 +243,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "41B2853FDA18166D"
-				item: { count: 1, id: "productivetrees:hawthorn_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "41B2853FDA18166D"
+					item: {
+						count: 1
+						id: "productivetrees:hawthorn_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["2CA2B3A1783B4040"]
 			id: "33977CEF056F0A13"
-			rewards: [{
-				count: 16
-				id: "11EA9F8CE3CC40CC"
-				item: {
-					count: 1
-					id: "productivetrees:holly_log"
+			rewards: [
+				{
+					count: 16
+					id: "11EA9F8CE3CC40CC"
+					item: {
+						count: 1
+						id: "productivetrees:holly_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3553DDFE68858F16"
-				item: { count: 1, id: "productivetrees:holly_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3553DDFE68858F16"
+					item: {
+						count: 1
+						id: "productivetrees:holly_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["33977CEF056F0A13"]
 			id: "6255E2FE6DD4084A"
-			rewards: [{
-				count: 16
-				id: "64F36966B8587B71"
-				item: {
-					count: 1
-					id: "productivetrees:boxwood_log"
+			rewards: [
+				{
+					count: 16
+					id: "64F36966B8587B71"
+					item: {
+						count: 1
+						id: "productivetrees:boxwood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4F583EB775C229C2"
-				item: { count: 1, id: "productivetrees:boxwood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4F583EB775C229C2"
+					item: {
+						count: 1
+						id: "productivetrees:boxwood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: -6.0d
 		}
@@ -278,31 +333,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "07D58995072D4168"
-				item: { count: 1, id: "productivetrees:pecan_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "07D58995072D4168"
+					item: {
+						count: 1
+						id: "productivetrees:pecan_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: -0.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "01B2DDD81065B4EF"
-			rewards: [{
-				count: 16
-				id: "0AB58D077E4107F5"
-				item: {
-					count: 1
-					id: "productivetrees:cacao_log"
+			rewards: [
+				{
+					count: 16
+					id: "0AB58D077E4107F5"
+					item: {
+						count: 1
+						id: "productivetrees:cacao_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3356029BA0C55CDD"
-				item: { count: 1, id: "productivetrees:cacao_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3356029BA0C55CDD"
+					item: {
+						count: 1
+						id: "productivetrees:cacao_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 11.0d
 		}
@@ -329,71 +396,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0203CD92FFA200C7"
-				item: { count: 1, id: "productivetrees:brazil_nut_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0203CD92FFA200C7"
+					item: {
+						count: 1
+						id: "productivetrees:brazil_nut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "70F7B018CD61E946"
-			rewards: [{
-				count: 16
-				id: "1B317881430DEC30"
-				item: {
-					count: 1
-					id: "productivetrees:teak_log"
+			rewards: [
+				{
+					count: 16
+					id: "1B317881430DEC30"
+					item: {
+						count: 1
+						id: "productivetrees:teak_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6AC8C0A52933CC95"
-				item: { count: 1, id: "productivetrees:teak_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6AC8C0A52933CC95"
+					item: {
+						count: 1
+						id: "productivetrees:teak_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 8.0d
 		}
 		{
 			dependencies: ["70F7B018CD61E946"]
 			id: "052BE1D845794702"
-			rewards: [{
-				count: 16
-				id: "65503C01BC15FA42"
-				item: {
-					count: 1
-					id: "productivetrees:balsa_log"
+			rewards: [
+				{
+					count: 16
+					id: "65503C01BC15FA42"
+					item: {
+						count: 1
+						id: "productivetrees:balsa_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "687AB23F71448D3A"
-				item: { count: 1, id: "productivetrees:balsa_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "687AB23F71448D3A"
+					item: {
+						count: 1
+						id: "productivetrees:balsa_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 4.5d
 		}
 		{
 			dependencies: ["052BE1D845794702"]
 			id: "14F856E0D32FBB5B"
-			rewards: [{
-				count: 16
-				id: "5547291107C0762D"
-				item: {
-					count: 1
-					id: "productivetrees:blue_mahoe_log"
+			rewards: [
+				{
+					count: 16
+					id: "5547291107C0762D"
+					item: {
+						count: 1
+						id: "productivetrees:blue_mahoe_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "7AE0CF993A1D80BA"
-				item: { count: 1, id: "productivetrees:blue_mahoe_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "7AE0CF993A1D80BA"
+					item: {
+						count: 1
+						id: "productivetrees:blue_mahoe_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 2.5d
 		}
@@ -420,71 +513,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "259B1588B7B5880A"
-				item: { count: 1, id: "productivetrees:cashew_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "259B1588B7B5880A"
+					item: {
+						count: 1
+						id: "productivetrees:cashew_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 9.0d
 		}
 		{
 			dependencies: ["70F7B018CD61E946"]
 			id: "056E1E3B1ED14917"
-			rewards: [{
-				count: 16
-				id: "7E5DD959E152E14C"
-				item: {
-					count: 1
-					id: "productivetrees:ipe_log"
+			rewards: [
+				{
+					count: 16
+					id: "7E5DD959E152E14C"
+					item: {
+						count: 1
+						id: "productivetrees:ipe_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6EEE7CA38D494E1D"
-				item: { count: 1, id: "productivetrees:ipe_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6EEE7CA38D494E1D"
+					item: {
+						count: 1
+						id: "productivetrees:ipe_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["70F7B018CD61E946"]
 			id: "0C7491BA5857AA00"
-			rewards: [{
-				count: 16
-				id: "36C95FD56E321BEA"
-				item: {
-					count: 1
-					id: "productivetrees:kapok_log"
+			rewards: [
+				{
+					count: 16
+					id: "36C95FD56E321BEA"
+					item: {
+						count: 1
+						id: "productivetrees:kapok_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "09440FE4B847BF70"
-				item: { count: 1, id: "productivetrees:kapok_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "09440FE4B847BF70"
+					item: {
+						count: 1
+						id: "productivetrees:kapok_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["056E1E3B1ED14917"]
 			id: "7D0AE6FCB0996218"
-			rewards: [{
-				count: 16
-				id: "6362FCFBCBC0EE95"
-				item: {
-					count: 1
-					id: "productivetrees:aquilaria_log"
+			rewards: [
+				{
+					count: 16
+					id: "6362FCFBCBC0EE95"
+					item: {
+						count: 1
+						id: "productivetrees:aquilaria_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0191D7AC75FE3A67"
-				item: { count: 1, id: "productivetrees:aquilaria_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "0191D7AC75FE3A67"
+					item: {
+						count: 1
+						id: "productivetrees:aquilaria_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 6.0d
 		}
@@ -515,11 +634,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "0B1DE8BCC3A5C44E"
-				item: { count: 1, id: "productivetrees:white_ipe_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0B1DE8BCC3A5C44E"
+					item: {
+						count: 1
+						id: "productivetrees:white_ipe_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 8.0d
 		}
@@ -550,11 +674,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "34E6649E3BE1FC61"
-				item: { count: 1, id: "productivetrees:pink_ipe_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "34E6649E3BE1FC61"
+					item: {
+						count: 1
+						id: "productivetrees:pink_ipe_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 9.0d
 		}
@@ -585,31 +714,43 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "1CD4419DBC6DFE0A"
-				item: { count: 1, id: "productivetrees:purple_ipe_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1CD4419DBC6DFE0A"
+					item: {
+						count: 1
+						id: "productivetrees:purple_ipe_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 10.0d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "08C6B7D2DAE87222"
-			rewards: [{
-				count: 16
-				id: "68035F98AED50E65"
-				item: {
-					count: 1
-					id: "productivetrees:silver_lime_log"
+			rewards: [
+				{
+					count: 16
+					id: "68035F98AED50E65"
+					item: {
+						count: 1
+						id: "productivetrees:silver_lime_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "29D1151900469630"
-				item: { count: 1, id: "productivetrees:silver_lime_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "29D1151900469630"
+					item: {
+						count: 1
+						id: "productivetrees:silver_lime_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 2.5d
 		}
@@ -636,11 +777,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "3ACE7CEE6920D8C7"
-				item: { count: 1, id: "productivetrees:wild_cherry_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3ACE7CEE6920D8C7"
+					item: {
+						count: 1
+						id: "productivetrees:wild_cherry_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 0.5d
 		}
@@ -670,11 +816,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "07EED2A68D5ED909"
-				item: { count: 1, id: "productivetrees:sugar_apple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "07EED2A68D5ED909"
+					item: {
+						count: 1
+						id: "productivetrees:sugar_apple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 0.5d
 		}
@@ -704,11 +855,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2E75F1876DB16620"
-				item: { count: 1, id: "productivetrees:olive_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2E75F1876DB16620"
+					item: {
+						count: 1
+						id: "productivetrees:olive_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: -0.5d
 		}
@@ -735,11 +891,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5FADA16D4055231E"
-				item: { count: 1, id: "productivetrees:papaya_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5FADA16D4055231E"
+					item: {
+						count: 1
+						id: "productivetrees:papaya_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 11.0d
 		}
@@ -766,31 +927,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "62E220D3878625CD"
-				item: { count: 1, id: "productivetrees:date_palm_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "62E220D3878625CD"
+					item: {
+						count: 1
+						id: "productivetrees:date_palm_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 11.0d
 		}
 		{
 			dependencies: ["08C6B7D2DAE87222"]
 			id: "3A2249D94C019F0E"
-			rewards: [{
-				count: 16
-				id: "67A3D643CFBA170D"
-				item: {
-					count: 1
-					id: "productivetrees:dogwood_log"
+			rewards: [
+				{
+					count: 16
+					id: "67A3D643CFBA170D"
+					item: {
+						count: 1
+						id: "productivetrees:dogwood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6DC3BBB8684838CF"
-				item: { count: 1, id: "productivetrees:dogwood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6DC3BBB8684838CF"
+					item: {
+						count: 1
+						id: "productivetrees:dogwood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 1.5d
 		}
@@ -817,71 +990,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "71E08C2CC534D674"
-				item: { count: 1, id: "productivetrees:walnut_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "71E08C2CC534D674"
+					item: {
+						count: 1
+						id: "productivetrees:walnut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["08C6B7D2DAE87222"]
 			id: "00DEFA26F2B896D6"
-			rewards: [{
-				count: 16
-				id: "5DE37C913F12AC23"
-				item: {
-					count: 1
-					id: "productivetrees:white_willow_log"
+			rewards: [
+				{
+					count: 16
+					id: "5DE37C913F12AC23"
+					item: {
+						count: 1
+						id: "productivetrees:white_willow_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5AEBEC8C9DA1BB87"
-				item: { count: 1, id: "productivetrees:white_willow_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5AEBEC8C9DA1BB87"
+					item: {
+						count: 1
+						id: "productivetrees:white_willow_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["00DEFA26F2B896D6"]
 			id: "5A84A64CB3D3E6F5"
-			rewards: [{
-				count: 16
-				id: "5D327B505D5E5D19"
-				item: {
-					count: 1
-					id: "productivetrees:white_poplar_log"
+			rewards: [
+				{
+					count: 16
+					id: "5D327B505D5E5D19"
+					item: {
+						count: 1
+						id: "productivetrees:white_poplar_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6FFAE66C08972E63"
-				item: { count: 1, id: "productivetrees:white_poplar_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6FFAE66C08972E63"
+					item: {
+						count: 1
+						id: "productivetrees:white_poplar_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: -1.5d
 		}
 		{
 			dependencies: ["08C6B7D2DAE87222"]
 			id: "7D7DC3C695CD7236"
-			rewards: [{
-				count: 16
-				id: "7EBA2DF71D6E0544"
-				item: {
-					count: 1
-					id: "productivetrees:ash_log"
+			rewards: [
+				{
+					count: 16
+					id: "7EBA2DF71D6E0544"
+					item: {
+						count: 1
+						id: "productivetrees:ash_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1A382CD5F630AAAF"
-				item: { count: 1, id: "productivetrees:ash_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "1A382CD5F630AAAF"
+					item: {
+						count: 1
+						id: "productivetrees:ash_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: 3.0d
 		}
@@ -908,11 +1107,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5687CA43259A66B9"
-				item: { count: 1, id: "productivetrees:banana_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5687CA43259A66B9"
+					item: {
+						count: 1
+						id: "productivetrees:banana_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 6.0d
 		}
@@ -939,71 +1143,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "7AD7B0C49A763E34"
-				item: { count: 1, id: "productivetrees:butternut_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7AD7B0C49A763E34"
+					item: {
+						count: 1
+						id: "productivetrees:butternut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["052BE1D845794702"]
 			id: "5DCDDC346359DF28"
-			rewards: [{
-				count: 16
-				id: "2954EEEF4E12818F"
-				item: {
-					count: 1
-					id: "productivetrees:cocobolo_log"
+			rewards: [
+				{
+					count: 16
+					id: "2954EEEF4E12818F"
+					item: {
+						count: 1
+						id: "productivetrees:cocobolo_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "7189A0F697FB0CAF"
-				item: { count: 1, id: "productivetrees:cocobolo_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "7189A0F697FB0CAF"
+					item: {
+						count: 1
+						id: "productivetrees:cocobolo_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "3A79E24283523E58"
-			rewards: [{
-				count: 16
-				id: "0629ADFB8866ACEC"
-				item: {
-					count: 1
-					id: "productivetrees:european_larch_log"
+			rewards: [
+				{
+					count: 16
+					id: "0629ADFB8866ACEC"
+					item: {
+						count: 1
+						id: "productivetrees:european_larch_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5CBD13A621EDB3D9"
-				item: { count: 1, id: "productivetrees:european_larch_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5CBD13A621EDB3D9"
+					item: {
+						count: 1
+						id: "productivetrees:european_larch_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["3A79E24283523E58"]
 			id: "7E7637DAD2C242CB"
-			rewards: [{
-				count: 16
-				id: "356A47E034D5C5E4"
-				item: {
-					count: 1
-					id: "productivetrees:bull_pine_log"
+			rewards: [
+				{
+					count: 16
+					id: "356A47E034D5C5E4"
+					item: {
+						count: 1
+						id: "productivetrees:bull_pine_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "06816DC413353689"
-				item: { count: 1, id: "productivetrees:bull_pine_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "06816DC413353689"
+					item: {
+						count: 1
+						id: "productivetrees:bull_pine_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.5d
 			y: -5.5d
 		}
@@ -1030,31 +1260,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2E4CA9EFD36BA921"
-				item: { count: 1, id: "productivetrees:sour_cherry_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2E4CA9EFD36BA921"
+					item: {
+						count: 1
+						id: "productivetrees:sour_cherry_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: -1.0d
 		}
 		{
 			dependencies: ["01F51EBFEC660549"]
 			id: "3BAEF1A3FDB818A4"
-			rewards: [{
-				count: 16
-				id: "73C63AB3E90ED23F"
-				item: {
-					count: 1
-					id: "productivetrees:sugar_maple_log"
+			rewards: [
+				{
+					count: 16
+					id: "73C63AB3E90ED23F"
+					item: {
+						count: 1
+						id: "productivetrees:sugar_maple_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "17B965AF58E165BF"
-				item: { count: 1, id: "productivetrees:sugar_maple_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "17B965AF58E165BF"
+					item: {
+						count: 1
+						id: "productivetrees:sugar_maple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.5d
 			y: -3.5d
 		}
@@ -1081,71 +1323,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "73F1FAC8ACEBD6C7"
-				item: { count: 1, id: "productivetrees:sweet_chestnut_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "73F1FAC8ACEBD6C7"
+					item: {
+						count: 1
+						id: "productivetrees:sweet_chestnut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 1.5d
 		}
 		{
 			dependencies: ["3BAEF1A3FDB818A4"]
 			id: "1556777B07BD7C2B"
-			rewards: [{
-				count: 16
-				id: "6EB9ABA57185ECAE"
-				item: {
-					count: 1
-					id: "productivetrees:sweetgum_log"
+			rewards: [
+				{
+					count: 16
+					id: "6EB9ABA57185ECAE"
+					item: {
+						count: 1
+						id: "productivetrees:sweetgum_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3E9AEBA3AFE542CC"
-				item: { count: 1, id: "productivetrees:sweetgum_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3E9AEBA3AFE542CC"
+					item: {
+						count: 1
+						id: "productivetrees:sweetgum_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["5DCDDC346359DF28"]
 			id: "04DEC6E210F06D65"
-			rewards: [{
-				count: 16
-				id: "5361C6F29B0508E2"
-				item: {
-					count: 1
-					id: "productivetrees:wenge_log"
+			rewards: [
+				{
+					count: 16
+					id: "5361C6F29B0508E2"
+					item: {
+						count: 1
+						id: "productivetrees:wenge_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "285AE97FC60ABC45"
-				item: { count: 1, id: "productivetrees:wenge_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "285AE97FC60ABC45"
+					item: {
+						count: 1
+						id: "productivetrees:wenge_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["7E7637DAD2C242CB"]
 			id: "526A9655A62C93F4"
-			rewards: [{
-				count: 16
-				id: "44533602DDD90543"
-				item: {
-					count: 1
-					id: "productivetrees:sequoia_log"
+			rewards: [
+				{
+					count: 16
+					id: "44533602DDD90543"
+					item: {
+						count: 1
+						id: "productivetrees:sequoia_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4E26F5C8CFF05E06"
-				item: { count: 1, id: "productivetrees:sequoia_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4E26F5C8CFF05E06"
+					item: {
+						count: 1
+						id: "productivetrees:sequoia_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: -5.5d
 		}
@@ -1156,20 +1424,27 @@
 			]
 			hide_dependent_lines: true
 			id: "4D562F5D72038083"
-			rewards: [{
-				count: 16
-				id: "31829FF057E70F6C"
-				item: {
-					count: 1
-					id: "productivetrees:balsam_fir_log"
+			rewards: [
+				{
+					count: 16
+					id: "31829FF057E70F6C"
+					item: {
+						count: 1
+						id: "productivetrees:balsam_fir_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "625E8F12DCB93B4F"
-				item: { count: 1, id: "productivetrees:balsam_fir_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "625E8F12DCB93B4F"
+					item: {
+						count: 1
+						id: "productivetrees:balsam_fir_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: -2.5d
 		}
@@ -1196,11 +1471,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "045BE85A87484FCA"
-				item: { count: 1, id: "productivetrees:avocado_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "045BE85A87484FCA"
+					item: {
+						count: 1
+						id: "productivetrees:avocado_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: 2.0d
 		}
@@ -1210,20 +1490,27 @@
 				"4D562F5D72038083"
 			]
 			id: "6497A255E427A5EB"
-			rewards: [{
-				count: 16
-				id: "469CC3B927863924"
-				item: {
-					count: 1
-					id: "productivetrees:silver_fir_log"
+			rewards: [
+				{
+					count: 16
+					id: "469CC3B927863924"
+					item: {
+						count: 1
+						id: "productivetrees:silver_fir_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0855C3A8FF782357"
-				item: { count: 1, id: "productivetrees:silver_fir_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "0855C3A8FF782357"
+					item: {
+						count: 1
+						id: "productivetrees:silver_fir_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.5d
 			y: -6.5d
 		}
@@ -1233,100 +1520,135 @@
 				"052BE1D845794702"
 			]
 			id: "11B1FB0AB2677902"
-			rewards: [{
-				count: 16
-				id: "378992AADEEDF093"
-				item: {
-					count: 1
-					id: "productivetrees:black_locust_log"
+			rewards: [
+				{
+					count: 16
+					id: "378992AADEEDF093"
+					item: {
+						count: 1
+						id: "productivetrees:black_locust_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "118BED0D52DDEE79"
-				item: { count: 1, id: "productivetrees:black_locust_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "118BED0D52DDEE79"
+					item: {
+						count: 1
+						id: "productivetrees:black_locust_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["6497A255E427A5EB"]
 			id: "327587EEEF6849BE"
-			rewards: [{
-				count: 16
-				id: "0BB4B99C69597E3E"
-				item: {
-					count: 1
-					id: "productivetrees:cedar_log"
+			rewards: [
+				{
+					count: 16
+					id: "0BB4B99C69597E3E"
+					item: {
+						count: 1
+						id: "productivetrees:cedar_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4B6B58172429AD09"
-				item: { count: 1, id: "productivetrees:cedar_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4B6B58172429AD09"
+					item: {
+						count: 1
+						id: "productivetrees:cedar_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: -7.5d
 		}
 		{
 			dependencies: ["0C7491BA5857AA00"]
 			id: "489A811AB1CFCBA3"
-			rewards: [{
-				count: 16
-				id: "7AA0EF0756B6C1AC"
-				item: {
-					count: 1
-					id: "productivetrees:ceylon_ebony_log"
+			rewards: [
+				{
+					count: 16
+					id: "7AA0EF0756B6C1AC"
+					item: {
+						count: 1
+						id: "productivetrees:ceylon_ebony_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6EC029DACE333087"
-				item: { count: 1, id: "productivetrees:ceylon_ebony_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6EC029DACE333087"
+					item: {
+						count: 1
+						id: "productivetrees:ceylon_ebony_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["2993EAB4850B7172"]
 			id: "44FEE957BD333241"
-			rewards: [{
-				count: 16
-				id: "4F2F89D3BF1B0BA5"
-				item: {
-					count: 1
-					id: "productivetrees:citron_log"
+			rewards: [
+				{
+					count: 16
+					id: "4F2F89D3BF1B0BA5"
+					item: {
+						count: 1
+						id: "productivetrees:citron_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3029FF5D0E46E5CE"
-				item: { count: 1, id: "productivetrees:citron_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3029FF5D0E46E5CE"
+					item: {
+						count: 1
+						id: "productivetrees:citron_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["052BE1D845794702"]
 			id: "1CD5ABD827CEB3AE"
-			rewards: [{
-				count: 16
-				id: "3CF53562D73FE98E"
-				item: {
-					count: 1
-					id: "productivetrees:coconut_log"
+			rewards: [
+				{
+					count: 16
+					id: "3CF53562D73FE98E"
+					item: {
+						count: 1
+						id: "productivetrees:coconut_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "52DBE30471155C4C"
-				item: { count: 1, id: "productivetrees:coconut_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "52DBE30471155C4C"
+					item: {
+						count: 1
+						id: "productivetrees:coconut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 5.0d
 		}
@@ -1353,11 +1675,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "73B217D7CCF8F4B5"
-				item: { count: 1, id: "productivetrees:grandidiers_baobab_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "73B217D7CCF8F4B5"
+					item: {
+						count: 1
+						id: "productivetrees:grandidiers_baobab_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 1.0d
 		}
@@ -1367,280 +1694,378 @@
 				"00DEFA26F2B896D6"
 			]
 			id: "6678AB58930F4B91"
-			rewards: [{
-				count: 16
-				id: "318BDBBEBC316DFB"
-				item: {
-					count: 1
-					id: "productivetrees:great_sallow_log"
+			rewards: [
+				{
+					count: 16
+					id: "318BDBBEBC316DFB"
+					item: {
+						count: 1
+						id: "productivetrees:great_sallow_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1827307F4535A415"
-				item: { count: 1, id: "productivetrees:great_sallow_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "1827307F4535A415"
+					item: {
+						count: 1
+						id: "productivetrees:great_sallow_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: -1.5d
 		}
 		{
 			dependencies: ["6FBF112811FB707C"]
 			id: "396E7A2078F2CBC5"
-			rewards: [{
-				count: 16
-				id: "4B31BF9977D3EA5A"
-				item: {
-					count: 1
-					id: "productivetrees:hornbeam_log"
+			rewards: [
+				{
+					count: 16
+					id: "4B31BF9977D3EA5A"
+					item: {
+						count: 1
+						id: "productivetrees:hornbeam_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "635FF9AFB239291F"
-				item: { count: 1, id: "productivetrees:hornbeam_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "635FF9AFB239291F"
+					item: {
+						count: 1
+						id: "productivetrees:hornbeam_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.5d
 			y: 2.5d
 		}
 		{
 			dependencies: ["052BE1D845794702"]
 			id: "37B805E875D82A8B"
-			rewards: [{
-				count: 16
-				id: "1FEBC47D535A47A8"
-				item: {
-					count: 1
-					id: "productivetrees:iroko_log"
+			rewards: [
+				{
+					count: 16
+					id: "1FEBC47D535A47A8"
+					item: {
+						count: 1
+						id: "productivetrees:iroko_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "675CEC4F0A0BF1F1"
-				item: { count: 1, id: "productivetrees:iroko_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "675CEC4F0A0BF1F1"
+					item: {
+						count: 1
+						id: "productivetrees:iroko_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["44FEE957BD333241"]
 			id: "504752A1C9EFED76"
-			rewards: [{
-				count: 16
-				id: "7FB2B3BBE74F88C5"
-				item: {
-					count: 1
-					id: "productivetrees:key_lime_log"
+			rewards: [
+				{
+					count: 16
+					id: "7FB2B3BBE74F88C5"
+					item: {
+						count: 1
+						id: "productivetrees:key_lime_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "579EF3A6ED4246D3"
-				item: { count: 1, id: "productivetrees:key_lime_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "579EF3A6ED4246D3"
+					item: {
+						count: 1
+						id: "productivetrees:key_lime_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["7E7637DAD2C242CB"]
 			id: "3512A883CD4E007C"
-			rewards: [{
-				count: 16
-				id: "3CBA3E8A48E48DB6"
-				item: {
-					count: 1
-					id: "productivetrees:lawson_cypress_log"
+			rewards: [
+				{
+					count: 16
+					id: "3CBA3E8A48E48DB6"
+					item: {
+						count: 1
+						id: "productivetrees:lawson_cypress_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "19AC4C272F96B015"
-				item: { count: 1, id: "productivetrees:lawson_cypress_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "19AC4C272F96B015"
+					item: {
+						count: 1
+						id: "productivetrees:lawson_cypress_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["7E7637DAD2C242CB"]
 			id: "77D3546953550E39"
-			rewards: [{
-				count: 16
-				id: "417CDB5DC0BE03DA"
-				item: {
-					count: 1
-					id: "productivetrees:loblolly_pine_log"
+			rewards: [
+				{
+					count: 16
+					id: "417CDB5DC0BE03DA"
+					item: {
+						count: 1
+						id: "productivetrees:loblolly_pine_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "128A14F3E1CF0587"
-				item: { count: 1, id: "productivetrees:loblolly_pine_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "128A14F3E1CF0587"
+					item: {
+						count: 1
+						id: "productivetrees:loblolly_pine_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: -4.5d
 		}
 		{
 			dependencies: ["7E7637DAD2C242CB"]
 			id: "38C236042AB5DDB9"
-			rewards: [{
-				count: 16
-				id: "61A171D718D44F89"
-				item: {
-					count: 1
-					id: "productivetrees:western_hemlock_log"
+			rewards: [
+				{
+					count: 16
+					id: "61A171D718D44F89"
+					item: {
+						count: 1
+						id: "productivetrees:western_hemlock_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1B1FDF760B4F79DD"
-				item: { count: 1, id: "productivetrees:western_hemlock_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "1B1FDF760B4F79DD"
+					item: {
+						count: 1
+						id: "productivetrees:western_hemlock_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -5.5d
 		}
 		{
 			dependencies: ["38C236042AB5DDB9"]
 			id: "0480DF316ACF12DA"
-			rewards: [{
-				count: 16
-				id: "1EE6C4DC2F919B08"
-				item: {
-					count: 1
-					id: "productivetrees:monkey_puzzle_log"
+			rewards: [
+				{
+					count: 16
+					id: "1EE6C4DC2F919B08"
+					item: {
+						count: 1
+						id: "productivetrees:monkey_puzzle_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4417038378FAF27B"
-				item: { count: 1, id: "productivetrees:monkey_puzzle_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4417038378FAF27B"
+					item: {
+						count: 1
+						id: "productivetrees:monkey_puzzle_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -7.5d
 			y: -5.5d
 		}
 		{
 			dependencies: ["3512A883CD4E007C"]
 			id: "577A5FC500E14C05"
-			rewards: [{
-				count: 16
-				id: "1A2AD8BFDBF2A7AA"
-				item: {
-					count: 1
-					id: "productivetrees:cork_oak_log"
+			rewards: [
+				{
+					count: 16
+					id: "1A2AD8BFDBF2A7AA"
+					item: {
+						count: 1
+						id: "productivetrees:cork_oak_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "48B3D8E6F56A99CC"
-				item: { count: 1, id: "productivetrees:cork_oak_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "48B3D8E6F56A99CC"
+					item: {
+						count: 1
+						id: "productivetrees:cork_oak_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["04DEC6E210F06D65"]
 			id: "684BB9D2F2AC87A6"
-			rewards: [{
-				count: 16
-				id: "7A9392A7BC1CA44B"
-				item: {
-					count: 1
-					id: "productivetrees:socotra_dragon_log"
+			rewards: [
+				{
+					count: 16
+					id: "7A9392A7BC1CA44B"
+					item: {
+						count: 1
+						id: "productivetrees:socotra_dragon_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4C21958305FBD389"
-				item: { count: 1, id: "productivetrees:socotra_dragon_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4C21958305FBD389"
+					item: {
+						count: 1
+						id: "productivetrees:socotra_dragon_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["3A79E24283523E58"]
 			id: "5030F1D96457202E"
-			rewards: [{
-				count: 16
-				id: "40146E1B8B7A5276"
-				item: {
-					count: 1
-					id: "productivetrees:yew_log"
+			rewards: [
+				{
+					count: 16
+					id: "40146E1B8B7A5276"
+					item: {
+						count: 1
+						id: "productivetrees:yew_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5D4924241771BCC9"
-				item: { count: 1, id: "productivetrees:yew_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5D4924241771BCC9"
+					item: {
+						count: 1
+						id: "productivetrees:yew_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["489A811AB1CFCBA3"]
 			id: "19C22C5B247F4D7D"
-			rewards: [{
-				count: 16
-				id: "50A64D9346BE5B0D"
-				item: {
-					count: 1
-					id: "productivetrees:yellow_meranti_log"
+			rewards: [
+				{
+					count: 16
+					id: "50A64D9346BE5B0D"
+					item: {
+						count: 1
+						id: "productivetrees:yellow_meranti_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "17BC74D9567C3D16"
-				item: { count: 1, id: "productivetrees:yellow_meranti_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "17BC74D9567C3D16"
+					item: {
+						count: 1
+						id: "productivetrees:yellow_meranti_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["489A811AB1CFCBA3"]
 			id: "5F4AA7E7D050C327"
-			rewards: [{
-				count: 16
-				id: "15B37E4028DE156C"
-				item: {
-					count: 1
-					id: "productivetrees:zebrano_log"
+			rewards: [
+				{
+					count: 16
+					id: "15B37E4028DE156C"
+					item: {
+						count: 1
+						id: "productivetrees:zebrano_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "62633891FFED5968"
-				item: { count: 1, id: "productivetrees:zebrano_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "62633891FFED5968"
+					item: {
+						count: 1
+						id: "productivetrees:zebrano_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["7D7DC3C695CD7236"]
 			id: "6FBF112811FB707C"
-			rewards: [{
-				count: 16
-				id: "26C007EE4E256FA2"
-				item: {
-					count: 1
-					id: "productivetrees:whitebeam_log"
+			rewards: [
+				{
+					count: 16
+					id: "26C007EE4E256FA2"
+					item: {
+						count: 1
+						id: "productivetrees:whitebeam_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "30428722CC64DDD8"
-				item: { count: 1, id: "productivetrees:whitebeam_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "30428722CC64DDD8"
+					item: {
+						count: 1
+						id: "productivetrees:whitebeam_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.5d
 			y: 2.5d
 		}
@@ -1667,71 +2092,97 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2BA9605C24AB4B1B"
-				item: { count: 1, id: "productivetrees:sycamore_fig_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2BA9605C24AB4B1B"
+					item: {
+						count: 1
+						id: "productivetrees:sycamore_fig_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["052BE1D845794702"]
 			id: "291EE514A1602C46"
-			rewards: [{
-				count: 16
-				id: "44DC2A5D7D6574AB"
-				item: {
-					count: 1
-					id: "productivetrees:rose_gum_log"
+			rewards: [
+				{
+					count: 16
+					id: "44DC2A5D7D6574AB"
+					item: {
+						count: 1
+						id: "productivetrees:rose_gum_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "137BAA55888F984B"
-				item: { count: 1, id: "productivetrees:rose_gum_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "137BAA55888F984B"
+					item: {
+						count: 1
+						id: "productivetrees:rose_gum_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 4.5d
 		}
 		{
 			dependencies: ["19C22C5B247F4D7D"]
 			id: "640D6ADA17709D3A"
-			rewards: [{
-				count: 16
-				id: "5B866809200720DB"
-				item: {
-					count: 1
-					id: "productivetrees:mahogany_log"
+			rewards: [
+				{
+					count: 16
+					id: "5B866809200720DB"
+					item: {
+						count: 1
+						id: "productivetrees:mahogany_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "7C01BEF0E7C73313"
-				item: { count: 1, id: "productivetrees:mahogany_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "7C01BEF0E7C73313"
+					item: {
+						count: 1
+						id: "productivetrees:mahogany_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -6.5d
 			y: 2.0d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "5753E0138A072A3F"
-			rewards: [{
-				count: 16
-				id: "7F47538C75A490F8"
-				item: {
-					count: 1
-					id: "productivetrees:red_delicious_apple_log"
+			rewards: [
+				{
+					count: 16
+					id: "7F47538C75A490F8"
+					item: {
+						count: 1
+						id: "productivetrees:red_delicious_apple_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "7F9BEB394F68B72F"
-				item: { count: 1, id: "productivetrees:red_delicious_apple_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "7F9BEB394F68B72F"
+					item: {
+						count: 1
+						id: "productivetrees:red_delicious_apple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 8.5d
 			y: 2.0d
 		}
@@ -1758,11 +2209,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "3B44484E263D4271"
-				item: { count: 1, id: "productivetrees:prairie_crabapple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3B44484E263D4271"
+					item: {
+						count: 1
+						id: "productivetrees:prairie_crabapple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: 3.5d
 		}
@@ -1789,11 +2245,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "22830BE837D23206"
-				item: { count: 1, id: "productivetrees:pomelo_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "22830BE837D23206"
+					item: {
+						count: 1
+						id: "productivetrees:pomelo_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: -2.0d
 		}
@@ -1820,11 +2281,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0580E5B27302BBC5"
-				item: { count: 1, id: "productivetrees:plum_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0580E5B27302BBC5"
+					item: {
+						count: 1
+						id: "productivetrees:plum_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 0.0d
 		}
@@ -1854,31 +2320,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6A09A5AF3B84FE69"
-				item: { count: 1, id: "productivetrees:peach_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A09A5AF3B84FE69"
+					item: {
+						count: 1
+						id: "productivetrees:peach_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 1.0d
 		}
 		{
 			dependencies: ["640D6ADA17709D3A"]
 			id: "2D6FDCC948DB927D"
-			rewards: [{
-				count: 16
-				id: "77B6B142D869BED6"
-				item: {
-					count: 1
-					id: "productivetrees:rosewood_log"
+			rewards: [
+				{
+					count: 16
+					id: "77B6B142D869BED6"
+					item: {
+						count: 1
+						id: "productivetrees:rosewood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "27BBAFA7657D439C"
-				item: { count: 1, id: "productivetrees:rosewood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "27BBAFA7657D439C"
+					item: {
+						count: 1
+						id: "productivetrees:rosewood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -9.0d
 			y: 1.0d
 		}
@@ -1888,40 +2366,54 @@
 				"1556777B07BD7C2B"
 			]
 			id: "2AA407EB0BF2922E"
-			rewards: [{
-				count: 16
-				id: "41CF2A031DAAA67B"
-				item: {
-					count: 1
-					id: "productivetrees:rubber_tree_log"
+			rewards: [
+				{
+					count: 16
+					id: "41CF2A031DAAA67B"
+					item: {
+						count: 1
+						id: "productivetrees:rubber_tree_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "4FCED6BA1C1C846E"
-				item: { count: 1, id: "productivetrees:rubber_tree_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "4FCED6BA1C1C846E"
+					item: {
+						count: 1
+						id: "productivetrees:rubber_tree_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.5d
 			y: -4.5d
 		}
 		{
 			dependencies: ["3A79E24283523E58"]
 			id: "01F51EBFEC660549"
-			rewards: [{
-				count: 16
-				id: "11959E42EAF9C3DB"
-				item: {
-					count: 1
-					id: "productivetrees:red_maple_log"
+			rewards: [
+				{
+					count: 16
+					id: "11959E42EAF9C3DB"
+					item: {
+						count: 1
+						id: "productivetrees:red_maple_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "75EA78B40903ECF6"
-				item: { count: 1, id: "productivetrees:red_maple_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "75EA78B40903ECF6"
+					item: {
+						count: 1
+						id: "productivetrees:red_maple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: -3.5d
 		}
@@ -1948,11 +2440,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5255AA39714FF359"
-				item: { count: 1, id: "productivetrees:sand_pear_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5255AA39714FF359"
+					item: {
+						count: 1
+						id: "productivetrees:sand_pear_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 10.5d
 			y: 2.5d
 		}
@@ -1979,11 +2476,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "487DBE1846246ACD"
-				item: { count: 1, id: "productivetrees:cultivated_pear_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "487DBE1846246ACD"
+					item: {
+						count: 1
+						id: "productivetrees:cultivated_pear_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 12.0d
 			y: 3.0d
 		}
@@ -2010,11 +2512,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "09B712C4B1121A14"
-				item: { count: 1, id: "productivetrees:ginkgo_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "09B712C4B1121A14"
+					item: {
+						count: 1
+						id: "productivetrees:ginkgo_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.0d
 			y: 0.5d
 		}
@@ -2041,11 +2548,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "62F3FBBC0E3912AC"
-				item: { count: 1, id: "productivetrees:candlenut_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "62F3FBBC0E3912AC"
+					item: {
+						count: 1
+						id: "productivetrees:candlenut_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.0d
 			y: 0.0d
 		}
@@ -2075,51 +2587,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "1D42BDFE6A29E6FE"
-				item: { count: 1, id: "productivetrees:breadfruit_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1D42BDFE6A29E6FE"
+					item: {
+						count: 1
+						id: "productivetrees:breadfruit_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["640D6ADA17709D3A"]
 			id: "762C54C261ED5D29"
-			rewards: [{
-				count: 16
-				id: "7EE9C2B2A8FDA69A"
-				item: {
-					count: 1
-					id: "productivetrees:brazilwood_log"
+			rewards: [
+				{
+					count: 16
+					id: "7EE9C2B2A8FDA69A"
+					item: {
+						count: 1
+						id: "productivetrees:brazilwood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5A8578695FAF27C6"
-				item: { count: 1, id: "productivetrees:brazilwood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5A8578695FAF27C6"
+					item: {
+						count: 1
+						id: "productivetrees:brazilwood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -10.5d
 			y: 2.0d
 		}
 		{
 			dependencies: ["0E4DA8EE961D443F"]
 			id: "3942B5F5FD8ADF89"
-			rewards: [{
-				count: 16
-				id: "6B8D6B2C2FCC964F"
-				item: {
-					count: 1
-					id: "productivetrees:cempedak_log"
+			rewards: [
+				{
+					count: 16
+					id: "6B8D6B2C2FCC964F"
+					item: {
+						count: 1
+						id: "productivetrees:cempedak_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "787CA715CFDC192A"
-				item: { count: 1, id: "productivetrees:cempedak_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "787CA715CFDC192A"
+					item: {
+						count: 1
+						id: "productivetrees:cempedak_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: -2.5d
 		}
@@ -2146,31 +2677,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0F17694AF26788AE"
-				item: { count: 1, id: "productivetrees:cherry_plum_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0F17694AF26788AE"
+					item: {
+						count: 1
+						id: "productivetrees:cherry_plum_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 8.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["2D6FDCC948DB927D"]
 			id: "227BEFEF59977CC4"
-			rewards: [{
-				count: 16
-				id: "721858E20686B7FB"
-				item: {
-					count: 1
-					id: "productivetrees:cinnamon_log"
+			rewards: [
+				{
+					count: 16
+					id: "721858E20686B7FB"
+					item: {
+						count: 1
+						id: "productivetrees:cinnamon_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "552955EBBEAAEB4F"
-				item: { count: 1, id: "productivetrees:cinnamon_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "552955EBBEAAEB4F"
+					item: {
+						count: 1
+						id: "productivetrees:cinnamon_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -10.5d
 			y: 1.0d
 		}
@@ -2197,11 +2740,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "281BD7690DEE85A7"
-				item: { count: 1, id: "productivetrees:copoazu_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "281BD7690DEE85A7"
+					item: {
+						count: 1
+						id: "productivetrees:copoazu_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -1.0d
 		}
@@ -2228,51 +2776,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "73215EC5BBF922EF"
-				item: { count: 1, id: "productivetrees:carob_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "73215EC5BBF922EF"
+					item: {
+						count: 1
+						id: "productivetrees:carob_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -7.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["6497A255E427A5EB"]
 			id: "1F1B4948FCC14BB4"
-			rewards: [{
-				count: 16
-				id: "400BE4540A0AC85B"
-				item: {
-					count: 1
-					id: "productivetrees:douglas_fir_log"
+			rewards: [
+				{
+					count: 16
+					id: "400BE4540A0AC85B"
+					item: {
+						count: 1
+						id: "productivetrees:douglas_fir_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0D619D5B2870D57C"
-				item: { count: 1, id: "productivetrees:douglas_fir_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "0D619D5B2870D57C"
+					item: {
+						count: 1
+						id: "productivetrees:douglas_fir_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -4.5d
 			y: -7.5d
 		}
 		{
 			dependencies: ["7D7DC3C695CD7236"]
 			id: "2E6F761585C1FB4D"
-			rewards: [{
-				count: 16
-				id: "081AF6AD6711D1B4"
-				item: {
-					count: 1
-					id: "productivetrees:elm_log"
+			rewards: [
+				{
+					count: 16
+					id: "081AF6AD6711D1B4"
+					item: {
+						count: 1
+						id: "productivetrees:elm_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3236207041D5ACAB"
-				item: { count: 1, id: "productivetrees:elm_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3236207041D5ACAB"
+					item: {
+						count: 1
+						id: "productivetrees:elm_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: 4.0d
 		}
@@ -2299,11 +2866,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "77148B8A8DF4A0F7"
-				item: { count: 1, id: "productivetrees:finger_lime_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "77148B8A8DF4A0F7"
+					item: {
+						count: 1
+						id: "productivetrees:finger_lime_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -0.5d
 		}
@@ -2330,11 +2902,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6BA88DD1B98F7CC9"
-				item: { count: 1, id: "productivetrees:sweet_crabapple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6BA88DD1B98F7CC9"
+					item: {
+						count: 1
+						id: "productivetrees:sweet_crabapple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 8.0d
 			y: 3.0d
 		}
@@ -2361,11 +2938,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5DD95FCC7889C374"
-				item: { count: 1, id: "productivetrees:flowering_crabapple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5DD95FCC7889C374"
+					item: {
+						count: 1
+						id: "productivetrees:flowering_crabapple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: 4.0d
 		}
@@ -2392,11 +2974,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "4FBF45B83C8E465A"
-				item: { count: 1, id: "productivetrees:black_cherry_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4FBF45B83C8E465A"
+					item: {
+						count: 1
+						id: "productivetrees:black_cherry_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.5d
 			y: -2.0d
 		}
@@ -2426,11 +3013,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0D6405D74991993A"
-				item: { count: 1, id: "productivetrees:blackthorn_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0D6405D74991993A"
+					item: {
+						count: 1
+						id: "productivetrees:blackthorn_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
 			y: 1.0d
 		}
@@ -2457,11 +3049,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6B49044D78145FBB"
-				item: { count: 1, id: "productivetrees:asai_palm_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6B49044D78145FBB"
+					item: {
+						count: 1
+						id: "productivetrees:asai_palm_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: 11.0d
 		}
@@ -2488,11 +3085,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "287D207C4999817B"
-				item: { count: 1, id: "productivetrees:apricot_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "287D207C4999817B"
+					item: {
+						count: 1
+						id: "productivetrees:apricot_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 2.0d
 		}
@@ -2519,51 +3121,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "4518C07100A94FE5"
-				item: { count: 1, id: "productivetrees:plantain_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4518C07100A94FE5"
+					item: {
+						count: 1
+						id: "productivetrees:plantain_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["762C54C261ED5D29"]
 			id: "1F146FE1002643B2"
-			rewards: [{
-				count: 16
-				id: "64828480C1CE4F1C"
-				item: {
-					count: 1
-					id: "productivetrees:pink_ivory_log"
+			rewards: [
+				{
+					count: 16
+					id: "64828480C1CE4F1C"
+					item: {
+						count: 1
+						id: "productivetrees:pink_ivory_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3CC70B9C2499480A"
-				item: { count: 1, id: "productivetrees:pink_ivory_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3CC70B9C2499480A"
+					item: {
+						count: 1
+						id: "productivetrees:pink_ivory_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -11.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["640D6ADA17709D3A"]
 			id: "08DB91D079C5B715"
-			rewards: [{
-				count: 16
-				id: "73BE31701BADE3D2"
-				item: {
-					count: 1
-					id: "productivetrees:old_fustic_log"
+			rewards: [
+				{
+					count: 16
+					id: "73BE31701BADE3D2"
+					item: {
+						count: 1
+						id: "productivetrees:old_fustic_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "2798AEA8D8CF666F"
-				item: { count: 1, id: "productivetrees:old_fustic_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "2798AEA8D8CF666F"
+					item: {
+						count: 1
+						id: "productivetrees:old_fustic_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -7.5d
 			y: 1.0d
 		}
@@ -2590,11 +3211,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "65B168B00C7EA982"
-				item: { count: 1, id: "productivetrees:nectarine_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "65B168B00C7EA982"
+					item: {
+						count: 1
+						id: "productivetrees:nectarine_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: 1.5d
 		}
@@ -2621,51 +3247,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0007A506C51BEFC0"
-				item: { count: 1, id: "productivetrees:persimmon_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0007A506C51BEFC0"
+					item: {
+						count: 1
+						id: "productivetrees:persimmon_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -7.0d
 			y: 5.5d
 		}
 		{
 			dependencies: ["489A811AB1CFCBA3"]
 			id: "4E802144C6E40D43"
-			rewards: [{
-				count: 16
-				id: "3493A8AF305B2783"
-				item: {
-					count: 1
-					id: "productivetrees:purple_crepe_myrtle_log"
+			rewards: [
+				{
+					count: 16
+					id: "3493A8AF305B2783"
+					item: {
+						count: 1
+						id: "productivetrees:purple_crepe_myrtle_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "32ECA0413A9465F2"
-				item: { count: 1, id: "productivetrees:purple_crepe_myrtle_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "32ECA0413A9465F2"
+					item: {
+						count: 1
+						id: "productivetrees:purple_crepe_myrtle_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["18601369F049D10D"]
 			id: "18D4BE3AF7869DE2"
-			rewards: [{
-				count: 16
-				id: "3B833742C9CD1310"
-				item: {
-					count: 1
-					id: "productivetrees:myrtle_ebony_log"
+			rewards: [
+				{
+					count: 16
+					id: "3B833742C9CD1310"
+					item: {
+						count: 1
+						id: "productivetrees:myrtle_ebony_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "167B46DCD3FF7A34"
-				item: { count: 1, id: "productivetrees:myrtle_ebony_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "167B46DCD3FF7A34"
+					item: {
+						count: 1
+						id: "productivetrees:myrtle_ebony_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -9.0d
 			y: 6.5d
 		}
@@ -2696,11 +3341,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "54A4A373235685E6"
-				item: { count: 1, id: "productivetrees:red_crepe_myrtle_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "54A4A373235685E6"
+					item: {
+						count: 1
+						id: "productivetrees:red_crepe_myrtle_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -7.0d
 			y: 4.0d
 		}
@@ -2731,11 +3381,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "48A1360874BA29F4"
-				item: { count: 1, id: "productivetrees:tuscarora_crepe_myrtle_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "48A1360874BA29F4"
+					item: {
+						count: 1
+						id: "productivetrees:tuscarora_crepe_myrtle_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -8.0d
 			y: 3.0d
 		}
@@ -2765,31 +3420,43 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "6A0EBC1DFA170C53"
-				item: { count: 1, id: "productivetrees:moonlight_magic_crepe_myrtle_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A0EBC1DFA170C53"
+					item: {
+						count: 1
+						id: "productivetrees:moonlight_magic_crepe_myrtle_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -9.0d
 			y: 4.0d
 		}
 		{
 			dependencies: ["1D1ABA9BD978E8A1"]
 			id: "43265FEF45846357"
-			rewards: [{
-				count: 16
-				id: "2657406225B75B47"
-				item: {
-					count: 1
-					id: "productivetrees:lemon_log"
+			rewards: [
+				{
+					count: 16
+					id: "2657406225B75B47"
+					item: {
+						count: 1
+						id: "productivetrees:lemon_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "55F90C0B9EA41DCC"
-				item: { count: 1, id: "productivetrees:lemon_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "55F90C0B9EA41DCC"
+					item: {
+						count: 1
+						id: "productivetrees:lemon_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 11.0d
 			y: -2.5d
 		}
@@ -2819,11 +3486,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0D88B6EF3611F705"
-				item: { count: 1, id: "productivetrees:lime_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0D88B6EF3611F705"
+					item: {
+						count: 1
+						id: "productivetrees:lime_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 10.0d
 			y: -1.5d
 		}
@@ -2850,11 +3522,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "1EB473408B7516CA"
-				item: { count: 1, id: "productivetrees:juniper_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1EB473408B7516CA"
+					item: {
+						count: 1
+						id: "productivetrees:juniper_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: -5.5d
 		}
@@ -2881,31 +3558,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "78875797E8805EF3"
-				item: { count: 1, id: "productivetrees:jackfruit_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "78875797E8805EF3"
+					item: {
+						count: 1
+						id: "productivetrees:jackfruit_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -5.5d
 			y: -2.5d
 		}
 		{
 			dependencies: ["640D6ADA17709D3A"]
 			id: "0D888A4C5EF0073E"
-			rewards: [{
-				count: 16
-				id: "08804C9D703F53B0"
-				item: {
-					count: 1
-					id: "productivetrees:greenheart_log"
+			rewards: [
+				{
+					count: 16
+					id: "08804C9D703F53B0"
+					item: {
+						count: 1
+						id: "productivetrees:greenheart_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6D10ED5118D4FCC2"
-				item: { count: 1, id: "productivetrees:greenheart_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6D10ED5118D4FCC2"
+					item: {
+						count: 1
+						id: "productivetrees:greenheart_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -9.0d
 			y: 2.0d
 		}
@@ -2932,11 +3621,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2E52B477B9254C1F"
-				item: { count: 1, id: "productivetrees:granny_smith_apple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2E52B477B9254C1F"
+					item: {
+						count: 1
+						id: "productivetrees:granny_smith_apple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 10.5d
 			y: 1.0d
 		}
@@ -2963,11 +3657,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "234C16423B378D35"
-				item: { count: 1, id: "productivetrees:golden_delicious_apple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "234C16423B378D35"
+					item: {
+						count: 1
+						id: "productivetrees:golden_delicious_apple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 12.0d
 			y: 1.0d
 		}
@@ -2994,11 +3693,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2B85A38C7A8AB9EA"
-				item: { count: 1, id: "productivetrees:coffea_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2B85A38C7A8AB9EA"
+					item: {
+						count: 1
+						id: "productivetrees:coffea_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.5d
 			y: -3.0d
 		}
@@ -3025,11 +3729,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5FFCD3A761948440"
-				item: { count: 1, id: "productivetrees:clove_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5FFCD3A761948440"
+					item: {
+						count: 1
+						id: "productivetrees:clove_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 3.5d
 			y: -4.0d
 		}
@@ -3056,11 +3765,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "744D2E404C25A9BF"
-				item: { count: 1, id: "productivetrees:allspice_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "744D2E404C25A9BF"
+					item: {
+						count: 1
+						id: "productivetrees:allspice_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.5d
 			y: -4.0d
 		}
@@ -3087,11 +3801,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "28B383CB80AC2EC1"
-				item: { count: 1, id: "productivetrees:mandarin_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "28B383CB80AC2EC1"
+					item: {
+						count: 1
+						id: "productivetrees:mandarin_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -3.0d
 		}
@@ -3118,11 +3837,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "01753DEA1C6C4E6F"
-				item: { count: 1, id: "productivetrees:buddhas_hand_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "01753DEA1C6C4E6F"
+					item: {
+						count: 1
+						id: "productivetrees:buddhas_hand_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 9.5d
 			y: -4.0d
 		}
@@ -3149,11 +3873,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6607D01230F77BAF"
-				item: { count: 1, id: "productivetrees:beliy_naliv_apple_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6607D01230F77BAF"
+					item: {
+						count: 1
+						id: "productivetrees:beliy_naliv_apple_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 11.5d
 			y: 0.0d
 		}
@@ -3180,11 +3909,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2A92E0DB070077AC"
-				item: { count: 1, id: "productivetrees:orange_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2A92E0DB070077AC"
+					item: {
+						count: 1
+						id: "productivetrees:orange_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
 			y: -2.5d
 		}
@@ -3211,31 +3945,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "607A58F88809FFB3"
-				item: { count: 1, id: "productivetrees:nutmeg_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "607A58F88809FFB3"
+					item: {
+						count: 1
+						id: "productivetrees:nutmeg_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.5d
 			y: -5.0d
 		}
 		{
 			dependencies: ["2D6FDCC948DB927D"]
 			id: "0BD908937BC6E97B"
-			rewards: [{
-				count: 16
-				id: "535FB36613964A5C"
-				item: {
-					count: 1
-					id: "productivetrees:logwood_log"
+			rewards: [
+				{
+					count: 16
+					id: "535FB36613964A5C"
+					item: {
+						count: 1
+						id: "productivetrees:logwood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5B37696B7E255D7F"
-				item: { count: 1, id: "productivetrees:logwood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5B37696B7E255D7F"
+					item: {
+						count: 1
+						id: "productivetrees:logwood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -10.5d
 			y: 0.0d
 		}
@@ -3262,11 +4008,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "77CA74A69F56E9B7"
-				item: { count: 1, id: "productivetrees:kumquat_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "77CA74A69F56E9B7"
+					item: {
+						count: 1
+						id: "productivetrees:kumquat_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 11.0d
 			y: -3.5d
 		}
@@ -3293,11 +4044,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "06C89923A97DDE96"
-				item: { count: 1, id: "productivetrees:mango_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "06C89923A97DDE96"
+					item: {
+						count: 1
+						id: "productivetrees:mango_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: -3.5d
 		}
@@ -3324,11 +4080,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6DA87E1219B6EEEB"
-				item: { count: 1, id: "productivetrees:osage_orange_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6DA87E1219B6EEEB"
+					item: {
+						count: 1
+						id: "productivetrees:osage_orange_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -8.5d
 			y: 0.0d
 		}
@@ -3355,11 +4116,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "182B6A5BE87CBE6C"
-				item: { count: 1, id: "productivetrees:grapefruit_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "182B6A5BE87CBE6C"
+					item: {
+						count: 1
+						id: "productivetrees:grapefruit_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 8.0d
 			y: -3.5d
 		}
@@ -3386,31 +4152,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "4B85E478FDAEB0BE"
-				item: { count: 1, id: "productivetrees:pomegranate_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4B85E478FDAEB0BE"
+					item: {
+						count: 1
+						id: "productivetrees:pomegranate_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["762C54C261ED5D29"]
 			id: "2E89ABF1A6145184"
-			rewards: [{
-				count: 16
-				id: "22397DD1747B7EB7"
-				item: {
-					count: 1
-					id: "productivetrees:purpleheart_log"
+			rewards: [
+				{
+					count: 16
+					id: "22397DD1747B7EB7"
+					item: {
+						count: 1
+						id: "productivetrees:purpleheart_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "35C2277A7BEAC37F"
-				item: { count: 1, id: "productivetrees:purpleheart_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "35C2277A7BEAC37F"
+					item: {
+						count: 1
+						id: "productivetrees:purpleheart_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -11.5d
 			y: 2.5d
 		}
@@ -3437,31 +4215,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2EF0D52468F0E9F2"
-				item: { count: 1, id: "productivetrees:satsuma_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2EF0D52468F0E9F2"
+					item: {
+						count: 1
+						id: "productivetrees:satsuma_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 12.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["762C54C261ED5D29"]
 			id: "257D8912FC58DB59"
-			rewards: [{
-				count: 16
-				id: "1CB8C6BADA49C294"
-				item: {
-					count: 1
-					id: "productivetrees:sandalwood_log"
+			rewards: [
+				{
+					count: 16
+					id: "1CB8C6BADA49C294"
+					item: {
+						count: 1
+						id: "productivetrees:sandalwood_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "27516ADF76A3D41E"
-				item: { count: 1, id: "productivetrees:sandalwood_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "27516ADF76A3D41E"
+					item: {
+						count: 1
+						id: "productivetrees:sandalwood_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -10.5d
 			y: 3.0d
 		}
@@ -3488,11 +4278,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "559304A328C89E08"
-				item: { count: 1, id: "productivetrees:star_anise_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "559304A328C89E08"
+					item: {
+						count: 1
+						id: "productivetrees:star_anise_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: -3.5d
 		}
@@ -3522,31 +4317,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "5AE6615A81E801B8"
-				item: { count: 1, id: "productivetrees:star_fruit_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5AE6615A81E801B8"
+					item: {
+						count: 1
+						id: "productivetrees:star_fruit_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: -4.5d
 		}
 		{
 			dependencies: ["291EE514A1602C46"]
 			id: "2DC639C39AE90272"
-			rewards: [{
-				count: 16
-				id: "5DD7349CABD17D6E"
-				item: {
-					count: 1
-					id: "productivetrees:swamp_gum_log"
+			rewards: [
+				{
+					count: 16
+					id: "5DD7349CABD17D6E"
+					item: {
+						count: 1
+						id: "productivetrees:swamp_gum_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1C992286099FAD6E"
-				item: { count: 1, id: "productivetrees:swamp_gum_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "1C992286099FAD6E"
+					item: {
+						count: 1
+						id: "productivetrees:swamp_gum_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 4.0d
 		}
@@ -3576,11 +4383,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "6FE463D6E396893C"
-				item: { count: 1, id: "productivetrees:almond_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6FE463D6E396893C"
+					item: {
+						count: 1
+						id: "productivetrees:almond_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 0.5d
 		}
@@ -3607,51 +4419,70 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "2FA7AFE7BE796C3D"
-				item: { count: 1, id: "productivetrees:pistachio_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2FA7AFE7BE796C3D"
+					item: {
+						count: 1
+						id: "productivetrees:pistachio_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 10.0d
 		}
 		{
 			dependencies: ["1CD5ABD827CEB3AE"]
 			id: "263FBD9ED2756190"
-			rewards: [{
-				count: 16
-				id: "2598333B2C27A696"
-				item: {
-					count: 1
-					id: "productivetrees:pandanus_log"
+			rewards: [
+				{
+					count: 16
+					id: "2598333B2C27A696"
+					item: {
+						count: 1
+						id: "productivetrees:pandanus_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "102F139E84546996"
-				item: { count: 1, id: "productivetrees:pandanus_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "102F139E84546996"
+					item: {
+						count: 1
+						id: "productivetrees:pandanus_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: 5.5d
 		}
 		{
 			dependencies: ["263FBD9ED2756190"]
 			id: "4AFA3CB55F6C10C2"
-			rewards: [{
-				count: 16
-				id: "6FCBA106334E3D4E"
-				item: {
-					count: 1
-					id: "productivetrees:salak_log"
+			rewards: [
+				{
+					count: 16
+					id: "6FCBA106334E3D4E"
+					item: {
+						count: 1
+						id: "productivetrees:salak_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "44E083A46C9D8ED2"
-				item: { count: 1, id: "productivetrees:salak_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "44E083A46C9D8ED2"
+					item: {
+						count: 1
+						id: "productivetrees:salak_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 2.5d
 			y: 5.0d
 		}
@@ -3678,11 +4509,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "04AB4CE794CCC02D"
-				item: { count: 1, id: "productivetrees:tangerine_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "04AB4CE794CCC02D"
+					item: {
+						count: 1
+						id: "productivetrees:tangerine_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 11.0d
 			y: -4.5d
 		}
@@ -3709,11 +4545,16 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "43E3D51CC36F5D35"
-				item: { count: 1, id: "productivetrees:soursop_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "43E3D51CC36F5D35"
+					item: {
+						count: 1
+						id: "productivetrees:soursop_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: -0.5d
 		}
@@ -3740,31 +4581,43 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "0EE4E7AC38B0639D"
-				item: { count: 1, id: "productivetrees:red_banana_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "0EE4E7AC38B0639D"
+					item: {
+						count: 1
+						id: "productivetrees:red_banana_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["01F51EBFEC660549"]
 			id: "6280748583C62E05"
-			rewards: [{
-				count: 16
-				id: "7B8D5DF6DC3920FD"
-				item: {
-					count: 1
-					id: "productivetrees:padauk_log"
+			rewards: [
+				{
+					count: 16
+					id: "7B8D5DF6DC3920FD"
+					item: {
+						count: 1
+						id: "productivetrees:padauk_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "3E6BF16CE93A98FC"
-				item: { count: 1, id: "productivetrees:padauk_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "3E6BF16CE93A98FC"
+					item: {
+						count: 1
+						id: "productivetrees:padauk_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -3.5d
 			y: -4.5d
 		}
@@ -3795,11 +4648,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "7209B38C8BD83CE9"
-				item: { count: 1, id: "productivetrees:copper_beech_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7209B38C8BD83CE9"
+					item: {
+						count: 1
+						id: "productivetrees:copper_beech_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: -0.5d
 		}
@@ -3830,11 +4688,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "1BDCBDD339D8D687"
-				item: { count: 1, id: "productivetrees:purple_blackthorn_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1BDCBDD339D8D687"
+					item: {
+						count: 1
+						id: "productivetrees:purple_blackthorn_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 1.0d
 		}
@@ -3844,146 +4707,195 @@
 				"22151D56616559CB"
 			]
 			id: "71AA40CB2948A8D7"
-			rewards: [{
-				count: 16
-				id: "4A32DDE7E85FE6F0"
-				item: {
-					count: 1
-					id: "productivetrees:water_wonder_log"
+			rewards: [
+				{
+					count: 16
+					id: "4A32DDE7E85FE6F0"
+					item: {
+						count: 1
+						id: "productivetrees:water_wonder_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "7EDA20C0B16A9DDC"
-				item: { count: 1, id: "productivetrees:water_wonder_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "7EDA20C0B16A9DDC"
+					item: {
+						count: 1
+						id: "productivetrees:water_wonder_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 6.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "22151D56616559CB"
-			rewards: [{
-				count: 16
-				id: "554AC9B8BD772DFF"
-				item: {
-					count: 1
-					id: "productivetrees:blue_yonder_log"
+			rewards: [
+				{
+					count: 16
+					id: "554AC9B8BD772DFF"
+					item: {
+						count: 1
+						id: "productivetrees:blue_yonder_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "6BD95DE2DB508F9A"
-				item: { count: 1, id: "productivetrees:blue_yonder_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6BD95DE2DB508F9A"
+					item: {
+						count: 1
+						id: "productivetrees:blue_yonder_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "4281BCDCE233F65B"
-			rewards: [{
-				count: 16
-				id: "6D2212329039E9D0"
-				item: {
-					count: 1
-					id: "productivetrees:firecracker_stripped_log"
+			rewards: [
+				{
+					count: 16
+					id: "6D2212329039E9D0"
+					item: {
+						count: 1
+						id: "productivetrees:firecracker_stripped_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "12B818631FE44C1E"
-				item: { count: 1, id: "productivetrees:firecracker_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "12B818631FE44C1E"
+					item: {
+						count: 1
+						id: "productivetrees:firecracker_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "18A2F6BA778D96B1"
-			rewards: [{
-				count: 16
-				id: "1A4654D9163582B7"
-				item: {
-					count: 1
-					id: "productivetrees:black_ember_stripped_log"
+			rewards: [
+				{
+					count: 16
+					id: "1A4654D9163582B7"
+					item: {
+						count: 1
+						id: "productivetrees:black_ember_stripped_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "47A93E5DB4B4D188"
-				item: { count: 1, id: "productivetrees:black_ember_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "47A93E5DB4B4D188"
+					item: {
+						count: 1
+						id: "productivetrees:black_ember_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "4C3B7BAEA653587B"
-			rewards: [{
-				count: 16
-				id: "37C536ED9B6030BD"
-				item: {
-					count: 1
-					id: "productivetrees:flickering_sun_stripped_log"
+			rewards: [
+				{
+					count: 16
+					id: "37C536ED9B6030BD"
+					item: {
+						count: 1
+						id: "productivetrees:flickering_sun_stripped_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "221DB11F38706D5E"
-				item: { count: 1, id: "productivetrees:flickering_sun_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "221DB11F38706D5E"
+					item: {
+						count: 1
+						id: "productivetrees:flickering_sun_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 8.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "289B30DAC960BFF2"
-			rewards: [{
-				count: 16
-				id: "4A3728ABE130C54F"
-				item: {
-					count: 1
-					id: "productivetrees:soul_tree_log"
+			rewards: [
+				{
+					count: 16
+					id: "4A3728ABE130C54F"
+					item: {
+						count: 1
+						id: "productivetrees:soul_tree_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "30A722AE1F6EBA8D"
-				item: { count: 1, id: "productivetrees:soul_tree_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "30A722AE1F6EBA8D"
+					item: {
+						count: 1
+						id: "productivetrees:soul_tree_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "768C07D1B5EB1FEB"
-			rewards: [{
-				count: 16
-				id: "088A0EC4CCAA254F"
-				item: {
-					count: 1
-					id: "productivetrees:brown_amber_log"
+			rewards: [
+				{
+					count: 16
+					id: "088A0EC4CCAA254F"
+					item: {
+						count: 1
+						id: "productivetrees:brown_amber_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "octagon"
-			tasks: [{
-				id: "2255CDB846EB03CB"
-				item: { count: 1, id: "productivetrees:brown_amber_sapling" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2255CDB846EB03CB"
+					item: {
+						count: 1
+						id: "productivetrees:brown_amber_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 11.5d
 		}
@@ -3993,20 +4905,27 @@
 				"18A2F6BA778D96B1"
 			]
 			id: "6BF6C7C04F26D8BA"
-			rewards: [{
-				count: 16
-				id: "07394657178EF2B5"
-				item: {
-					count: 1
-					id: "productivetrees:cave_dweller_log"
+			rewards: [
+				{
+					count: 16
+					id: "07394657178EF2B5"
+					item: {
+						count: 1
+						id: "productivetrees:cave_dweller_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1FA61A2EDFE0B4AE"
-				item: { count: 1, id: "productivetrees:cave_dweller_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "1FA61A2EDFE0B4AE"
+					item: {
+						count: 1
+						id: "productivetrees:cave_dweller_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 4.5d
 			y: 9.5d
 		}
@@ -4016,20 +4935,27 @@
 				"6BF6C7C04F26D8BA"
 			]
 			id: "1D31C515533DAD36"
-			rewards: [{
-				count: 16
-				id: "50ABF6148AD79408"
-				item: {
-					count: 1
-					id: "productivetrees:foggy_blast_log"
+			rewards: [
+				{
+					count: 16
+					id: "50ABF6148AD79408"
+					item: {
+						count: 1
+						id: "productivetrees:foggy_blast_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "42C5F47D73F98564"
-				item: { count: 1, id: "productivetrees:foggy_blast_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "42C5F47D73F98564"
+					item: {
+						count: 1
+						id: "productivetrees:foggy_blast_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 7.5d
 		}
@@ -4039,20 +4965,27 @@
 				"22151D56616559CB"
 			]
 			id: "526CED9509FAA79B"
-			rewards: [{
-				count: 16
-				id: "642B88239145AC3D"
-				item: {
-					count: 1
-					id: "productivetrees:purple_spiral_log"
+			rewards: [
+				{
+					count: 16
+					id: "642B88239145AC3D"
+					item: {
+						count: 1
+						id: "productivetrees:purple_spiral_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "6A2C314849DCD191"
-				item: { count: 1, id: "productivetrees:purple_spiral_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "6A2C314849DCD191"
+					item: {
+						count: 1
+						id: "productivetrees:purple_spiral_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: 9.5d
 		}
@@ -4062,20 +4995,27 @@
 				"4C3B7BAEA653587B"
 			]
 			id: "74CD3FC35F245DF2"
-			rewards: [{
-				count: 16
-				id: "26C33DA2AFBB790A"
-				item: {
-					count: 1
-					id: "productivetrees:rippling_willow_log"
+			rewards: [
+				{
+					count: 16
+					id: "26C33DA2AFBB790A"
+					item: {
+						count: 1
+						id: "productivetrees:rippling_willow_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "13AFFF175319BD76"
-				item: { count: 1, id: "productivetrees:rippling_willow_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "13AFFF175319BD76"
+					item: {
+						count: 1
+						id: "productivetrees:rippling_willow_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.5d
 			y: 9.5d
 		}
@@ -4085,20 +5025,27 @@
 				"74CD3FC35F245DF2"
 			]
 			id: "5FC92F3794004A98"
-			rewards: [{
-				count: 16
-				id: "5C465EDB84AB81EB"
-				item: {
-					count: 1
-					id: "productivetrees:slimy_delight_log"
+			rewards: [
+				{
+					count: 16
+					id: "5C465EDB84AB81EB"
+					item: {
+						count: 1
+						id: "productivetrees:slimy_delight_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "58DD2DFEF599B4B9"
-				item: { count: 1, id: "productivetrees:slimy_delight_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "58DD2DFEF599B4B9"
+					item: {
+						count: 1
+						id: "productivetrees:slimy_delight_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: 7.5d
 		}
@@ -4108,20 +5055,27 @@
 				"4281BCDCE233F65B"
 			]
 			id: "4AEB4BF7624ABA0F"
-			rewards: [{
-				count: 16
-				id: "4D8AECA7A46812A6"
-				item: {
-					count: 1
-					id: "productivetrees:sparkle_cherry_log"
+			rewards: [
+				{
+					count: 16
+					id: "4D8AECA7A46812A6"
+					item: {
+						count: 1
+						id: "productivetrees:sparkle_cherry_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "29DFCBE93BC07E51"
-				item: { count: 1, id: "productivetrees:sparkle_cherry_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "29DFCBE93BC07E51"
+					item: {
+						count: 1
+						id: "productivetrees:sparkle_cherry_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 9.5d
 		}
@@ -4131,20 +5085,27 @@
 				"4281BCDCE233F65B"
 			]
 			id: "3707C3EDA1C5A0B2"
-			rewards: [{
-				count: 16
-				id: "299FF5212E42ED7B"
-				item: {
-					count: 1
-					id: "productivetrees:thunder_bolt_log"
+			rewards: [
+				{
+					count: 16
+					id: "299FF5212E42ED7B"
+					item: {
+						count: 1
+						id: "productivetrees:thunder_bolt_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "5A93676ECFA4E0C2"
-				item: { count: 1, id: "productivetrees:thunder_bolt_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "5A93676ECFA4E0C2"
+					item: {
+						count: 1
+						id: "productivetrees:thunder_bolt_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 8.5d
 		}
@@ -4154,20 +5115,27 @@
 				"22151D56616559CB"
 			]
 			id: "05F428C34DD00B61"
-			rewards: [{
-				count: 16
-				id: "6F0DED6CB9644EC0"
-				item: {
-					count: 1
-					id: "productivetrees:time_traveller_log"
+			rewards: [
+				{
+					count: 16
+					id: "6F0DED6CB9644EC0"
+					item: {
+						count: 1
+						id: "productivetrees:time_traveller_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "20220F6CD2A740CD"
-				item: { count: 1, id: "productivetrees:time_traveller_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "20220F6CD2A740CD"
+					item: {
+						count: 1
+						id: "productivetrees:time_traveller_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 7.0d
 			y: 8.5d
 		}
@@ -4177,20 +5145,27 @@
 				"4AEB4BF7624ABA0F"
 			]
 			id: "20DDAC076A2479A8"
-			rewards: [{
-				count: 16
-				id: "14C9568A4AA08A13"
-				item: {
-					count: 1
-					id: "productivetrees:night_fuchsia_log"
+			rewards: [
+				{
+					count: 16
+					id: "14C9568A4AA08A13"
+					item: {
+						count: 1
+						id: "productivetrees:night_fuchsia_log"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "104FAB7AD34F6257"
-				item: { count: 1, id: "productivetrees:night_fuchsia_sapling" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "104FAB7AD34F6257"
+					item: {
+						count: 1
+						id: "productivetrees:night_fuchsia_sapling"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 8.5d
 		}
@@ -4215,39 +5190,53 @@
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "543F00603790AD3E"
-			rewards: [{
-				id: "7BA341680A73A46F"
-				item: {
-					count: 1
-					id: "minecraft:stone_axe"
+			rewards: [
+				{
+					id: "7BA341680A73A46F"
+					item: {
+						count: 1
+						id: "minecraft:stone_axe"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "16391CD1A55DEA7C"
-				item: { count: 1, id: "productivetrees:stripper" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "16391CD1A55DEA7C"
+					item: {
+						count: 1
+						id: "productivetrees:stripper"
+					}
+					type: "item"
+				}
+			]
 			x: 5.5d
 			y: 14.0d
 		}
 		{
 			dependencies: ["5577F49A93ADB19C"]
 			id: "76A0592F4C294545"
-			rewards: [{
-				count: 5
-				id: "3C72A695620499FC"
-				item: {
-					count: 1
-					id: "productivetrees:sawdust"
+			rewards: [
+				{
+					count: 5
+					id: "3C72A695620499FC"
+					item: {
+						count: 1
+						id: "productivetrees:sawdust"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "01E6A96EBEF754EB"
-				item: { count: 1, id: "productivetrees:sawmill" }
-				type: "item"
-			}]
+			]
+			tasks: [
+				{
+					id: "01E6A96EBEF754EB"
+					item: {
+						count: 1
+						id: "productivetrees:sawmill"
+					}
+					type: "item"
+				}
+			]
 			x: 6.5d
 			y: 14.0d
 		}
@@ -4279,11 +5268,19 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				id: "6609E5E7EDE6F92B"
-				item: { components: { "ftbfiltersystem:filter": "and(item_tag(minecraft:saplings)mod(minecraft))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6609E5E7EDE6F92B"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "and(item_tag(minecraft:saplings)mod(minecraft))"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 6.0d
 			y: 12.5d
 		}
@@ -4292,19 +5289,23 @@
 			hide_dependent_lines: true
 			hide_details_until_startable: true
 			id: "0661E9669E639621"
-			rewards: [{
-				id: "0AB06BD8FFDD7B22"
-				item: {
-					count: 1
-					id: "minecraft:oak_sapling"
+			rewards: [
+				{
+					id: "0AB06BD8FFDD7B22"
+					item: {
+						count: 1
+						id: "minecraft:oak_sapling"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "hexagon"
-			tasks: [{
-				id: "79889CC26DCD7F19"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "79889CC26DCD7F19"
+					type: "checkmark"
+				}
+			]
 			x: 0.0d
 			y: 12.5d
 		}

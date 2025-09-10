@@ -1,326 +1,326 @@
 {
 	quest.0072C4F028C327CB.quest_subtitle: "岩浆+游牧"
 	quest.0072C4F028C327CB.title: "烈焰蜂"
-	quest.00A17728A387B426.quest_desc: ["木质蜂巢用于吸引木匠蜂和&a蓝色条纹蜜蜂&f.\\n\\n&a深色橡木蜂巢&f可吸引3种不同的蜜蜂.\\n\\n这些可放置在任何主世界生物群系中."]
-	quest.00A17728A387B426.quest_subtitle: "&a可用于&f任何主世界生物群系"
-	quest.00A17728A387B426.title: "木质蜂巢"
-	quest.00FD36C207845895.quest_desc: ["在&a末地&f放置&a黑曜石蜂巢&f以吸引此类蜜蜂."]
+	quest.00A17728A387B426.quest_desc: ["木制蜂巢用于吸引木工蜂和&a蓝色条纹蜂&f.\\n\\n&a深色橡木蜂巢&f可吸引3种不同蜜蜂.\\n\\n这些可放置在主世界任何生物群系."]
+	quest.00A17728A387B426.quest_subtitle: "&a可用于&f主世界任何生物群系"
+	quest.00A17728A387B426.title: "木制蜂巢"
+	quest.00FD36C207845895.quest_desc: ["在&a末地&f放置&a黑曜石蜂巢&f可吸引此蜂种."]
 	quest.00FD36C207845895.quest_subtitle: "&9需要&a黑曜石蜂巢&f"
 	quest.00FD36C207845895.title: "&a末影龙蜜蜂&f"
-	quest.01F7F3589EBD8872.quest_subtitle: "喂食蘑菇蜂&a棕色蘑菇&f"
+	quest.01F7F3589EBD8872.quest_subtitle: "给蘑菇蜂喂食&a棕色蘑菇&f"
 	quest.01F7F3589EBD8872.title: "&a棕色蘑菇蜜蜂&f"
-	quest.027FD9135DEC4949.quest_subtitle: "在&a下界&f放置并提供&a恶魂之泪&f后可吸引&a恶魂蜜蜂&f"
-	quest.029AA03790F055E8.quest_subtitle: "水晶+石匠"
+	quest.027FD9135DEC4949.quest_subtitle: "置于&a下界&f环境中并喂食&a恶魂之泪&f后可吸引&a恶魂蜜蜂&f"
+	quest.029AA03790F055E8.quest_subtitle: "水晶蜂+石匠蜂杂交"
 	quest.029AA03790F055E8.title: "&a金蜜蜂&f"
-	quest.02F3133A9006BC1E.quest_subtitle: "铁+煤炭"
+	quest.02F3133A9006BC1E.quest_subtitle: "铁蜂+煤炭蜂杂交"
 	quest.02F3133A9006BC1E.title: "&a钢蜜蜂&f"
-	quest.06044B4452A6B720.quest_desc: ["在沙漠生物群系放置时,&a沙子蜂巢&f将吸引巧克力蜂或&a灰烬穴居蜜蜂&f."]
-	quest.06044B4452A6B720.quest_subtitle: "在&a沙漠类生物群系&f吸引蜜蜂"
-	quest.09223F02621781BF.quest_subtitle: "铁+石匠"
+	quest.06044B4452A6B720.quest_desc: ["置于沙漠生物群系时,&a沙子蜂巢&f会吸引巧克力蜂或&a灰烬穴居蜜蜂&f"]
+	quest.06044B4452A6B720.quest_subtitle: "吸引&a沙漠类生物群系&f中的蜜蜂"
+	quest.09223F02621781BF.quest_subtitle: "铁蜂+石匠蜂杂交"
 	quest.09223F02621781BF.title: "&a银蜜蜂&f"
 	quest.094D28B7A0170039.quest_desc: [
-		"会拾取物品并带回蜂巢."
+		"会拾取物品并带回蜂巢"
 		""
-		"效果不如&a囤积者蜜蜂&f."
+		"效果不如&a囤积者蜜蜂&f"
 	]
-	quest.094D28B7A0170039.quest_subtitle: "喂食普通蜜蜂漏斗"
+	quest.094D28B7A0170039.quest_subtitle: "给原版蜜蜂喂食漏斗"
 	quest.094D28B7A0170039.title: "&a收集者蜜蜂&f"
-	quest.097DE7038A746847.quest_subtitle: "从&a甘蔗蜂巢&f生成"
+	quest.097DE7038A746847.quest_subtitle: "由&a甘蔗蜂巢&f生成"
 	quest.09FD3D0B9BCAEB5A.quest_desc: [
-		"&a沙砾蜂巢&f可在河流生物群系或海滩生物群系吸引蜜蜂."
+		"&a沙砾蜂巢&f会吸引河流或海滩生物群系中的蜜蜂"
 		""
 		"It lures in the &a灰烬穴居蜜蜂&f, &a巧克力穴居蜜蜂&f, and the &a挖掘者蜜蜂&f."
 	]
-	quest.09FD3D0B9BCAEB5A.quest_subtitle: "在河流和&a沙滩生物群系&f吸引蜜蜂"
-	quest.0A11725B41AB45F6.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r套件均采用&e保留所有权利&r许可,未经明确授权,此任务不得用于&6AllTheMods团队&r未发布的任何公开整合包.\\n\\n此任务已被 intentionally hidden,若您看到此信息,说明您正处于编辑模式."]
-	quest.0D5D76B3551CD5A7.quest_desc: ["是的,它被称为铝蜂."]
-	quest.0D5D76B3551CD5A7.quest_subtitle: "水晶+灰烬采矿"
+	quest.09FD3D0B9BCAEB5A.quest_subtitle: "吸引河流与&a沙滩生物群系&f中的蜜蜂"
+	quest.0A11725B41AB45F6.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,适用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r套件均采用&e保留所有权利&r许可,未经明确授权不得在任何非&6AllTheMods团队&r发布的公开整合包中使用此任务.\\n\\n此任务已被隐藏,若您能看到此说明,表明您正处于编辑模式."]
+	quest.0D5D76B3551CD5A7.quest_desc: ["是的,它被称为铝蜂"]
+	quest.0D5D76B3551CD5A7.quest_subtitle: "水晶蜂+灰烬采矿蜂杂交"
 	quest.0D5D76B3551CD5A7.title: "铝蜂"
-	quest.0D97CDE92F3B1A83.quest_subtitle: "铅+钻石/铂金"
+	quest.0D97CDE92F3B1A83.quest_subtitle: "铅蜂+钻石/铂金蜂杂交"
 	quest.0D97CDE92F3B1A83.title: "&a末影锭蜜蜂&f"
-	quest.0FB1FC640471363A.quest_subtitle: "青金石+绿宝石"
+	quest.0FB1FC640471363A.quest_subtitle: "青金石蜂+绿宝石蜂杂交"
 	quest.0FB1FC640471363A.title: "&a经验蜜蜂&f"
 	quest.100ACB5C8A359BF0.quest_desc: ["将&a红石蜜蜂&f与&a蓝色条纹蜜蜂&f杂交可获得&a青金石蜜蜂&f!"]
-	quest.100ACB5C8A359BF0.quest_subtitle: "红石+蓝纹"
+	quest.100ACB5C8A359BF0.quest_subtitle: "红石蜂+蓝纹蜂杂交"
 	quest.100ACB5C8A359BF0.title: "&a青金石蜜蜂&f"
-	quest.109AD73F016D576B.quest_desc: ["使用原版方法,为自己制作一个&9蜂箱&r来建立小型养殖场!\\n\\n每个蜂箱可容纳3只蜜蜂,但我们不会使用太久...\\n\\n蜜蜂只有在有合适花朵时才会产蜜和蜂巢.原版蜜蜂可使用任何花,但模组中大多数蜜蜂需要特定方块!请查看JEI&a了解更多信息&f."]
+	quest.109AD73F016D576B.quest_desc: ["使用原版方法制作&9蜂箱&r建立专属养蜂设施!\\n\\n每个蜂箱可容纳3只蜜蜂,但我们将很快升级设备...\\n\\n蜜蜂仅在有对应花朵时才会产蜜和蜂巢.原版蜜蜂可使用任意花朵,但模组中大多数蜜蜂需要特定方块!请通过JEI&a了解更多信息&f"]
 	quest.109AD73F016D576B.title: "你的第一个蜂箱"
-	quest.114D668C691A2BDF.quest_subtitle: "灰烬采矿+水晶"
+	quest.114D668C691A2BDF.quest_subtitle: "灰烬采矿蜂+水晶蜂杂交"
 	quest.114D668C691A2BDF.title: "&a铁蜜蜂&f"
-	quest.117241986C99E475.quest_desc: ["将&a发光蜜蜂&f与&a巧克力穴居蜜蜂&f杂交可获得&a红石蜜蜂&f!"]
-	quest.117241986C99E475.quest_subtitle: "发光+巧克力采矿"
+	quest.117241986C99E475.quest_desc: ["让&a发光蜜蜂&f与&a巧克力穴居蜜蜂&f杂交可获得&a红石蜜蜂&f!"]
+	quest.117241986C99E475.quest_subtitle: "发光蜂+巧克力采矿蜂杂交"
 	quest.117241986C99E475.title: "&a红石蜜蜂&f"
 	quest.120BDCB70AD352AC.quest_desc: [
-		"若想将&a蜜蜂农场&f转变为资源工厂,需通过&6蜂巢&r生成蜜蜂开始."
+		"若想将&a蜜蜂农场&f升级为资源工厂,需通过&6蜂巢&r生成蜜蜂"
 		""
-		"蜂巢必须放置在特定生物群系(可在JEI中查询,点击顶部I图标)."
+		"蜂巢必须放置在特定生物群系(可通过JEI顶部「I」图标查询)"
 		""
-		"用&9&a蜜蜂小食&f&r&a右击&f蜂巢吸引蜜蜂.没有小食蜂巢无法运作!"
+		"使用&9&a蜜蜂小食&f&r&a右击&f蜂巢吸引蜜蜂.没有小食蜂巢无法运作!"
 		""
-		"&9重要提示&r:部分蜜蜂仅栖息于蜂巢,不会进入高级蜂箱.若不产蜂巢,需移至蜂巢居住."
+		"&9重要提示&r:部分蜜蜂仅栖息于蜂巢,不会进入高级蜂箱.若未产蜂巢,需将其安置在蜂巢中"
 	]
-	quest.120BDCB70AD352AC.quest_subtitle: "需&a蜜蜂小食&f"
+	quest.120BDCB70AD352AC.quest_subtitle: "需准备&a蜜蜂小食&f"
 	quest.128A14A3842325FE.quest_subtitle: "这些蜜蜂还真实存在吗？"
 	quest.131EC039435B8878.quest_desc: [
-		"在&d资源蜜蜂&f中,无需花费大量时间飞行寻找特定蜜蜂."
+		"在&d资源蜜蜂&f中,您无需花费大量时间四处飞行寻找特定蜜蜂."
 		""
-		"而是通过&6&a蜜蜂小食&f&r配合蜂巢生成."
+		"相反,您可以使用带有&6&a蜜蜂小食&f&r的蜂巢来生成它们."
 		""
-		"制作蜂巢后&a右击&f投喂小食吸引蜜蜂.部分蜂巢需特殊物品而非&a蜜蜂小食&f,请查看JEI&a了解更多信息&f!"
+		"通过这些,您将创建一些蜂巢,并用小食&a右击&f它们来吸引蜜蜂.某些蜂巢需要特殊物品而非&a蜜蜂小食&f,因此请务必查看JEI以&a了解更多信息&f!"
 		""
-		"务必确认所需生物群系以吸引目标蜜蜂!"
+		"请确保查看您需要处于哪个生物群系才能吸引正确的蜜蜂!"
 	]
-	quest.13AA91D39A2CABF2.quest_desc: ["欢迎来到&6&d资源蜜蜂&f&r!\\n\\n模组入门需要先寻找蜂巢和&a蜂蜜瓶&f!找到蜂巢让蜜蜂工作,满巢时剪下获得蜂巢,玻璃瓶可装取&a蜂蜜瓶&f!\\n\\n&9重要提示&r:蜜蜂任务需蜂巢,配方不会显示.需要时请查询JEI!"]
+	quest.13AA91D39A2CABF2.quest_desc: ["欢迎来到&6&d资源蜜蜂&f&r!\\n\\n要开始使用此模组,您首先需要找到一些蜂蜜脾和&a蜂蜜瓶&f!找到一个蜂箱,让蜜蜂工作一会儿.当蜂箱满时,剪切它会获得蜂蜜脾,而玻璃瓶会获得&a蜂蜜瓶&f!\\n\\n&9重要提示&r:由于蜜蜂任务需要蜂蜜脾,配方将不会显示.如果您需要,请务必在JEI中查找它们!"]
 	quest.13AA91D39A2CABF2.title: "&d资源蜜蜂&f!"
-	quest.14623D25561BA61B.quest_desc: ["主要用于捕捉器."]
-	quest.14623D25561BA61B.quest_subtitle: "增加机器作用范围"
-	quest.150FB369BEFFCBBF.quest_subtitle: "银+锡"
+	quest.14623D25561BA61B.quest_desc: ["主要用于捕蜂器."]
+	quest.14623D25561BA61B.quest_subtitle: "增加机器的范围"
+	quest.150FB369BEFFCBBF.quest_subtitle: "银 + 锡"
 	quest.150FB369BEFFCBBF.title: "&a流明蜜蜂&f"
-	quest.160BD0185954C891.quest_desc: ["此蜂巢需&a金锭堆&f而非&a蜜蜂小食&f吸引蜜蜂."]
-	quest.160BD0185954C891.quest_subtitle: "置于&a下界&f时可吸引&a金蜜蜂&f"
+	quest.160BD0185954C891.quest_desc: ["此蜂巢不使用&a蜜蜂小食&f,而是需要&a金锭堆&f来吸引蜜蜂."]
+	quest.160BD0185954C891.quest_subtitle: "放置在&a下界&f时吸引&a金蜜蜂&f"
 	quest.17419401147B5C02.quest_desc: [
-		"除了用蜂巢吸引蜜蜂外,大多数蜜蜂需要通过&e繁殖&r或&9转化&r来生成.(注意,这不是拼写错误.)"
+		"除了通过蜂巢吸引蜜蜂外,大多数蜜蜂需要通过&e繁殖&r或&9转化&r来创建.(不,这不是拼写错误.)"
 		""
-		"&e&a蜜蜂繁殖&f&r需要两只蜜蜂并喂食特定物品促使它们交配."
+		"&e&a蜜蜂繁殖&f&r需要两只蜜蜂和喂食特定物品以使它们交配."
 		""
-		"&9&a蜜蜂转化&f&r需要给蜜蜂喂食特定物品将其转化为新品种蜜蜂."
+		"&9&a蜜蜂转化&f&r需要您喂食蜜蜂特定物品以将其转化为新蜜蜂."
 	]
-	quest.17419401147B5C02.quest_subtitle: "&a蜜蜂&f与蜂种世界"
-	quest.176ACC61DC206E55.quest_subtitle: "喂食蘑菇蜂&a绯红菌&f"
+	quest.17419401147B5C02.quest_subtitle: "&a蜜蜂&f与蜜蜂们"
+	quest.176ACC61DC206E55.quest_subtitle: "喂食蘑菇蜜蜂一个&a绯红菌&f"
 	quest.176ACC61DC206E55.title: "&a绯红菌蜜蜂&f"
-	quest.17989643018D00C1.quest_desc: ["蜂箱滴蜜是否让您烦恼？如果是,那么您很幸运,因为有个简单的解决方案.\\n\\n您可以在高级蜂箱的瓶槽中放置&e海绵&r来阻止滴漏."]
-	quest.17989643018D00C1.quest_subtitle: "杜绝滴漏现象"
-	quest.17989643018D00C1.title: "阻止滴漏"
-	quest.18F948FF9FE015FB.quest_subtitle: "喂食普通蜜蜂TNT"
-	quest.18F948FF9FE015FB.title: "苦力蜂"
+	quest.17989643018D00C1.quest_desc: ["蜂巢滴蜜时是否让您烦恼？如果是,那么您很幸运,因为有一个简单的解决方案.\\n\\n您可以在高级蜂巢的瓶子槽中放置一个&e海绵&r来阻止滴蜜."]
+	quest.17989643018D00C1.quest_subtitle: "您没有滴蜜"
+	quest.17989643018D00C1.title: "阻止滴蜜"
+	quest.18F948FF9FE015FB.quest_subtitle: "喂食原版蜜蜂TNT"
+	quest.18F948FF9FE015FB.title: "爬行蜂"
 	quest.196E55B64667AE35.quest_desc: [
-		"您可以将&a授粉蜂花&f放置在蜂箱前方的&a饲养板&f上,如下图所示.\\n"
+		"您可以将&a授粉蜂花&f放置在蜂巢前方的&a饲养板&f上,如下图所示.\\n"
 		"{image:atm:textures/questpics/bees/feeder.png width:175 height:100 align:center fit:true}"
 	]
-	quest.196E55B64667AE35.quest_subtitle: "铺设饲养板"
-	quest.198EDBAC1D6E2339.quest_desc: ["这些是培育&a末影蜜蜂&f的必要物品."]
-	quest.198EDBAC1D6E2339.quest_subtitle: "阻止蜂箱内蜜蜂传送"
+	quest.196E55B64667AE35.quest_subtitle: "放置一个台阶"
+	quest.198EDBAC1D6E2339.quest_desc: ["您需要这些来获取&a末影蜜蜂&f."]
+	quest.198EDBAC1D6E2339.quest_subtitle: "防止蜜蜂在蜂巢中传送"
 	quest.1C474B46AECCCFE9.quest_subtitle: "使用沙砾或&a石头蜂巢&f生成"
-	quest.1D720AC88431BD70.quest_desc: ["将&a末影蜜蜂&f与&a青金石蜜蜂&f繁殖可培育出&a钻石蜜蜂&f!"]
-	quest.1D720AC88431BD70.quest_subtitle: "末影+青金石"
+	quest.1D720AC88431BD70.quest_desc: ["用&a青金石蜜蜂&f繁殖&a末影蜜蜂&f以创建&a钻石蜜蜂&f!"]
+	quest.1D720AC88431BD70.quest_subtitle: "末影 + 青金石"
 	quest.1D720AC88431BD70.title: "&a钻石蜜蜂&f"
-	quest.1DF026030780AE96.quest_subtitle: "提取蜂箱内蜜蜂基因"
-	quest.1E9BD4B74DAEA9FC.quest_desc: ["要吸引蜜蜂至此巢穴,需使用爆裂的&a紫颂果&f而非&a蜜蜂小食&f."]
-	quest.1E9BD4B74DAEA9FC.quest_subtitle: "在&a末地&f放置时可吸引&a末影蜜蜂&f"
+	quest.1DF026030780AE96.quest_subtitle: "从蜂巢中的蜜蜂提取基因"
+	quest.1E9BD4B74DAEA9FC.quest_desc: ["要吸引蜜蜂到此巢穴,您需要爆开的&a紫颂果果实&f而非&a蜜蜂小食&f."]
+	quest.1E9BD4B74DAEA9FC.quest_subtitle: "放置在&a末地&f时吸引&a末影蜜蜂&f"
 	quest.1EBD5E4410A6DF34.quest_subtitle: "Feed a &a恶魂蜜蜂&f a &a灵魂匕首&f"
 	quest.1EBD5E4410A6DF34.title: "&a灵魂蜜蜂&f"
-	quest.2182492BCC1B33D8.quest_desc: ["安装在蜂箱中时,每次输送蜂蜜有5%几率生成幼蜂.\\n\\n放置在捕捉器中时,仅允许捕捉幼蜂.\\n\\n可叠加使用以提高几率."]
+	quest.2182492BCC1B33D8.quest_desc: ["当安装在蜂箱中时,每次交付蜂蜜有5%几率生成新的幼蜂.\\n\\n当放置在捕捉器中时,仅允许捕捉器捕获幼蜂.\\n\\n可堆叠使用以提高几率."]
 	quest.2182492BCC1B33D8.quest_subtitle: "培育幼蜂"
-	quest.2226555D9552236E.quest_subtitle: "从多数木质蜂巢生成"
+	quest.2226555D9552236E.quest_subtitle: "从多数木质蜂巢中生成"
 	quest.244ACD7024566001.quest_subtitle: "喂食&a汗蜜蜂&f冰块"
 	quest.244ACD7024566001.title: "&a霜冻蜜蜂&f"
 	quest.24888CAD50B32B04.quest_subtitle: "使用&a石头蜂巢&f生成"
-	quest.264BFB8C5F79616F.quest_desc: ["在雪原生态放置&a雪蜂巢&f可吸引&a汗蜜蜂&f."]
-	quest.264BFB8C5F79616F.quest_subtitle: "在寒冷生态吸引&a汗蜜蜂&f"
+	quest.264BFB8C5F79616F.quest_desc: ["在雪原生物群系放置&a雪蜂巢&f可吸引&a汗蜜蜂&f."]
+	quest.264BFB8C5F79616F.quest_subtitle: "在寒冷生物群系吸引&a汗蜜蜂&f"
 	quest.2982D38BD5EE6349.quest_subtitle: "喂食蘑菇蜂&a诡异菌&f"
 	quest.2982D38BD5EE6349.title: "&a诡异菌蜜蜂&f"
 	quest.29EE878BC8D3A742.quest_desc: [
 		"要建立自己的养蜂场,我们需要先找到并捕获蜜蜂."
 		""
-		"对蜜蜂右键使用此物品即可捕获!"
+		"对蜜蜂右键点击即可捕获!"
 		""
-		"探险时也有机会获得&6&a坚固蜜蜂笼&f&r,请保持关注!"
+		"探险时也有机会获得&6&a坚固蜜蜂笼&f&r,请保持留意!"
 	]
-	quest.29EE878BC8D3A742.title: "蜜蜂捕获!"
-	quest.2BE538246C672689.quest_desc: ["获得&9振金蜜蜂&r后,注入&5熔融难得素&r可获得&5&a难得素蜜蜂&f&r."]
-	quest.2BE538246C672689.quest_subtitle: "全矿物+振金"
+	quest.29EE878BC8D3A742.title: "捕获蜜蜂!"
+	quest.2BE538246C672689.quest_desc: ["获得&9振金蜜蜂&r后,注入&5熔融难得素&r可得到&5&a难得素蜜蜂&f&r."]
+	quest.2BE538246C672689.quest_subtitle: "全钶+振金"
 	quest.2BE538246C672689.title: "&a难得素蜜蜂&f"
 	quest.2CA3707BEE2E3C0D.quest_subtitle: "喂食&a钻石蜜蜂&f下界合金&a块&f"
 	quest.2CA3707BEE2E3C0D.title: "&a远古蜜蜂&f"
 	quest.2CA4D7253DA1825F.quest_subtitle: "使用木质蜂巢生成"
-	quest.2DFFEB29B6CBFD99.quest_subtitle: "铁 + 蓝纹"
+	quest.2DFFEB29B6CBFD99.quest_subtitle: "铁+蓝纹蜂"
 	quest.2DFFEB29B6CBFD99.title: "&a铅蜜蜂&f"
-	quest.2E51F09F6D9E5EF8.quest_desc: ["这是培育蜂."]
-	quest.2E51F09F6D9E5EF8.quest_subtitle: "农夫 + 牧场主"
-	quest.3054D016D2EF25FF.quest_subtitle: "金 + 银"
+	quest.2E51F09F6D9E5EF8.quest_desc: ["此为繁育蜂."]
+	quest.2E51F09F6D9E5EF8.quest_subtitle: "农夫+牧场主"
+	quest.3054D016D2EF25FF.quest_subtitle: "金+银"
 	quest.3054D016D2EF25FF.title: "&a琥珀金蜜蜂&f"
-	quest.309059DEDEE7AECD.quest_desc: ["收集地面上的物品并将其带回巢穴."]
-	quest.309059DEDEE7AECD.quest_subtitle: "喂食一只&a收集者蜜蜂&f一个潜影壳"
+	quest.309059DEDEE7AECD.quest_desc: ["收集地面物品并带回蜂巢."]
+	quest.309059DEDEE7AECD.quest_subtitle: "喂食&a收集者蜜蜂&f潜影壳"
 	quest.309059DEDEE7AECD.title: "&a囤积者蜜蜂&f"
 	quest.3155E4212045BC8E.quest_desc: [
-		"在&a末地&f放置&a黑曜石蜂巢&f会吸引&a末影龙蜜蜂&f."
+		"在&a末地&f放置&a黑曜石蜂巢&f可吸引&a末影龙蜜蜂&f."
 		""
-		"这些不接受&a蜜蜂小食&f,而是使用龙息."
+		"此类蜂不接受&a蜜蜂小食&f,需使用龙息喂养."
 	]
-	quest.3155E4212045BC8E.quest_subtitle: "在&a末地&f吸引一只&a末影龙蜜蜂&f"
-	quest.32FDC5FFA000DAF8.quest_desc: ["为你拥有的蜜蜂感到自豪？\\n\\n想将它们放入罐子里展示吗？\\n\\n放置一个&a蜜蜂罐&f,并使用管道或漏斗将笼中的蜜蜂放入罐中."]
+	quest.3155E4212045BC8E.quest_subtitle: "在&a末地&f吸引&a末影龙蜜蜂&f"
+	quest.32FDC5FFA000DAF8.quest_desc: ["为拥有的蜜蜂感到骄傲？\\n\\n想将它们装入罐中展示？\\n\\n放置&a蜜蜂罐&f并通过管道或漏斗将笼中蜜蜂注入罐内."]
 	quest.32FDC5FFA000DAF8.quest_subtitle: "展示蜜蜂"
 	quest.33422FBDAE11AE82.quest_subtitle: "Feed a &a空间蜜蜂&f a &a福鲁伊克斯珍珠&f"
 	quest.33422FBDAE11AE82.title: "&a福鲁伊克斯蜜蜂&f"
-	quest.33A0E06FE5CFD8F3.quest_desc: ["&9离心机&r用于将蜜蜂的蜂巢加工成有用的物品和蜂蜜!虽然一开始你肯定可以使用普通的&9离心机&r,但很快获得一个&6&a动力离心机&f&r是必须的.这是一个更快的离心机,依靠电力运行!\\n\\n如果你在寻找处理蜂巢的最佳方式,&c&a热能离心机&f&r甚至更快,并且处理&a&a蜜脾块&f&r而不是蜂巢!\\n\\n这些都可以通过使用&a风驰&f等级来加速."]
+	quest.33A0E06FE5CFD8F3.quest_desc: ["&9离心机&r用于将蜂巢加工成有用物品和蜂蜜!初期可使用普通&9离心机&r,但务必尽快升级为&6&a动力离心机&f&r.这是依靠电力驱动的更快速离心机!\\n\\n若追求最佳加工效率,&c&a热能离心机&f&r速度更快且可直接处理&a&a蜜脾块&f&r!\\n\\n使用&a风驰&f等级可加速所有离心机."]
 	quest.33A0E06FE5CFD8F3.quest_subtitle: "&a处理&f蜂巢"
-	quest.349D19F2FCC34B84.quest_desc: ["在&a下界&f放置&a下界砖蜂巢&f并在给予&a岩浆膏&f时会吸引一只&a熔岩蜜蜂&f."]
-	quest.349D19F2FCC34B84.quest_subtitle: "在&a下界&f放置时会吸引一只&a熔岩蜜蜂&f"
-	quest.35E8F1CC0080E45E.quest_subtitle: "喂食一只&a钻石蜜蜂&f一颗红宝石"
-	quest.35E8F1CC0080E45E.title: "红宝石蜂"
-	quest.35EAB77C195E594E.quest_subtitle: "喂食一只&a钻石蜜蜂&f一颗紫水晶"
+	quest.349D19F2FCC34B84.quest_desc: ["在&a下界&f放置&a下界砖蜂巢&f并提供&a岩浆膏&f可吸引&a熔岩蜜蜂&f."]
+	quest.349D19F2FCC34B84.quest_subtitle: "置于&a下界&f时吸引&a熔岩蜜蜂&f"
+	quest.35E8F1CC0080E45E.quest_subtitle: "喂食&a钻石蜜蜂&f红宝石"
+	quest.35E8F1CC0080E45E.title: "钌蜂"
+	quest.35EAB77C195E594E.quest_subtitle: "喂食&a钻石蜜蜂&f紫水晶"
 	quest.35EAB77C195E594E.title: "&a紫水晶蜜蜂&f"
-	quest.369D3AF332181DA8.quest_desc: ["&a石头蜂巢&f可以放置在任何主世界生物群系中,以吸引&a石匠蜜蜂&f或&a挖掘者蜜蜂&f."]
-	quest.369D3AF332181DA8.quest_subtitle: "在任何主世界生物群系中吸引蜜蜂"
+	quest.369D3AF332181DA8.quest_desc: ["&a石头蜂巢&f可放置在任何主世界生物群系中,用于吸引&a石匠蜜蜂&f或&a挖掘者蜜蜂&f."]
+	quest.369D3AF332181DA8.quest_subtitle: "在所有主世界生物群系吸引蜜蜂"
 	quest.37045B986619A03D.quest_subtitle: "Yellow + &a绿色木匠蜜蜂&f"
 	quest.371E09ED2A3F6BDC.quest_subtitle: "在黑暗处的空高级蜂箱中生成"
-	quest.371E09ED2A3F6BDC.title: "僵尸蜂"
+	quest.371E09ED2A3F6BDC.title: "僵尸蜜蜂"
 	quest.37367101B3DAA70F.quest_desc: ["&a灰烬穴居蜜蜂&f由泥土、沙砾或&a沙子蜂巢&f生成."]
 	quest.37367101B3DAA70F.quest_subtitle: "从&a泥土蜂巢&f生成"
-	quest.37CD9BF281903F56.quest_subtitle: "喂食一只蘑菇蜂一个&a红色蘑菇&f"
+	quest.37CD9BF281903F56.quest_subtitle: "给蘑菇蜜蜂喂食&a红色蘑菇&f"
 	quest.37CD9BF281903F56.title: "&a红色蘑菇蜜蜂&f"
-	quest.397E2D14BDE7DED0.quest_desc: ["所有蜜蜂都会产出&a蜜脾块&f而不是蜂巢,有效将产出翻四倍!"]
-	quest.397E2D14BDE7DED0.quest_subtitle: "4倍蜂巢"
-	quest.399882F3C51DD282.quest_subtitle: "喂食一只&a骷髅蜜蜂&f一朵凋零玫瑰"
+	quest.397E2D14BDE7DED0.quest_desc: ["所有蜜蜂将产出&a蜜脾块&f而非蜜脾,产量实际提升四倍!"]
+	quest.397E2D14BDE7DED0.quest_subtitle: "四倍蜜脾产量"
+	quest.399882F3C51DD282.quest_subtitle: "给&a骷髅蜜蜂&f喂食凋零玫瑰"
 	quest.399882F3C51DD282.title: "&a凋灵蜜蜂&f"
-	quest.39A19138C501B16F.quest_desc: ["你可以在沼泽生物群系中使用&a黏液蜂巢&f吸引这些蜜蜂."]
+	quest.39A19138C501B16F.quest_desc: ["可在沼泽生物群系使用&a黏液蜂巢&f吸引这些蜜蜂."]
 	quest.39A19138C501B16F.quest_subtitle: "&9需要&a黏液蜂巢&f"
 	quest.39A19138C501B16F.title: "&a黏液蜜蜂&f"
-	quest.3AF30E1EC163E2E3.quest_subtitle: "喂食一只&a钻石蜜蜂&f一颗蓝宝石"
-	quest.3AF30E1EC163E2E3.title: "蓝宝石蜂"
-	quest.3D7480E4F9063E93.quest_subtitle: "伐木工 + 汗水"
+	quest.3AF30E1EC163E2E3.quest_subtitle: "给&a钻石蜜蜂&f喂食蓝宝石"
+	quest.3AF30E1EC163E2E3.title: "蓝宝石蜜蜂"
+	quest.3D7480E4F9063E93.quest_subtitle: "伐木工+汗液"
 	quest.3D7480E4F9063E93.title: "&a牧场蜜蜂&f"
 	quest.3E301F3EEC8C763A.quest_desc: [
-		"这可用于加速幼蜂的&a生长速度&f,或创建新的&a刷怪蛋&f."
+		"可用于加速幼蜂&a生长速度&f,或制作新的&a刷怪蛋&f."
 		""
-		"将一只笼中的幼蜂与20个&a蜜蜂小食&f放置在一起,使其变为成年蜂."
+		"将笼装幼蜂与20个&a蜜蜂小食&f放置在一起可使其成长为成蜂."
 		""
-		"要制作&a刷怪蛋&f,你需要将所需蜜蜂的基因与蜂蜜甜点结合,然后在该机器中使用该蜂蜜甜点和一颗蛋来制作新的刷怪蛋.\\n\\n基因可以组合达到最高100%纯度,这将使你有100%的几率将蛋转化为蜜蜂&a刷怪蛋&f."
+		"制作&a刷怪蛋&f需将目标蜜蜂基因与蜂蜜小食结合,随后在机器中搭配鸡蛋生成新刷怪蛋.\\n\\n基因最高可合成100%纯度,届时可将鸡蛋100%转化为蜜蜂&a刷怪蛋&f."
 	]
-	quest.3E301F3EEC8C763A.quest_subtitle: "幼蜂托儿所"
-	quest.40E4F1172A164DD1.quest_subtitle: "在丛林中破坏&a可可果荚&f时有几率生成"
+	quest.3E301F3EEC8C763A.quest_subtitle: "幼蜂托育所"
+	quest.40E4F1172A164DD1.quest_subtitle: "在丛林破坏&a可可果荚&f时有概率生成"
 	quest.40E4F1172A164DD1.title: "&a蜜袋蜜蜂&f"
-	quest.419DD6FE84B91749.quest_desc: ["收集基因时,你会获得某个特性的百分比.你可以在工作台中组合它们以相加,或放入&a基因检索器&f中自动组合."]
-	quest.419DD6FE84B91749.quest_subtitle: "&a基因&f组合器与箱子"
-	quest.41CF7CAEE4F60CCD.quest_desc: ["当放置在&a下界&f并给予荧石时,&a荧石蜂巢&f会吸引来一只&a发光蜜蜂&f."]
+	quest.419DD6FE84B91749.quest_desc: ["收集基因时将获得特定性状的百分比.可在工作台中叠加合成,或放入&a基因检索器&f自动组合."]
+	quest.419DD6FE84B91749.quest_subtitle: "&a基因&f组合器与存储箱"
+	quest.41CF7CAEE4F60CCD.quest_desc: ["在&a下界&f放置并添加荧石后,&a荧石蜂巢&f将吸引&a发光蜜蜂&f."]
 	quest.41CF7CAEE4F60CCD.quest_subtitle: "在&a下界&f吸引&a发光蜜蜂&f"
-	quest.437DB2CE10D33A08.quest_desc: ["你需要获取一个&6&a荧石蜂巢&f&r并前往&a下界&f捕捉这种蜜蜂!"]
+	quest.437DB2CE10D33A08.quest_desc: ["你需要获取&6&a荧石蜂巢&f&r并前往&a下界&f捕捉此蜜蜂!"]
 	quest.437DB2CE10D33A08.title: "&a发光蜜蜂&f"
 	quest.447CAC472A99835B.quest_subtitle: "从&a雪蜂巢&f生成"
-	quest.47CEFA06392C4211.quest_desc: ["扩展箱放置在高级蜂箱顶部,可将蜂箱容纳的蜜蜂数量增加至总共5个槽位."]
-	quest.47CEFA06392C4211.quest_subtitle: "增加我们的蜜蜂存储"
+	quest.47CEFA06392C4211.quest_desc: ["扩展箱可放置于高级蜂箱顶部,使蜂箱容纳量提升至5个槽位."]
+	quest.47CEFA06392C4211.quest_subtitle: "扩展蜜蜂存储容量"
 	quest.47CEFA06392C4211.title: "扩展箱"
 	quest.486060882E507CF1.quest_subtitle: "从&a泥土蜂巢&f生成"
-	quest.4897C7BB3139C6C6.quest_subtitle: "伐木工 + 牧场主"
+	quest.4897C7BB3139C6C6.quest_subtitle: "伐木工+牧场主"
 	quest.4C0302FF4F63B52E.quest_desc: [
-		"如果你想获得ATM蜜蜂,需要大量的捕捉、繁殖和喂养."
+		"若想获得ATM蜜蜂,需进行大量捕捉、繁殖与喂食工作."
 		""
-		"任务线的下一部分概述了你需要哪些蜜蜂才能继续前进."
+		"任务线后续部分将说明推进进度所需的蜜蜂种类."
 		""
-		"确保查看JEI和&9蜜蜂大全书&r以&a了解更多信息&f!"
+		"请务必查阅JEI与&9蜜蜂大百科&r以&a了解更多信息&f!"
 	]
-	quest.4C47EB9D2CE26BC6.quest_subtitle: "在&a下界&f从&a下界石英蜂巢&f生成"
+	quest.4C47EB9D2CE26BC6.quest_subtitle: "在&a下界&f由&a下界石英蜂巢&f生成"
 	quest.4C47EB9D2CE26BC6.title: "&a石英蜜蜂&f"
-	quest.4FE7F45C72EF5DC1.quest_subtitle: "铁 + 汗水"
+	quest.4FE7F45C72EF5DC1.quest_subtitle: "铁锭+汗水蜜蜂"
 	quest.4FE7F45C72EF5DC1.title: "&a镍蜜蜂&f"
-	quest.500BEAD94C97DF96.quest_desc: ["可放置在蜂箱或离心机中.\\n\\n在蜂箱中时,减少蜜蜂在蜂箱中停留的时间20%.\\n\\n放置在离心机中时,提高处理速度.\\n\\n这些效果可叠加."]
+	quest.500BEAD94C97DF96.quest_desc: ["可放置于蜂箱或离心机内.\\n\\n置于蜂箱时,缩短蜜蜂在巢内停留时间20%.\\n\\n置于离心机时,提升处理速度.\\n\\n效果可叠加."]
 	quest.500BEAD94C97DF96.quest_subtitle: "音速蜜蜂"
-	quest.52B22C07818981D0.quest_subtitle: "铜 + 镍"
+	quest.52B22C07818981D0.quest_subtitle: "铜锭+镍锭"
 	quest.52B22C07818981D0.title: "&a康铜蜜蜂&f"
-	quest.532F3E6868A29037.quest_desc: ["想象之前的速度升级,现在让它变得更快!\\n\\n这些升级可用于机器,使它们的工作速度提高40%!\\n是的,它们的效果可叠加.\\n\\n不,它们不能用于蜂箱,那是生产力升级的用途!"]
-	quest.532F3E6868A29037.quest_subtitle: "万物音速,蜜蜂除外"
-	quest.5563BD4934297522.quest_desc: ["一旦你拥有&a钻石蜜蜂&f,将其与&a黏液蜜蜂&f繁殖以创造绿宝石蜜蜂!"]
+	quest.532F3E6868A29037.quest_desc: ["想象前代速度升级的效果,现在让它变得更快!\\n\\n此升级模块可使机器运行速度提升40%!\\n是的,效果可叠加.\\n\\n不可用于蜂箱——那是生产效率模块的功能!"]
+	quest.532F3E6868A29037.quest_subtitle: "万物音速(蜜蜂除外)"
+	quest.5563BD4934297522.quest_desc: ["获得&a钻石蜜蜂&f后,将其与&a黏液蜜蜂&f杂交即可培育出绿宝石蜜蜂!"]
 	quest.5563BD4934297522.quest_subtitle: "&a钻石蜜蜂&f + &a黏液蜜蜂&f"
 	quest.5563BD4934297522.title: "绿宝石蜜蜂"
 	quest.55882C10292B6A3D.quest_subtitle: "Feed a &a石英蜜蜂&f a &a活化水晶块&f"
 	quest.55882C10292B6A3D.title: "繁荣蜜蜂"
-	quest.57167FE67CFAC255.quest_subtitle: "用于向过滤器中添加蜜蜂"
-	quest.57ACD83205988834.quest_subtitle: "金 + 末影"
+	quest.57167FE67CFAC255.quest_subtitle: "用于向过滤器添加蜜蜂"
+	quest.57ACD83205988834.quest_subtitle: "金锭+末影蜜蜂"
 	quest.57ACD83205988834.title: "&a铂蜜蜂&f"
-	quest.589EB4602E3F9EEE.quest_desc: ["&a锡蜜蜂&f由&a石英蜜蜂&f与&a灰烬穴居蜜蜂&f繁殖而成."]
-	quest.589EB4602E3F9EEE.quest_subtitle: "灰烬采矿 + 水晶"
+	quest.589EB4602E3F9EEE.quest_desc: ["将&a石英蜜蜂&f与&a灰烬穴居蜜蜂&f杂交可获得&a锡蜜蜂&f."]
+	quest.589EB4602E3F9EEE.quest_subtitle: "灰烬矿蜂+水晶蜜蜂"
 	quest.589EB4602E3F9EEE.title: "&a锡蜜蜂&f"
-	quest.5962DC39E5874FB9.quest_subtitle: "青金石 + 骷髅"
-	quest.5CC9CB0911954215.quest_desc: ["&a甘蔗蜂巢&f可在主世界任何生物群系工作,会吸引&a石匠蜜蜂&f或&a甘蔗蜜蜂&f."]
-	quest.5CC9CB0911954215.quest_subtitle: "在主世界任何生物群系吸引蜜蜂"
-	quest.5CF2A069A3CC4EF6.quest_subtitle: "树脂+芦苇"
+	quest.5962DC39E5874FB9.quest_subtitle: "青金石+骸骨蜜蜂"
+	quest.5CC9CB0911954215.quest_desc: ["&a甘蔗蜂巢&f可在主世界任意生物群系工作,会吸引&a石匠蜜蜂&f或&a甘蔗蜜蜂&f."]
+	quest.5CC9CB0911954215.quest_subtitle: "在主世界任意生物群系吸引蜜蜂"
+	quest.5CF2A069A3CC4EF6.quest_subtitle: "树脂+芦苇蜜蜂"
 	quest.5CF2A069A3CC4EF6.title: "&a丝绢蜜蜂&f"
-	quest.5DF26D712B643655.quest_subtitle: "铜+锌"
+	quest.5DF26D712B643655.quest_subtitle: "铜锭+锌锭"
 	quest.5DF26D712B643655.title: "&a黄铜蜜蜂&f"
-	quest.5F080CFA1DC7F435.quest_subtitle: "需在&a下界&f使用&a灵魂沙蜂巢&f生成."
+	quest.5F080CFA1DC7F435.quest_subtitle: "在&a下界&f使用&a灵魂沙蜂巢&f生成"
 	quest.5F080CFA1DC7F435.title: "&a恶魂蜜蜂&f"
-	quest.5F1784E562C29B66.quest_desc: ["制作一个&5&a末地石蜂巢&f&r并前往&a末地&f捕捉这类蜜蜂!"]
-	quest.5F1784E562C29B66.quest_subtitle: "&9需要&a末地石蜂巢&f"
+	quest.5F1784E562C29B66.quest_desc: ["制作&5&a末地石蜂巢&f&r并前往&a末地&f捕捉此类蜜蜂!"]
+	quest.5F1784E562C29B66.quest_subtitle: "&9需&a末地石蜂巢&f"
 	quest.5F1784E562C29B66.title: "&a末影蜜蜂&f"
-	quest.60B985069E0E643E.quest_subtitle: "岩浆+汗蜂"
+	quest.60B985069E0E643E.quest_subtitle: "岩浆+汗水蜜蜂"
 	quest.60B985069E0E643E.title: "&a黑曜石蜜蜂&f"
 	quest.614937A2F5823F3E.quest_subtitle: "在&a下界&f使用&a下界砖蜂巢&f生成"
 	quest.614937A2F5823F3E.title: "&a熔岩蜜蜂&f"
-	quest.66324D7D0C51AEAC.quest_desc: ["&a新材料发现&f基础用于合成&d资源蜜蜂&f中的各类升级组件."]
-	quest.67482ED4B18F828D.quest_subtitle: "铁+霓虹杜鹃"
+	quest.66324D7D0C51AEAC.quest_desc: ["&a新材料发现&f基座用于合成&d资源蜜蜂&f中的各类升级模块."]
+	quest.67482ED4B18F828D.quest_subtitle: "铁锭+霓鹃蜜蜂"
 	quest.67482ED4B18F828D.title: "&a锇蜜蜂&f"
 	quest.6786B08C30D26037.quest_desc: [
-		"若想获得此蜂,需先拥有&a灰烬穴居蜜蜂&f."
+		"欲获得此品种,需先培育&a灰烬穴居蜜蜂&f."
 		""
 		"当&a灰烬穴居蜜蜂&f在巢中安定后,有概率被&a牧游蜜蜂&f取代."
 	]
-	quest.6786B08C30D26037.quest_subtitle: "在拥有&a灰烬穴居蜜蜂&f的巢中生成"
-	quest.683B58B699D4D381.quest_subtitle: "在拥有&a蓝色条纹蜜蜂&f的巢中生成"
-	quest.68CE30097BADE20E.quest_desc: ["对目标类型蜂巢右键点击可指引寻找其他同类蜂巢的方向!"]
-	quest.68CE30097BADE20E.title: "搜寻蜂巢"
-	quest.6BEE3578BD2C713C.quest_subtitle: "由&a泥土蜂巢&f生成"
+	quest.6786B08C30D26037.quest_subtitle: "生成于存在&a灰烬穴居蜜蜂&f的巢中"
+	quest.683B58B699D4D381.quest_subtitle: "生成于存在&a蓝色条纹蜜蜂&f的巢中"
+	quest.68CE30097BADE20E.quest_desc: ["右键点击您正在寻找类型的蜂巢,会为您指引另一个蜂巢的方向!"]
+	quest.68CE30097BADE20E.title: "寻找蜂巢"
+	quest.6BEE3578BD2C713C.quest_subtitle: "从&a泥土蜂巢&f生成"
 	quest.6D484150536536B9.quest_desc: [
-		"此巢吸引&e&a石英蜜蜂&f&r.需使用&a下界石英&f而非&a蜜蜂小食&f来吸引蜜蜂."
+		"此蜂巢吸引&e&a石英蜜蜂&f&r.您需要使用&a下界石英&f而非&a蜜蜂小食&f来吸引蜜蜂."
 		""
-		"获取石英方块最简易方式是用&a精准采集&f镐开采."
+		"获取石英方块的最简单方法是用带有&a精准采集&f的镐开采."
 		""
-		"提示:制作&d寂静装备&f工具时,黄铜材质自带&a精准采集&f特性."
+		"提示:制作&d寂静装备&f工具时,黄铜材质具有&a精准采集&f特性."
 	]
 	quest.6D484150536536B9.quest_subtitle: "在&a下界&f吸引&a石英蜜蜂&f"
-	quest.6DBF9CAB37B9BBF3.quest_subtitle: "提升蜜蜂生产力120%"
-	quest.6E093D16B12E12B3.quest_subtitle: "巧克力采矿+挖掘蜂"
-	quest.6E4C3B87FABE9EFA.quest_subtitle: "铜+锡"
+	quest.6DBF9CAB37B9BBF3.quest_subtitle: "蜜蜂生产力提高120%"
+	quest.6E093D16B12E12B3.quest_subtitle: "巧克力采矿蜂 + 挖掘蜂"
+	quest.6E4C3B87FABE9EFA.quest_subtitle: "铜蜜蜂 + 锡蜜蜂"
 	quest.6E4C3B87FABE9EFA.title: "&a青铜蜜蜂&f"
-	quest.6E819CCD57B15D54.quest_desc: ["将&9熔融振金&r浇注在&e全金属蜜蜂蛋&r上可获得&9&a振金蜜蜂&f&r!"]
-	quest.6E819CCD57B15D54.quest_subtitle: "远古+龙息"
+	quest.6E819CCD57B15D54.quest_desc: ["将&9熔融振金&r浇注在&e全矿物蜜蜂蛋&r上可获得&9&a振金蜜蜂&f&r!"]
+	quest.6E819CCD57B15D54.quest_subtitle: "远古蜜蜂 + 龙息蜜蜂"
 	quest.6E819CCD57B15D54.title: "&a振金蜜蜂&f"
-	quest.6EFFF0DC80C1C8A3.quest_desc: ["欲获得&e&aATM蜜蜂&f&r,需将&e熔融全金属&r浇注于远古蜜蜂蛋上."]
-	quest.6EFFF0DC80C1C8A3.quest_subtitle: "远古+凋零"
+	quest.6EFFF0DC80C1C8A3.quest_desc: ["获取&e&aATM蜜蜂&f&r的方法:将&e熔融全矿物&r浇注在远古蜜蜂蛋上"]
+	quest.6EFFF0DC80C1C8A3.quest_subtitle: "远古蜜蜂 + 凋零蜜蜂"
 	quest.6EFFF0DC80C1C8A3.title: "&aATM蜜蜂&f"
-	quest.6F7AC41B703028CC.quest_subtitle: "银+铜"
+	quest.6F7AC41B703028CC.quest_subtitle: "银蜜蜂 + 铜蜜蜂"
 	quest.6F7AC41B703028CC.title: "&a信素蜜蜂&f"
 	quest.6F978C4D561F35EC.quest_desc: [
-		"&a装瓶机&f有两大功能:装瓶蜂蜜与压榨蜜蜂获取基因.\\n\\n获取蜜蜂基因时,需在装瓶机上方一格处放置活塞.\\n\\n将蜜蜂置于装瓶机顶部,激活活塞即可将其压榨成基因.所得压榨瓶可放入离心机处理.\\n\\n注意:确保装瓶机内已有空瓶."
+		"&a装瓶机&f有两种功能:蜂蜜装瓶和挤压蜜蜂获取基因.\\n\\n从蜜蜂获取基因时,在装瓶机上方间隔一格位置放置活塞.\\n\\n将蜜蜂置于装瓶机顶部,激活活塞将蜜蜂挤压成基因.产出的挤压瓶可放入离心机处理.\\n\\n注意:确保装瓶机内放置有玻璃瓶"
 		"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 	]
-	quest.6F978C4D561F35EC.quest_subtitle: "我压榨了&a蜜蜂&f蜂蜜"
-	quest.71667FFC8011525C.quest_subtitle: "岩浆+切叶"
+	quest.6F978C4D561F35EC.quest_subtitle: "我挤压了蜂蜜 &a蜜蜂&f"
+	quest.71667FFC8011525C.quest_subtitle: "岩浆蜜蜂 + 切叶蜜蜂"
 	quest.71667FFC8011525C.title: "&a煤炭蜜蜂&f"
-	quest.734A72A4C898BDFB.quest_subtitle: "铁+镍"
+	quest.734A72A4C898BDFB.quest_subtitle: "铁蜜蜂 + 镍蜜蜂"
 	quest.734A72A4C898BDFB.title: "&a殷钢蜜蜂&f"
-	quest.734F61A03FFA13ED.quest_subtitle: "苦力怕蜂+铁"
+	quest.734F61A03FFA13ED.quest_subtitle: "苦力怕蜜蜂 + 铁蜜蜂"
 	quest.734F61A03FFA13ED.title: "&a辐射蜜蜂&f"
 	quest.73C70B15582958A5.quest_desc: [
-		"&e&a泥土蜂巢&f&r可放置在任何主世界生物群系中吸引蜜蜂."
+		"&e&a泥土蜂巢&f&r可放置在任何主世界生物群系中吸引蜜蜂"
 		""
-		"它能吸引&a灰烬穴居蜜蜂&f、&a巧克力穴居蜜蜂&f和&a切叶蜜蜂&f."
+		"可吸引&a灰烬穴居蜜蜂&f、&a巧克力穴居蜜蜂&f和&a切叶蜜蜂&f"
 	]
 	quest.73C70B15582958A5.quest_subtitle: "任意主世界生物群系"
-	quest.75CD4EE6A542D687.quest_subtitle: "水晶+灰烬矿蜂"
+	quest.75CD4EE6A542D687.quest_subtitle: "水晶蜜蜂 + 灰烬采矿蜂"
 	quest.75CD4EE6A542D687.title: "&a铜蜜蜂&f"
 	quest.761D21C6FBD13EE1.quest_subtitle: "给&a钻石蜜蜂&f喂食橄榄石"
 	quest.761D21C6FBD13EE1.title: "&a橄榄石蜜蜂&f"
-	quest.76E94639E90FEB4E.quest_desc: ["在无光照区域放置若干空&e高级蜂箱&r,蜜蜂会逐渐迁入."]
-	quest.76E94639E90FEB4E.quest_subtitle: "在黑暗中伴随空蜂箱生成"
+	quest.76E94639E90FEB4E.quest_desc: ["在无光照区域放置若干&e高级蜂箱&r,蜜蜂会逐渐迁入"]
+	quest.76E94639E90FEB4E.quest_subtitle: "在黑暗中通过空蜂箱生成"
 	quest.76E94639E90FEB4E.title: "&a骷髅蜜蜂&f"
-	quest.7941938014E97A30.quest_desc: ["是否曾梦想骑乘蜜蜂翱翔？\\n\\n&a大黄蜂蜜蜂&f会自然生成于世界中,它们可作为坐骑使用!\\n\\n制作一把&6&a蜂蜜钓竿&f&r,给&a大黄蜂蜜蜂&f装上鞍,即可翱翔天际!"]
-	quest.7941938014E97A30.quest_subtitle: "由&a大黄蜂蜂巢&f在主世界生成"
+	quest.7941938014E97A30.quest_desc: ["是否曾梦想骑乘蜜蜂飞行？\\n\\n&a大黄蜂蜜蜂&f自然生成于世界中,可作为坐骑使用!\\n\\n制作&6&a蜂蜜钓竿&f&r,给&a大黄蜂蜜蜂&f套上鞍具,即可翱翔天际!"]
+	quest.7941938014E97A30.quest_subtitle: "从&a大黄蜂蜂巢&f在主世界生成"
 	quest.7941938014E97A30.title: "&a大黄蜂蜜蜂&f"
-	quest.79D6A251FE3761B3.quest_desc: ["当放置在沼泽生物群系时,&a黏液蜂巢&f会吸引&a黏液蜜蜂&f."]
+	quest.79D6A251FE3761B3.quest_desc: ["放置在沼泽生物群系时,&a黏液蜂巢&f会吸引&a黏液蜜蜂&f"]
 	quest.79D6A251FE3761B3.quest_subtitle: "在沼泽生物群系吸引&a黏液蜜蜂&f"
-	quest.7B40A9DAA119DE59.quest_subtitle: "水晶+霓虹杜鹃蜂"
+	quest.7B40A9DAA119DE59.quest_subtitle: "水晶蜜蜂 + 霓虹杜鹃蜂"
 	quest.7B40A9DAA119DE59.title: "&a门瑞欧蜜蜂&f"
-	quest.7B5A0BFD47D96BDE.quest_desc: ["用于捕捉周围飞行的蜜蜂.\\n\\n可使用过滤器升级来筛选目标蜜蜂,或用幼蜂升级专捕蜂幼崽."]
+	quest.7B5A0BFD47D96BDE.quest_desc: ["用于捕捉周围飞行的蜜蜂.\\n\\n可使用过滤器升级筛选目标蜜蜂,或用幼蜂升级专捕蜂幼崽"]
 	quest.7B5A0BFD47D96BDE.quest_subtitle: "捕捉蜜蜂"
-	quest.7C169A4A39F37FAC.quest_desc: ["利用原版蜂箱可合成&e高级蜂箱&r(橡木或任意木材均可).\\n\\n蜜蜂会在此进出并在库存中留下蜂巢,放入玻璃瓶可获得&a蜂蜜瓶&f.\\n\\n我们需要大量蜂巢制作甜点!"]
-	quest.7C169A4A39F37FAC.quest_subtitle: "无需再剪切."
+	quest.7C169A4A39F37FAC.quest_desc: ["利用原版蜂箱制作&e高级蜂箱&r,可用橡木或任意木材.\\n\\n蜜蜂会在此进出并在库存中留下蜂巢,也可放入玻璃瓶获取&a蜂蜜瓶&f.\\n\\n制作蜂饵需要大量蜂巢!"]
+	quest.7C169A4A39F37FAC.quest_subtitle: "无需再剪切"
 	quest.7C169A4A39F37FAC.title: "高级蜂箱"
-	quest.7EAFF64FFE8B5378.quest_subtitle: "铁+汗水"
+	quest.7EAFF64FFE8B5378.quest_subtitle: "铁蜜蜂 + 汗蜂"
 	quest.7EAFF64FFE8B5378.title: "&a锌蜜蜂&f"
 	task.065E5450AC87F1D5.title: "&a远古蜜脾&f"
 	task.0A77407CE9055F04.title: "&a汗蜜蜂&f"
 	task.0CDFF60D581118E3.title: "&a杜鹃蜜蜂&f"
-	task.0EF1CA8DED2FF38C.title: "高级蜂箱集"
+	task.0EF1CA8DED2FF38C.title: "高级蜂箱"
 	task.0F2BCC279B5731AB.title: "紫水晶蜂巢"
 	task.11931CBFE67ADBBB.title: "版权所有"
 	task.12A2CE1C3AE8A033.title: "&a蓝色条纹蜜蜂&f"
@@ -328,14 +328,14 @@
 	task.17C7DC04BC22C0D7.title: "&a锡蜜脾&f"
 	task.181135E3A83C5B9E.title: "&a锌蜜脾&f"
 	task.212BB84583FE4B8B.title: "&a农夫蜜蜂&f"
-	task.2153473228DA4678.title: "蜜蜂培育与转化"
+	task.2153473228DA4678.title: "蜜蜂育种与转化"
 	task.263F0E416A8E1110.title: "&a铜蜜脾&f"
 	task.299DE26FF7293F34.title: "&a琥珀金蜜脾&f"
 	task.2CC38211F4C54ED8.title: "&a龙蜜脾&f"
-	task.2EA19C4E46380CDA.title: "红宝石蜂巢"
+	task.2EA19C4E46380CDA.title: "RuBee蜂巢"
 	task.345245C32DB7B4D4.title: "&a红石蜂巢&f"
 	task.34C16667CDF3E53A.title: "铜蜂"
-	task.359396879CBA62D5.title: "蜂巢生成"
+	task.359396879CBA62D5.title: "蜂巢自然生成"
 	task.3B35F86B42989063.title: "&a绯红菌蜜蜂&f Comb"
 	task.3CDFAF37BFB1C89C.title: "&a黄色木匠蜜蜂&f"
 	task.3DE460F842195173.title: "&a灰烬穴居蜜蜂&f"
@@ -355,7 +355,7 @@
 	task.50823C029014781A.title: "&a黑曜石蜜脾&f"
 	task.508BC2CB4F4BC7EF.title: "版权所有"
 	task.55F718D796CEB1B1.title: "&a青铜蜜脾&f"
-	task.5860D1574D18BA1A.title: "扩展盒"
+	task.5860D1574D18BA1A.title: "扩展蜂箱"
 	task.5B5DBA0A7644A551.title: "&a信素蜜脾&f"
 	task.5BFAA4BB6651F71A.title: "&a凋灵蜜脾&f"
 	task.5C358DFF9CD0D1D9.title: "&a辐射蜜脾&f"
@@ -363,7 +363,7 @@
 	task.6047113DC2263E46.title: "&a木场蜜蜂&f"
 	task.64248C6FBC867D56.title: "&a牧游蜜蜂&f"
 	task.65D52E6A67DD11EB.title: "离心机"
-	task.6754D9E162472CA1.title: "全铑矿进程"
+	task.6754D9E162472CA1.title: "阿托莫登矿进阶"
 	task.6887F86C8673DAF6.title: "&a甘蔗蜜蜂&f"
 	task.6D4F62833424ADC0.title: "&a铁蜜脾&f"
 	task.6E0961A56194F0A8.title: "&a挖掘者蜜蜂&f"

@@ -7,14 +7,16 @@
 		id: "minecraft:zombie_head"
 	}
 	id: "18A429E7F56AF5A9"
-	images: [{
-		height: 3.0d
-		image: "atm:textures/questpics/bounty.png"
-		rotation: 0.0d
-		width: 12.0d
-		x: 0.0d
-		y: -10.0d
-	}]
+	images: [
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/bounty.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.0d
+			y: -10.0d
+		}
+	]
 	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -38,12 +40,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:zombie"
-				id: "5457CD8C1ABA0B9E"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "5457CD8C1ABA0B9E"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: -7.0d
 			y: -2.5d
 		}
@@ -64,12 +68,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:zombie"
-				id: "3AD10C31CB6BA4C2"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "3AD10C31CB6BA4C2"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: -7.0d
 			y: -4.0d
 		}
@@ -108,12 +114,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:zombie"
-				id: "51471254BFEBDAA7"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "51471254BFEBDAA7"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: -7.0d
 			y: -5.5d
 		}
@@ -135,12 +143,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:zombie"
-				id: "5056DC37AEF523E5"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "5056DC37AEF523E5"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: -7.0d
 			y: -7.0d
 		}
@@ -162,12 +172,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:skeleton"
-				id: "5B35720DF93CE2DB"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "5B35720DF93CE2DB"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: -5.0d
 			y: -2.5d
 		}
@@ -188,12 +200,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:skeleton"
-				id: "015CB0D172D0712A"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "015CB0D172D0712A"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: -5.0d
 			y: -4.0d
 		}
@@ -232,12 +246,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:skeleton"
-				id: "2E17443A1BF2A0DA"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "2E17443A1BF2A0DA"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: -5.0d
 			y: -5.5d
 		}
@@ -259,12 +275,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:skeleton"
-				id: "00655AC734444E54"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:skeleton"
+					id: "00655AC734444E54"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: -5.0d
 			y: -7.0d
 		}
@@ -286,12 +304,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:creeper"
-				id: "423AF6C6647B1626"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:creeper"
+					id: "423AF6C6647B1626"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: -3.0d
 			y: -2.5d
 		}
@@ -312,12 +332,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:creeper"
-				id: "1AB92CF7F0246D21"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:creeper"
+					id: "1AB92CF7F0246D21"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: -3.0d
 			y: -4.0d
 		}
@@ -346,12 +368,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:creeper"
-				id: "24BA89BD9898759B"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:creeper"
+					id: "24BA89BD9898759B"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: -3.0d
 			y: -5.5d
 		}
@@ -373,29 +397,35 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:creeper"
-				id: "045D1087A2692360"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:creeper"
+					id: "045D1087A2692360"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: -3.0d
 			y: -7.0d
 		}
 		{
 			id: "41C0948CD9D50322"
-			rewards: [{
-				id: "55CF29758364D4B2"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "55CF29758364D4B2"
+					type: "xp"
+					xp: 10
+				}
+			]
 			size: 2.0d
-			tasks: [{
-				advancement: "minecraft:adventure/kill_a_mob"
-				criterion: ""
-				id: "6E3ACC74E0987981"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "minecraft:adventure/kill_a_mob"
+					criterion: ""
+					id: "6E3ACC74E0987981"
+					type: "advancement"
+				}
+			]
 			x: 0.0d
 			y: 0.0d
 		}
@@ -424,12 +454,14 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:ender_dragon"
-				id: "1809F1F9A3043683"
-				type: "kill"
-				value: 1L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:ender_dragon"
+					id: "1809F1F9A3043683"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: -1.5d
 			y: 2.25d
 		}
@@ -458,12 +490,14 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:wither"
-				id: "171FD27057746E80"
-				type: "kill"
-				value: 1L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither"
+					id: "171FD27057746E80"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: 0.0d
 			y: 2.25d
 		}
@@ -489,15 +523,17 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				entity: "ars_nouveau:wilden_boss"
-				icon: {
-					id: "ars_nouveau:wilden_tribute"
+			tasks: [
+				{
+					entity: "ars_nouveau:wilden_boss"
+					icon: {
+						id: "ars_nouveau:wilden_tribute"
+					}
+					id: "452B65E139D9E12D"
+					type: "kill"
+					value: 1L
 				}
-				id: "452B65E139D9E12D"
-				type: "kill"
-				value: 1L
-			}]
+			]
 			x: 0.75d
 			y: 3.75d
 		}
@@ -512,8 +548,8 @@
 					id: "26EF416511A49817"
 					item: {
 						components: {
-							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Sword of AlfredGG\"}"
-							"minecraft:lore": ["{\"italic\":false,\"text\":\"For those brave enough to slaughter the Mighty and Annoying Trader\"}"]
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"阿尔弗雷德GG之剑\"}"
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"献给那些勇于斩杀强大又烦人的商人的勇士\"}"]
 						}
 						count: 1
 						id: "minecraft:iron_sword"
@@ -562,12 +598,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:enderman"
-				id: "0EA4B08DAAFA4287"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:enderman"
+					id: "0EA4B08DAAFA4287"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: 7.0d
 			y: -2.5d
 		}
@@ -588,12 +626,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:enderman"
-				id: "58BF5D3267CF02F8"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:enderman"
+					id: "58BF5D3267CF02F8"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: 7.0d
 			y: -4.0d
 		}
@@ -623,12 +663,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:enderman"
-				id: "6BA6847A172C8DD7"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:enderman"
+					id: "6BA6847A172C8DD7"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: 7.0d
 			y: -5.5d
 		}
@@ -650,12 +692,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:enderman"
-				id: "53C23DB8B4D1CEE2"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:enderman"
+					id: "53C23DB8B4D1CEE2"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: 7.0d
 			y: -7.0d
 		}
@@ -677,12 +721,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:spider"
-				id: "18644A08B73A4B12"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					id: "18644A08B73A4B12"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: -1.0d
 			y: -2.5d
 		}
@@ -703,12 +749,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:spider"
-				id: "5801AF8000768808"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					id: "5801AF8000768808"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: -1.0d
 			y: -4.0d
 		}
@@ -747,12 +795,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:spider"
-				id: "0F94F7427F99DAFE"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					id: "0F94F7427F99DAFE"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: -1.0d
 			y: -5.5d
 		}
@@ -774,12 +824,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:spider"
-				id: "0F8ACB07CFA8CB33"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					id: "0F8ACB07CFA8CB33"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: -1.0d
 			y: -7.0d
 		}
@@ -801,12 +853,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:blaze"
-				id: "1718CA0F8978181C"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:blaze"
+					id: "1718CA0F8978181C"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: 3.0d
 			y: -2.5d
 		}
@@ -827,12 +881,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:blaze"
-				id: "00445193DEB7EAA0"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:blaze"
+					id: "00445193DEB7EAA0"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: 3.0d
 			y: -4.0d
 		}
@@ -862,12 +918,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:blaze"
-				id: "404D3420276BD963"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:blaze"
+					id: "404D3420276BD963"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: 3.0d
 			y: -5.5d
 		}
@@ -889,12 +947,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:blaze"
-				id: "2038156A13C07BFC"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:blaze"
+					id: "2038156A13C07BFC"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: 3.0d
 			y: -7.0d
 		}
@@ -916,15 +976,17 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:witch"
-				icon: {
-					id: "minecraft:potion"
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					icon: {
+						id: "minecraft:potion"
+					}
+					id: "7BAB5E17D2DE4E3E"
+					type: "kill"
+					value: 5L
 				}
-				id: "7BAB5E17D2DE4E3E"
-				type: "kill"
-				value: 5L
-			}]
+			]
 			x: 1.0d
 			y: -2.5d
 		}
@@ -948,15 +1010,17 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:witch"
-				icon: {
-					id: "minecraft:potion"
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					icon: {
+						id: "minecraft:potion"
+					}
+					id: "7127A76DEB4D1696"
+					type: "kill"
+					value: 10L
 				}
-				id: "7127A76DEB4D1696"
-				type: "kill"
-				value: 10L
-			}]
+			]
 			x: 1.0d
 			y: -4.0d
 		}
@@ -1006,15 +1070,17 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:witch"
-				icon: {
-					id: "minecraft:potion"
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					icon: {
+						id: "minecraft:potion"
+					}
+					id: "78A782913B7E6353"
+					type: "kill"
+					value: 50L
 				}
-				id: "78A782913B7E6353"
-				type: "kill"
-				value: 50L
-			}]
+			]
 			x: 1.0d
 			y: -5.5d
 		}
@@ -1036,15 +1102,17 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:witch"
-				icon: {
-					id: "minecraft:splash_potion"
+			tasks: [
+				{
+					entity: "minecraft:witch"
+					icon: {
+						id: "minecraft:splash_potion"
+					}
+					id: "5A3D6416BA0C7A20"
+					type: "kill"
+					value: 100L
 				}
-				id: "5A3D6416BA0C7A20"
-				type: "kill"
-				value: 100L
-			}]
+			]
 			x: 1.0d
 			y: -7.0d
 		}
@@ -1074,12 +1142,14 @@
 					xp: 10
 				}
 			]
-			tasks: [{
-				entity: "minecraft:wither_skeleton"
-				id: "1016033CBB003413"
-				type: "kill"
-				value: 5L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "1016033CBB003413"
+					type: "kill"
+					value: 5L
+				}
+			]
 			x: 5.0d
 			y: -2.5d
 		}
@@ -1100,12 +1170,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:wither_skeleton"
-				id: "33107949548BC22D"
-				type: "kill"
-				value: 10L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "33107949548BC22D"
+					type: "kill"
+					value: 10L
+				}
+			]
 			x: 5.0d
 			y: -4.0d
 		}
@@ -1143,12 +1215,14 @@
 					type: "random"
 				}
 			]
-			tasks: [{
-				entity: "minecraft:wither_skeleton"
-				id: "29A605F8B896F3B9"
-				type: "kill"
-				value: 50L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "29A605F8B896F3B9"
+					type: "kill"
+					value: 50L
+				}
+			]
 			x: 5.0d
 			y: -5.5d
 		}
@@ -1170,12 +1244,14 @@
 			]
 			shape: "pentagon"
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:wither_skeleton"
-				id: "727813FFC599C36D"
-				type: "kill"
-				value: 100L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "727813FFC599C36D"
+					type: "kill"
+					value: 100L
+				}
+			]
 			x: 5.0d
 			y: -7.0d
 		}
@@ -1204,12 +1280,14 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:warden"
-				id: "69678CAC075C8EA5"
-				type: "kill"
-				value: 1L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:warden"
+					id: "69678CAC075C8EA5"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: 1.5d
 			y: 2.25d
 		}
@@ -1321,12 +1399,14 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				entity: "minecraft:piglin_brute"
-				id: "5EB07157D785C3FC"
-				type: "kill"
-				value: 1L
-			}]
+			tasks: [
+				{
+					entity: "minecraft:piglin_brute"
+					id: "5EB07157D785C3FC"
+					type: "kill"
+					value: 1L
+				}
+			]
 			x: -0.75d
 			y: 3.75d
 		}
