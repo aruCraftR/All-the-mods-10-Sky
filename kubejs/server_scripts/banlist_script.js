@@ -95,7 +95,7 @@ if (!Platform.isClientEnvironment()) {
 function sendMessageAndCancel(/** @type {$ItemClickedKubeEvent_} */ event, type) {
   switch (type) {
     case "item":
-      event.player.setStatusMessage(Text.red("This server does not allow you to use this item!"))
+      event.player.setStatusMessage(Text.red("本服务器禁止使用此物品!"))
       event.cancel()
       break
     default:

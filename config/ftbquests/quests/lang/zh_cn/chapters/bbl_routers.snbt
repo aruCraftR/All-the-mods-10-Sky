@@ -1,0 +1,29 @@
+{
+	quest.0A497EC17534D248.quest_desc: ["#53BAEDBBL 路由器&r 是一个完全无线的物流模组.你只需要#8B53ED输入器&r和#EDB753输出器&r,它们就能传输物品、流体、能量、化学品和源质."]
+	quest.0A497EC17534D248.title: "#45A5ED欢迎使用 BBL 路由器"
+	quest.222446C143B43770.title: "传输源质"
+	quest.33A1316FD66C6428.quest_subtitle: "输入器/输出器需要升级才能工作"
+	quest.3584DE12E1D7D14F.quest_desc: [
+		"本模组有2种过滤器,手持时&7右键点击&r可进行设置:"
+		""
+		"1. #EDDE53&a模组过滤器&f&r:需输入不含空格的完整模组名称来设置过滤器."
+		""
+		"2. #EDDE53&a标签过滤器&f&r:需输入不带#的标签来设置过滤器."
+	]
+	quest.3584DE12E1D7D14F.title: "过滤器升级"
+	quest.3E14842D5F454F98.title: "提升操作速度"
+	quest.401A518B2D1BDB9A.quest_subtitle: "放置在接收容器上"
+	quest.5312BD7BDC054E48.title: "传输物品"
+	quest.548676DCD1E09A7F.quest_subtitle: "放置在发送容器上"
+	quest.6420E8B38993D8E3.title: "能量传输"
+	quest.671141CF874D89A4.title: "传输流体"
+	quest.68ABBA8CB99AF6A1.quest_desc: [
+		"将鼠标悬停在物品上按住#EDD353Shift&r可查看相关信息."
+		""
+		"要使用#537CED连接器&r,首先对#EDB553输入器&r&7右键点击&r,然后对#5360ED输出器&r&7右键点击&r以连接它们."
+	]
+	quest.6B11A21220723520.title: "传输化学品"
+	quest.7742D896461A4632.quest_subtitle: "只需将其放入输出器"
+	task.368EEAEC5B950F4D.title: "使用连接器"
+	task.7ECFB3665B40F251.title: "升级"
+}

@@ -9,6 +9,16 @@
 	id: "5B00676D79306EA2"
 	images: [
 		{
+			click: "https://discord.gg/3paFjuRfz9"
+			height: 1.0d
+			hover: ["加入Discord社区!"]
+			image: "ftbchunks:textures/waypoint_default.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
 			height: 10.0d
 			image: "atm:textures/questpics/logo.png"
 			rotation: 0.0d
@@ -111,102 +121,6 @@
 			]
 			x: 0.0d
 			y: 4.5d
-		}
-		{
-			can_repeat: false
-			disable_recipe_mod: false
-			icon: {
-				components: {
-					"touhou_little_maid:recipe_id": "spawn_box"
-				}
-				id: "touhou_little_maid:entity_placeholder"
-			}
-			id: "56936BF15B82D29B"
-			optional: true
-			rewards: [
-				{
-					id: "16C416F8976E0A34"
-					item: {
-						count: 1
-						id: "touhou_little_maid:entity_id_copy"
-					}
-					type: "item"
-				}
-				{
-					id: "660EA2B7D48EC865"
-					item: {
-						count: 1
-						id: "touhou_little_maid:shrine"
-					}
-					type: "item"
-				}
-				{
-					id: "6F7779E474B11D65"
-					item: {
-						count: 1
-						id: "touhou_little_maid:broom"
-					}
-					type: "item"
-				}
-				{
-					id: "33F767400C60C62A"
-					item: {
-						count: 1
-						id: "touhou_little_maid:mute_bauble"
-					}
-					type: "item"
-				}
-				{
-					id: "5ACA5E281F9EC3D7"
-					item: {
-						count: 1
-						id: "touhou_little_maid:model_switcher"
-					}
-					type: "item"
-				}
-				{
-					id: "5C24E53212856C49"
-					item: {
-						count: 1
-						id: "touhou_little_maid:kappa_compass"
-					}
-					type: "item"
-				}
-				{
-					id: "6B5BBE47D36BBC07"
-					item: {
-						count: 1
-						id: "touhou_little_maid:white_fox_scroll"
-					}
-					type: "item"
-				}
-				{
-					count: 64
-					id: "4FE0E770B36EC267"
-					item: {
-						count: 1
-						id: "touhou_little_maid:power_point"
-					}
-					type: "item"
-				}
-				{
-					id: "2F6771A30794C076"
-					item: {
-						count: 1
-						id: "touhou_little_maid:trumpet"
-					}
-					type: "item"
-				}
-			]
-			shape: "hexagon"
-			size: 2.0d
-			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "6438EDFDB60105B1"
-				type: "dimension"
-			}]
-			x: 0.0d
-			y: 2.0d
 		}
 	]
 }

@@ -1,80 +1,80 @@
 {
 	quest.002D65E4D7E8F62B.title: "二级分级催化剂"
-	quest.036D5767E07005BC.quest_desc: ["&b液体导出器&r用于提取&7液态金属&r.是的,遗憾的是它对手或桶而言都过于炽热.\\n\\n将&c&l熔铸厂&r的&7龙头&r连接至&b液体导出器&r,&a右击&f龙头即可导出&7液态金属&r.\\n\\n查看&b液体导出器&r时,还可观察&c&l熔铸厂&r内的液体储量!"]
-	quest.036D5767E07005BC.title: "&c&l熔铸厂&r &b液体导出器"
-	quest.047F3F99035CE623.quest_subtitle: "我向往矿坑"
-	quest.061A51A0EC13CA0F.quest_desc: ["现在我们有了&a控制器&r、&b排放口&r和&4储罐&r,还需要几个方块.\\n\\n首先是&6液体加热线圈&r,它们将构成&c&l熔铸厂&r的地板,用于加热&c&l熔铸厂&r.\\n\\n最后是&c&l熔铸厂&r窗户或&c&a火焰砖&f&r,这些将用于构建剩余结构——字面意义上的建筑模块.\\n\\n&c&l熔铸厂&r不需要搭建外框,每个角落都可留空,但必须包含4面墙和地板才能完成.若有缺失,&a控制器&r会提示方块位置.\\n\\n只要包含&a控制器&r、&6液体加热线圈&r并填满其他墙面,&c&l熔铸厂&r内部最小可达1x1格.\\n\\n但我不建议建这么小,因为&c&l熔铸厂&r越大,内部空间越充足!\\n\\n当&a控制器&r像熔炉一样亮起,且&6液体加热线圈&r变为&6橙黄色&r时,就表示&c&l熔铸厂&r已建成."]
-	quest.061A51A0EC13CA0F.title: "建造&c&l熔铸厂&r"
-	quest.083ABBA1C45FF960.quest_subtitle: "仅需一个&a割草器&f"
-	quest.0947B4ED95B0267E.quest_desc: ["用于覆盖物品和工具.\\n\\n下界合金是极佳的镀层材料."]
-	quest.0947B4ED95B0267E.quest_subtitle: "绝不限于下界合金"
-	quest.0D26E5EF6CFCFDBF.quest_desc: ["比匕首更耐久,但伤害与速度较低."]
+	quest.036D5767E07005BC.quest_desc: ["&b引流器&r是我们用来提取&7液态金属&r的设备.是的,遗憾的是徒手或铁桶都无法承受其高温.\\n\\n将&c&l熔炼厂&r的&7龙头&r连接至&b引流器&r,通过&a右键点击&f龙头即可排出&7液态金属&r.\\n\\n查看&b引流器&r时还能观察&c&l熔炼厂&r内的液体储量!"]
+	quest.036D5767E07005BC.title: "&c&l熔炼厂&r &b引流系统"
+	quest.047F3F99035CE623.quest_subtitle: "我向往矿坑深处"
+	quest.061A51A0EC13CA0F.quest_desc: ["现在我们有&a控制台&r、&b引流器&r和&4储罐&r,还需要若干功能方块.\\n\\n首先是&6液态加热线圈&r,它们将构成&c&l熔炼厂&r的地基,并为熔炼厂提供热能.\\n\\n最后需要&c&l熔炼厂窗户&r或&c&a火焰砖&f&r作为建筑主体材料——字面意义上的建筑模块.\\n\\n&c&l熔炼厂&r无需完整框架,角落可留空,但必须包含四面墙和地板才能成型.若有缺失,&a控制台&r会提示需补全的位置.\\n\\n最小可建造1x1内部空间的&c&l熔炼厂&r,只需配备&a控制台&r、&6液态加热线圈&r并补全墙体即可.\\n\\n但建议建造更大规格,因为&c&l熔炼厂&r规模越大,内部空间越充裕!\\n\\n当&a控制台&r如熔炉般亮起且&6液态加热线圈&r变为&6橙红色&r时,即标志&c&l熔炼厂&r建造完成."]
+	quest.061A51A0EC13CA0F.title: "建造&c&l熔炼厂&r"
+	quest.083ABBA1C45FF960.quest_subtitle: "不过是&a割草器&f"
+	quest.0947B4ED95B0267E.quest_desc: ["用于给物品工具镀层.\\n\\n下界合金是极佳的镀层材料."]
+	quest.0947B4ED95B0267E.quest_subtitle: "岂止用于下界合金"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["比匕首更耐用,但伤害值与攻速较低."]
 	quest.0D26E5EF6CFCFDBF.quest_subtitle: "突刺利器"
-	quest.0DF4B01CC5B49E4E.quest_desc: ["用此铸模可制作基础剑!兼具可靠伤害与攻速."]
+	quest.0DF4B01CC5B49E4E.quest_desc: ["此铸模可制作基础剑具,兼顾可靠伤害与均衡攻速."]
 	quest.0DF4B01CC5B49E4E.quest_subtitle: "经典可靠"
 	quest.0FEAD3CA2CC4A8B1.title: "三级星光充能催化剂"
-	quest.11B0B93D725ABE43.quest_desc: ["&d寂静装备&f可通过&9&a修理工具包&f&r修复.\\n\\n修复时,将&a修理工具包&f放入合成格,再放入修复所需材料即可”填充”工具包.\\n\\n最后在合成格中将已填充的&a修理工具包&f与待修复工具组合即可完成修复."]
+	quest.11B0B93D725ABE43.quest_desc: ["&d寂静装备&f可通过&9&a修理工具包&f&r修复.\\n\\n将&a修理工具包&f放入工作台,搭配所需修复材料即可充能工具包.\\n\\n最后在工作台将充能后的工具包与待修复工具合成即可完成修复."]
 	quest.11B0B93D725ABE43.quest_subtitle: "无需铁砧"
-	quest.158B24939A269D83.quest_desc: ["&a提示&f 升级件用于提升工具挖掘等级.\\n\\n例如:持有一把&a铁镐&f时,可用1颗钻石制作钻石尖端升级件,安装后即可挖掘黑曜石并获得属性加成."]
-	quest.158B24939A269D83.quest_subtitle: "适用于找不到3颗钻石时"
-	quest.2156C00E30424844.quest_desc: ["&4储罐&r用于向&c&l熔铸厂&r注入液体.\\n\\n主要装载燃料.\\n\\n主要是&c岩浆&r!\\n\\n这似乎是驱动&c&l熔铸厂&r的唯一方式."]
-	quest.2156C00E30424844.title: "&l&c熔铸厂&r &4储罐"
-	quest.222D08F43B995FED.quest_subtitle: "试试能否击凹它"
-	quest.22A0A9C81A5C85A1.quest_subtitle: "将万物紧密相连"
+	quest.158B24939A269D83.quest_desc: ["&a提示&f 升级组件用于提升工具挖掘等级.\\n\\n例如:持&a铁镐&f时,用1颗钻石制作钻石尖端升级件,加载至镐上即可开采黑曜石并获得属性加成."]
+	quest.158B24939A269D83.quest_subtitle: "钻石不足三颗时的解决方案"
+	quest.2156C00E30424844.quest_desc: ["&4储罐&r用于向&c&l熔炼厂&r注入液体.\\n\\n主要装载燃料.\\n\\n主要是&c岩浆&r!\\n\\n这似乎是&c&l熔炼厂&r唯一可用的燃料供给方式."]
+	quest.2156C00E30424844.title: "&l&c熔炼厂&r &4储罐"
+	quest.222D08F43B995FED.quest_subtitle: "试试看能不能打穿这个"
+	quest.22A0A9C81A5C85A1.quest_subtitle: "将一切牢牢固定"
 	quest.262036FE8E87F50A.quest_subtitle: "&a3x3挖掘&f"
-	quest.26F9DB31A835B69C.quest_desc: ["&n熔炉&r:&a检查&r \\n&n熔炉中的液态金属&r:&a检查&r \\n\\n现在怎么取出来？ \\n\\n记得之前那位朋友吗？&c&l熔炉&r &b排放口&r？需要让它认识新朋友——&c&l熔炉&r &7龙头&r. \\n\\n将&c&l熔炉&r &7龙头&r安装在&b排放口&r上,现在可以在下方放置方块来将&7液态金属&r导入... \\n\\n比如&8铸造箱&r,可将约900mB的&7液态金属&r制成完整&7金属块&r. \\n\\n或是&8&a浇铸台&f&r,我们需要用它来制作..."]
+	quest.26F9DB31A835B69C.quest_desc: ["&n熔铸厂&r:&a检查&r \\n&n熔铸厂内的液态金属&r:&a检查&r \\n\\n现在怎么取出来？\\n\\n记得之前那位朋友吗？那个&c&l熔铸厂&r &b排放口&r？我们需要让它认识新朋友——&c&l熔铸厂&r &7龙头&r.\\n\\n将&c&l熔铸厂&r &7龙头&r安装在&b排放口&r上,现在可以在下方放置方块来将&7液态金属&r导入...\\n\\n比如&8铸造成型箱&r,可将约900mB的&7液态金属&r转化为完整&7金属块&r.\\n\\n或是&8&a浇铸台&f&r,我们需要用它来制作..."]
 	quest.26F9DB31A835B69C.title: "铸造物品"
 	quest.29131C3532610ADF.quest_desc: ["这是星光充能器的二级柱顶."]
 	quest.29131C3532610ADF.title: "二级星光充能器柱顶"
 	quest.2BF119DD5D977409.title: "二级星光充能器催化剂"
 	quest.2EB96FF06627FD9A.quest_desc: ["&a拆解回收机&f可将装备分解为原始材料.\\n\\n例如:放入&a钻石靴子&f可回收4颗钻石."]
 	quest.2EB96FF06627FD9A.quest_subtitle: "分解(部分)物品!"
-	quest.2EB96FF06627FD9A.title: "拆解回收机"
+	quest.2EB96FF06627FD9A.title: "物资回收机"
 	quest.3722B43822F80470.quest_desc: ["比剑伤害更高,但攻速较慢."]
 	quest.3722B43822F80470.quest_subtitle: "释放内心武士魂"
-	quest.3930404D5C8B44EB.quest_desc: ["用于制作自定义合金.\\n\\n也是获取&a提尔钢&f的唯一途径!"]
+	quest.3930404D5C8B44EB.quest_desc: ["用于制造自定义合金.\\n\\n这也是获取&a提尔钢&f的唯一途径!"]
 	quest.3930404D5C8B44EB.quest_subtitle: "材料合成器"
 	quest.39B85DB54B1037FE.quest_desc: ["比剑稍快,但伤害较低."]
 	quest.39B85DB54B1037FE.quest_subtitle: "厚重之剑"
 	quest.3AC03D1FA5C341A7.quest_desc: ["&a再结晶器&f可将不同晶体融合成新晶体,用于制作武器、工具和盔甲."]
 	quest.3B560B2ECE331CAF.quest_desc: ["这是星光充能器的三级柱顶."]
 	quest.3B560B2ECE331CAF.title: "三级星光充能器柱顶"
-	quest.3D2C6FF462B17205.quest_desc: ["伤害低,&a攻击速度&f极高.减少目标无敌时间."]
-	quest.3D2C6FF462B17205.quest_subtitle: "突刺连击"
+	quest.3D2C6FF462B17205.quest_desc: ["伤害较低,但&a攻击速度&f极快.可减少目标的无敌时间."]
+	quest.3D2C6FF462B17205.quest_subtitle: "戳刺专精"
 	quest.3F39BEB788175CEF.quest_subtitle: "3x3范围挖掘!"
-	quest.405DCD3E36232EEA.quest_desc: ["伤害低于剑,但攻击距离更长."]
+	quest.405DCD3E36232EEA.quest_desc: ["比剑伤害低,但攻击距离更长."]
 	quest.405DCD3E36232EEA.quest_subtitle: "释放内心斯巴达之魂"
 	quest.427516AA3E8C9442.quest_subtitle: "多功能锄"
-	quest.45899579D9B92D91.quest_desc: ["&a控制器&r是&c&l熔炉&r的核心.\\n\\n每个&c&l熔炉&r至少需要1个才能运作.\\n\\n可通过&c&l熔炉&r查看其图形界面,了解内部液体储量.\\n\\n还可用于存取&c&l熔炉&r中的物品."]
-	quest.45899579D9B92D91.title: "&c&l熔炉&r &a控制器"
+	quest.45899579D9B92D91.quest_desc: ["&a控制器&r是&c&l熔铸厂&r的核心.\\n\\n每个&c&l熔铸厂&r至少需要1个才能运作.\\n\\n可通过&c&l熔铸厂&r控制器查看其图形界面,实时监控&c&l熔铸厂&r内液体储量.\\n\\n还可用于存取&c&l熔铸厂&r内的物品."]
+	quest.45899579D9B92D91.title: "&c&l熔铸厂&r &a控制器"
 	quest.462C1F75A2FB9F02.quest_subtitle: "威利在哪儿？"
 	quest.48D358470A019E7A.title: "一级星光充能器催化剂"
-	quest.52CDB46F6CBF007B.quest_subtitle: "喜欢挖掘吗？"
+	quest.52CDB46F6CBF007B.quest_subtitle: "挖得过瘾吗？"
 	quest.63CAD77A4488F2CE.quest_subtitle: "镐+斧+铲"
-	quest.657B3116A6419420.quest_subtitle: "专属手柄!"
-	quest.67216EC5274F08B9.quest_subtitle: "剪羽者专用"
-	quest.69383DA579901E7E.quest_subtitle: "问你个斧头问题"
-	quest.6A393C7A24899E3E.quest_desc: ["将锭与分级器催化剂放入分级器中可为材料赋予等级.\\n\\n等级越高,材料的属性加成就越好.\\n\\n最高等级为”MAX”."]
-	quest.6A393C7A24899E3E.quest_subtitle: "&a材料&f 测试仪"
-	quest.6B78378BC8036227.title: "一级分级器催化剂"
-	quest.6BBC440BD0AD0E93.quest_desc: ["有人偏爱&9&l&d寂静装备&f&r,有人钟情&7&l匠魂&r.\\n\\n我们决定兼采众长,结合&9&l&d寂静装备&f&r与&c&l高效冶金&r的优势!\\n\\n&c&l高效冶金&r将改变&9&l寂静&r装备的获取方式——不再使用&9蓝图&r,而是需要&8铸模&r与&c&l熔铸炉&r.\\n\\n制作&c&l熔铸炉&r的第一步是准备&c&a耐火黏土块&f&r."]
-	quest.6BBC440BD0AD0E93.title: "&9&l&d寂静装备&f&r与&c&l高效冶金"
-	quest.6BFD7854F078BF16.quest_subtitle: "掌握要领"
-	quest.711826BBCA832EE2.quest_desc: ["所有&8铸模&r的制作原理相同——在&8&a浇铸台&f&r中将&8钢液&r浇注到物品上成型.\\n\\n制作&8钢&r的方法:熔解任意&8钢制&r物品或锭,或者将9份&7铁&r与10份&0煤&r合金化.\\n\\n当&c&l熔铸炉&r处于&6加热&r状态且注入特定比例的&7液态金属&r时,两种金属将融合成新的&7液态合金&r!"]
+	quest.657B3116A6419420.quest_subtitle: "属于你自己的握柄!"
+	quest.67216EC5274F08B9.quest_subtitle: "被剪羽者使用"
+	quest.69383DA579901E7E.quest_subtitle: "让我用斧头问你这个问题"
+	quest.6A393C7A24899E3E.quest_desc: ["将锭放入分级机并使用分级催化剂,可以赋予材料等级.\\n\\n等级越高,材料的属性越好.\\n\\n最高等级为”MAX”."]
+	quest.6A393C7A24899E3E.quest_subtitle: "&a材料&f 测试器"
+	quest.6B78378BC8036227.title: "一级分级催化剂"
+	quest.6BBC440BD0AD0E93.quest_desc: ["有些人喜欢&9&l&d寂静装备&f&r,而有些人喜欢&7&l匠魂&r.\\n\\n我们决定不二选一,而是取两者之长,结合使用&9&l&d寂静装备&f&r和&c&l高效金属加工&r!\\n\\n&c&l高效金属加工&r将改变我们获取&9&l寂静&r物品的方式.不再使用&9蓝图&r,现在我们需要&8铸模&r和&c&l熔炉&r.\\n\\n要开始制作&c&l熔炉&r,先从&c&a耐火黏土块&f&r开始."]
+	quest.6BBC440BD0AD0E93.title: "&9&l&d寂静装备&f&r与&c&l高效金属加工"
+	quest.6BFD7854F078BF16.quest_subtitle: "掌握这个"
+	quest.711826BBCA832EE2.quest_desc: ["所有&8铸模&r都是平等的.换句话说,它们的制作方式相同.\\n\\n通过在&8&a浇铸台&f&r上将&8钢&r浇注到物品上!\\n\\n你问如何制作&8钢&r？只需熔化任何&8钢&r物品或锭.或者你可以将9份&7铁&r与10份&0煤&r合金化.\\n\\n当&c&l熔炉&r被&6加热&r且其中含有正确数量的不同&7液态金属&r时,合金化就会发生.这两种&7液态金属&r会结合成一种&7液态金属&r!"]
 	quest.711826BBCA832EE2.title: "&8铸模"
-	quest.766C80E5D7B7A916.quest_subtitle: "任选其一!"
-	quest.769D5DE66D13B256.quest_desc: ["本任务由&6ATMStaff&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n所有&6ATM&r作品均采用&e保留所有权利&r许可协议,未经&6ATM团队&r明确授权不得用于任何公开整合包.\\n\\n此任务默认隐藏,若可见说明处于编辑模式."]
-	quest.7C3D763CF22D167A.quest_desc: ["&a星祭&f 充能器可为材料附加”星辰充能”附魔.\\n\\n需以充能器为中心搭建可见夜天的结构,仅在夜间积累星光能量.\\n\\n&a充电站&f需置于7x7结构中央,四角设立支柱,每根支柱需配备”星光充能器顶盖”.\\n\\n每个材料还需消耗一份充能催化剂."]
-	quest.7C3D763CF22D167A.quest_subtitle: "材料”附魔”"
-	quest.7C3D763CF22D167A.title: "&d星光充能器"
-	quest.7D690A7D0FF6E328.title: "三级分级器催化剂"
-	quest.7E13007340A818C5.quest_desc: ["此为星光充能器的一级支柱顶盖."]
-	quest.7E13007340A818C5.title: "一级星光充能器支柱顶盖"
+	quest.766C80E5D7B7A916.quest_subtitle: "选一个!"
+	quest.769D5DE66D13B256.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到此内容,说明你正处于编辑模式."]
+	quest.7C3D763CF22D167A.quest_desc: ["&a星祭&f 充电器可以为材料”附魔"]
+	quest.7C3D763CF22D167A.quest_subtitle: "”附魔”材料"
+	quest.7C3D763CF22D167A.title: "&d星辉充电器"
+	quest.7D690A7D0FF6E328.title: "三级分级催化剂"
+	quest.7E13007340A818C5.quest_desc: ["这是星辉充电器的一级柱子顶盖."]
+	quest.7E13007340A818C5.title: "一级星辉充电器柱子顶盖"
 	task.0EF203AF0BA514F7.title: "&a修理工具包&f"
-	task.155D4ED18738E127.title: "熔铸炉储罐"
-	task.2AE89914A34BF3AD.title: "熔铸炉壁"
-	task.54EF988F476C9208.title: "熔铸炉排放口"
-	task.55E0635973A828B0.title: "版权所有"
-	task.6D9DBD885FE4C94C.title: "版权所有"
+	task.155D4ED18738E127.title: "熔炉储罐"
+	task.2AE89914A34BF3AD.title: "熔炉墙壁"
+	task.54EF988F476C9208.title: "熔炉排放口"
+	task.55E0635973A828B0.title: "保留所有权利"
+	task.6D9DBD885FE4C94C.title: "保留所有权利"
 	task.7D9F2C8E7C65B654.title: "&a熔铸炉控制器&f"
 }

@@ -159,7 +159,7 @@
 		{
 			click: "#2E5E129F25707C5D"
 			height: 1.0d
-			hover: ["Sigil of Supremacy"]
+			hover: ["至尊符印"]
 			image: "apotheosis:items/sigils/supremacy"
 			rotation: 0.0d
 			width: 1.0d
@@ -207,32 +207,47 @@
 			]
 			shape: "gear"
 			size: 2.0d
-			tasks: [{
-				id: "67D884FA6DD22065"
-				item: { components: { "ftbfiltersystem:filter": "item(apotheosis:gem)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "67D884FA6DD22065"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "item(apotheosis:gem)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["3BF5B8DE7A1CC4D7"]
 			id: "45647395169978ED"
-			rewards: [{
-				count: 8
-				id: "408C660438AE0D4B"
-				item: {
-					count: 1
-					id: "apotheosis:gem_dust"
+			rewards: [
+				{
+					count: 8
+					id: "408C660438AE0D4B"
+					item: {
+						count: 1
+						id: "apotheosis:gem_dust"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			size: 1.2d
-			tasks: [{
-				id: "2655172BFD49E650"
-				item: { count: 1, id: "apotheosis:gem_dust" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2655172BFD49E650"
+					item: {
+						count: 1
+						id: "apotheosis:gem_dust"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 2.0d
 		}
@@ -261,11 +276,16 @@
 			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "75D9B77957E05997"
-				item: { count: 1, id: "apotheosis:gem_fused_slate" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "75D9B77957E05997"
+					item: {
+						count: 1
+						id: "apotheosis:gem_fused_slate"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 2.0d
 		}
@@ -295,11 +315,16 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				id: "503AF8C9A38E7FBC"
-				item: { count: 1, id: "apotheosis:salvaging_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "503AF8C9A38E7FBC"
+					item: {
+						count: 1
+						id: "apotheosis:salvaging_table"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 5.5d
 		}
@@ -323,11 +348,16 @@
 				}
 			]
 			size: 0.95d
-			tasks: [{
-				id: "713EFE882A8DF739"
-				item: { count: 1, id: "apotheosis:common_material" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "713EFE882A8DF739"
+					item: {
+						count: 1
+						id: "apotheosis:common_material"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 5.0d
 		}
@@ -351,11 +381,16 @@
 				}
 			]
 			size: 0.95d
-			tasks: [{
-				id: "366192B3D26A0B5A"
-				item: { count: 1, id: "apotheosis:uncommon_material" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "366192B3D26A0B5A"
+					item: {
+						count: 1
+						id: "apotheosis:uncommon_material"
+					}
+					type: "item"
+				}
+			]
 			x: -1.5d
 			y: 6.0d
 		}
@@ -379,11 +414,16 @@
 				}
 			]
 			size: 0.95d
-			tasks: [{
-				id: "3CC05E350375C00A"
-				item: { count: 1, id: "apotheosis:rare_material" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3CC05E350375C00A"
+					item: {
+						count: 1
+						id: "apotheosis:rare_material"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 7.125d
 		}
@@ -406,11 +446,16 @@
 				}
 			]
 			size: 0.95d
-			tasks: [{
-				id: "140462D246ACBAFF"
-				item: { count: 1, id: "apotheosis:mythic_material" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "140462D246ACBAFF"
+					item: {
+						count: 1
+						id: "apotheosis:mythic_material"
+					}
+					type: "item"
+				}
+			]
 			x: 1.392857142857153d
 			y: 4.946428571428569d
 		}
@@ -434,99 +479,132 @@
 				}
 			]
 			size: 0.95d
-			tasks: [{
-				id: "2A1FC2E2E0C01055"
-				item: { count: 1, id: "apotheosis:epic_material" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2A1FC2E2E0C01055"
+					item: {
+						count: 1
+						id: "apotheosis:epic_material"
+					}
+					type: "item"
+				}
+			]
 			x: 1.3571428571428612d
 			y: 5.910714285714285d
 		}
 		{
 			dependencies: ["6667638252DB9C74"]
 			id: "24D11ED5F4EEDC48"
-			rewards: [{
-				count: 3
-				id: "1EFFC47E86BAF0FB"
-				item: {
-					count: 1
-					id: "apotheosis:sigil_of_socketing"
+			rewards: [
+				{
+					count: 3
+					id: "1EFFC47E86BAF0FB"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_socketing"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "62B040B3CB6E67D7"
-				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "62B040B3CB6E67D7"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_socketing"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["6667638252DB9C74"]
 			id: "4E9DDDBD8263D0E3"
-			rewards: [{
-				count: 3
-				id: "6DC22F7458B4A2EC"
-				item: {
-					count: 1
-					id: "minecraft:name_tag"
+			rewards: [
+				{
+					count: 3
+					id: "6DC22F7458B4A2EC"
+					item: {
+						count: 1
+						id: "minecraft:name_tag"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "732FFA8937D88CDC"
-				item: { count: 1, id: "apotheosis:sigil_of_unnaming" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "732FFA8937D88CDC"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_unnaming"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["6667638252DB9C74"]
 			id: "7CB03F92F9ECEFFB"
-			rewards: [{
-				count: 4
-				id: "06476980C7E86320"
-				item: {
-					count: 1
-					id: "apotheosis:sigil_of_withdrawal"
+			rewards: [
+				{
+					count: 4
+					id: "06476980C7E86320"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_withdrawal"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "1EECC71985048B2C"
-				item: { count: 1, id: "apotheosis:sigil_of_withdrawal" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1EECC71985048B2C"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_withdrawal"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["6667638252DB9C74"]
 			id: "2002C7EB13626AE7"
-			rewards: [{
-				count: 3
-				id: "0FFC5C1C4FCD346B"
-				item: {
-					count: 1
-					id: "apotheosis:mythic_material"
+			rewards: [
+				{
+					count: 3
+					id: "0FFC5C1C4FCD346B"
+					item: {
+						count: 1
+						id: "apotheosis:mythic_material"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "771A7C97DD1E2A6D"
-				item: { count: 1, id: "apotheosis:sigil_of_enhancement" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "771A7C97DD1E2A6D"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_enhancement"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 3.0d
 		}
@@ -555,11 +633,16 @@
 			]
 			shape: "rsquare"
 			size: 0.9d
-			tasks: [{
-				id: "6A5314ED64C58405"
-				item: { count: 1, id: "apotheosis:sigil_of_rebirth" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6A5314ED64C58405"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_rebirth"
+					}
+					type: "item"
+				}
+			]
 			x: 2.0d
 			y: 3.0d
 		}
@@ -593,11 +676,16 @@
 			]
 			shape: "hexagon"
 			size: 1.2d
-			tasks: [{
-				id: "29718A6DB9A7D9E8"
-				item: { count: 1, id: "apotheosis:simple_reforging_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "29718A6DB9A7D9E8"
+					item: {
+						count: 1
+						id: "apotheosis:simple_reforging_table"
+					}
+					type: "item"
+				}
+			]
 			x: -1.7999999999999998d
 			y: 8.3d
 		}
@@ -634,11 +722,16 @@
 			]
 			shape: "hexagon"
 			size: 1.2d
-			tasks: [{
-				id: "55D268545CC6B992"
-				item: { count: 1, id: "apotheosis:reforging_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "55D268545CC6B992"
+					item: {
+						count: 1
+						id: "apotheosis:reforging_table"
+					}
+					type: "item"
+				}
+			]
 			x: 1.3214285714285836d
 			y: 8.30357142857143d
 		}
@@ -675,11 +768,16 @@
 			]
 			shape: "hexagon"
 			size: 1.2d
-			tasks: [{
-				id: "30628EF8836E341E"
-				item: { count: 1, id: "apotheosis:augmenting_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "30628EF8836E341E"
+					item: {
+						count: 1
+						id: "apotheosis:augmenting_table"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 5.5d
 		}
@@ -706,11 +804,16 @@
 				}
 			]
 			shape: "hexagon"
-			tasks: [{
-				id: "146817D02B4E6F59"
-				item: { count: 1, id: "minecraft:smithing_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "146817D02B4E6F59"
+					item: {
+						count: 1
+						id: "minecraft:smithing_table"
+					}
+					type: "item"
+				}
+			]
 			x: -0.5d
 			y: 3.5d
 		}
@@ -718,11 +821,16 @@
 			dependencies: ["45647395169978ED"]
 			id: "166CE4243896A0CD"
 			shape: "hexagon"
-			tasks: [{
-				id: "5B4B74090A6D2218"
-				item: { count: 1, id: "apotheosis:gem_cutting_table" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5B4B74090A6D2218"
+					item: {
+						count: 1
+						id: "apotheosis:gem_cutting_table"
+					}
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 3.5d
 		}
@@ -749,31 +857,37 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				advancement: "apotheosis:progression/haven"
-				criterion: ""
-				id: "76F3B5C3CB49DDBD"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/haven"
+					criterion: ""
+					id: "76F3B5C3CB49DDBD"
+					type: "advancement"
+				}
+			]
 			x: -2.0d
 			y: 3.5d
 		}
 		{
 			dependencies: ["45647395169978ED"]
 			id: "196312DF0D2E2CB6"
-			rewards: [{
-				id: "0BC721E7CF41B60A"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
+			rewards: [
+				{
+					id: "0BC721E7CF41B60A"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "apotheosis:progression/root"
-				criterion: ""
-				id: "0A3853BD4F62B78E"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/root"
+					criterion: ""
+					id: "0A3853BD4F62B78E"
+					type: "advancement"
+				}
+			]
 			x: -2.0d
 			y: 2.0d
 		}
@@ -800,12 +914,14 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				advancement: "apotheosis:progression/frontier"
-				criterion: ""
-				id: "5CB6CA97E58BCEAA"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/frontier"
+					criterion: ""
+					id: "5CB6CA97E58BCEAA"
+					type: "advancement"
+				}
+			]
 			x: -3.0d
 			y: 3.0d
 		}
@@ -832,12 +948,14 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				advancement: "apotheosis:progression/ascent"
-				criterion: ""
-				id: "2CABD34152BDD4B3"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/ascent"
+					criterion: ""
+					id: "2CABD34152BDD4B3"
+					type: "advancement"
+				}
+			]
 			x: -3.5d
 			y: 2.0d
 		}
@@ -864,12 +982,14 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				advancement: "apotheosis:progression/summit"
-				criterion: ""
-				id: "12514CC5B41CD0EB"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/summit"
+					criterion: ""
+					id: "12514CC5B41CD0EB"
+					type: "advancement"
+				}
+			]
 			x: -3.0d
 			y: 1.0d
 		}
@@ -896,12 +1016,14 @@
 				}
 			]
 			shape: "octagon"
-			tasks: [{
-				advancement: "apotheosis:progression/pinnacle"
-				criterion: ""
-				id: "22DAF9F7495BC1EF"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "apotheosis:progression/pinnacle"
+					criterion: ""
+					id: "22DAF9F7495BC1EF"
+					type: "advancement"
+				}
+			]
 			x: -2.0d
 			y: 0.5d
 		}
@@ -925,11 +1047,16 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [{
-				id: "792E53E6205E05AB"
-				item: { count: 1, id: "apotheosis:sigil_of_malice" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "792E53E6205E05AB"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_malice"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 2.0d
 		}
@@ -961,11 +1088,19 @@
 					xp_levels: 3
 				}
 			]
-			tasks: [{
-				id: "1F073FD0F4A296A3"
-				item: { components: { "ftbfiltersystem:filter": "or(component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/frontier\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/ascent\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/summit\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/pinnacle\"}))item(gateways:gate_pearl)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "1F073FD0F4A296A3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/frontier\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/ascent\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/summit\"})component(fuzzy:{\"gateways:gateway\":\"apotheosis:tiered/pinnacle\"}))item(gateways:gate_pearl)"
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
 			x: -4.0d
 			y: 3.5d
 		}
@@ -1035,12 +1170,20 @@
 					xp_levels: 15
 				}
 			]
-			tasks: [{
-				id: "3CD3B96BCB661E58"
-				item: { components: { "gateways:gateway": "apotheosis:endless_invader" }, count: 1, id: "gateways:gate_pearl" }
-				match_components: "strict"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3CD3B96BCB661E58"
+					item: {
+						components: {
+							"gateways:gateway": "apotheosis:endless_invader"
+						}
+						count: 1
+						id: "gateways:gate_pearl"
+					}
+					match_components: "strict"
+					type: "item"
+				}
+			]
 			x: -5.0d
 			y: 3.0d
 		}
@@ -1107,11 +1250,16 @@
 				}
 			]
 			size: 1.5d
-			tasks: [{
-				id: "2624E09A5B8C1D0D"
-				item: { count: 1, id: "apotheosis:sigil_of_supremacy" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2624E09A5B8C1D0D"
+					item: {
+						count: 1
+						id: "apotheosis:sigil_of_supremacy"
+					}
+					type: "item"
+				}
+			]
 			x: -7.071428571428555d
 			y: 1.7678571428571388d
 		}
@@ -1119,10 +1267,12 @@
 			id: "7080F026A37F1832"
 			invisible: true
 			optional: true
-			tasks: [{
-				id: "31C72EBA091270E7"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "31C72EBA091270E7"
+					type: "checkmark"
+				}
+			]
 			x: 4.0d
 			y: 0.0d
 		}

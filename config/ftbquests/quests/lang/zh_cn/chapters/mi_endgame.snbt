@@ -1,0 +1,13 @@
+{
+	quest.0AE83A6CC21F96D4.quest_desc: ["电解#3127F5奇点&r会产生#DA27F5&aUU物质&f&r,此过程中#3127F5奇点&r&n&a不会被&f消耗."]
+	quest.1E22A0D5F4B2EB0D.quest_subtitle: "用氦气冷冻氩气"
+	quest.27826D74ADC73556.quest_desc: ["在#E3CE54坎塔尔电力高炉&f中将#ED8C61&a铜粉&f&r与#90F0E7氧气&f共同加热可得#E87848&a热退火铜锭&f&r,经#4CBBD9&a真空冷冻机&f&r冷却后获得#E87848&a退火铜锭&f&r,该锭可粉碎为#E87848&a退火铜粉&f&r."]
+	quest.3AB0822F02350DA3.quest_subtitle: "无限&a伤害&f"
+	quest.3B99290BE63F2968.quest_subtitle: "压缩&a碳粉&f"
+	quest.4F780343E3FFA43E.quest_subtitle: "&a结束了&f"
+	quest.53C167AF34694F8F.quest_desc: ["将#40B36A钇&f、#DBA146&a退火铜&f&r、#33CC3A钕&f和#D6D290铱&f粉混合可得#5EDEE0超导粉&f,经#E3CE54坎塔尔电力高炉&f加热后可通过#4CBBD9&a真空冷冻机&f&r冷却."]
+	quest.53C167AF34694F8F.quest_subtitle: "超导传输"
+	quest.54C852CA6E056589.quest_subtitle: "核能电池"
+	quest.732DA855AFF62907.quest_desc: ["离心处理&8煤炭&f可得&7&a碳粉&f&r."]
+	task.121A74E938A0320C.title: "&aUU物质&f"
+}

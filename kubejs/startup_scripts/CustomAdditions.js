@@ -1,7 +1,7 @@
 const $BuiltInRegistries = Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
 
 StartupEvents.registry("item", (allthemods) => {
-  allthemods.create("silent_allthemodium_plate").displayName("Silent Allthemodium Plate").glow(true)
-  allthemods.create("silent_vibranium_plate").displayName("Silent Vibranium Plate").glow(true)
-  allthemods.create("silent_unobtainium_plate").displayName("Silent Unobtainium Plate").glow(true)
+  allthemods.create("silent_allthemodium_plate").displayName("寂静全能矿板").glow(true)
+  allthemods.create("silent_vibranium_plate").displayName("寂静振金板").glow(true)
+  allthemods.create("silent_unobtainium_plate").displayName("寂静难以获取板").glow(true)
 })

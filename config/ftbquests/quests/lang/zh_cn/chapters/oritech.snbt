@@ -1,10 +1,10 @@
 {
-	quest.01C0DC225CB25A0C.quest_subtitle: "猎人附加组件使激光可锁定生物"
-	quest.01C0DC225CB25A0C.title: "伤害性生物"
+	quest.01C0DC225CB25A0C.quest_subtitle: "猎人附加组件使激光可瞄准生物"
+	quest.01C0DC225CB25A0C.title: "伤害生物"
 	quest.02315D55EB638E3C.quest_subtitle: "制造生物质以使用"
 	quest.0C9F9196CA49FF8D.quest_subtitle: "寻找镍矿石开启旅程"
 	quest.0C9F9196CA49FF8D.title: "&d奥瑞科技&f 起源"
-	quest.0EC0F93FA4B4BE49.quest_desc: ["该机器仅能通过&5末影激光&r供能,用于合成高价值物品."]
+	quest.0EC0F93FA4B4BE49.quest_desc: ["该机器仅能通过&5末影激光&r供能,用于制作高价值物品."]
 	quest.0EC0F93FA4B4BE49.quest_subtitle: "终极合成机器"
 	quest.114EACA9B32B32FB.quest_subtitle: "你懂的..."
 	quest.11A4C57600E692EC.quest_subtitle: "提升机器能量容量"
@@ -12,8 +12,8 @@
 	quest.124CD4B8876B81F6.title: "能量存储"
 	quest.161EDD68FF1A7F1B.quest_subtitle: "以岩浆为动力"
 	quest.1630CFBFB562C43B.quest_subtitle: "使用液体燃料发电"
-	quest.175509632CBF8631.quest_desc: ["提升所有粉碎配方产出."]
-	quest.175509632CBF8631.quest_subtitle: "进阶粉碎机"
+	quest.175509632CBF8631.quest_desc: ["提升所有粉碎配方的产出."]
+	quest.175509632CBF8631.quest_subtitle: "高级粉碎机"
 	quest.1831B35A3239B583.quest_subtitle: "同时处理多个配方"
 	quest.1B2BD489D5173B40.quest_subtitle: "多种获取方式"
 	quest.1D9A00C81C2A97F0.quest_subtitle: "效果平平"
@@ -21,26 +21,26 @@
 	quest.1DBF1D4061518B0B.title: "矿石精炼"
 	quest.1F139091C1B4E50B.quest_subtitle: "普通电路"
 	quest.208F759905CF7744.quest_desc: [
-		"无人机端口速度较快,但需要至少&450格&r距离才能运作."
+		"无人机端口速度较快,但需要至少&450格&r距离才能工作."
 		""
 		"使用无人机端口时,放置两个端口,&a潜行右击&r将&5目标指示器&r置于其中一个以存储位置.打开第二个端口的界面并放入&5目标指示器&r."
 		""
-		"当放入&5目标指示器&r的无人机端口有物品时,将发射无人机进行运输."
+		"当放入&5目标指示器&r的无人机端口内有物品时,将发射无人机进行运输."
 	]
-	quest.208F759905CF7744.quest_subtitle: "是的,有无人机"
+	quest.208F759905CF7744.quest_subtitle: "没错,有无人机"
 	quest.24310BEACE75749D.quest_desc: [
 		"附加组件可作为&5&d奥瑞科技&f&r的升级模块使用."
 		""
-		"附加组件需插入类插槽接口,数量取决于所使用的机器核心."
+		"附加组件需插入类插槽接口,可安装数量取决于所使用的机器核心."
 		""
 		""
 		"{image:atm:textures/questpics/oritech/ori-addon-slot.png width:50 height:100 align:left}"
 		""
-		"附加组件还为机器增添额外功能,有时需安装特定组件才能使配方生效"
+		"附加组件还为机器增加额外功能,有时需要安装特定组件才能使配方生效"
 	]
 	quest.24310BEACE75749D.quest_subtitle: "物超所值"
-	quest.290C1416EA2B5DF2.quest_subtitle: "它们略显单调"
-	quest.2A69272FD3C57924.quest_subtitle: "略微优化"
+	quest.290C1416EA2B5DF2.quest_subtitle: "略显枯燥"
+	quest.2A69272FD3C57924.quest_subtitle: "略有提升"
 	quest.310FA9380CB3E0BB.quest_subtitle: "允许向离心机添加流体"
 	quest.334AB2ED426108C7.quest_subtitle: "随你怎么称呼,反正它能研磨"
 	quest.35BC118040E7428F.quest_desc: [
@@ -52,74 +52,74 @@
 		"4. 加速紫水晶生长"
 	]
 	quest.35BC118040E7428F.quest_subtitle: "切勿在猫附近使用"
-	quest.38F4448F9603FE68.quest_subtitle: "距离伟大仅剩两步"
-	quest.3DD27DED791C6A0B.quest_desc: ["使用&5&d奥瑞科技&f&r处理矿石时,需配备&6流体附加组件&r的&a离心机&r与&a粉碎机&r或&6碎片熔炉&r."]
+	quest.38F4448F9603FE68.quest_subtitle: "距离伟大仅两步之遥"
+	quest.3DD27DED791C6A0B.quest_desc: ["使用&5&d奥瑞科技&f&r处理矿石时,需配备&6流体附加组件&r的&a离心机&r与&a粉碎机&r或&6碎片熔炉&r配合使用."]
 	quest.3DD27DED791C6A0B.quest_subtitle: "最大输出"
 	quest.3DD27DED791C6A0B.title: "矿石处理"
-	quest.3EB34CC8A3B0DB3C.quest_subtitle: "不能作为仓鼠饲料使用"
-	quest.418E0A23EC74F320.quest_desc: ["未来事业发展的重要机器."]
-	quest.418E0A23EC74F320.quest_subtitle: "你让我头晕目眩..."
+	quest.3EB34CC8A3B0DB3C.quest_subtitle: "不能作为仓鼠饲料"
+	quest.418E0A23EC74F320.quest_desc: ["这是您未来事业中的重要机器."]
+	quest.418E0A23EC74F320.quest_subtitle: "你让我头晕目眩……"
 	quest.46EFCAE81C09368A.quest_desc: [
-		"机器核心构成&9&d奥瑞科技&f&r的基础.&a右键点击&f带有机器核心的机器以建造它们."
+		"机器核心构成&9&d奥瑞科技&f&r的基础.&a右击&f带有机器核心的机器以建造它们."
 		""
 		"它们不直接影响机器的速度或效率,仅影响修改器的数量."
 	]
 	quest.46EFCAE81C09368A.quest_subtitle: "所有机器都使用机器核心"
 	quest.46EFCAE81C09368A.title: "&a机器核心&f"
-	quest.49D03933633D6A45.quest_subtitle: "它是人工智能"
+	quest.49D03933633D6A45.quest_subtitle: "这是人工智能"
 	quest.4CFA7EE8174E3FD8.quest_subtitle: "提高能量输入速率"
-	quest.4EAD06B0B3AD7D6E.quest_subtitle: "破碎原矿石"
+	quest.4EAD06B0B3AD7D6E.quest_subtitle: "粉碎原矿"
 	quest.4EAD06B0B3AD7D6E.title: "矿团"
-	quest.4ED29ACF4A699E1B.quest_subtitle: "它更优秀"
+	quest.4ED29ACF4A699E1B.quest_subtitle: "它更好"
 	quest.4F89C04CEBF812F9.quest_subtitle: "将宝石熔炼成锭"
-	quest.4F89C04CEBF812F9.title: "金属锭"
-	quest.50243E5CF1B156ED.quest_desc: ["要获得&5钚粉&r,必须在破碎熔炉中破碎&a铀矿石&r以获取&5小型&a钚粉&f&r."]
+	quest.4F89C04CEBF812F9.title: "锭"
+	quest.50243E5CF1B156ED.quest_desc: ["要获得&5钚粉&r,您必须在破碎熔炉中粉碎&a铀矿石&r以获取&5小型&a钚粉&f&r."]
 	quest.50243E5CF1B156ED.quest_subtitle: "从铀到钚"
 	quest.5189D72ED3808DC6.quest_desc: [
-		"&a按住Shift右键点击&r目标指示器对准紫水晶簇,然后&a按住Shift右键点击&r激光器设定目标."
+		"&a按住Shift右击&r您的目标指示器对准紫水晶簇,然后&a按住Shift右击&r激光器以设定目标."
 		""
-		"这些水晶不仅外观精美,还能储存能量,用于制造更复杂的机械."
+		"这些小小的水晶不仅仅好看.它们可以储存能量,并用于制造更复杂的机械."
 	]
 	quest.5189D72ED3808DC6.quest_subtitle: "用激光为紫水晶充能"
-	quest.53880926982968FD.quest_subtitle: "呼唤我的名字"
-	quest.53D5A6F210DF199C.quest_subtitle: "平稳传输10k rf/t能量"
+	quest.53880926982968FD.quest_subtitle: "叫我的名字"
+	quest.53D5A6F210DF199C.quest_subtitle: "平稳传输10k rf/t"
 	quest.53D5A6F210DF199C.title: "能量传输"
-	quest.55DCCC4035B8BB2A.quest_subtitle: "混合下界合金与铂金"
+	quest.55DCCC4035B8BB2A.quest_subtitle: "混合下界合金和铂金"
 	quest.58819CE09A648A43.quest_subtitle: "这些将用于制造大多数机器"
 	quest.58819CE09A648A43.title: "基础建筑组件"
-	quest.5932B5AD48F6AB74.quest_desc: ["使用&5管道助推器&r提升&2&d奥瑞科技&f&r管道的抽取速度."]
-	quest.5932B5AD48F6AB74.quest_subtitle: "使它们更快"
-	quest.5E9AF8BB2C67DCCE.quest_subtitle: "多种液体运输方式"
+	quest.5932B5AD48F6AB74.quest_desc: ["使用带有&5管道助推器&r的电力来提升&2&d奥瑞科技&f&r管道的提取速度."]
+	quest.5932B5AD48F6AB74.quest_subtitle: "让它们更快"
+	quest.5E9AF8BB2C67DCCE.quest_subtitle: "多种运输液体的方式"
 	quest.5E9AF8BB2C67DCCE.title: "液体运输"
 	quest.5F8363EC8F4499B6.quest_subtitle: "制造合金"
-	quest.6134991F25B25B42.quest_desc: ["&l组装机&r不仅允许你制作&a新物品&r,还能提高某些其他物品的产量."]
-	quest.6134991F25B25B42.quest_subtitle: "不仅仅是制作台"
-	quest.6134991F25B25B42.title: "组合物品"
-	quest.6539582429A70EE8.quest_subtitle: "&d奥瑞科技&f可利用本整合包中大多数能源产生的电力"
-	quest.6EBFA16D212A7B22.quest_subtitle: "最优越"
-	quest.6FFD0301AC8C83ED.quest_subtitle: "能耗更低"
-	quest.7032AC2B9066CC39.quest_desc: ["将其置于扩展槽位,你将获得更多空间来放置扩展模块."]
-	quest.7032AC2B9066CC39.quest_subtitle: "更多扩展模块!"
-	quest.7084E47579D62B52.quest_subtitle: "实现更多功能的电路"
-	quest.70FAD4013FA8A14A.quest_subtitle: "提升处理速度"
+	quest.6134991F25B25B42.quest_desc: ["&l组装机&r不仅允许您制作&a新物品&r,还能提高某些其他物品的产量."]
+	quest.6134991F25B25B42.quest_subtitle: "不仅仅是制作器"
+	quest.6134991F25B25B42.title: "将物品组合在一起"
+	quest.6539582429A70EE8.quest_subtitle: "&d奥瑞科技&f可以使用本包中大多数来源产生的电力"
+	quest.6EBFA16D212A7B22.quest_subtitle: "最好"
+	quest.6FFD0301AC8C83ED.quest_subtitle: "使用更少的能量"
+	quest.7032AC2B9066CC39.quest_desc: ["将其放置在附加插槽上,您将获得更多空间来放置您的附加组件."]
+	quest.7032AC2B9066CC39.quest_subtitle: "更多附加组件!"
+	quest.7084E47579D62B52.quest_subtitle: "一个能做更多事情的电路"
+	quest.70FAD4013FA8A14A.quest_subtitle: "提高处理速度"
 	quest.72E7AE66F2A7C4C4.quest_subtitle: "在机器中使用流体"
 	quest.7937DE650CABC1FF.quest_subtitle: "使用熔炉燃料运行"
 	quest.7CBAD1047B087803.quest_desc: [
-		"现在你已获得&e矿簇&r,对离心机使用流体插件可注入&a硫酸&r.当&e矿簇&r与此酸液反应后,你将获得宝石."
+		"现在你有了&e团块&r,对离心机使用流体插件可注入&a硫酸&r进行处理.用这种酸处理&e团块&r后,你将获得宝石."
 		""
-		"或者可使用&9水&r进行反应,但产量较低."
+		"或者,你可以使用&9水&r来获得较低产量."
 		""
 		"&l&o&n注意&r"
 		""
-		"当前部分配方存在异常,会输出矿粉或金属粒."
+		"当前部分配方存在故障,会产出粉尘或粒状物."
 	]
-	quest.7CBAD1047B087803.quest_subtitle: "离心矿簇能获得宝石...？"
+	quest.7CBAD1047B087803.quest_subtitle: "离心团块能获得宝石...？"
 	quest.7CBAD1047B087803.title: "旋转制成宝石"
-	quest.7D2F41DD9774DDA7.title: "物品运输"
+	quest.7D2F41DD9774DDA7.title: "运输物品"
 	task.2687A493F6A78164.title: "宝石"
-	task.3CC9C741B461AD4B.title: "矿簇"
-	task.400E42F53FDE783C.title: "金属锭"
+	task.3CC9C741B461AD4B.title: "团块"
+	task.400E42F53FDE783C.title: "锭"
 	task.6E85FE06F0AA556A.title: "宝石"
-	task.7C454550A8F933AC.title: "能源生产"
+	task.7C454550A8F933AC.title: "发电"
 	task.7C85CBE79E91F28B.title: "插件"
 }

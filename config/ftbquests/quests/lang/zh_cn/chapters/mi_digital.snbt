@@ -1,0 +1,106 @@
+{
+	quest.00C95A190BE2CBF9.quest_desc: ["要获得#994ABA苯乙烯&r,需将#C2C969&a铁粉&f&r与#69C9B6乙苯&r及蒸汽反应.#69C9B6乙苯&r可通过蒸馏#CDCF95蒸汽裂化石脑油&r获得."]
+	quest.00C95A190BE2CBF9.title: "高级蒸馏技术"
+	quest.011B8BD02D80DDD4.quest_desc: ["#6E2D6E&a钨矿石&f&r在世界各地常见,开采可得#A140A1&a粗钨&f&r."]
+	quest.024BD22824C7F53A.quest_desc: ["蒸馏#F0C87D蒸汽裂化石脑油&r可获得#8FD5E3甲苯&r."]
+	quest.09BE81548CD81068.quest_desc: [ ]
+	quest.0B60DA8F65E5DF06.quest_desc: ["可通过多种方式粉碎#A140A1&a粗钨&f&r得到#C452C4&a钨粉&f&r."]
+	quest.0C229BE9B57269EF.quest_desc: ["#EBA844&a坎塔尔合金粉&f&r需在#816DF7&a电力高炉&f&r中熔炼."]
+	quest.0CD36928116E868E.quest_desc: ["#F783F3&a氯乙烯&f&r与#9683F7&a小撮铅粉&f&r或#FEA8FF铬&a小撮粉末&f&r混合可得#F36EF5聚&a氯乙烯&f&r."]
+	quest.0EA327E405EDFF02.quest_desc: ["#9C6C35乙炔&r与#DEAB6D盐酸&r反应生成#F783F3&a氯乙烯&f&r."]
+	quest.1A83615B7E1D3540.quest_desc: ["将&9水&r与燃料放入#45BF56反应堆&r可得#8F49C4氘&r.虽另有他法,但#45BF56反应堆&r效率最高."]
+	quest.226187AA3F1B6DB1.quest_desc: ["混合#D4C35D沙&r、&8燧石&r、#8DF0EE氮气&r与#69C9C7甲苯&r可制成#D66D40&a工业TNT&f&r."]
+	quest.22B8D57337944D9C.quest_desc: ["#DF9DE0&a热钛锭&f&r现可通过#5CD1CF&a真空冷冻机&f&r冷却为可用#F069F0&a钛锭&f&r."]
+	quest.22B8D57337944D9C.title: "#F069F0&a钛锭&f"
+	quest.23DB52ECA259F36D.quest_desc: [
+		"#45BF56反应堆&f&r中的&a重水&f可产生#EB5266氚&r与#C09EDE&a重水蒸汽&f&r."
+		""
+		"#EB5266氚&r用于高级组件,而#C09EDE&a重水蒸汽&f&r可通过#DEAB47&a热交换器&f&r回收为#8C47C9&a重水&f&r."
+	]
+	quest.267A357B28228694.quest_desc: ["#4DB85E&a随机存取存储器&f&r由#A1A1A1&a丁苯橡胶&f&r、#D15EE6氩气&r、&7&a锑粉&f&r、#5ED2E6&a铝粉&f&r及#5D76C2&a硅片&f&r在#5EC7E6&a化学反应器&f&r中制成."]
+	quest.282A23C3E7561796.quest_desc: [
+		"#94C0E3&a处理阵列&f&r是大型多方块结构,可模拟并行运行的机器,最大并行操作数为#94E3A264&r."
+		""
+		"建造此结构需先在控制器GUI中选择要模拟的并行机器数量."
+		""
+		"{image:atm:textures/questpics/modernindustrialization/proc_array_gui.png width:175 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"使用时,将需模拟的机器放入GUI右侧槽位,所需机器数量与并行操作数一致."
+		""
+		"此外,#94C0E3&a处理阵列&f&r通常支持所有升级组件."
+	]
+	quest.2A95F4F998835B43.quest_subtitle: "9个粒 -> &a1锭&f"
+	quest.3003598CE8B1FAAA.quest_subtitle: "更优技术"
+	quest.3003598CE8B1FAAA.title: "高级组件"
+	quest.31CB278B4BA7B25E.quest_desc: ["离心#B5E7F7&a液态空气&f&r可得三种产物:#A5CAD9氧气&r、#78ADC2氮气&r与#DD91ED氩气&r,后者将于近期使用."]
+	quest.31CB278B4BA7B25E.quest_subtitle: "合乎逻辑"
+	quest.31CB278B4BA7B25E.title: "空气离心分离"
+	quest.352A226915809E1B.quest_desc: ["#A57DE3打包机&r现在可将#7DD2E3不锈钢&r、#B37DE3钨&r与#E37DDB&a钛锭&f&r合成全新的#3946E3混合防爆合金锭&r."]
+	quest.35FDC436DE07635F.quest_desc: ["#DB62DE&a聚爆压缩机&f&r利用爆炸能量融合资源,可高效制备#8762DE混合&a抗爆合金锭&f&r及其他多种实用材料."]
+	quest.3601DD545E1D11B4.quest_desc: [
+		"#DD91ED氩气&r与#83729E&a硅粉&f&r、#AAA0BA&a小撮铱粉&f&r反应后可生成#919191&a单晶硅&f&r."
+		""
+		"#AAA0BA铱矿&r生成于主世界."
+	]
+	quest.36D35C35BBC0A555.quest_subtitle: "最高效之选"
+	quest.386ABEB4249D157D.quest_desc: ["单个#919191&a单晶硅&f&r可切割为32片#8FA4B5&a硅片&f&r."]
+	quest.3891F8D4201E6BFD.quest_desc: [
+		"#EBA844&a坎塔尔合金锭&f&r可加工成细导线,进而塑造成电缆,最终制成#EBA844坎塔尔线圈&r."
+		""
+		"#EBA844坎塔尔线圈&r使#816DF7&a电力高炉&f&r能在更高#F76D6D温度&r下运行,解锁更多合成配方."
+		""
+		"需在#816DF7&a电力高炉&f&r的图形界面中更换线圈."
+		""
+		"{image:atm:textures/questpics/modernindustrialization/switch_to_kanthal.png width:150 height:75 align:center}"
+	]
+	quest.39A0BA6E2A72A681.quest_desc: ["混合#99F0F0不锈钢&r、#ADDBDB铝&r与#E9A8F7&a铬粉&f&r可获得#EBA844&a坎塔尔合金粉&f&r."]
+	quest.3A0C8BCE197A448B.quest_desc: ["#827AFF丁苯橡胶&r与#9683F7&a小撮铅粉&f&r或#FEA8FF铬&a小撮粉末&f&r混合可制得#A1A1A1&a丁苯橡胶&f&r."]
+	quest.3ACC27B786CDCF22.quest_desc: ["#3ABEC7&a电力压缩机&f可将#CE5ADB&a小撮钨粉&f&r压制成#AF22BF&a钨粒&f&r."]
+	quest.3B1CDC2DD05CAE80.quest_desc: ["将#F36EF5聚&a氯乙烯&f&r与#6EBAF5&a铂板&f&r、#C4C362&a镉电池&f&r、#F7BB57&a退火铜电缆&f&r及#57BFF7&a数字电路板&f&r组合可制成#EBE56E&a处理单元板&f&r."]
+	quest.3CB05026BC4C5577.quest_desc: ["目前可通过#6F93C7&a电力压缩机&f&r低效加工#3946E3混合防爆合金锭&r制成#986FC7&a抗爆合金板&f&r."]
+	quest.3FE2A649F07DF28D.quest_subtitle: "可粉碎&d极限反应堆&f蓝钚矿获取&a钚粉&f"
+	quest.3FE489E6B1FAC24B.quest_subtitle: "回收乏燃料棒"
+	quest.3FE489E6B1FAC24B.title: "获取钚元素"
+	quest.40F2EDB9384CE782.quest_desc: ["分馏#DBE37F蒸汽裂解&a轻燃油&f&r可产出#9C6C35乙炔&r."]
+	quest.4A06CCE1FE0F333C.quest_desc: ["将#74C3DB&a进气口&f&r置于#46CAF2&a真空冷冻机&f&r内可生成#B5E7F7&a液态空气&f&r."]
+	quest.4A618CA66AD6223D.quest_subtitle: "更高能量输入"
+	quest.4F870252E9FB1A41.quest_desc: ["反应堆可使用&a燃料棒&f供能,此为最基础的合成型号."]
+	quest.50F97171D25CD2EE.quest_desc: ["#6EDDFF涡轮升级组件&r每级提升#FFEB6E512EU/t&r容量."]
+	quest.56A4F5D301BC1E93.quest_desc: ["#6EDDFF涡轮升级组件&r每级提升#FFEB6E64EU/t&r容量."]
+	quest.58F7C11C241DD7A4.quest_desc: [
+		"#6AADD9&a蒸馏塔&f&r是#A3D2F0蒸馏器&r的升级版,其核心优势在于单次输入可产生多重输出."
+		""
+		"建造时需打开#6AADD9&a蒸馏塔&f&r方块的图形界面选择高度.处理#76759E&a原油&f&r需3格高度,具体高度取决于所需输出物数量."
+	]
+	quest.58F7C11C241DD7A4.quest_subtitle: "&a效率&f至关重要"
+	quest.5A4406F89DB802F0.quest_desc: ["#BB95CF苯乙烯&r与#D46C85丁二烯&r反应生成#827AFF丁苯橡胶&r."]
+	quest.5B45AB96953FA61C.title: "&a数字时代&f"
+	quest.633D6361DA680C75.quest_desc: ["将#E6ED98&a轻燃油&f&r与蒸汽混合可获得#DBE37F蒸汽裂解&a轻燃油&f&r."]
+	quest.66E78F599CD50579.quest_desc: [
+		"#49C472&a核反应堆&f&r可用于加工高端资源.我们将用它生产#8F49C4氘&r和#EB5266氚&r."
+		""
+		"此资源清单将助你建造”大型”反应堆.因效率与速度考量,不建议建造更小规格的反应堆."
+		"{@pagebreak}"
+		"高效反应堆的制作细节过于复杂,不便在此详述.但我会提供当前最优的设计方案."
+		""
+		"此为生产#8F49C4氘&r的#49C472大型反应堆&r设计图."
+		"{image:atm:textures/questpics/modernindustrialization/large_reactor.png width:100 height:100 align:center}"
+		""
+		"此为生产#EB5266氚&r的#49C472极限规格反应堆&r设计图."
+		""
+		"{image:atm:textures/questpics/modernindustrialization/largest_reactor.png width:100 height:100 align:center}"
+	]
+	quest.66E78F599CD50579.quest_subtitle: "它们不会爆炸"
+	quest.672B69448F1D458B.quest_desc: ["#FAAD28&a热交换器&f&r是#4D7DFF&d极限反应堆&f&r涡轮爱好者的福音.该设备可产生巨量蒸汽."]
+	quest.672B69448F1D458B.quest_subtitle: "蒸汽轰鸣作响"
+	quest.6A9AE3514B5151C9.quest_desc: ["#CFB951坎塔尔线圈&r可将#C356C4&a粗钛&f&r加工为#DF9DE0&a热钛锭&f&r,该过程需使用#D49B70&a硫化锰溶液&f&r."]
+	quest.6F183B06683D1213.quest_desc: ["#EBA844&a热坎塔尔合金锭&f&r可通过#6DC0F7&a真空冷冻机&f&r进行冷却处理."]
+	quest.6F3974CAAA555FD0.quest_subtitle: "内存管理优化"
+	quest.75619C7174C6703C.quest_desc: ["离心处理&a铀粉&f可获得铀同位素,这些同位素可进一步加工为优质核燃料棒."]
+	quest.75619C7174C6703C.title: "离心处理&a铀粉&f"
+	quest.78EC7D19BE24FE06.quest_subtitle: "该过程安全无爆"
+	quest.7AF6C95816E82861.quest_desc: ["使#8F49C4氘&r与#AABBFA氧气&r进行#5B75D4化学反应&r可获得#9C51DB&a重水&f&r,此类产物可重新注入#45BF56反应堆&r使用."]
+	quest.7C73740F1B515F2C.quest_desc: ["#C452C4&a钨粉&f&r需经超细粉碎处理方可进入后续加工程序."]
+	task.08F68CC089765088.title: "旁路技巧"
+}

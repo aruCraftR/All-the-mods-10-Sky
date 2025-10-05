@@ -1,0 +1,10 @@
+{
+    "item.occultism.ritual_dummy.sm/ritual/honeycomb": "仪式:合成蜂巢",
+    "item.occultism.ritual_dummy.sm/ritual/upgrade_ritual_satchel_t1_to_t2": "仪式:将学徒仪式包升级为工匠级",
+    "ritual.allthemods.ritual/honeycomb.finished": "仪式成功完成:合成蜂巢",
+    "ritual.allthemods.ritual/honeycomb.interrupted": "仪式中断:合成蜂巢",
+    "ritual.allthemods.ritual/honeycomb.started": "开始仪式:合成蜂巢",
+    "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.finished": "仪式成功完成:将学徒仪式包升级为工匠级",
+    "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.interrupted": "仪式中断:将学徒仪式包升级为工匠级",
+    "ritual.allthemods.ritual/upgrade_ritual_satchel_t1_to_t2.started": "开始仪式:将学徒仪式包升级为工匠级"
+}

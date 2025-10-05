@@ -1,25 +1,28 @@
 {
-	quest.104EBBC08B4733F5.quest_desc: ["&d&a模拟室&f&r是HNN的核心设备.\\n\\n通电后,它将根据内部放置的&b&a数据模型&f&r运行模拟.所需电量取决于内置的&a数据模型&f,具体数值可在模型提示栏查看.\\n\\n设备运行时需至少配备一个&9预测矩阵&r.\\n\\n模拟结果将输出至矩阵中,始终会生成某种&e通用预测&r(可用于合成配方),其结果随&a数据模型&f中生物来源不同而变化.\\n\\n模拟成功时将获得基于该模型的&d生物预测&r.使用的&a数据模型&f等阶越高,模拟成功率越大."]
+	quest.104EBBC08B4733F5.quest_desc: ["&d&a模拟室&f&r是HNN的核心设备.\\n\\n通电后,它将根据内部放置的&b&a数据模型&f&r运行模拟程序.所需电量取决于内部&a数据模型&f的类型,可在模型提示框中查看.\\n\\n设备运行时至少需要一枚&9预测矩阵&r.\\n\\n模拟结果将输出至矩阵中,始终会生成某种&e通用预测&r(可用于多种合成配方).结果会根据&a数据模型&f中生物的起源维度产生差异.\\n\\n模拟成功时,将获得基于该模型的&d生物预测&r.使用的&a数据模型&f等&a级&f越高,模拟成功率就越高."]
 	quest.104EBBC08B4733F5.title: "&a模拟终结"
-	quest.10E8BC20D406D9FB.quest_subtitle: "生产各类下界材料"
-	quest.12AE2856444996F6.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n所有&6AllTheMods&r作品均采用&e版权所有&r许可,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本说明,表明您正处于编辑模式."]
-	quest.14B3542ECB59869C.quest_desc: ["&5&a战利品制造器&f&r是通过生物预测获取丰厚战利品的设备.\\n\\n通电并输入成功的生物预测后,您可选择从该生物的&a数据模型&f中获取特定物品.设备会记忆您的选择以实现自动化生产.\\n\\n生物预测示例:\\n\\n- &d&a末影龙&f&r产出&d&a龙蛋&f\\n - &2僵尸&r产出铁锭\\n - &0凋灵&r产出&5&a下界之星&f"]
+	quest.10E8BC20D406D9FB.quest_subtitle: "生产多种下界材料"
+	quest.12AE2856444996F6.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n所有&6AllTheMods&r作品均采用&e保留所有权利&r许可协议,未经明确授权不得在任何非&6AllTheMods团队&r发布的公开整合包中使用本任务.\\n\\n此任务已被隐藏,若您能看到本提示,说明您正处于编辑模式."]
+	quest.14B3542ECB59869C.quest_desc: ["&5&a战利品制造器&f&r是通过生物预测获取珍稀战利品的设备.\\n\\n通电并放入成功的生物预测后,您可以选择从该生物的&a数据模型&f中获取特定物品.设备会记忆您的选择以实现自动化生产.\\n\\n生物预测示例:\\n\\n- &d&a末影龙&f&r产出&d&a龙蛋&f\\n - &2僵尸&r产出铁锭\\n - &0凋灵&r产出&5&a下界之星&f"]
 	quest.14B3542ECB59869C.title: "生成&d战利品"
-	quest.2559201BCF5D497C.quest_subtitle: "生产主世界各类材料"
-	quest.34CD54347E9821B5.quest_desc: ["制作首个&a数据模型&f后,需将其升级才能发挥作用.\\n\\n&a数据模型&f初始为&7故障级&r,若要进行模拟运算,至少需提升至&a基础级&r!\\n\\n将其放入&a深度学习机&f后,界面将显示升级所需击杀数,该信息也可在模型悬浮提示中查看."]
+	quest.2559201BCF5D497C.quest_subtitle: "生产多种主世界材料"
+	quest.34CD54347E9821B5.quest_desc: ["制作首个&a数据模型&f后,需要通过升级使其发挥作用.\\n\\n&a数据模型&f初始为&7故障级&r,若要进行模拟运算,至少需提升至&a基础级&r!\\n\\n将其放入&a深度学习机&f后,界面将显示升级所需击杀数,该信息也可在数据模型的悬浮提示中查看."]
 	quest.34CD54347E9821B5.title: "升级&a数据模型&f"
 	quest.37EBB8E0D6E5F821.quest_desc: [
 		"&6&d深度怪物学习&f&r(简称HNN)是一款通过模拟生物击杀获取战利品的模组!\\n\\n你需要收集生物”数据"
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
-	quest.37EBB8E0D6E5F821.title: "欢迎来到&9&d深度怪物学习&f&r!"
-	quest.3E3CBDCEAB0FF28F.quest_desc: ["&9&a深度学习机&f&r是HNN的核心组件之一.\\n\\n手持时&a右键点击&f可开启界面,存入&6&a数据模型&f&r并在击杀生物时收集数据.\\n\\n每个学习机可容纳4个&a数据模型&f,只要学习机在物品栏中,就会为内置模型收集数据!\\n\\n注:可携带多个&a深度学习机&f,所有机内&a数据模型&f的击杀数会累计计算."]
+	quest.37EBB8E0D6E5F821.title: "欢迎体验&9&d深度怪物学习&f&r!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["&9&a深度学习机&f&r是HNN的核心组件之一.\\n\\n手持时&a右键点击&f可开启界面,存入&6&a数据模型&f&r即可在击杀生物时收集数据.\\n\\n每个学习机可容纳4个&a数据模型&f,只要学习机在物品栏中,就会为内置模型收集数据!\\n\\n注:可携带多个&a深度学习机&f,所有机内&a数据模型&f的击杀数会累计计算."]
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "&a唤知&f界面"
 	quest.3E3CBDCEAB0FF28F.title: "&a学习生物"
-	quest.58C2ABED43B2EA61.quest_desc: ["&9模型框架&r是制作&a数据模型&f的起点.\\n\\n对特定生物&9&a右键点击&f&r即可开始收集数据,成功时框架会转化为该生物的&a数据模型&f.\\n\\n将新制成的&a数据模型&f放入&a&a深度学习机&f&r,携带学习器击杀对应生物即可收集数据."]
+	quest.54E7ABFDFAA024E5.quest_desc: [ ]
+	quest.54E7ABFDFAA024E5.quest_subtitle: ""
+	quest.54E7ABFDFAA024E5.title: ""
+	quest.58C2ABED43B2EA61.quest_desc: ["&9模型框架&r是制作&a数据模型&f的起点.\\n\\n对特定生物&9&a右键点击&f&r即可收集数据,此时模型框架将转化为该生物的&a数据模型&f.\\n\\n将新制成的&a数据模型&f放入&a&a深度学习机&f&r,携带学习机击杀对应生物即可收集数据."]
 	quest.58C2ABED43B2EA61.quest_subtitle: "”收集数据”"
-	quest.58C2ABED43B2EA61.title: "&9模拟生物"
-	quest.5A23107C363A209E.quest_subtitle: "制作多种末地材料"
+	quest.58C2ABED43B2EA61.title: "&9生物建模"
+	quest.5A23107C363A209E.quest_subtitle: "合成多种末地材料"
 	task.15D2A03410859443.title: "版权所有"
 	task.6B580F95A2E5A465.title: "版权所有"
 	task.7F17E48ACE65C84E.title: "&a数据模型&f"

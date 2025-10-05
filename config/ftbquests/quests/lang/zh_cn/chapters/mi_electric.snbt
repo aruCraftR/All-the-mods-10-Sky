@@ -1,0 +1,113 @@
+{
+	quest.068128395837AF4F.quest_subtitle: "蒸汽一体化方案"
+	quest.08C870DC50CA49FC.quest_desc: [
+		"#5C5C5C&a原油&f&r本身用途有限,但经分馏处理后产出的物质具有广泛用途."
+		""
+		"通过分馏可获得#C4C241&a含硫重燃油&f&r、#CECC5F&a含硫轻燃油&f&r及#D9D782硫化石脑油&r."
+	]
+	quest.08C870DC50CA49FC.title: "#5C5C5C原油&a精炼处理&f"
+	quest.0903F0D8642449B7.quest_desc: ["从&6模拟电路&r升级后,现可处理超过2比特的信息量,这为新型机械开启了全新可能."]
+	quest.0A9ADDE68342B987.quest_desc: [
+		"制备#43DEC2聚乙烯&r需遵循以下化学链式反应:"
+		""
+		"&8原油&r → #D2CD2D&a含硫轻燃油&f&r → #DBD658&a轻燃油&f&r → #E2DF78蒸汽裂解轻燃油&r → #44D1DB乙烯&r → #43DEC2聚乙烯&r."
+	]
+	quest.0C94D76B87E49FFD.title: "铁材加工"
+	quest.103728F2BAD5AE84.title: "高级元件制造"
+	quest.1351D0594F1E6551.quest_desc: ["这些#55EDA4基础组件&r将引领我们实现加工技术的下一项突破."]
+	quest.1351D0594F1E6551.title: "电路元件"
+	quest.162807D14C173CB4.quest_desc: ["#5599ED离心机&r验证了我们的理论:当物体高速旋转时会有新物质分离而出.它用途广泛,但主要适用于#F2AAE5铬&r和#AD3497独居石&r的加工."]
+	quest.162807D14C173CB4.quest_subtitle: "你让我的世界天旋地转~转啊转~"
+	quest.1745124F83D033B9.title: "基础组件"
+	quest.18C0EF38430C3E67.quest_subtitle: "&a数字时代&f"
+	quest.1A84DF4478D55C41.quest_subtitle: "同蒸汽时代第一阶"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["#4497DB超频模块&r能在配方未运行时保持设备效率,但会锁定该设备专用于此配方."]
+	quest.1E0EF28175A7424F.quest_desc: ["既然已能生产蒸汽,何不将其转化为电力？只需放置#6363DB涡轮机&r,注入&7蒸汽&r即可输出#DBDB63电力&r."]
+	quest.1E0EF28175A7424F.quest_subtitle: "蒸汽→电力"
+	quest.1F21B578FAF4CCAC.quest_subtitle: "同蒸汽时代第一阶"
+	quest.1F3E18129B871C49.quest_subtitle: "同蒸汽时代第一阶"
+	quest.22AD9DF2BCC04575.quest_subtitle: "能量创造"
+	quest.22AD9DF2BCC04575.title: "&a发电装置&f"
+	quest.256C3DBA392B4236.quest_desc: ["电解含锰铬酸性溶液可获得相应金属粉尘,用于后续配方."]
+	quest.256C3DBA392B4236.quest_subtitle: "9份&a小撮粉末&f合成1份粉尘"
+	quest.2EF0C033C540A7B1.title: "红宝石加工"
+	quest.32D585D9F73CD9FD.quest_desc: ["#EDDF55&a电力高炉&f&r可熔炼多种资源,其配方需在结构中配置#B8ED55特定线圈&r."]
+	quest.374C06B3999BB0D3.quest_desc: ["将#C2C78B铁&r、#EDB2EA铬&r、#BEC9A3镍&r与&7锰&r混合可得#ADF0EE不锈钢&a钢粉&f&r."]
+	quest.3A03852E282DAA4D.quest_desc: ["#ED8055电解机&r能瞬间释放足以使材料分解为基础资源的能量."]
+	quest.3B9D9CB589DB2003.quest_desc: [
+		"#71EBB4&n&d现代工业化&f&r机械的运作机制不同于其他模组.所有设备均具备#E5EB71效率倍增器&r,随配方持续生产而提升.#E5EB71效率值&r可加速设备#E5EB71运行速度&r,更换配方时重置."
+		""
+		"建议专机专用进行组件自动化生产,此为本模组核心玩法.升级系统将优化效能,后续章节将详细说明."
+		""
+		"{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"本模组所有设备均接受FE能源,&c16 FE&r可转换为#E1EB591 EU&r电力."
+	]
+	quest.3B9D9CB589DB2003.quest_subtitle: "此物大有裨益"
+	quest.3CE72DAF431269CD.quest_desc: ["#D6AC2F极化器&r可对放入材料进行磁化处理."]
+	quest.401A3FD6A3511870.quest_subtitle: "芝麻开门"
+	quest.401A3FD6A3511870.title: "门电路"
+	quest.401B559649C54C5C.quest_desc: ["混合#92CCF0氢气&r与#519BC9氯气&r可制得#4FB373&a盐酸&f&r,该材料用于加工#F2A0E1&a铬粉&f&r."]
+	quest.408EBED932656006.quest_desc: ["使用掺杂的&7硅&r比基础&7硅&r能获得更高产量."]
+	quest.408EBED932656006.title: "掺杂硅"
+	quest.413F338DB07BA88C.quest_subtitle: "与蒸汽时代相同"
+	quest.4A5A143A79809BB6.quest_desc: [
+		"啊,你终于做到了.欢迎来到电力时代,这才是你冒险的真正开始."
+		""
+		"首先我们需要&a电池合金&f...来制造电池,很震惊对吧,我懂的."
+	]
+	quest.4A5A143A79809BB6.quest_subtitle: "&a电池合金&f"
+	quest.4A5A143A79809BB6.title: "&a电力&f时代"
+	quest.4E7B1B16C7CDA84C.quest_subtitle: "与蒸汽时代相同"
+	quest.532BCAB3FBF91B1D.quest_desc: [
+		"#44DB9C升级组件&r可使机器进入#4467DB超频状态&r,进一步提升机器最大速度."
+		""
+		"机器最多可容纳任意等级升级组件各一组.#CEDB44基础升级组件&r每个可增加#F7F448+2EU/t&r的容量."
+	]
+	quest.548274CC00E67EC4.quest_desc: ["传输电力很简单,只需在#F5B027发电机&r与#3CC1FA机器&r之间连接电缆.低压电缆最多可传输#EEFA3C256 EU/t&r."]
+	quest.548274CC00E67EC4.quest_subtitle: "电缆传输限制"
+	quest.548274CC00E67EC4.title: "低压电缆"
+	quest.54CE9493B63620C4.quest_desc: ["#AC59EB&a柴油发电机&f&r可将多种液体燃料转化为电力.初期最易获取的是&7&a杂酚油&f&r和&8合成油&r."]
+	quest.54CE9493B63620C4.quest_subtitle: "液体燃料→电力"
+	quest.55BB4005BB4CA316.title: "独居石处理"
+	quest.5A62260FB3850092.quest_desc: ["混合&e硫磺&r、#6ACDE6氧气&r与&9水&r可制得#D3D955&a硫酸&f&r,用于处理&7&a锰粉&f&r."]
+	quest.5AA8D2A1F3618615.quest_subtitle: "电力传输"
+	quest.5B50AC47957F0CD7.quest_desc: ["&7石油钻机&r可开采#7A7A7A&a页岩油&f&r与#918686&a原油&f&r."]
+	quest.5B50AC47957F0CD7.quest_subtitle: "鹰啸声"
+	quest.5D404ED40C6C2690.quest_subtitle: "输入更多能源"
+	quest.604C003EE6B1CC6B.quest_subtitle: "与蒸汽时代相同"
+	quest.6256612D46C88C0C.quest_desc: [
+		"#723CFA变压器&r可实现不同电压等级的电力转换."
+		""
+		"#EBC471低压→#DDE548中压&r#723CFA变压器&r:将#EBC471低压&r电力转换为#DDE548中压&r电力,含5个输入口与1个输出口."
+		""
+		"#DDE548中压→#EBC471低压&r#723CFA变压器&r:将#DDE548中压&r电力转换为#EBC471低压&r电力,含1个输入口与5个输出口."
+	]
+	quest.6256612D46C88C0C.quest_subtitle: "”自由是所有智慧生命体的权利”"
+	quest.6256612D46C88C0C.title: "LV-&a中压变压器&f"
+	quest.6647A9652EFDDCDF.quest_desc: ["将#ADF0EE热不锈钢&a锭&f&r放入#56E3DF&a真空冷冻机&f&r冷却,即可获得可用的#ADF0EE不锈钢&a锭&f&r."]
+	quest.66D4256F79D5B30B.quest_subtitle: "与蒸汽时代相同"
+	quest.6A25ED4059E224D2.quest_desc: [
+		"#ED5585蒸馏厂&r用于蒸馏特定流体,以获得更符合使用需求的优质产出物."
+		""
+		"若单一输入对应多种输出,需锁定配方才能获得目标产物.首先点击图形界面中的锁形图标,点击箭头,再在目标配方上点击&7'+'&r图标."
+	]
+	quest.6A25ED4059E224D2.quest_subtitle: "锁定配方"
+	quest.6E7DF4AF86A036EC.title: "页岩&a油处理&f"
+	quest.72FFD9E471242D68.quest_desc: ["不锈钢的冶炼需要比普通熔炉更高的温度.我们必须使用先前建造的&a电力高炉&f."]
+	quest.744E620B7DEBB483.quest_desc: ["#27CFF5&a真空冷冻机&f&r将用于冷却#E6AD1E热锭&r或某些流体,以提高你已生产物品的产出比例."]
+	quest.744E620B7DEBB483.quest_subtitle: "冰爽体验"
+	quest.76660075F254597E.quest_desc: ["#F5B758高级升级&r每次升级增加#EDE02F16 EU/t&r的最大使用量."]
+	quest.7E3B19796870C2B1.quest_desc: ["#9955ED&a化学反应器&f&r将是你未来最有用的机器之一,用于制备多种化学物质."]
+	quest.7EDBE88A2CFAB353.quest_desc: [
+		"#562FD6组装机&r用于制造大量零件和机器,能够自动完成合成工作."
+		"它们还提供了一些你已经使用过的配方中&a更经济实惠&f的变体."
+	]
+	quest.7EDBE88A2CFAB353.quest_subtitle: "你将需要许多"
+	quest.7FE5864E59D7B827.quest_desc: ["#6784EB外壳&f控制可输入机器的能量上限.随着机器升级,你需要更高等级的#6784EB外壳&f以承受更大能量.外壳的&a层数&f也影响可连接的电缆类型."]
+	quest.7FE5864E59D7B827.quest_subtitle: "基础构建单元"
+	task.12433760FD40CB3A.title: "仔细阅读此内容"
+	task.1489DD401D237541.title: "电力系统"
+	task.1FE598387B609AE5.title: "电力传输"
+}

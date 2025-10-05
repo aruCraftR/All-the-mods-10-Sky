@@ -5,35 +5,35 @@
 	quest.0E8647B8EB4AAC41.quest_desc: ["&a被动型生物&f -> 更多&a粉红史莱姆&f.\\n&a敌对性生物&f -> 更多肉类."]
 	quest.0E8647B8EB4AAC41.title: "&a粉红史莱姆&f \\ &a肉汤&f"
 	quest.0EA9E52B67B533DF.quest_desc: ["橡胶熔炼后会变成塑料,这是&d工业先锋&f模组的主要资源."]
-	quest.0EC2053B191C55C6.quest_desc: ["从原木中提取乳胶,供电时运行速度更快.\\n\\n请查阅JEI了解可用的原木类型及乳胶产量.金合欢木为最佳选择."]
-	quest.0FAAE744E156D8EF.quest_desc: ["&b&a菌丝网络产能反应堆&f&r由所有菌丝发电机在反应块附近同步工作构成,总输出功率为&a25MFE/t&r.\\n\\n虽然听起来很美好,但你需要实现自动化才能运转——了解每个菌丝发电机的消耗需求并实现自动化,部分流程简单,但有些则不然...&o比如祛魔菌丝发电机&r.\\n\\n完成全自动化后,你还可以建造更多反应堆."]
+	quest.0EC2053B191C55C6.quest_desc: ["从原木中提取乳胶,供电时运行速度更快.\\n\\n请查看JEI了解可用的原木类型及乳胶产量.金合欢木为最佳选择."]
+	quest.0FAAE744E156D8EF.quest_desc: ["&b&a菌丝网络产能反应堆&f&r由所有菌丝发电机在反应块附近同步运行构成,总输出功率为&a25MFE/t&r.\\n\\n虽然听起来很美好,但需要实现自动化运作——了解各菌丝发电机的消耗需求并进行自动化处理,部分设备简单易操作,但有些则较复杂...&o比如祛魔菌丝发电机&r.\\n\\n完成全自动化后,你还可以建造更多反应堆."]
 	quest.0FAAE744E156D8EF.quest_subtitle: "&a菌丝网络产能反应堆&f, huh?"
 	quest.1823CC81D613892B.quest_desc: [
 		"&a被动型生物&f -> More &a粉红史莱姆&f"
 		"&a敌对性生物&f -> 更多肉类"
 	]
-	quest.1BA3D15FFE7DBE59.quest_desc: ["在&b&d工业先锋&f&r中,&f乳胶&r是核心资源之一,用于制作机器必备的&a机器框架&f及升级件.\\n\\n获取乳胶很简单:&a&a流体提取器&f&r从&6原木&r中提取(金合欢木产出最高).\\n\\n------------------------\\n\\n塑料制作流程:通过熔炼&a干橡胶&f获得——干橡胶由&a&a胶乳加工机&f&r将乳胶转化而成.\\n\\n&b基本流程:乳胶 -> &a干橡胶&f -> 塑料."]
+	quest.1BA3D15FFE7DBE59.quest_desc: ["在&b&d工业先锋&f&r中,&f乳胶&r是核心资源之一,用于制作制造机器和升级件所需的&a机器框架&f.\\n\\n获取乳胶很简单:&a&a流体提取器&f&r可从&6原木&r中提取(金合欢木产出最高).\\n\\n------------------------\\n\\n关于塑料制作:通过熔炼&a干橡胶&f获得——干橡胶由&a&a胶乳加工机&f&r将乳胶转化而成.\\n\\n&b基本流程:乳胶 -> &a干橡胶&f -> 塑料."]
 	quest.1BA3D15FFE7DBE59.quest_subtitle: "乳胶和塑料？嗯？"
 	quest.1BA3D15FFE7DBE59.title: "乳胶和塑料？嗯？"
-	quest.2CCFEE98FE3B2E97.quest_desc: ["这些机器用于自动化方块放置/破坏,在自动化处理乳胶时尤其有用."]
+	quest.2CCFEE98FE3B2E97.quest_desc: ["这些机器用于自动化放置/破坏方块,在自动化处理乳胶时尤其有用."]
 	quest.2CCFEE98FE3B2E97.title: "方块"
-	quest.2F69010E1FA2787D.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,适用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确授权,此任务不得用于&6AllTheMods团队&r未发布的任何公开整合包.\\n\\n此任务已被故意隐藏,若您能看到此内容,说明您正处于编辑模式."]
-	quest.3027584AA6138E6D.title: "传送带输入 \\ 输出"
+	quest.2F69010E1FA2787D.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可协议,未经&6AllTheMods团队&r明确许可,不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务已被故意隐藏,若您能看到此说明,说明您正处于编辑模式."]
+	quest.3027584AA6138E6D.title: "传送带插入 \\ 提取"
 	quest.321FA7348E532F4E.title: "乳胶"
 	quest.33532408B21A5378.quest_desc: ["&a木质燃料发电机&f可通过燃烧煤炭等可燃燃料产生少量FE能量."]
 	quest.339DF320DDCAD98B.title: "物品 \\ &a流体传输&f"
 	quest.3514E9C1A8C7400C.quest_subtitle: "等级:&b2"
 	quest.3514E9C1A8C7400C.title: "&b简易型 &a机器框架&f"
 	quest.3CB7884B7B32CF00.quest_desc: [
-		"获取首批&b&a以太气体&f&r可能有些令人紧张.\\n\\n&b&a以太气体&f&r需要通过&a流体钻&f配合&5&a紫色透镜&f&r钻探凋灵获得."
+		"获取首份&b&a以太气体&f&r可能有些令人紧张.\\n\\n&b&a以太气体&f&r需要通过&5&a紫色透镜&f&r配合&a流体钻&f开采凋灵获得."
 		""
 		"但无需担心凋灵,&d工业先锋&f有专门设备协助此任务.&4&a冷凝室&f&r可冻结其上方3x3区域内所有实体,包括凋灵."
 		""
-		"&c希望您不会耗尽电力,否则... 但愿您已做好迎战&0凋灵&c的准备."
+		"&c希望您的能源不会耗尽,否则...祝您准备好迎战&0凋灵&c."
 	]
 	quest.3CB7884B7B32CF00.quest_subtitle: "&a以太气体&f？嗯？"
-	quest.3E6706BC4C318A40.quest_desc: ["&a污水收集器&f用于制造灌溉用的污水肥料."]
-	quest.3E6706BC4C318A40.title: "下水道"
+	quest.3E6706BC4C318A40.quest_desc: ["&a污水收集器&f用于制造污水,进而生产肥料."]
+	quest.3E6706BC4C318A40.title: "污水"
 	quest.418E57E34FFC19E1.quest_desc: ["建议:使用某种防凋灵玻璃."]
 	quest.418E57E34FFC19E1.quest_subtitle: "&a虚空矿工&f"
 	quest.418E57E34FFC19E1.title: "&a镭射钻&f"
@@ -42,22 +42,22 @@
 	quest.485AFAE5BBEF2FC7.title: "动物"
 	quest.4C366515E3CCB0B2.quest_desc: ["管道输送的肉块,美味."]
 	quest.4DB5DD6E20619B4D.quest_desc: ["用于提升机器性能."]
-	quest.540B857F043C24D5.quest_desc: ["&a生物反应器&f利用&a生物燃油发电机&f生产的生物燃料产生FE能量."]
+	quest.540B857F043C24D5.quest_desc: ["&a生物反应器&f使用&a生物燃油发电机&f生产的生物燃料来产生FE能量."]
 	quest.540B857F043C24D5.title: "生物能源"
-	quest.55820773BDD5319D.quest_desc: ["&b&d工业先锋&f&r(简称IF)是添加多种用途工业机器的科技模组.\\n\\n起始需合成&a基础型 &a机器框架&f&r."]
+	quest.55820773BDD5319D.quest_desc: ["&b&d工业先锋&f&r(简称IF)是添加多种用途工业机器的科技模组.\\n\\n请先制作&a基础型 &a机器框架&f&r以开始使用."]
 	quest.55820773BDD5319D.quest_subtitle: "等级:&a1"
 	quest.55820773BDD5319D.title: "&d工业先锋&f"
-	quest.57C4A0BAE739E903.quest_desc: ["&a化学溶解室&f用于合成高级机器.\\n\\n需注入特定流体并放入合成材料,请查阅JEI."]
-	quest.57C4A0BAE739E903.quest_subtitle: "&a工艺&f合成台？"
+	quest.57C4A0BAE739E903.quest_desc: ["&a化学溶解室&f用于制作高级机器.\\n\\n需根据制作物品放入特定流体及材料,请查阅JEI."]
+	quest.57C4A0BAE739E903.quest_subtitle: "&a工艺&f制作台？"
 	quest.5FE631066CAB7397.quest_desc: ["用于便捷捕获与运输生物."]
-	quest.690CFF61CE787D43.quest_desc: ["塑料是&b&d工业先锋&f&r核心资源,现可制造多种实用机械!"]
+	quest.690CFF61CE787D43.quest_desc: ["塑料是&b&d工业先锋&f&r的核心资源,现在您可使用某些非常实用的机器了!"]
 	quest.6C001E18093FC037.title: "植物"
 	quest.6FF04DD735346BED.quest_desc: ["将乳胶转化为&a干橡胶&f."]
 	quest.7B4AF35313D7D779.quest_subtitle: "等级:&64"
 	quest.7B4AF35313D7D779.title: "&6至尊级 &a机器框架&f"
 	quest.7E39FB9F3E973009.title: "&a以太气体&f"
 	task.1F1A69738DE70DB6.title: "The &a菌丝网络产能反应堆&f"
-	task.335D80E83360A7DB.title: "理解&a以太气体&f"
+	task.335D80E83360A7DB.title: "理解 &a以太气体&f"
 	task.38E166AC8F55D42E.title: "升级系统"
 	task.391AB5CA0E5C35FD.title: "理解乳胶与塑料"
 	task.6B17A0D9906E8C90.title: "版权所有"
