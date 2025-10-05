@@ -28,16 +28,14 @@ ServerEvents.recipes((allthemods) => {
     "exdeorum:mechanical_hammer",
     /georenouveau:.*_dowsing_rod/,
     "actuallyadditions:crafter_on_a_stick",
-    "mysticalagriculture:compressed_iron_seeds",
-    "mysticalagriculture:draconium_seeds",
     "allthemodium:teleport_pad",
     "ae2:spatial_anchor",
     "mekanism:dimensional_stabilizer",
     "mekanism:upgrade_anchor",
     "railcraft:world_spike",
     "railcraft:personal_world_spike",
-    "railcraft:world_spike_minecart",
-  ];
+    "railcraft:world_spike_minecart"
+  ]
 
   const seedRemovals = [
     "mysticalagriculture:uraninite_essence",
@@ -184,53 +182,58 @@ ServerEvents.recipes((allthemods) => {
     "mysticalagriculture:spirited_crystal_seeds",
     "mysticalagriculture:uraninite_seeds",
     "mysticalagriculture:nitro_crystal_seeds",
-  ];
+    "mysticalagriculture:compressed_iron_seeds",
+    "mysticalagriculture:compressed_iron_essence",
+    "mysticalagriculture:draconium_seeds",
+    "mysticalagriculture:draconium_essence"
+  ]
 
   removals.forEach((entry) => {
     //        allthemods.remove({ input: entry }); DO NOT ENABLE, THIS WILL BREAK THE PACK
-    allthemods.remove({ output: entry });
-  });
+    allthemods.remove({ output: entry })
+  })
 
   seedRemovals.forEach((entry) => {
-    allthemods.remove({ input: entry });
-    allthemods.remove({ output: entry });
-  });
+    // allthemods.remove({ input: entry }); Removes indy facades, the next line does the same but ignores indy recipes
+    allthemods.remove({ input: entry, not: { mod: "integrateddynamics" } })
+    allthemods.remove({ output: entry })
+  })
 
-  allthemods.remove({ output: /exdeorum:.*_compressed_sieve/ });
-  allthemods.remove({ output: /generatorgalore:.*_upgrade/ });
-  allthemods.remove({ id: `create:crushing/nether_gold_ore` });
-  allthemods.remove({ id: `create:crushing/deepslate_gold_ore` });
-  allthemods.remove({ id: `create:crushing/netherrack` });
-  allthemods.remove({ id: `create:crushing/ochrum_recycling` });
-  allthemods.remove({ id: `mekanism:sulfur_dye` });
-  allthemods.remove({ id: "alltheores:alloysmelter/brass/ingot" });
-  allthemods.remove({ id: "soulshards:vile_dust_from_soul_sand" });
-  allthemods.remove({ id: "oritech:crafting/alloy/steel" });
-  allthemods.remove({ id: "silentgear:graded_mat_test" });
-  allthemods.remove({ id: "silentgear:diamond_shard" });
-  allthemods.remove({ id: "actuallyadditions:tagged_slime_block" });
-  allthemods.remove({ id: `mekanism:compat/ae2/sand_to_silicon` });
-  allthemods.remove({ id: `create:crushing/deepslate_copper_ore` });
-  allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` });
-  allthemods.remove({ id: `create:crushing/deepslate_iron_ore` });
-  allthemods.remove({ id: `create:crushing/tuff_recycling` });
-});
+  allthemods.remove({ output: /exdeorum:.*_compressed_sieve/ })
+  allthemods.remove({ output: /generatorgalore:.*_upgrade/ })
+  allthemods.remove({ id: `create:crushing/nether_gold_ore` })
+  allthemods.remove({ id: `create:crushing/deepslate_gold_ore` })
+  allthemods.remove({ id: `create:crushing/netherrack` })
+  allthemods.remove({ id: `create:crushing/ochrum_recycling` })
+  allthemods.remove({ id: `mekanism:sulfur_dye` })
+  allthemods.remove({ id: "alltheores:alloysmelter/brass/ingot" })
+  allthemods.remove({ id: "soulshards:vile_dust_from_soul_sand" })
+  allthemods.remove({ id: "oritech:crafting/alloy/steel" })
+  allthemods.remove({ id: "silentgear:graded_mat_test" })
+  allthemods.remove({ id: "silentgear:diamond_shard" })
+  allthemods.remove({ id: "actuallyadditions:tagged_slime_block" })
+  allthemods.remove({ id: `mekanism:compat/ae2/sand_to_silicon` })
+  allthemods.remove({ id: `create:crushing/deepslate_copper_ore` })
+  allthemods.remove({ id: `create:crushing/deepslate_zinc_ore` })
+  allthemods.remove({ id: `create:crushing/deepslate_iron_ore` })
+  allthemods.remove({ id: `create:crushing/tuff_recycling` })
+})
 
 ServerEvents.generateData("after_mods", (allthemods) => {
-  [
+  ;[
     "occultism:recipe/miner/eldritch/raw_allthemodium",
     "occultism:recipe/miner/eldritch/raw_vibranium",
-    "occultism:recipe/miner/eldritch/raw_unobtainium",
+    "occultism:recipe/miner/eldritch/raw_unobtainium"
   ].forEach((id) => {
     allthemods.json(`${id}.json`, {
       "neoforge:conditions": [
         {
-          type: "neoforge:false",
-        },
-      ],
-    });
-  });
-});
+          type: "neoforge:false"
+        }
+      ]
+    })
+  })
+})
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

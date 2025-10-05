@@ -1,18 +1,18 @@
 {
-    "conditions": [],
-    "description": {
-        "text": "装备时移除漂浮效果"
-    },
-    "effects": [
-        {
-            "type": "silentgear:cancel_effects",
-            "cleared_effects": [
-                "minecraft:levitation"
-            ]
-        }
-    ],
-    "max_level": 1,
-    "name": {
-        "text": "治愈漂浮"
+  "conditions": [],
+  "description": {
+    "text": "Removes levitation effect when equipped"
+  },
+  "effects": [
+    {
+      "type": "silentgear:cancel_effects",
+      "cleared_effects": [
+        "minecraft:levitation"
+      ]
     }
+  ],
+  "max_level": 1,
+  "name": {
+    "text": "Cure Levitation"
+  }
 }
