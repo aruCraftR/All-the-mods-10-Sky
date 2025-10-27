@@ -43,15 +43,11 @@ ItemEvents.modifyTooltips((allthemods) => {
     Text.of("§4可从流浪商人处获取"),
     Text.of("§4或对橡树树苗使用腐化之魂")
   ])
-  allthemods.add("forbidden_arcanus:magnetized_darkstone_pedestal", [
-    Text.of("对暗石基座使用铁磁混合物")
-  ])
+  allthemods.add("forbidden_arcanus:magnetized_darkstone_pedestal", [Text.of("对暗石基座使用铁磁混合物")])
   allthemods.add("forbidden_arcanus:soul", [Text.of("对灵魂沙使用灵魂提取器")])
   allthemods.add("forbidden_arcanus:enchanted_soul", [Text.of("对普通灵魂使用溅射型奥瑞尔瓶")])
   allthemods.add("forbidden_arcanus:corrupt_soul", [Text.of("击杀生物时小概率生成")])
-  allthemods.add("forbidden_arcanus:blood_test_tube", [
-    Text.of("副手持试管后击杀生物")
-  ])
+  allthemods.add("forbidden_arcanus:blood_test_tube", [Text.of("副手持试管后击杀生物")])
   allthemods.add("forbidden_arcanus:xpetrified_orb", [
     Text.of("仅能通过黑洞获取"),
     Text.of("将暗物质与腐化尘共同投掷于地面生成黑洞"),
