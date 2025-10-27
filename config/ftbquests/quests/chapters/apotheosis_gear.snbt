@@ -159,7 +159,7 @@
 		{
 			click: "#2E5E129F25707C5D"
 			height: 1.0d
-			hover: ["至尊符印"]
+			hover: ["至尊铭文"]
 			image: "apotheosis:items/sigils/supremacy"
 			rotation: 0.0d
 			width: 1.0d

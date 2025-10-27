@@ -1,42 +1,42 @@
 {
-	quest.0D6D45DBA64E612D.quest_desc: ["最大生成延迟是指生物生成可能所需的最长时间.与最小延迟类似,其范围可从20刻到32767刻.每个时钟装置会使刷怪箱速度改变10点.速度以游戏刻表示,20刻等于&a1秒&f.因此最快生成延迟为每次间隔&a1秒&f."]
-	quest.0D6D45DBA64E612D.title: "最大生成延迟"
-	quest.0E02CE4469FCA4C9.quest_desc: ["红石激活功能为您的刷怪箱提供开关控制.无红石信号时将停止生成生物."]
-	quest.0E02CE4469FCA4C9.title: "红石激活"
-	quest.0F89BFD4A3F63A48.quest_desc: ["部分生物(多为怪物)需要特定光照等级才能生成.敌对生物需要较低光照,被动生物需要较高光照.使用&a灵魂灯笼&f后可完全忽略光照要求!但这不会忽略其他生成条件(如家畜需要草地)."]
-	quest.0F89BFD4A3F63A48.title: "忽略光照"
-	quest.167E1474644C9908.quest_desc: ["&a石英&f会使其他物品对刷怪箱产生相反效果.当副手持石英,主手持其他&a刷怪箱修改&f物品时,该物品将执行其原本功能的逆操作.例如石英配&a烈焰棒&f会缩小&a生成范围&f而非扩大；石英配&a恶魂之泪&f则会减少最大实体数量."]
-	quest.167E1474644C9908.title: "反向日"
-	quest.186593EBCE3FE8D8.quest_desc: ["&a生成范围&f指生物可生成的区域面积.范围越大,生成空间越充裕；范围越小,工厂运作成本越低."]
-	quest.186593EBCE3FE8D8.title: "&a生成范围&f"
-	quest.18E0F5A78F696FA3.quest_desc: ["回响碎片可为刷怪箱添加特殊效果,使生成生物的战利品掉落数量倍增."]
-	quest.18E0F5A78F696FA3.title: "回声效应"
-	quest.1AD87CB3226ED224.quest_desc: ["羊毛对刷怪箱的唯一作用是消音.厌倦了愚蠢的刷怪箱噪音？使用任意颜色、纱支数或图案的羊毛即可!"]
-	quest.1AD87CB3226ED224.title: "安静点,你会吵醒怪物们的!"
-	quest.2FE4B7B70D90A455.quest_desc: ["本任务由&6ATM管理员&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n由于所有&6ATM&r套件均采用&e保留所有权利&r许可,未经&6ATM团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本文,说明正处于编辑模式."]
-	quest.30EB438C66324213.quest_desc: ["&a下界之星&f可实现与海晶碎片相同的效果且更高效:玩家无需靠近刷怪箱,只要所在区块已加载即可持续生成生物."]
-	quest.30EB438C66324213.title: "忽略玩家"
-	quest.310969B8FE0A94DE.quest_desc: ["&d神化&f模组为刷怪箱带来革新:恢复使用&a精准采集&f挖掘刷怪箱的功能!还可通过&a右键点击&f下列物品为刷怪箱添加多种新型修改项."]
-	quest.310969B8FE0A94DE.title: "&d神化刷怪笼&f"
-	quest.3E2A411FF5B4B0E7.quest_desc: ["&a激活范围&f指玩家需接近刷怪箱至特定距离方可激活,最近为1格,最远可达48格半径."]
-	quest.3E2A411FF5B4B0E7.title: "&a激活范围&f"
-	quest.40096ED0B04C3EC5.quest_desc: ["这是所有刷怪箱的核心需求.所谓'忽略所有条件'实则涵盖大部分条件:包括光照等级、生成所需方块及生物群系.但空间条件仍需满足,例如史莱姆需要3x3空间生成,玩家邻近要求亦保持不变."]
-	quest.40096ED0B04C3EC5.title: "忽略所有条件"
-	quest.42D7C8CD8E6F5CD7.quest_desc: ["对刷怪箱使用&a紫颂果&f将抽离生成生物的魂魄,仅存空洞躯壳.&a生物&f将丧失所有AI,行为类似盔甲架——无法攻击、传送或自主移动,只会静止待宰,多么刺激!"]
-	quest.42D7C8CD8E6F5CD7.title: "无AI"
-	quest.4D07B0A4A2E77CDA.quest_desc: ["最大实体数指刷怪箱可生成并维持的生物数量上限.若设为6,当6只生物存活时不再生成新生物,直至现有生物死亡或离开.每个&a恶魂之泪&f可增减2个实体数量,上限16个,下限1个."]
-	quest.4D07B0A4A2E77CDA.title: "最大实体数"
-	quest.4F7F8F4ED1CA0550.quest_desc: ["对刷怪笼使用营火会使生成的生物身上着火.非常适合制作美味的牛排."]
-	quest.4F7F8F4ED1CA0550.title: "燃烧"
-	quest.6A497B063CF32A5C.quest_desc: ["发酵蛛眼可增加刷怪笼的最大生成数量.&a生物&f生成种类随机,最大数量由蛛眼数量决定.每只眼睛会使数量增减1,最高可达16."]
-	quest.6A497B063CF32A5C.title: "&a生成数量&f"
-	quest.6F71FD826C29C31A.quest_desc: ["这个机制对老版本回归的玩家可能是新内容.对刷怪笼使用海龟蛋会使其中只生成幼年态生物.仅适用于原版幼年生物,不适用于模组生物."]
-	quest.6F71FD826C29C31A.title: "幼态化"
-	quest.7A9AE63998BB41FF.quest_desc: ["刷怪笼会在最大与最小生成延迟间随机选择数值.最小延迟范围20-32,767,每块糖会使最小延迟增减10."]
-	quest.7A9AE63998BB41FF.title: "最小生成延迟"
-	quest.7F6B66566C211735.quest_desc: ["对刷怪笼使用滴水石会降低生成生物的最大生命值,最高可削减至原生命值的20%"]
-	quest.7F6B66566C211735.title: "生命值"
-	task.39702880D9133E3E.title: "羊毛"
-	task.3B219688DA1CF9C8.title: "版权所有"
-	task.73B56F2139A98F77.title: "版权所有"
+	quest.0D6D45DBA64E612D.quest_desc: ["最大生成延迟是指生物生成可能所需的最长时间.与最小延迟一样,其范围可从20刻到32767刻.每个时钟会以10刻为单位调整生成器速度(游戏刻速率为每秒20刻,即&a1秒&f).因此最快生成间隔为&a1秒&f.\\n&7[The Maximum Spawn Delay is how long it could take to spawn mobs. Just like the Minimum it can be as low as 20 to as high as 32,767. Each Clock modifies the speed of the spawner by 10. The speed is expressed in ticks where 20 ticks equals 1 second. So quickest spawn delay would be 1 second between each.]&f"]
+	quest.0D6D45DBA64E612D.title: "最大生成延迟&7[Maximum Spawn Delay]&f"
+	quest.0E02CE4469FCA4C9.quest_desc: ["红石激活功能为生成器添加开关控制——无红石信号时将停止生成.\\n&7[Redstone Activation gives your spawner an on/off switch. Without Redstone Power it will not spawn.]&f"]
+	quest.0E02CE4469FCA4C9.title: "红石激活&7[Redstone Active]&f"
+	quest.0F89BFD4A3F63A48.quest_desc: ["部分生物(多为怪物)需要特定光照等级才能生成:敌对生物需低光照,友好生物需高光照.使用&a灵魂灯笼&f可完全忽略光照需求(注:仍需满足其他生成条件,如家畜需要草方块).\\n&7[Some mobs (mostly monsters) need certain Light Levels to spawn. Hostile ones needing lower levels and passive needing higher ones. Using a Soul Lantern makes it so you never have to worry about Light Levels as it ignores them! This does not ignore other requirements for spawning like livestock animals needing Grass.]&f"]
+	quest.0F89BFD4A3F63A48.title: "忽略光照&7[Ignore Light]&f"
+	quest.167E1474644C9908.quest_desc: ["&a石英&f会使刷怪箱产生与其它物品相反的效果.当副手持石英,主手持其他&a刷怪箱修改&f物品时,将执行该物品的反向功能.例如石英配&a烈焰棒&f会缩小&a生成范围&f而非扩大；石英配&a恶魂之泪&f则会减少最大实体数量.\\n&7[The Quartz makes whatever the other item does, it does the opposite for the Spawner. With Quartz in your offhand and the other Spawner Modification item in your main it will do the opposite of its role. With Quartz and Blaze Rods instead of increasing Spawn Range it will decrease it. With Quartz and Ghast Tears it'll decrease Max Entities.]&f"]
+	quest.167E1474644C9908.title: "反向日&7[Opposite Day]&f"
+	quest.186593EBCE3FE8D8.quest_desc: ["&a生成范围&f指生物可刷新的区域面积.范围越大,生成空间越充裕；范围越小,工厂运营成本越低.\\n&7[The Spawn Range is the area of where mobs can spawn. The bigger the area, the more room for them to spawn in. The smaller the area the cheaper the factory.]&f"]
+	quest.186593EBCE3FE8D8.title: "&a生成范围&f&7[Spawn Range]&f"
+	quest.18E0F5A78F696FA3.quest_desc: ["回响碎片能为刷怪箱赋予特殊效果:所有生成生物的掉落物数量将会翻倍.\\n&7[Echo shards give a special effect to the spawner. Any mobs spawned will have the loot that they drop multiplied.]&f"]
+	quest.18E0F5A78F696FA3.title: "回响效应&7[Echoing]&f"
+	quest.1AD87CB3226ED224.quest_desc: ["羊毛对刷怪箱的唯一作用就是消音.厌倦了刷怪箱的噪音？任何颜色/支数/款式的羊毛都能让它安静!\\n&7[Wool only does one thing to the spawner and that's to shut it up. Don't like hearing the stupid Spawner noises? Then use Wool! Any color, thread count, or design!]&f"]
+	quest.1AD87CB3226ED224.title: "小声点,你会吵醒怪物们!&7[Quiet down you'll wake up the mobs!]&f"
+	quest.2FE4B7B70D90A455.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n根据&e版权所有&r协议,未经&6AllTheMods团队&r明确授权,禁止在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本文,说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.30EB438C66324213.quest_desc: ["&a下界之星&f能实现海晶碎片的效果且更强大——玩家无需靠近刷怪箱,只要所在区块已加载即可持续生成生物.\\n&7[A Nether Star will do what the Prismarine Shards do but much better. Players no longer need to be near the spawner. As long as its chunk-loaded it will spawn.]&f"]
+	quest.30EB438C66324213.title: "无视玩家距离&7[Ignore Players]&f"
+	quest.310969B8FE0A94DE.quest_desc: ["&d神化&f模组重制了刷怪箱机制:现在可用&a精准采集&f直接开采(感谢&d神化&f!),还能通过&a右键点击&f下列物品为刷怪箱添加各种新功能.\\n&7[Another game change Apotheosis brings is to Spawners. Remember being able to mine Spawners with Silk Touch? Well it's back thanks to Apotheosis! There's also many new Modifications you can add to Spawners by right clicking any of these items.]&f"]
+	quest.310969B8FE0A94DE.title: "&d神化刷怪笼&f&7[Apothic Spawners]&f"
+	quest.3E2A411FF5B4B0E7.quest_desc: ["&a激活范围&f指玩家需靠近刷怪箱的有效距离,最近1格,最远48格半径.\\n&7[Activation Range is how close the Player (You) must be to the Spawner for it to work. The lowest it can be is 1 block away and the highest is a 48 block radius.]&f"]
+	quest.3E2A411FF5B4B0E7.title: "&a激活范围&f&7[Activation Range]&f"
+	quest.40096ED0B04C3EC5.quest_desc: ["刷怪箱必备神器!所谓'无视所有条件'指大多数限制:包括光照、生成方块和生物群系要求.但空间条件仍需满足,比如史莱姆需要3x3空间,玩家也仍需在附近.\\n&7[The must-need for all Spawners. When it says ignores all conditions, it means most. Ignores light levels, blocks needing for spawning, and biomes. Space conditions are still needed though, like slimes needing 3x3 area to spawn, and same goes with players needing to be nearby.]&f"]
+	quest.40096ED0B04C3EC5.title: "无视生成条件&7[Ignore All Conditions]&f"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["对刷怪箱使用&a紫颂果&f会抽离生成生物的灵魂,仅剩空壳躯干.这些&a生物&f将失去所有AI,如同盔甲架般静止——无法攻击、传送或自主移动,只会呆立任人宰割,多么刺激!\\n&7[By using a Chorus Fruit on a Spawner you suck the souls out the mobs that will be spawned, only leaving a hollow husk of what they used to be. The mobs will lose all AI so they will do basically what an armor stand does. They can't hit you, can't teleport, can't move on their own. They sit there ready to be killed, how exciting!]&f"]
+	quest.42D7C8CD8E6F5CD7.title: "禁用AI&7[No AI]&f"
+	quest.4D07B0A4A2E77CDA.quest_desc: ["最大实体数指单个刷怪箱可生成并维持的生物数量上限.若设为6,则现存6个生物时停止生成,直至有生物死亡或离开.每个&a恶魂之泪&f可增减2个实体数,上限16,下限1.\\n&7[Max entities is the amount of mobs that can be spawned by a spawner and kept. If it's only 6 max entities when 6 mobs are already spawned no more will spawned until they're dead or moved. Each Ghast Tear brings it up or down 2 Entities. Max of 16 Entities and Minimum of 1.]&f"]
+	quest.4D07B0A4A2E77CDA.title: "最大实体容量&7[Max Entities]&f"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["对刷怪笼使用营火会使生成的生物着火.非常适合制作美味牛排.\\n&7[A Campfire used on the spawner will have the mobs spawn on fire. Perfect for a nice Steak.]&f"]
+	quest.4F7F8F4ED1CA0550.title: "燃烧&7[Burning]&f"
+	quest.6A497B063CF32A5C.quest_desc: ["发酵蛛眼可增加刷怪笼的最大生成数量.&a生物&f生成数量随机,上限由该数值决定.每使用一个蛛眼会使数量±1,最高不超过16.\\n&7[A Fermented Spider's Eye can be used to increase the amount of mobs that CAN spawn from a spawner. The Mobs spawned is random with a Maximum amount determined by the number. It goes up or down by 1 for each eye to a maximum of 16.]&f"]
+	quest.6A497B063CF32A5C.title: "&a生成数量&f&7[Spawn Count]&f"
+	quest.6F71FD826C29C31A.quest_desc: ["这个机制对从旧版本回归的玩家可能很新鲜.对刷怪笼使用海龟蛋后,只会生成该生物的幼年变种.仅适用于原版可幼年化的生物,模组生物无效.\\n&7[This one might be new to ones returning from earlier versions. By using a turtle egg on a spawner, it will only spawn in baby versions of the mobs in it. This only works with Vanilla baby versions of mobs, not modded.]&f"]
+	quest.6F71FD826C29C31A.title: "稚龄化&7[Youthful]&f"
+	quest.7A9AE63998BB41FF.quest_desc: ["刷怪笼会在最小与最大生成延迟间随机取值.最小延迟可在20至32767间调节,每块糖可使其±10.\\n&7[To determine when the Spawner will spawn it picks a random number between maximum and minimum spawn delay. The Minimum can be as low as 20 to as high as 32,767. Each piece of sugar modifies the min delay up or down by 10.]&f"]
+	quest.7A9AE63998BB41FF.title: "最小生成延迟&7[Minimum Spawn Delay]&f"
+	quest.7F6B66566C211735.quest_desc: ["对刷怪笼使用滴水石锥会降低生成生物的最大生命值,最低可削减至20%\\n&7[Dripstone used on the spawner will reduce the max health of the mob spawned. This can decrease their health to as low as 20%]&f"]
+	quest.7F6B66566C211735.title: "生命值&7[Health]&f"
+	task.39702880D9133E3E.title: "羊毛&7[Wool]&f"
+	task.3B219688DA1CF9C8.title: "版权所有&7[AllRightsReserved]&f"
+	task.73B56F2139A98F77.title: "版权所有&7[AllRightsReserved]&f"
 }

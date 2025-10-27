@@ -1,85 +1,85 @@
 {
-	quest.088CA7B6D4899846.quest_desc: ["#65C2A6打包机&f用于制造#53E67B双锭&f、#53E67B刀片&f和#53E67B电缆&f,此外还有多种用途,但这些是你主要会用到的功能."]
+	quest.088CA7B6D4899846.quest_desc: ["#65C2A6打包机&r用于制造#53E67B双锭&r、#53E67B刀片&r和#53E67B电缆&r,此外还有多种用途,但这些是您主要会用到的功能.\\n&7[The #65C2A6Packer is used to create #53E67BDouble Ingots, #53E67BBlades and #53E67BCables. Along with this there are many other uses for the machine but these will be the main ones for you.]&f"]
 	quest.0DAF5D42694EA8C9.quest_desc: [
-		"#6E6D6D&n&a锻造锤&f&r是你旅程的起点,具有多种用途:从提高矿石的#B53A3A产出率&f到制作未来合成所需的#DBD25A零件&f."
+		"#6E6D6D&n&a锻造锤&f&r是您旅程的起点,具有多种用途:从提升矿石#B53A3A产出率&r到制作未来合成所需的#DBD25A元件&r.\\n&7[#6E6D6DForge Hammer is the beginning of your journey. It has a lot of uses like getting a #B53A3Abetter output out of your ores to making #DBD25Acomponents for future crafts.]&f"
 		""
-		"你制作的&7锤子&f虽非合成必需品,但能提升#DBD25A零件&f的制作产出."
+		"您制作的&7锤子&r虽非合成必需品,但能提升#DBD25A元件&r的产出品质.\\n&7[The Hammer you crafted is not required for a recipe but it will give you a better output on the #DBD25Acomponents you craft.]&f"
 	]
-	quest.0DAF5D42694EA8C9.title: "#949494&a锻造锤&f"
-	quest.1036837C9AD3F301.quest_desc: ["#6E6D6D&a锻造锤&f&r可使你轻松将#FFAC3B铜&r锭或矿石形态粉碎成粉末."]
+	quest.0DAF5D42694EA8C9.title: "#949494&a锻造锤&f&7[#949494Forge Hammer]&f"
+	quest.1036837C9AD3F301.quest_desc: ["#6E6D6D&a锻造锤&f&r可使您轻松将#FFAC3B铜&r锭或矿石形态粉碎成粉末.\\n&7[The #6E6D6DForge Hammer will allow you to easily crush #FFAC3BCopper Ingots or Ore forms into its Dusts.]&f"]
 	quest.12F9705ACB8FB300.quest_desc: [
-		"#EDD653&n&a金属剪切机&f&r能让你完成多种制作,其中最重要的是螺栓."
+		"#EDD653&n&a金属剪切机&f&r能让您完成多种制作,其中最重要的是螺栓.\\n&7[The #EDD653Cutting Machine enables you to do a lot of crafts. The important ones are the Bolts. ]&f"
 		""
-		"#EDD653&n切割机&r需配合#E3993D润滑剂&r使用,该润滑剂可通过#EDD653&n混合器&r获取."
+		"#EDD653&n切割机&r需配合#E3993D润滑剂&r使用,该润滑剂通过#EDD653&n混合器&r获取.\\n&7[#EDD653Cutting machine works with #E3993DLubricant which is obtained by using the #EDD653Mixer.]&f"
 	]
 	quest.12FB3990CA1653A4.quest_desc: [
-		"#DBA15A蒸汽钻机&r将是前期采矿的最佳伙伴,可进行&53x3&r范围采矿,并具备#EEF768可切换的精准采集&r功能."
+		"#DBA15A蒸汽钻机&r将是您游戏初期采矿的最佳伙伴,可进行&53x3&r范围采矿,并具备#EEF768可切换的精准采集&r功能.\\n&7[The #DBA15ASteam Drill will be your best friend for early game mining. It is able to do a 3 by 3 mining area as well as have a #EEF768toggle-able silk touch.]&f"
 		""
-		"通过按下默认设置为&7'Y'&r的快捷键”切换&a3x3挖掘&f"
+		"通过按下默认设置为&7'Y'&r的快捷键”切换&a3x3挖掘&f\\n&7[You can toggle 3 by 3 mining by pressing the keybind \"Toggle 3x3 Mining\" which is default set to 'Y'.]&f"
 		""
-		"#EEF768&a精准采集&f&r功能可通过&7潜行右击&r蒸汽钻机切换"
+		"#EEF768&a精准采集&f&r功能可通过&7潜行右击&r蒸汽钻机切换\\n&7[#EEF768Silk Touch can be toggled by Sneak Right-Clicking the Steam Drill]&f"
 		""
-		"为#DBA15A蒸汽钻机&r补充燃料时,可将钻机悬停在物品栏中的&6燃料&r上并&7右击&r.&9水&r可直接在世界中&7右击&r取用,或随身携带水桶."
+		"为#DBA15A蒸汽钻机&r补充燃料时,需将钻机悬停在物品栏中的&6燃料&r上方并&7右击&r.&9水&r可通过在世界中&7右击&r获取,或随身携带水桶.\\n&7[To fill the #DBA15ASteam Drill, you can hold the drill over a fuel in your inventory and Right-Click. Water can be either Right-Clicked in world or you can carry a water bucket around.]&f"
 	]
-	quest.1C9D3FC67D58AC02.quest_desc: ["#EDD653&n混合器&r可用于融合物品与流体,既能染色物品甚至还能复制它们."]
+	quest.1C9D3FC67D58AC02.quest_desc: ["#EDD653&n混合器&r可用于融合物品与流体,既能染色物品甚至实现复制功能.\\n&7[The #EDD653Mixer will allow us to combine items and fluids. They can be used to dye items or even duplicate them.]&f"]
 	quest.1E4E462928F2A71C.quest_desc: [
-		"&7&n&a焦炉&f&r能将#787777煤&r转化为#696464焦炭&r.#696464焦炭&r的燃料效能是#787777煤&r的&a4倍&f."
+		"&7&n&a焦炉&f&r用于将#787777煤&r转化为#696464焦炭&r.#696464焦炭&r的燃料效能是#787777煤&r的&a4倍&f.\\n&7[The Coke Oven will be used to convert #787777Coal to #696464Coke. #696464Coke is 4 times as effective as a fuel than #787777Coal. ]&f"
 		""
-		"手持#D1D15E扳手&r(主手或副手)可预览多方块结构.手持#B4D95D舱口&r时会显示其可放置的位置."
+		"手持#D1D15E扳手&r(主手或副手)可预览多方块结构.手持#B4D95D舱口&r时会显示其可放置位置.\\n&7[The multiblock can be previewed by holding a #D1D15Ewrench in your off or main hand. Holding #B4D95Dhatches in your hand will tell you the possible positions for them.]&f"
 		""
-		"&7&n&a焦炉&f&r是以砖块为主构成的中空多方块结构."
+		"&7&n&a焦炉&f&r是以砖块为主构成的中空多方块结构.\\n&7[The Coke Oven is a hollow multiblock made up of mostly bricks.]&f"
 	]
 	quest.21A4FE1741E4E78C.quest_desc: [
-		"#65C2A6采石场&r是生成资源的多元结构,需要&a钻头&r和&7蒸汽&r才能运作."
+		"#65C2A6采石场&r是生成资源的多元结构,需配备&a钻头&r和&7蒸汽&r才能运作.\\n&7[The #65C2A6Quarry is a multiblock to generate resources. It requires Drills and Steam to function.]&f"
 		""
-		"每次运转都有消耗&a钻头&r的概率.更高级的&a钻头&r能产出更好的资源."
+		"每次运转都有消耗&a钻头&r的概率.更优质的&a钻头&r能产出更好的资源.\\n&7[Every iteration has a chance of consuming the Drill. Better Drills give better resources.]&f"
 		""
-		"&a开采机&f只能使用#DEA14B铜&r和#DE9531&a青铜钻&f&r,也可用#8A5C1E泥土&r生成石头."
+		"&a开采机&f仅能使用#DEA14B铜&r与#DE9531&a青铜钻&f&r,也可利用#8A5C1D泥土&r生成石头.\\n&7[Steam Quarry can only use #DEA14BCopper and #DE9531Bronze Drills. It can also use #8A5C1EDirt to generate Stones.]&f"
 	]
-	quest.21A4FE1741E4E78C.quest_subtitle: "无限资源"
-	quest.23708582B1064C9D.quest_desc: ["#46DBBB电路&r需要这些基础组件才能运作,提前自动化这些部件对未来发展大有裨益."]
-	quest.23708582B1064C9D.title: "电容与电阻"
-	quest.24285F25F9563B02.quest_desc: ["#467FDB&n&a模拟电路&f&r,啊!你终于完成了.通常别人花的时间只有你的一半,但我不会因此责怪你..."]
-	quest.24285F25F9563B02.quest_subtitle: "电子学基础"
-	quest.253822C64BBBB1EB.quest_desc: ["#6E6D6D&a锻造锤&f&r可使你轻松将#9AD5ED锡&r锭或矿石形态粉碎成粉末."]
-	quest.357DDE894EB512F7.quest_desc: ["#65C2A6线材轧制机&r能施加恰到好处的压力为我们制作#53E67B导线&r.很震撼吧!!我知道..."]
-	quest.3AA4D1B60E4E71A5.quest_desc: ["所有&c多方块结构&r都由其内部的&e舱口&r定义.升级&c多方块结构&r中的这些&e舱口&r将整体提升机器性能."]
-	quest.41877F44CD3D1EDB.quest_desc: ["#E3BC19&a青铜熔炉&f&r功能与普通熔炉相同,主要区别在于以蒸汽为动力且效率翻倍."]
-	quest.458BFDB636F8B495.quest_desc: ["将焦煤粉与铁混合可获得&a生钢粉&f.通过&a蒸汽高炉&f烧炼可获得后续进程所需的&a钢锭&f."]
-	quest.478C1AF86610A8B7.quest_desc: ["#EDD653&n压缩机&r用于制造#53EDAA金属板&r、#53EDAA弧形板&r及#53EDAA环状部件&r."]
-	quest.48F77A0BE1F33B29.quest_desc: ["使用新建造的#65C2A6线材轧机&r,现在可生产#53E67B导线&r与#53E67B细导线&r,这将引领我们进入电气时代."]
-	quest.48F77A0BE1F33B29.title: "导电线缆"
-	quest.4E69C6ABFE467C25.quest_desc: ["#65C2A6&a合金炉&f&r来自#3187C4扩展工业化&r模组.它将#4C4BDE混合机&r与#954BDE熔炉&r的功能合二为一,从而简化操作流程."]
+	quest.21A4FE1741E4E78C.quest_subtitle: "无限资源&7[Infinite Resources]&f"
+	quest.23708582B1064C9D.quest_desc: ["#46DBBB电路&r需要这些基础组件才能运作,提前自动化这些部件对未来发展大有裨益.\\n&7[A #46DBBBCircuit will require some of these basic components to function, automating parts of these will be useful in the future.]&f"]
+	quest.23708582B1064C9D.title: "电容与电阻&7[Capacitance and Resistance]&f"
+	quest.24285F25F9563B02.quest_desc: ["#467FDB&n&a模拟电路&f&r啊!您终于完成了.通常别人只需您一半时间,但我不会因此苛责您...\\n&7[The #467FDBAnalog Circuit, ah! you finally made it. Usually other people took half as much time as you but I won't hold this against you...]&f"]
+	quest.24285F25F9563B02.quest_subtitle: "电子学基础&7[Basics of Electronics]&f"
+	quest.253822C64BBBB1EB.quest_desc: ["#6E6D6D&a锻造锤&f&r可使您轻松将#9AD5ED锡&r锭或矿石形态粉碎成粉末.\\n&7[The #6E6D6DForge Hammer will allow you to easily crush #9AD5EDTin Ingots or Ore forms into its Dusts.]&f"]
+	quest.357DDE894EB512F7.quest_desc: ["#65C2A6线材轧机&r能施加精准压力为我们制作#53E67B导线&r.震惊吧!!我知道...\\n&7[The #65C2A6Wiremill is able to apply just the right amount of force to make #53E67BWires for us. Shocking!! I know...]&f"]
+	quest.3AA4D1B60E4E71A5.quest_desc: ["所有&c多方块结构&r由其中放置的&e舱口&r定义.升级&c多方块结构&r中的&e舱口&r将整体提升机器等级.\\n&7[All multiblocks are defined by the hatches put in them. Upgrading these hatches in the multiblocks will upgrade the machine as a whole.]&f"]
+	quest.41877F44CD3D1EDB.quest_desc: ["#E3BC19&a青铜熔炉&f&r功能与普通熔炉相同,主要区别在于以蒸汽为动力且效率翻倍.\\n&7[The #E3BC19Bronze Furnace acts just like a regular one, only major difference is it runs on steam and is twice as fast.]&f"]
+	quest.458BFDB636F8B495.quest_desc: ["将焦炭粉与铁结合可获得&a生钢粉&f.通过&a蒸汽高炉&f烧炼可得到后续进程所需的&a钢锭&f.\\n&7[Combining the Coke dust with Iron will give Uncooked Steel Dust. Cooking it in the Steam Blast Furnace will yield you Steel Ingots required for future progression.]&f"]
+	quest.478C1AF86610A8B7.quest_desc: ["#EDD653&n压缩机&r用于制造#53EDAA金属板&r、#53EDAA弧形板&r及#53EDAA环状零件&r.\\n&7[The #EDD653Compressor is used to make #53EDAAPlates, #53EDAACurved Plates and #53EDAARings.]&f"]
+	quest.48F77A0BE1F33B29.quest_desc: ["使用新建造的#65C2A6线材轧机&r,现在可制作#53E67B导线&r与#53E67B细导线&r,这将引领我们进入电气时代.\\n&7[Using the newly constructed #65C2A6Wiremill, we can now make #53E67BWires and #53E67BFine Wires which will lead us into electrics.]&f"]
+	quest.48F77A0BE1F33B29.title: "高压导线&7[Dire Wire]&f"
+	quest.4E69C6ABFE467C25.quest_desc: ["#65C2A6&a合金炉&f&r来自#3187C4扩展工业化&r模组.它将#4C4BDE混合机&r与#954BDE熔炉&r的功能合二为一,从而简化操作流程.\\n&7[The #65C2A6Alloy Smelter comes from #3187C4Extended Industrialization. It combines the task of #4C4BDEMixer and #954BDEFurnace into one, hence making the job less tedious.]&f"]
 	quest.55C6BBC996B51838.quest_desc: [
-		"#ED9553&a青铜锅炉&f&r可将&9水&r转化为蒸汽.蒸汽将在&7&n蒸汽时代&r中作为机器运转的燃料."
+		"#ED9553&a青铜锅炉&f&r能将&9水&r转化为蒸汽.蒸汽将在&7&n蒸汽时代&r中作为机器运转的燃料.\\n&7[#ED9553Bronze Boiler converts water into steam. Steam will act as fuel for your machines to work in the Steam Age.]&f"
 		""
-		"使用该机器时只需注入&9水&r并添加任意#ED5353熔炉燃料&r.这将提升机器温度,在最高温度时可同时为4台设备供能."
+		"使用该机器时只需注入&9水&r并添加任意#ED5353熔炉燃料&r.这将提升机器温度,在最高温度下可同时为4台设备供能.\\n&7[To use the machine, simply provide it with water and any #ED5353furnace fuel. This will raise the temperature of the machine, at maximum temperature it will be able to handle 4 machines simultaneously.]&f"
 	]
-	quest.55C6BBC996B51838.quest_subtitle: "沸水转化"
-	quest.589DFDB8FB7211AA.quest_desc: ["为进入#C1DB46&n&a电气时代&f&r而进行的&7橡胶&r生产至关重要.尽早实现自动化将带来超乎想象的效益."]
-	quest.589DFDB8FB7211AA.title: "橡胶与&a电路板&f"
+	quest.55C6BBC996B51838.quest_subtitle: "沸水转化&7[Boiling water]&f"
+	quest.589DFDB8FB7211AA.quest_desc: ["为进入#C1DB46&n&a电气&f时代&r所需的&7橡胶&r生产并不复杂.尽早实现自动化将带来超乎想象的效益.\\n&7[Production of Rubber for your move into #C1DB46The Electric Age is trivial. Automating it at the earliest will take you further than you believe.]&f"]
+	quest.589DFDB8FB7211AA.title: "橡胶与&a电路板&f&7[Rubber and Circuit Board]&f"
 	quest.5CCF92238B23EDC9.quest_desc: [
-		"#A0DE45&n&d现代工业化&f&r模组与#D93D3DIC2&r及#D93D3D&d格雷科技&f&r性质相似,但发展路径截然不同."
+		"#A0DE45&n&d现代工业化&f&r模组与#D93D3DIC2&r及#D93D3D&d格雷科技&f&r性质相似,但发展路线截然不同.\\n&7[#A0DE45Modern Industrialization is a mod which is similar to #D93D3DIC2 and #D93D3DGregTech in its nature but you must progress differently than those 2 mods.]&f"
 		""
-		"通过这些任务,我将指导你制作#43E898无限护甲&r所需的部件."
+		"通过这些任务,我将指导你制作#43E898无限护甲&r所需的部件.\\n&7[Through these quests, I will guide you to making parts required for the #43E898Infinity Armor.]&f"
 	]
-	quest.5CCF92238B23EDC9.quest_subtitle: "阅读指南有益进展"
-	quest.5CCF92238B23EDC9.title: "#A0DE45欢迎来到&d现代工业化&f"
-	quest.5E191081662C2F1A.quest_desc: ["#6E6D6D&a锻造锤&f&r是#A0DE45&d现代工业化&f&r村民的工作站方块.该村民会提供多种实用交易项目."]
+	quest.5CCF92238B23EDC9.quest_subtitle: "阅读有益&7[Reading will help]&f"
+	quest.5CCF92238B23EDC9.title: "#A0DE45欢迎来到&d现代工业化&f&7[#A0DE45Welcome to Modern Industrialization]&f"
+	quest.5E191081662C2F1A.quest_desc: ["#6E6D6D&a锻造锤&f&r是#A0DE45&d现代工业化&f&r村民的工作站方块.该村民会提供多种实用交易.\\n&7[The #6E6D6DForge Hammer acts as the workstation block for the #A0DE45Modern Industrialization villager. This villager will give you a wide variety of useful trades.]&f"]
 	quest.68EAB0248989FC97.quest_desc: [
-		"#EDD653&n&a蒸汽高炉&f&r开启了新的进程维度,这将是未来发展的关键多方块结构."
+		"#EDD653&n&a蒸汽高炉&f&r将开启新的进程阶段,这是未来发展的关键多方块结构.\\n&7[The #EDD653Steam Blast Furnace unlocks new horizons of progression. This will be a key multiblock in your future endeavours.]&f"
 		""
-		"此多方块结构不仅能炼制&7&a钢锭&f&r,还可将#696E60原油&r加工为#494D43合成油&r,后者可用于制造#36472A橡胶&r等材料."
+		"此结构不仅能炼制&7&a钢锭&f&r,还可将#696E60原油&r加工为#494D43合成油&r,后者可用于制造#36472A橡胶&r等材料.\\n&7[Not only will this multiblock allow you to make Steel Ingots but also it allows processing of #696E60Raw Synthetic Oil to #494D43Synthetic Oil which will be used later for #36472ARubber and more things.]&f"
 	]
-	quest.7282DCB1547CEB63.quest_desc: ["#ED9553青铜&r是&7&n蒸汽时代&f&r的基础材料.烧炼青铜粉可获得后续使用的#ED9553&a青铜锭&f&r."]
-	quest.7282DCB1547CEB63.title: "#EDD653青铜时代"
-	quest.7A873E48E38B5C0E.quest_desc: ["钢制机器耗汽量是青铜机器的两倍,但运行速度也相应提升两倍."]
+	quest.7282DCB1547CEB63.quest_desc: ["#ED9553青铜&r将成为&7&n蒸汽时代&r的基础材料.烧炼青铜粉可获得我们后续所需的#ED9553&a青铜锭&f&r.\\n&7[#ED9553Bronze will act as the building block of the Steam Age. Cooking this dust will get you the #ED9553Bronze Ingots we'll further use.]&f"]
+	quest.7282DCB1547CEB63.title: "#EDD653青铜时代&7[#EDD653Bronze]&f"
+	quest.7A873E48E38B5C0E.quest_desc: ["钢制机器的蒸汽消耗量是青铜机器的两倍,但运行速度也会提升两倍.\\n&7[Steel Machines use twice as much steam as the Bronze ones but they also make up for it with the twice the speed increase.]&f"]
 	quest.7D220876E8FF7AED.quest_desc: [
-		"#65C2A6解包机&r用途广泛,既能将#53E67B金属块分解为锭&r,也能实现机器零件的#53E67B回收利用&r."
+		"#65C2A6解包机&r用途广泛,既可将#53E67B金属块分解为锭&r,也能用于#53E67B机器零件回收&r.\\n&7[The #65C2A6Unpacker has a lot of uses from being able to unpack #53E67BBlock into Ingots and more to #53E67Brecycling parts of machines.]&f"
 		""
-		"&o甚至能更便捷地获取&a硅锭&f.&r"
+		"&o甚至能从中更便捷地获取&a硅锭&f.&r\\n&7[You can even get easier Silicon Ingots from it.]&f"
 	]
-	task.198A217D6A4C951C.title: "&a村民交易&f"
-	task.31BE41B971794377.title: "钢铁时代"
-	task.45C5CAC94406DF41.title: "多方块等级系统"
+	task.198A217D6A4C951C.title: "&a村民交易&f&7[Villager Trades]&f"
+	task.31BE41B971794377.title: "钢铁时代&7[Steel Age]&f"
+	task.45C5CAC94406DF41.title: "多方块等级&7[Multiblock Levels]&f"
 }

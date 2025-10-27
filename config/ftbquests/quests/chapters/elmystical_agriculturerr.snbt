@@ -60,7 +60,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["下界岩&a洒水壶&f"]
+			hover: ["下级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/inferium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -70,7 +70,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["谨慎岩&a洒水壶&f"]
+			hover: ["中级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/prudentium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -88,7 +88,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["第三岩&a洒水壶&f"]
+			hover: ["高级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/tertium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -122,7 +122,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["下界岩机器升级件"]
+			hover: ["下级机器升级件"]
 			image: "mysticalagriculture:item/inferium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -132,7 +132,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["谨慎岩机器升级件"]
+			hover: ["中级机器升级件"]
 			image: "mysticalagriculture:item/prudentium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -142,7 +142,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["第三岩机器升级件"]
+			hover: ["高级机器升级件"]
 			image: "mysticalagriculture:item/tertium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -152,7 +152,7 @@
 		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
-			hover: ["帝国岩机器升级件"]
+			hover: ["特级机器升级件"]
 			image: "mysticalagriculture:item/imperium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -162,7 +162,7 @@
 		{
 			click: "#1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["帝国岩&a洒水壶&f"]
+			hover: ["特级&a洒水壶&f"]
 			image: "mysticalagriculture:item/gear/imperium_watering_can"
 			rotation: 0.0d
 			width: 1.5d

@@ -1,262 +1,262 @@
 {
-	quest.00611844AFD5C31E.quest_desc: ["虽然铭刻器和充能器本身支持RF/FE能量,但ME网络的绝大部分设备使用其专属的AE能源系统.\\n\\nRF/FE可通过&aME控制器&f直接按2:1比例转换为AE能源,或通过&b&a能源接收器&f&f实现转换——后者可接入网络任意位置."]
-	quest.00611844AFD5C31E.quest_subtitle: "接入能源"
+	quest.00611844AFD5C31E.quest_desc: ["虽然压印机与充能器原生支持RF/FE能源,但ME网络绝大部分设备使用其专属的AE能源系统.\\n\\nRF/FE可通过&aME控制器&f直接转换,或经由&b&a能源接收器&f&f接入网络任意位置,按2:1比例转换为AE能源.\\n&7[While the Inscriber and Charger will natively accept RF/FE, the vast majority of an ME network uses its own dedicated power system called AE.\\n\\nRF/FE can be converted into the native AE at a ratio of 2:1 RF:AE, either directly through an ME Controller, or through the Energy Acceptor, which can instead be connected to any part of the network.]&f"]
+	quest.00611844AFD5C31E.quest_subtitle: "接入网络&7[Plug in]&f"
 	quest.01F3F0C25BA72BDA.quest_desc: [
-		"除物品与流体存储功能外,AE2还支持将完整&e结构&f存入存储元件,其原理与&d更多空间/压缩空间&f模组相似."
+		"除物品与流体存储外,AE2还提供原生方案将完整&e建筑结构&f存入存储元件,其原理与&d更多空间/压缩空间&f模组类似.\\n&7[Aside from the storage of items and fluids, AE2 also provides a native way of storing entire structures inside of storage cells, not too dissimilarly to the Compact Machines mod. ]&f"
 		""
-		"&b&a空间IO端口&f&f可将&b空间禁锢结构&f内的建筑整体捕获至特制存储元件,并通过红石信号激活该过程."
+		"&b&a空间IO端口&f&f可将&b空间 containment结构&f内的建筑捕获至特制存储元件,需通过红石信号激活.\\n&7[The Spatial IO Port allows structures contained within a Spatial Containment Structure to be captured within a specially-designed storage cell, activated via a redstone signal. ]&f"
 		""
-		"若生物或玩家在空间捕获时处于禁锢结构内,他们也会随空间一起被传送至专属维度.请注意:若您是被传送者,请确保有返回原维度的方法."
+		"若生物或玩家在空间捕获时处于SCS结构内,将被一同传送至目标维度.请确保被捕获时有往返该维度的手段.\\n&7[If a mob or player happens to stand inside of the SCS while the space is being captured, they too will be transported to where the rest of the space goes, i.e. in a dedicated dimension. Just make sure you have a way to get back out and in if you're the one being captured.]&f"
 	]
-	quest.01F3F0C25BA72BDA.title: "空间传输"
-	quest.037488EF1F3581CE.quest_desc: ["默认情况下,无&aME控制器&f的ME网络仅具备800AE内部缓冲电量,每增加一个控制器可额外提供8kAE.对大型网络而言,这可能导致设备用电时出现间歇性断电.\\n\\n&b&a能源元件&f&f可显著提升网络储电能力:普通元件提供200kAE,&b致密型&a能源元件&f&f提供1.6MAE.这些元件可部署于网络任意位置以增强能源缓冲."]
-	quest.03E6FA4DCB71162E.quest_desc: ["&b&a染色器&f&f是可充电工具,能直接对线缆进行染色.它本质上是特殊化的&e存储元件&f——可装载原版染料或特定颜色的&e染色球&f,另备&e雪球&f用于清除颜色使线缆恢复荧石变体.\\n\\n每次染色消耗内部电池100AE能量,单次充电可染色3400段线缆."]
-	quest.03E6FA4DCB71162E.title: "&a染色器&f"
-	quest.083D458032F0325C.quest_desc: ["&bME输出总线&f会定期将白名单过滤器中的物品输送至其朝向的外部容器.与输入总线不同,输出总线必须配置过滤器才能工作."]
-	quest.083D458032F0325C.quest_subtitle: "输出总线"
-	quest.0B218DD73FE8D985.quest_desc: ["若正确完成前置任务,您已将奇点转化为&b量子纠缠奇点对&f.这些奇点用于连接环状设备——&e量子网络桥&f.\\n\\n当两个量子网络桥通过量子纠缠奇点配对并用AE能源(如能源元件)激活后,ME网络即可实现跨长距离甚至跨维度的无线扩展."]
-	quest.0B218DD73FE8D985.title: "量子网络桥"
-	quest.0E809747193ED3A9.quest_desc: ["第三级MEGA存储元件,提供&e16777216&f(16384k)字节的存储空间."]
-	quest.0E809747193ED3A9.quest_subtitle: "四的平方"
-	quest.0E809747193ED3A9.title: "16M存储元件"
-	quest.0F03E75CF79BADD7.quest_desc: ["&aMEGA存储单元&f&f提供定制化的&b批量物品&a存储单元&f&f,每个单元仅能存储&o一种&r物品类型,但可存储该类型物品的&o&l无限&r*数量.在接收物品前需通过&a元件工作台&f预先设置过滤条件.\\n\\n*&o技术上为”长整型最大值"]
-	quest.0F03E75CF79BADD7.quest_subtitle: "批量与切割"
-	quest.0F03E75CF79BADD7.title: "批量物品存储"
-	quest.1348995F64A94396.quest_desc: ["&b合成监控器&f可显示正在合成的整体物品及其剩余待合成数量.\\n\\n基础AE2监控器与MEGA监控器功能完全一致,区别仅在于外观设计."]
-	quest.1348995F64A94396.quest_subtitle: "下载更多显存"
+	quest.01F3F0C25BA72BDA.title: "空间传输&7[Spatial IO]&f"
+	quest.037488EF1F3581CE.quest_desc: ["默认ME网络无&aME控制器&f时仅有800AE缓存,每块控制器可增加8kAE容量.大型网络可能出现间歇断电,需通过&b&a能源元件&f&f扩容——常规元件提供200kAE,&b致密型&f元件提供1.6MAE,可部署于网络任意位置.\\n&7[By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices.\\n\\nThe Energy Cell allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per Dense Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer.]&f"]
+	quest.03E6FA4DCB71162E.quest_desc: ["&b&a染色器&f&f是可充电工具,用于实时染色线缆.其本质是特殊&e存储元件&f,可装载原版染料或&e颜料球&f实现精准配色,使用&e雪球&f清除染色恢复荧石线缆.\\n\\n每次染色消耗100AE能量,单次充电可染色3400段线缆.\\n&7[The Color Applicator is a chargeable tool that allows for in-world dyeing of cables. It functions more or less as a specialised storage cell to be loaded up with either vanilla dyes or paint balls for specific colours, along with snowballs to wash colours off and turn cables back to their Fluix variant.\\n\\nApplying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge.]&f"]
+	quest.03E6FA4DCB71162E.title: "&a染色器&f&7[Color Applicator]&f"
+	quest.083D458032F0325C.quest_desc: ["&bME输出总线&f会定期将白名单物品输送至其朝向的外部容器.与输入总线不同,输出总线必须配置过滤规则方可运作.\\n&7[The ME Export Bus periodically spits items in its whitelist filter out to whatever external storage the bus is facing. Unlike the Import Bus, the Export Bus cannot work without being filtered.]&f"]
+	quest.083D458032F0325C.quest_subtitle: "量子环&7[The O]&f"
+	quest.0B218DD73FE8D985.quest_desc: ["若正确完成前置任务,您已将奇点转化为&b量子纠缠奇点&f.该奇点用于连接&e量子网络桥&f环形装置.\\n\\n当两座量子桥通过纠缠奇点配对并注入AE能源(如能源元件)后,ME网络即可实现跨维度无线拓展.\\n&7[If you did that last quest correctly, you should have turned that singularity into a pair of Quantum Entangled Singularities. These new singularities are used to link together a ring-shaped device known as a Quantum Network Bridge.\\n\\nWhen two of these individual rings have been linked using the Quantum Entangled Singularities and jumpstarted with some AE power (e.g. an energy cell), an ME network can be expanded wirelessly on the other side of the bridge, across either long distances or even dimensions.]&f"]
+	quest.0B218DD73FE8D985.title: "量子网络桥&7[Quantum Network Bridge]&f"
+	quest.0E809747193ED3A9.quest_desc: ["第三级MEGA存储组件,提供&e16777216&f(16384k)字节的存储空间.\\n&7[The third MEGA tier of storage component, providing 16777216 (16384k) bytes of storage.]&f"]
+	quest.0E809747193ED3A9.quest_subtitle: "x4^2&7[x4^2]&f"
+	quest.0E809747193ED3A9.title: "16M存储组件&7[16M Storage Component]&f"
+	quest.0F03E75CF79BADD7.quest_desc: ["&aMEGA存储单元&f&f提供定制的&b批量物品&a存储单元&f&f,每个单元仅能存储&o一种&r物品类型,但可存储&o&l无限量&r*的该物品.在使用前需通过&a元件工作台&f预先设置物品过滤器.\\n\\n*&o技术上为”长整型最大值”.懂的都懂.&r\\n&7[MEGA Cells offers the bespoke Bulk Item Storage Cell, which is limited to no more than one type of item storeable per cell but can store a practically lINFINITE* number of that item type. Before it can accept an item type, it must be filtered in advance using a Cell Workbench.\\n\\n*Technically \"max long\". If you know, you know.]&f"]
+	quest.0F03E75CF79BADD7.quest_subtitle: "批量与切割&7[Bulk and cut]&f"
+	quest.0F03E75CF79BADD7.title: "批量物品存储&7[Bulk Item Storage]&f"
+	quest.1348995F64A94396.quest_desc: ["&b合成监控器&f可显示当前合成物品及其剩余待合成数量.\\n\\n基础AE2监控器与MEGA监控器功能相同,仅外观存在差异.\\n&7[The Crafting Monitor displays the overall item being crafted, along with the remaining quantity of that item still being crafted.\\n\\nBoth the base AE2 monitor and the MEGA monitor function identically, but are provided for aesthetic purposes.]&f"]
+	quest.1348995F64A94396.quest_subtitle: "下载更多显存&7[Download more VRAM]&f"
 	quest.140DE53DC0FCD9F4.quest_desc: [
-		"&b&aME破坏面板&f&f可自动破坏前方方块,并将掉落物直接输送至ME网络."
+		"&b&aME破坏面板&f&f可自动破坏前方方块,并将其掉落物直接送回ME网络.\\n&7[The ME Annihilation Plane can be used to automatically break any blocks in front of it and return anything dropped by the block directly to the ME network. ]&f"
 		""
-		"附加功能:破坏面板可像普通挖掘工具一样附魔,其效果与附魔工具完全一致.例如搭配时运附魔处理矿石方块时尤为高效."
-		"任何附加附魔都会显著增加面板每次破坏方块时的能耗.&e效率&f附魔可降低其他附魔带来的能耗提升,而&e耐久&f附魔则有机会使面板单次操作不消耗能量,效果类似普通工具的耐久附魔."
+		"额外特性:破坏面板可像普通挖掘工具般附魔,其效果与对应附魔工具相同.例如附魔时运后非常适合处理矿石方块.\\n&7[As an added bonus, the Annihilation Plane can be enchanted in the same way as a regular digging tool, affecting block drops in the same way as that enchanted tool would. This makes it ideal for processing ore blocks when enchanted with Fortune, for example. ]&f"
+		"任何附魔都会显著增加面板每次&a破坏&f方块时的能耗.&e效率&f附魔可降低其他附魔带来的能耗,而&e耐久&f附魔则能让面板像普通工具那样概率性不消耗能量.\\n&7[Any added enchantments significantly increase the amount of energy used by the plane every time a block is broken. Enchanting the plane with Efficiency will decrease the overall energy use incurred by all other enchantments, while the Unbreaking enchantment gives the plane the chance to only use any energy sometimes, similarly to Unbreaking on regular tools.]&f"
 	]
-	quest.140DE53DC0FCD9F4.quest_subtitle: "接入网络"
-	quest.15564C11744D6AA0.quest_desc: ["当集齐全套所需&e压印模板&r后,即可开始制作&e处理器&f.这是制造绝大多数ME连接设备的重要合成材料."]
-	quest.15564C11744D6AA0.title: "处理器"
-	quest.16299B9AE87257DC.quest_desc: ["&b无线终端&f功能与普通终端完全相同,但支持无线操作.\\n\\n使用前需将其放入&e无线接入点&r右上角插槽进行&e网络绑定&f.若未绑定网络、超出信号范围或电力不足,终端将无法工作.\\n\\n无线终端可安装&e&a能量卡&f&f升级模块以扩展内置电池容量."]
-	quest.16299B9AE87257DC.quest_subtitle: "这才是核心功能"
-	quest.16299B9AE87257DC.title: "无线终端"
+	quest.140DE53DC0FCD9F4.quest_subtitle: "接入网络&7[GET IN]&f"
+	quest.15564C11744D6AA0.quest_desc: ["集齐全套&e压印模板&r后,即可开始制作&e处理器&f.这是制造绝大多数ME设备的重要合成材料.\\n&7[Once you have obtained a full set of the required Inscriber Presses, it's time to start making some Processors. These are an important crafting ingredient used to make the large majority of ME-connected devices.]&f"]
+	quest.15564C11744D6AA0.title: "处理器&7[Processors]&f"
+	quest.16299B9AE87257DC.quest_desc: ["&b无线终端&f功能与普通终端相同,但无需接线.\\n\\n使用前需将其放入&e无线接入点&r右上角插槽进行&e绑定&f.若未绑定网络、超出范围或电量耗尽,终端将无法工作.\\n\\n可通过&e&a能量卡&f&f升级扩大内置电池容量.\\n&7[The Wireless Terminal functions identically to a regular terminal, but wirelessly.\\n\\nBefore it can be used to access a network, it must first be linked to the network by placing it into the top-right slot of the Wireless Access Point. If it is not linked to a network, or is out of either range or power, the terminal will not function.\\n\\nWireless terminals can also be upgraded with Energy Cards to provide a larger internal battery.]&f"]
+	quest.16299B9AE87257DC.quest_subtitle: "这才是你的目标&7[This is what you're here for]&f"
+	quest.16299B9AE87257DC.title: "无线终端&7[Wireless Terminals]&f"
 	quest.1710B3D05215A71E.quest_desc: [
-		"&bP2P&f(点对点)是AE2中的强大系统,无需中介ME存储即可传输物品、流体等更多内容."
+		"&bP2P&f(点对点)是AE2中的强大系统,无需ME存储中介即可传输物品、流体等.\\n&7[P2P (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage. ]&f"
 		""
-		"手持特定物品右击P2P通道可将其&e调谐&f为传输其他内容的类型,例如通过管道传输物品、通过电缆传输能量、传输红石信号,甚至(默认情况下)直接传输ME连接本身."
+		"用特定物品右键点击P2P通道可将其&e调谐&f为传输其他物质的类型,例如通过管道传输物品、通过电缆传输能量、红石信号,以及(默认情况下)ME网络连接本身.\\n&7[Right-clicking on a P2P tunnel with certain items will attune the tunnel into one capable of transferring something else, such as items through pipes, energy through cables, redstone signals and (by default) even ME connections themselves. ]&f"
 		""
-		"P2P通道必须通过使用&e&a内存卡&f&f相互连接,具体说明将在下一个任务中详述."
+		"P2P通道必须使用&e&a内存卡&f&f相互连接,具体操作将在下一个任务中详述.\\n&7[P2P tunnels must be linked to one another with the use of a Memory Card, detailed in the next quest.]&f"
 	]
-	quest.1710B3D05215A71E.quest_subtitle: "消除中间环节"
-	quest.1710B3D05215A71E.title: "&aP2P通道&f"
+	quest.1710B3D05215A71E.quest_subtitle: "消除中间环节&7[Cut out the middleman]&f"
+	quest.1710B3D05215A71E.title: "&aP2P通道&f&7[P2P Tunnels]&f"
 	quest.18DFB25DC48D8BF7.quest_desc: [
-		"&a空间&f 约束结构(SCS)由一圈&b&a空间塔&f&f构成,用于将目标区域封闭在空间IO单元中.至少需要三组空间塔方块,分别对应被封闭空间的长、宽、高三个维度."
+		"The Spatial Containment Structure (SCS) consists of a cage of Spatial Pylons covering the volume you wish to enclose in a Spatial IO cell. At the absolute minimum, an SCS requires three lines of spatial pylon blocks, one for each dimension of the space being contained (length, width, height). "
 		""
-		"但空间IO是极度耗电的功能,尤其在捕获超大空间时(最大128x128x128).在目标区域周围布置更多空间塔可提升整体&e能效&f,降低捕获所需的能量消耗."
+		"但空间IO是极其耗电的功能,尤其是捕获较大空间时(最大128x128x128).在目标区域周围布置更多空间塔能提升整体&e能效&f,从而降低捕获时的能耗.\\n&7[However, Spatial IO is an extremely power-hungry feature, especially when trying to capture much larger spaces (up to 128x128x128). Having more spatial pylons included in the SCS around the desired volume will increase its overall efficiency, allowing it to use less energy to capture. ]&f"
 		""
-		"注意:每个独立塔(无论长度)均占用一个频道.超大空间建议搭建带控制器的专用网络以容纳所有所需塔体."
+		"需注意每个独立塔柱(无论长度)都会占用一个频道.对于超大空间,建议搭建带控制器的专用网络来容纳所有塔柱.\\n&7[Also, be mindful that each individual pylon (regardless of its length) takes up one channel. For particularly large spaces, you may wish to build a dedicated network with a controller to fit all the required pylons.]&f"
 	]
-	quest.1AAF0B31B47AF23D.quest_desc: ["单个ME设备可通过&b&a红石卡&f&f配置红石信号响应——仅在通电时或按需工作.\\n\\n此功能借助&bME切换总线&f可应用于整个&o网络区段&r:总线通电时激活后方网络,若使用&e反相&f切换总线则断电时激活."]
-	quest.1AAF0B31B47AF23D.title: "红石控制ME系统"
-	quest.1B686954D34A0F23.quest_desc: ["&b石英扳手&f具备科技模组扳手通用功能:右键点击面旋转设备,潜行右键拆卸.\\n\\n分为&a赛特斯石英&f与&a下界石英&f两种变体."]
-	quest.1B686954D34A0F23.quest_subtitle: "功能符合预期"
-	quest.1B686954D34A0F23.title: "石英扳手"
-	quest.1F7DFA5AA65F2812.quest_desc: ["&b&a加速卡&f&f根据安装设备不同,可提升运行速度或单次操作量.\\n\\n&e&a分子装配室&f&f安装满5张时,合成耗时从无卡的1秒缩减至1&o游戏刻&r."]
+	quest.1AAF0B31B47AF23D.quest_desc: ["ME设备可通过&b&a红石卡&f&f配置红石响应:仅在收到红石信号时工作.\\n\\n使用&bME切换总线&f时,该功能可作用于整个&o网络分区&r——总线供电时激活后方网络,若使用&e反向&f切换总线则断电时激活.\\n&7[Individual ME devices can also be configured to respond to redstone signals. When upgraded with a Redstone Card, a device can be configured to do work only when powered with redstone or otherwise as needed.\\n\\nThis behavior can also apply to entire sections of an ME network by using an ME Toggle Bus. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an inverted toggle bus.]&f"]
+	quest.1AAF0B31B47AF23D.title: "红石控制ME系统&7[Redstone-Controlled ME]&f"
+	quest.1B686954D34A0F23.quest_desc: ["&b石英扳手&f具备科技模组扳手所有功能:右键点击方块面旋转设备,潜行右键拆卸.\\n\\n分为&a赛特斯石英&f和&a下界石英&f两种材质.\\n&7[The Quartz Wrench does what any regular tech mod wrench would do. It rotates blocks and devices along the face you right-click on and dismantles them when right-clicked while sneaking.\\n\\nThis Wrench comes in both Certus Quartz and Nether Quartz varieties.]&f"]
+	quest.1B686954D34A0F23.quest_subtitle: "功能完全符合预期&7[Does exactly what you'd expect]&f"
+	quest.1B686954D34A0F23.title: "石英扳手&7[Quartz Wrench]&f"
+	quest.1F7DFA5AA65F2812.quest_desc: ["&b&a加速卡&f&f会根据安装设备提升运作速度或单次操作量.\\n\\n在&e&a分子装配室&f&f中,5张加速卡可将合成时间从1秒(无卡)缩短至1&o游戏刻&r.\\n&7[The Acceleration Card, depending on the device being upgraded with it, will either increase the speed at which the device operates or allow the device to carry out more operations in one go.\\n\\nIn the case of the Molecular Assembler, a full set of 5 cards reduces the time taken for the MA to fulfil a craft from one second (with no cards) to one tick.]&f"]
 	quest.2077D64428E9C067.quest_desc: [
-		"AE2核心概念'&e子网划分&f':通过额外独立ME网络(&e子网&f)与主网协同实现特定功能."
+		"AE2核心概念'&e子网&f'技术:通过额外ME网络(&e子网络&f)与主网协同完成特定功能.\\n&7[An important concept within AE2 is a technique known as 'subnetting', wherein an extra separate ME network (a subnetwork) acts in conjunction with the main network to perform some specialised function or process. ]&f"
 		""
-		"子网与完全独立网络的区别在于使用&b&a石英纤维&f&f作为连接件.该纤维在电缆间仅传输能量,不交换数据或频道."
+		"子网与独立网络的区别在于使用&b&a石英纤维&f&f作为连接件——该材料仅传输能源,完全隔绝两侧网络的数据与频道通信.\\n&7[What separates a subnetwork from a completely detached separate network is usually the use of the Quartz Fiber as a cable part. When placed between two otherwise unconnected lengths of cable, the Quartz Fiber transfers no data or channels between the two whatsoever, instead only transmitting power. ]&f"
 		""
-		"因此纤维另一端的子网可直接由主网供电,无需额外发电设备."
+		"因此子网可通过主网供能,无需额外发电设备.\\n&7[Thus, a subnetwork on the other side of the Fiber can be powered wholly by the main network's power source, without requiring any extra dedicated powergen.]&f"
 	]
-	quest.2077D64428E9C067.quest_subtitle: "此物在合成电缆之外另有妙用"
-	quest.2077D64428E9C067.title: "忘记提及"
-	quest.219932CB19258C16.quest_desc: ["第三级存储组件,提供&e16384&f字节的存储空间."]
-	quest.219932CB19258C16.quest_subtitle: "x4^2"
-	quest.219932CB19258C16.title: "16k存储组件"
-	quest.22C4318523A43B49.quest_desc: ["&e终端&f提供对ME网络中任何内容的访问权限.标准的&e&aME终端&f&f将网络中所有内容作为一个大网格列出,可供取出和放入,类似于一个单一的物品栏.\\n\\n&eME合成终端&f是&aME终端&f的扩展,它还提供了一个内置的合成网格,允许使用网络中任何可通过终端屏幕看到的物品进行便捷的合成."]
-	quest.22C4318523A43B49.quest_subtitle: "[此处插入Linux用户笑话]"
-	quest.22C4318523A43B49.title: "终端"
-	quest.234DC1702333EB18.quest_desc: ["&dAEInfinityBooster&f附加组件提供两个定制的无线增强器,允许无限的连接范围,并可选支持跨维度."]
-	quest.234DC1702333EB18.quest_subtitle: "我不会写《玩具总动员》的台词"
-	quest.234DC1702333EB18.title: "无限增强器"
-	quest.25DBA00422301EDC.quest_desc: ["&a秒&f MEGA级存储组件,提供&e4194304&f(4096k)字节的存储空间."]
-	quest.25DBA00422301EDC.quest_subtitle: "x4"
-	quest.25DBA00422301EDC.title: "4M存储组件"
+	quest.2077D64428E9C067.quest_subtitle: "该技术在合成线缆之外另有妙用.&7[This has a use outside of crafting cables.]&f"
+	quest.2077D64428E9C067.title: "忘记提及&7[Forgot to Mention]&f"
+	quest.219932CB19258C16.quest_desc: ["第三级存储组件,提供&e16384&f字节的存储空间.\\n&7[The third tier of storage component, providing 16384 bytes of storage.]&f"]
+	quest.219932CB19258C16.quest_subtitle: "x4^2&7[x4^2]&f"
+	quest.219932CB19258C16.title: "16k存储组件&7[16k Storage Component]&f"
+	quest.22C4318523A43B49.quest_desc: ["&e终端&f提供对ME网络中任何内容的访问.标准的&e&aME终端&f&f简单地将网络中的所有内容列为一个大的网格,供取出和放入,类似于一个单一的物品栏.\\n\\n&eME合成终端&f是&aME终端&f的扩展,它还提供了一个内置的合成网格,允许使用网络中任何可通过终端屏幕看到的物品进行便捷的合成.\\n&7[Terminals provide access to any of the contents of an ME network. The standard ME Terminal simply lists everything in the network as one large grid to pull from and insert into, akin to a single inventory.\\n\\nThe ME Crafting Terminal is an extension of the ME Terminal which also provides a built-in crafting grid, allowing for convenient crafting using any item contained in the network and visible through the terminal screen.]&f"]
+	quest.22C4318523A43B49.quest_subtitle: "[此处插入Linux用户笑话]&7[[Linux user joke goes here]]&f"
+	quest.22C4318523A43B49.title: "终端&7[Terminals]&f"
+	quest.234DC1702333EB18.quest_desc: ["&dAEInfinityBooster&f附加组件提供两个定制的无线增强器,允许无限的连接范围,并可选支持跨维度.\\n&7[The AEInfinityBooster add-on provides two bespoke wireless boosters allowing for infinite connectivity range, with optional cross-dimensional support.]&f"]
+	quest.234DC1702333EB18.quest_subtitle: "我不会写玩具总动员的台词&7[I'm not writing the Toy Story line]&f"
+	quest.234DC1702333EB18.title: "无限增强器&7[Infinity Booster]&f"
+	quest.25DBA00422301EDC.quest_desc: ["&a秒&f MEGA级存储组件,提供&e4194304&f(4096k)字节的存储空间.\\n&7[The second MEGA tier of storage component, providing 4194304 (4096k) bytes of storage.]&f"]
+	quest.25DBA00422301EDC.quest_subtitle: "x4&7[x4]&f"
+	quest.25DBA00422301EDC.title: "4M存储组件&7[4M Storage Component]&f"
 	quest.2893F483C10293E6.quest_desc: [
-		"&l欢迎来到&b&d应用能源2&f&f!\\n\\n&d应用能源2&f(简称&oAE2&r)是一个极其多功能的&b数字存储&f模组,允许极其高效的存储和各种自动化功能,从你想要的早期到最终游戏阶段,极大地增强你的模组Minecraft体验.\\n\\n有关AE2本章节之外的更多信息,请查阅维基:"
-		"&o&bappliedenergistics.github.io&f&r."
+		"&l欢迎来到&b&d应用能源2&f&f!\\n\\n&d应用能源2&f(简称&oAE2&r)是一个极其多功能的&b数字存储&f模组,允许极其高效的存储和各种自动化能力,从你想要的早期到最终游戏,极大地增强你的模组Minecraft体验.\\n\\n有关AE2本章节之外的更多信息,请查阅维基:\\n&7[lWelcome to Applied Energistics 2!\\n\\nApplied Energistics 2 (or AE2 for short) is an incredibly versatile digital storage mod, allowing for extremely efficient storage and all sorts of automation capabilities to greatly augment your modded Minecraft experience from as early as you want to the very endgame.\\n\\nFor more information on AE2 beyond this chapter, consult the wiki over at]&f"
+		"&o&bappliedenergistics.github.io&f&r.\\n&7[appliedenergistics.github.io.]&f"
 	]
-	quest.2893F483C10293E6.quest_subtitle: "虚拟存储系统"
-	quest.2893F483C10293E6.title: "&d应用能源2&f"
-	quest.2B31E6C1707D8195.quest_desc: ["接下来要制作以实现无线网络访问的是&bME无线访问点&f.&a访问&f点用于通过网络打开无线访问权限,通过&e无线终端&f进行访问,其具有设定的(有限)范围,具体取决于访问点中插入了多少个&b无线增强器&f."]
-	quest.2C04B3BA507D5673.quest_desc: ["&b样板&f用于保存由样板供应器执行的编码配方.要将配方编码到样板上,必须使用&bME样板编码终端&f.\\n\\n样板可以设置为保存常规的&e合成&f配方,这需要在其供应器面上使用&e&a分子装配室&f&f,或者更一般的”&e处理&f”配方,其中任何输入物品都可以由供应器发送到其他机器方块或专用处理厂."]
-	quest.2C04B3BA507D5673.title: "样板"
+	quest.2893F483C10293E6.quest_subtitle: "虚拟存储系统&7[Virtual Storage System]&f"
+	quest.2893F483C10293E6.title: "&d应用能源2&f&7[Applied Energistics 2]&f"
+	quest.2B31E6C1707D8195.quest_desc: ["接下来要制作的是允许无线网络访问的&bME无线访问点&f.&a访问&f点用于通过网络打开无线访问,通过&e无线终端&f,并具有设定的(有限)范围,取决于访问点中插入了多少个&b无线增强器&f.\\n&7[The next thing to make to allow for wireless network access is the ME Wireless Access Point. The Access Point is used to open the network to wireless access via a wireless terminal, and has a set (finite) range depending on how many Wireless Boosters are inserted into the access point.]&f"]
+	quest.2C04B3BA507D5673.quest_desc: ["&b模式&f是持有编码配方的物品,由模式提供器完成.要将配方编码到模式上,必须使用&bME模式编码终端&f.\\n\\n模式可以设置为持有常规的&e合成&f配方,这将需要在其提供器的面上使用&e&a分子装配室&f&f,或者更一般的”&e处理&f”配方,其中任何输入物品都可以由提供器发送到其他机器块或专门的处理设备.\\n&7[Patterns are what hold an encoded recipe to be fulfilled by a Pattern Provider. To encode a recipe onto a Pattern, the ME Pattern Encoding Terminal must be used.\\n\\nPatterns can be set to hold either a regular crafting recipe, which will require the use of a Molecular Assembler on the face of its Provider, or a more general 'processing' recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant.]&f"]
+	quest.2C04B3BA507D5673.title: "模式&7[Patterns]&f"
 	quest.2F16B6A173525277.quest_desc: [
-		"任何大型ME网络的最后一块拼图是&b&aME控制器&f&f."
+		"任何大型ME网络的最后一块拼图是&b&aME控制器&f&f.\\n&7[The last piece of the puzzle for any large ME network is the ME Controller. ]&f"
 		""
-		"控制器为ME网络提供远比临时网络标准8通道多得多的通道数量,每个方块面提供32个通道,总共216个通道."
+		"控制器为ME网络提供远比临时网络标准8通道多得多的通道,每个块面提供32个通道,总共216个通道.\\n&7[A controller supplies an ME Network with a far larger number of channels than the standard 8 channels for ad-hoc networks, providing 32 channels out of each face of the block for a total of 216 channels. ]&f"
 		""
-		"但这仅适用于单方块控制器,因为&aME控制器&f实际上是一个多方块结构.控制器的最大尺寸可达7x7x7方块,且在该最大尺寸范围内可自由组合.只要没有任何单个控制器方块在同一平面上被其他四个方块包围,每个独立方块都能提供各自独立的频道组."
+		"但这仅适用于单方块控制器,因为&aME控制器&f实际上是一个多方块结构.控制器的最大尺寸可达7x7x7方块,且在该最大尺寸范围内可采用任意自由形式布局.每个独立方块都能提供各自独立的频道组,只要没有任何控制器方块在同一平面上被其他四个方块包围.\\n&7[That's only for a single-block controller, however, since the ME Controller is in fact a multi-block structure. The controller can be up to 7x7x7 blocks in size and can come in any freeform arrangement within that maximum size. Each individual block can then provide its own separate set of channels, so long as no single controller block is surrounded by 4 other blocks along the same plane. ]&f"
 		""
-		"一个ME网络在任何时刻只能包含一个多方块控制器.若尝试在网络的不同部分连接多个控制器,将引发冲突并导致整个网络关闭."
+		"一个ME网络在任何时刻只能包含一个多方块控制器.若尝试在网络的独立部分连接多个控制器,将引发冲突并导致整个网络关闭.\\n&7[An ME Network may only contain one multiblock controller at any given time. Attempting to connect more than one controller on separate parts of the network will cause a conflict, shutting down the whole network.]&f"
 	]
-	quest.2F556E7919582D2D.quest_desc: ["&b&a元件工作台&f&f允许对存储单元进行'分区'以存放特定物品,即设置白名单过滤器.它还能让存储单元通过升级卡进行强化,例如&a反相卡&f可将前述白名单转换为黑名单.\\n\\n通过工作台还可设置存储单元的'优先级'高低,使其能优先接收特定物品直至存满,或等待更高优先级的存储单元先完成存储."]
-	quest.2FB231069D2E4E77.quest_desc: ["每个存储单元的容量由合成时使用的&e组件&f决定.\\n\\n首个组件是&b&a1k-ME存储组件&f&f,可为存储单元提供&e1024&f字节的存储空间.后续将详细说明."]
-	quest.2FB231069D2E4E77.quest_subtitle: "第一个千字节单元."
-	quest.2FB231069D2E4E77.title: "制作你的首个&a存储单元&f"
-	quest.30E853CE699E669B.quest_desc: ["执行自动合成前,需要设备来存储合成请求及多步合成中的中间物品,该设备称为&e合成CPU&f.\\n\\n合成CPU是多方块结构,需至少一个&b合成存储&f方块,并可选配其他合成单元.该结构可为任意尺寸,但必须构成实心长方体才能正常运作."]
-	quest.30E853CE699E669B.quest_subtitle: "扩展更多内存"
-	quest.3195A7AA874163CD.quest_desc: ["&b均分卡&f是存储单元的升级组件,可预分配特定数量的物品给每种单独类型.\\n\\n此功能类似于功能性存储抽屉,每个隔间存放固定数量的物品堆叠,防止不同隔间的物品混杂或挤占其他物品空间."]
-	quest.3195A7AA874163CD.quest_subtitle: "ME存储&m单元&r抽屉"
-	quest.33ADE41526C39AFD.quest_desc: ["此功能类似于功能性存储抽屉,每个隔间存放固定数量的物品堆叠,防止不同隔间的物品混杂或挤占其他物品空间."]
+	quest.2F556E7919582D2D.quest_desc: ["&b&a元件工作台&f&f允许对存储单元进行'分区'以存放特定物品(即设置白名单过滤器),还可通过&a反相卡&f等升级卡将白名单转换为黑名单.\\n\\n通过工作台还能设置存储单元的优先级,使其优先接收特定物品直至存满,或等待更高优先级的存储单元先完成填充.\\n&7[The Cell Workbench allows for cells to be 'partitioned' to hold specific items, i.e. given a whitelist filter. It also allows the cell to be upgraded with certain upgrade cards such as the Inverter Card, which sets the aforementioned whitelist to be a blacklist instead.\\n\\nCells can also be given a higher or lower 'priority' via the workbench, i.e. allow the cell to be the first to receive certain items until full, or made to wait for other higher-priority cells to fill up first.]&f"]
+	quest.2FB231069D2E4E77.quest_desc: ["每个存储单元的容量由其合成时使用的&e组件&f决定.\\n\\n首个组件是&b&a1k-ME存储组件&f&f,可为存储单元提供&e1024&f字节的存储空间,后续将详细说明.\\n&7[Each individual cell has a certain capacity dictated by the component that the cell has been crafted with.\\n\\nThe first of the components is the 1k ME Storage Component, providing 1024 'bytes' of storage for a given cell. More on that later.]&f"]
+	quest.2FB231069D2E4E77.quest_subtitle: "最初的千字节.&7[The first kilobyte.]&f"
+	quest.2FB231069D2E4E77.title: "制作你的首个&a存储单元&f&7[Creating your first Storage Cell]&f"
+	quest.30E853CE699E669B.quest_desc: ["执行自动合成前,需要设备来存储合成请求及多步合成的中间物品,该设备称为&e合成CPU&f.\\n\\n合成CPU是多方块结构,需至少一个&b合成存储&f方块,并可选配其他合成单元.该结构须为实心长方体方可正常运作.\\n&7[Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a crafting CPU.\\n\\nA crafting CPU is a multiblock structure requiring at least one Crafting Storage block, optionally along with any other Crafting Unit. The multiblock can be made in any size, but must be a solid cuboid in order to form and function accordingly.]&f"]
+	quest.30E853CE699E669B.quest_subtitle: "下载更多内存&7[Download more RAM]&f"
+	quest.3195A7AA874163CD.quest_desc: ["&b均分卡&f是存储单元的升级卡,可预分配每种物品类型的最大存储量.\\n\\n其机制类似于功能存储抽屉——每个隔间存放固定数量的物品堆叠,避免不同种类物品相互混杂挤压.\\n&7[The Equal Distribution Card is an upgrade for storage cells that pre-allocates a certain amount of items that can be taken up by any individual type.\\n\\nThis behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out.]&f"]
+	quest.3195A7AA874163CD.quest_subtitle: "ME存储&m单元&r抽屉&7[ME Storage Cells Drawers]&f"
+	quest.33ADE41526C39AFD.quest_desc: ["其机制类似于功能存储抽屉——每个隔间存放固定数量的物品堆叠,避免不同种类物品相互混杂挤压.\\n&7[This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out.]&f"]
 	quest.361CCBD353D6FF34.quest_desc: [
-		"现在你可以用1k存储组件制作1k ME物品&a存储单元&f,开启数字物品存储系统.由于大部分存储空间可能用于存放物品,建议制作多个&bME物品&a存储单元&f&f."
+		"现在你可以用1k存储组件制作1k ME物品&a存储单元&f,开启数字物品存储系统.由于大部分存储空间需用于存放物品,建议制作多个&bME物品&a存储单元&f&f.\\n&7[With the 1k Storage Component, you can now craft yourself a 1k ME Item Storage Cell to start your digital item storage system. You'll most likely want the majority of your storage to be for items, so you'll probably want to make a few ME Item Storage Cells. ]&f"
 		""
-		"每个&a存储单元&f最多可容纳63种不同类型的物品.每向存储单元添加一种新物品类型,都会占用该存储单元总容量(以字节计)的特定比例.若&a循环检测&f到已存在的类型,1字节可存储8个同类物品."
+		"每个&a存储单元&f最多可容纳63种不同类型的物品.每向存储单元添加一种新物品类型,都会占用该存储单元总容量(以字节计)的特定比例.对于&a已存在的同类物品&f,1字节可存储8个同类物品.\\n&7[ME Item Storage Cells can each hold up to 63 different types of items. Each new type of item added to a cell will take up a certain fraction of the storage cell's total capacity in bytes. For each type already present, 1 'byte' counts for 8 items of that same type. ]&f"
 		""
-		"例如:一个仅存储圆石的1k&a存储单元&f最多可容纳8128个圆石(8*1024b - 8b/类型*1类型)."
+		"例如:一个仅存放圆石的1k物品&a存储单元&f最多可容纳8128个圆石(计算公式:8*1024b - 8b/类型*1类型).\\n&7[As an example, a 1k Item Storage Cell containing only cobblestone can hold up to 8128 cobblestone (8*1024b - 8b/type * 1 type). ]&f"
 		""
-		"若存储单元为空,可通过潜行状态下手持单元右键点击空气将其拆解为对应组件与外壳以实现重用."
+		"若存储单元为空,可通过潜行状态下手持单元右键点击空气将其拆解为对应组件与外壳以实现重复利用.\\n&7[If a cell is empty, it can be repurposed by disassembling it into its respective component and housing. This is done by sneaking and right-clicking in the air with the cell in your hand.]&f"
 	]
-	quest.361CCBD353D6FF34.title: "物品存储"
-	quest.371A382CF1DDF2B2.quest_desc: ["&b&a容量卡&f&f可使升级后的总线承载更大过滤器.装配容量卡的导入/导出总线可从单物品过滤提升至九格过滤上限,存储总线则从18格提升至63格上限."]
-	quest.3B42CCC19D23EC6D.quest_desc: ["&a秒&f级存储组件,提供&e4096&f字节存储容量."]
-	quest.3B42CCC19D23EC6D.quest_subtitle: "x4"
-	quest.3B42CCC19D23EC6D.title: "4k存储组件"
-	quest.3CE3D9245F8EC005.quest_desc: ["第四级MEGA存储组件,提供&e67108864&f(65536k)字节存储容量."]
-	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3"
-	quest.3CE3D9245F8EC005.title: "64M存储组件"
-	quest.3DDB0DDA7571B2C1.quest_desc: ["&b&aME标准发信器&f&f在配置特定物品及其数量阈值后,可根据网络中该物品储量低于/高于/等于设定值而发射红石信号.\\n\\n此功能可用于自动化控制,例如当资源储量低于设定最小值时自动启动红石设备进行合成."]
-	quest.3DDB0DDA7571B2C1.title: "&aME标准发信器&f"
-	quest.3E3DF8E967D95DB0.quest_desc: ["使用64k及以上存储组件时,&a物质聚合器&f可压缩大量物品生成&b奇点&f.每个奇点需消耗256000个物品——正好是&o4000组&r!\\n\\n将奇点与&e&a末影尘&f&f共同投掷于地面会产生特殊效果,此过程会对周围环境造成破坏,但AE2提供专用&b微型TNT&f以减小破坏范围."]
-	quest.3E3DF8E967D95DB0.quest_subtitle: "超凝聚物质"
-	quest.3E3DF8E967D95DB0.title: "超凝聚物质"
-	quest.4597D3B3BDC2BED5.quest_desc: ["&b&a分子装配室&f&f是AE2的自动合成台等效装置,用于执行所有&e合成&f配方任务.\\n\\n&a分子装配室&f可向连接的ME设备传输能源与频道,但其自身不占用频道.单个样板供应器最多可连接6个分子装配室(若已部署)以实现并行合成.\\n\\n每个分子装配室均有独立槽位存放合成样板,供能后可独立运作.此模式下,向室内输入匹配物品时将自动按样板合成产物."]
-	quest.460A8F17F3ED6CAF.quest_desc: ["在大型模组包的游玩过程中,总会遇到这样一个阶段:即便是最高标准的存储单元也无法满足你不断积累的物品和资源需求.\\n\\n这时,&d&aMEGA存储单元&f&f附加组件便应运而生,它将存储等级扩展至兆字节领域.这一新等级的首个代表是&b&a1M-MEGA存储组件&f&f,提供1024&o千&r字节,即&e1,048,576&f字节的存储空间."]
-	quest.460A8F17F3ED6CAF.quest_subtitle: "首个兆字节级存储."
-	quest.460A8F17F3ED6CAF.title: "1M存储组件"
-	quest.4B76FE0348DB0E45.quest_desc: ["&a量子桥卡&f是另一种实现跨维度无线访问应用能源系统的方法.你需要在基地连接一个量子桥,并在终端中放置一张&a量子桥卡&f.随后,通过&a量子纠缠态奇点&f将这些通道绑定,使你能随时随地访问系统."]
+	quest.361CCBD353D6FF34.title: "物品存储&7[Item Storage]&f"
+	quest.371A382CF1DDF2B2.quest_desc: ["&b&a容量卡&f&f可使升级后的总线承载更大规模的过滤器.装配容量卡的输入/输出总线可从单物品过滤提升至最多九格过滤,而存储总线则从18格扩展至最高63格.\\n&7[The Capacity Card allows a bus upgraded with it to carry a larger filter. Import and Export buses upgraded with capacity cards can go from supporting only one filtered item each to their maximum nine-slot filter, while Storage buses will go from 18 slots to a maximum of 63.]&f"]
+	quest.3B42CCC19D23EC6D.quest_desc: ["&a二级&f存储组件,提供&e4096&f字节存储容量.\\n&7[The second tier of storage component, providing 4096 bytes of storage.]&f"]
+	quest.3B42CCC19D23EC6D.quest_subtitle: "x4&7[x4]&f"
+	quest.3B42CCC19D23EC6D.title: "4k存储组件&7[4k Storage Component]&f"
+	quest.3CE3D9245F8EC005.quest_desc: ["第四级MEGA存储组件,提供&e67108864&f(65536k)字节存储容量.\\n&7[The fourth MEGA tier of storage component, providing 67108864 (65536k) bytes of storage.]&f"]
+	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3&7[x4^3]&f"
+	quest.3CE3D9245F8EC005.title: "64M存储组件&7[64M Storage Component]&f"
+	quest.3DDB0DDA7571B2C1.quest_desc: ["&b&aME标准发信器&f&f可配置特定物品及其数量阈值,根据网络中该物品储量低于/高于/等于设定值时发射红石信号.\\n\\n应用示例:当资源储量低于设定最小值时,自动触发红石信号启动机器进行合成.\\n&7[The ME Level Emitter, when configured with a specific item and quantity of it to respond to, will emit a redstone signal depending on whether that item stored in the network either falls below, goes above or equals the given quantity.\\n\\nThis can be used, for example, to automatically switch certain machines on with redstone to auto-craft a resource when it falls below a given minimum amount.]&f"]
+	quest.3DDB0DDA7571B2C1.title: "&aME标准发信器&f&7[ME Level Emitter]&f"
+	quest.3E3DF8E967D95DB0.quest_desc: ["使用64k或更高级存储组件时,&a物质聚合器&f可压缩巨量物品生成&b奇点&f.单个奇点需消耗256000件物品——相当于&o4000组&r!\\n\\n尝试将奇点与&e&a末影尘&f&f共同投掷于地面.注意此举会对周围环境造成破坏,但AE2系统提供专用&b微型TNT&f以降低破坏范围.\\n&7[When using a 64k storage component or higher, the Matter Condenser becomes able to condense significantly more to produce a Singularity. A single singularity requires 256000 items to be voided. That's exactly 4000 stacks!\\n\\nSee what happens when you throw this singularity on the ground with a piece of Ender Dust. You'll have to deal some damage to the surroundings while you're at it, but thankfully AE2 offers its own Tiny TNT to minimise that.]&f"]
+	quest.3E3DF8E967D95DB0.quest_subtitle: "超压缩物质&7[Hyper-Condensed Matter]&f"
+	quest.3E3DF8E967D95DB0.title: "超压缩物质&7[Hyper-Condensed Matter]&f"
+	quest.4597D3B3BDC2BED5.quest_desc: ["&b&a分子装配室&f&f是AE2的自动合成工作台,用于执行所有&e合成&f配方任务.\\n\\n&a分子装配室&f可向连接的ME设备传输能量与频道,自身不占用频道.最多6个装配室可连接至单个样板供应器(若安装)实现并行合成.\\n\\n每个装配室均设有独立样板槽,供能后可独立运作.此模式下,投入匹配材料将自动按样板合成产物.\\n&7[The Molecular Assembler is AE2's equivalent of an automatic crafting table, required to fulfil any and all crafting pattern jobs.\\n\\nMolecular Assemblers are capable of transferring power and channels to other ME devices connected to it, but will not themselves take up a channel. Up to 6 MAs can be connected to a single Pattern Provider (if employed) to allow for more crafts to be done in parallel.\\n\\nMAs also each have their own dedicated slot for a single crafting pattern, allowing them to function standalone when powered. When operated in this way, any matching items inserted into the MA will be automatically crafted into the result of the pattern.]&f"]
+	quest.460A8F17F3ED6CAF.quest_desc: ["在大型模组包的游玩过程中,总会遇到这样一个阶段:即便是最高标准的存储单元也无法满足你不断积累的物品和资源需求.\\n\\n这时就需要&d&aMEGA存储单元&f&f扩展插件登场,它将存储等级提升至百万字节领域.首个新等级由&b&a1M-MEGA存储组件&f&f提供,可存储1024&o千&r字节,即&e1048576&f字节的容量.\\n&7[There comes a point in any playthrough of a large modpack where even the highest standard tier of storage cell doesn't cut it for the amount of items and resources that you may be accumulating.\\n\\nThis is where the MEGA Cells add-on comes in, extending the available tiers of storage into the megabyte territory. The first of these new tiers is given by the 1M MEGA Storage Component, providing 1024 kilobytes, or 1048576 bytes, of storage.]&f"]
+	quest.460A8F17F3ED6CAF.quest_subtitle: "首个百万字节级存储&7[The first MEGAbyte.]&f"
+	quest.460A8F17F3ED6CAF.title: "1M存储组件&7[1M Storage Component]&f"
+	quest.4B76FE0348DB0E45.quest_desc: ["&a量子桥卡&f是实现跨维度无线接入应用能源系统的替代方案.你需要在本基地搭建量子桥,并在终端配备&a量子桥卡&f.通过&a量子纠缠态奇点&f将这两条通道绑定后,即可随时随地访问系统.\\n&7[The Quantum Bridge Card is an alternate method to get wireless interdimensional access to your Applied Energistics system. You will need a Quantum Bridge connected at your base and a Quantum Bridge Card in your terminal. These tunnels are then bound together with a Quantum Entangled Singularity to gain access wherever you go.]&f"]
 	quest.4BF0BB763BFFACF0.quest_desc: [
-		"接下来,你或许最需要的资源是&e福鲁伊克斯&f,它广泛应用于AE2的大部分设备中,并作为制作ME网络内所有线缆的基础材料."
+		"接下来最重要的资源当属&e福鲁伊克斯&f,它被广泛应用于AE2设备中,是制作所有ME网络线缆的基础材料.\\n&7[Arguably the most important resource you will need next is Fluix, used throughout the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network. ]&f"
 		""
-		"通常,你会希望批量生产这些材料,方法是将&e&a下界石英&f&f、&e&o充能&r&e&a赛特斯石英&f&r和&e红石&f一起投入水中,制成&e&a福鲁伊克斯水晶&f&r,然后可在压印机中将其研磨成粉."
+		"通常需要进行批量生产,制作方式是将&e&a下界石英&f&f、带电的&e&o赛特斯石英&f&r以及&e红石&f投入水中合成&e&a福鲁伊克斯水晶&f&r,再通过压印机将其转化为粉末.\\n&7[You'll typically want to mass produce these, and the way to do so is to make a Fluix Crystal by throwing Nether Quartz, Charged Certus quartz and Redstone together in a pool of water. This will give you a Fluix Crystal which you can turn to dust in an Inscriber.]&f"
 	]
-	quest.4BF0BB763BFFACF0.title: "福鲁伊克斯"
-	quest.4E8A05C3BFA80540.quest_desc: ["可以说,&d应用能源2&f最重要的方面是其存储系统,它利用数字&e&a存储单元&f&f.这些单元可通过&e&aME箱子&f&r(用于单个单元)或&e&aME驱动器&f&r(用于多个单元)进行访问.\\n\\n&b&aME箱子&f&f一次可容纳一个存储单元,并可通过同一网络中的任何其他终端进行读写.&aME箱子&f本身还在顶部提供专属终端屏幕,仅限访问其内含的存储单元.\\n\\n&b&aME驱动器&f&f可在一个方块空间和单条ME频道内容纳多达10个不同类型的&a存储单元&f,但它不提供自身终端屏幕,需要依赖网络中的外部终端来访问存储."]
-	quest.4E8A05C3BFA80540.quest_subtitle: "物品即文件系统"
-	quest.4E8A05C3BFA80540.title: "&a存储&f"
-	quest.5034A9137E0F3D3D.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods模组包.\\n\\n由于所有&6AllTheMods&r包均采用&e保留所有权利&r许可,未经明确授权,本任务不得用于任何非&6AllTheMods团队&r发布的公共包中.\\n\\n此任务为隐藏内容,若你看到此提示,说明你正处于编辑模式."]
-	quest.51A57E142C686C8F.quest_desc: ["第五个也是最终的MEGA级存储组件,提供&e268,435,456&f(262,144k)字节的存储空间."]
-	quest.51A57E142C686C8F.quest_subtitle: "x4^4"
-	quest.51A57E142C686C8F.title: "256M存储组件"
+	quest.4BF0BB763BFFACF0.title: "福鲁伊克斯&7[Fluix]&f"
+	quest.4E8A05C3BFA80540.quest_desc: ["&d应用能源2&f最核心的当属其存储系统,采用数字化&e&a存储单元&f&f.可通过&e&aME箱子&f&r访问单个存储单元,或通过&e&aME驱动器&f&r访问多个单元.\\n\\n&b&aME箱子&f&f每次容纳一个存储单元,并支持同一网络内任何终端进行读写操作.箱体顶部设有专属终端屏幕,仅限访问其内置存储单元.\\n\\n&b&aME驱动器&f&f最多可容纳10个不同类型的&a存储单元&f,仅占用单方块空间与单ME通道,但需借助网络内其他终端进行存储访问.\\n&7[Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital Storage Cells. These cells are accessible through either an ME Chest for single cells, or an ME Drive for multiple cells.\\n\\nThe ME Chest holds a single Cell at a time, which can then be read from and written to from any other terminal on the same network. The ME Chest itself also provides its own terminal screen on the top with specific access only to the cell it contains.\\n\\nThe ME Drive can hold up to 10 assorted Storage Cells in the space of a single block and a single ME channel. However, it does not provide its own terminal screen, requiring some external terminal elsewhere on the network for storage access.]&f"]
+	quest.4E8A05C3BFA80540.quest_subtitle: "物品档案系统&7[Items as a file system]&f"
+	quest.4E8A05C3BFA80540.title: "&a存储&f&7[The Storage]&f"
+	quest.5034A9137E0F3D3D.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods模组包.\\n\\n基于&e保留所有权利&r的许可协议,未经&6AllTheMods团队&r明确授权,不得在任何公开模组包中使用此任务.\\n\\n此任务为隐藏内容,若您能看到本提示,说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.51A57E142C686C8F.quest_desc: ["第五阶即最终阶MEGA存储组件,提供&e268435456&f(262144k)字节存储容量.\\n&7[The fifth and final MEGA tier of storage component, providing 268435456 (262144k) bytes of storage.]&f"]
+	quest.51A57E142C686C8F.quest_subtitle: "四阶乘方&7[x4^4]&f"
+	quest.51A57E142C686C8F.title: "256M存储组件&7[256M Storage Component]&f"
 	quest.51DE3157DE3E57B8.quest_desc: [
-		"存储系统固然重要,但如果其中堆满了需要手动合成和处理的原材​​料,而你又不得不亲力亲为,这样的存储系统又有何用呢？"
+		"存储系统固然重要,但若其中堆满需要手动合成处理的原材料,而您仍被困于繁琐的手工操作,这样的系统又有何意义？\\n&7[Storage is nice and all that, but what good is a storage system if it's clogged up with raw materials needing to be crafted and processed into something and you're still stuck with having to do so manually? ]&f"
 		""
-		"AE2的&e自动合成&f系统始于&bME样板供应器&f.&a样板&f供应器可存放称为&b样板&f的特殊物品(下个任务详述),这些已编程的样板能将输入物品转化为特定输出.单个供应器最多可容纳9个样板."
+		"AE2的&e自动合成&f系统始于&bME样板供应器&f.&a样板&f供应器可存放名为&b样板&f的特殊物品(下个任务详述),这些预先编程的样板能将输入物品转化为特定产物.单个供应器最多容纳9个样板.\\n&7[AE2's auto-crafting system begins with the ME Pattern Provider. The Pattern Provider holds certain items called Patterns (covered in the next quest) which are programmed to hold some recipe that turns input items into a certain output. Up to 9 patterns can fit in one provider. ]&f"
 		""
-		"您通常会在基地各处部署多个样板供应器,因此配置&b样板&a访问终端&f&f将非常实用,可通过它远程接入整个ME网络中的所有供应器内容."
+		"您通常会在基地各处部署多个样板供应器,因此配置&b样板&a访问终端&f&f将能远程操作整个ME网络中的所有供应器内容.\\n&7[You'll often be making use of multiple pattern providers scattered all throughout your base, which is why it's useful to have a Pattern Access Terminal to remotely access the contents of any and all providers on your wider ME network.]&f"
 	]
-	quest.51DE3157DE3E57B8.quest_subtitle: "下达指令"
-	quest.51DE3157DE3E57B8.title: "自动合成系统"
-	quest.5233A447BAA4593C.quest_desc: ["&bME智能线缆&f与&b致密智能线缆&f在频道分配功能上与前述线缆相同,但会通过缆身上的彩色线条直观显示当前使用的频道数量."]
-	quest.5233A447BAA4593C.quest_subtitle: "智能线缆"
-	quest.5233A447BAA4593C.title: "高级线缆系统"
-	quest.523853C1C4E688BA.quest_desc: ["第四级存储组件,提供&e65536&f字节存储容量."]
-	quest.523853C1C4E688BA.quest_subtitle: "四的三次方"
-	quest.523853C1C4E688BA.title: "64k存储组件"
+	quest.51DE3157DE3E57B8.quest_subtitle: "下达指令&7[Order up]&f"
+	quest.51DE3157DE3E57B8.title: "自动合成系统&7[Auto-Crafting]&f"
+	quest.5233A447BAA4593C.quest_desc: ["&bME智能线缆&f与&b致密智能线缆&f在频道分配功能上与包覆线缆相同,但会通过缆身上的彩色线条直观显示当前使用的频道数量.\\n&7[The ME Smart Cable and Dense Smart Cable function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves.]&f"]
+	quest.5233A447BAA4593C.quest_subtitle: "智能升级&7['S.M.R.T.']&f"
+	quest.5233A447BAA4593C.title: "高级线缆系统&7[Advanced Cabling]&f"
+	quest.523853C1C4E688BA.quest_desc: ["第四级存储组件,提供&e65536&f字节存储容量.\\n&7[The fourth tier of storage component, providing 65536 bytes of storage.]&f"]
+	quest.523853C1C4E688BA.quest_subtitle: "四次立方&7[x4^3]&f"
+	quest.523853C1C4E688BA.title: "64k存储组件&7[64k Storage Component]&f"
 	quest.525F25F4ADE45B50.quest_desc: [
-		"&b&aME成型面板&f&f的功能类似存储总线,但将世界本身作为存储介质——它会将过滤器中设置的任何方块直接放置于面板前方."
+		"&b&aME成型面板&f&f功能类似存储总线,但将世界本身作为存储介质——它会将过滤器中设定的任何方块直接放置于设备前方.\\n&7[The ME Formation Plane acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself. ]&f"
 		""
-		"此功能适用于可通过放置方块并用特定工具破坏来实现处理的场景."
+		"此功能适用于通过放置并使用特定工具破坏即可完成处理的方块场景.\\n&7[This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool.]&f"
 	]
-	quest.525F25F4ADE45B50.quest_subtitle: "方块输出"
+	quest.525F25F4ADE45B50.quest_subtitle: "方块输出&7[GET OUT]&f"
 	quest.55186B8602689B66.quest_desc: [
-		"&b&a内存卡&f&f是具有双重功能的工具:&a基础功能&f是保存各类设备的配置(如白名单过滤器),以便复制到同类型设备中."
+		"&b&a内存卡&f&f是具有双重功能的工具:&a基础功能&f可保存各类设备配置(如白名单过滤器)并复制至同类型设备；\\n&7[The Memory Card is a tool with two different functions. The simplest of the two is to save various devices' configurations (such as whitelist filters) to be copied over to another device of the same kind. ]&f"
 		""
-		"其&a进阶功能&f是连接&eP2P通道&f.连接时将为P2P通道分配唯一ID,该ID会存储在内存卡中用于后续连接."
+		"其&a核心功能&f用于连接&eP2P通道&f.连接时将为P2P通道分配唯一标识符并存储于内存卡中,以便后续链接操作.\\n&7[The second function of a memory card is to link P2P tunnels together. When doing so, the P2P tunnel being linked will be assigned a unique ID, which is stored on the memory card for further linking.]&f"
 	]
-	quest.5AA3E5DFECB4AC4D.quest_desc: ["当然,AE2也提供了显著加速水晶生长的专属方案.\\n\\n将这些设备布置在萌芽水晶周围,接通能源后即可见证水晶的加速生长!"]
-	quest.5BB887411B8B38FA.quest_desc: ["至于无线扩展ME网络本身,第一步确实有些非传统.\\n\\n&b&a物质聚合器&f&f是AE2的垃圾处理装置,可销毁放入的任何物品.当安装&e存储组件&f时,聚合器能利用被销毁物品残留的能量,通过积累足够浓缩的能量制造两种特殊合成物品.\\n\\n其一是&b&a物质球&f&f,需要至少1k存储组件和相当于256个物品的销毁材料."]
-	quest.5BB887411B8B38FA.title: "物质压缩技术"
-	quest.5C22E3103544B120.quest_desc: ["要将绝大多数ME网络连接在一起,您需要一些线缆.&eME玻璃线缆&f是最初且最基本的线缆类型,您将全程制作它,作为制作其他类型线缆的第一步.\\n\\n玻璃线缆及其&e包覆&f版本均能在一段线缆中传输最多8个频道.与玻璃线缆不同,包覆线缆随后可制作成&e密集&f包覆线缆,能够传输多达32个频道.然而,大多数'多部分'设备,如总线和终端,不能直接连接到密集线缆,需要普通宽度的线缆来建立连接.\\n\\n所有线缆也可用染料染色.未染色('福鲁伊克斯')线缆可以连接到任何其他颜色的线缆,但不同颜色的线缆之间永远不会连接."]
-	quest.5C22E3103544B120.title: "基础布线"
-	quest.5CD8D169181C7339.quest_desc: ["最后这三样物品或多或少是AE2提供的一些额外玩具,并不完全适合归入任何任务树.\\n\\n&b充能手杖&f只是一个简单的动力手杖,造成3颗心的伤害,每次击中消耗300AE.它还使用1.9版本前的战斗机制,意味着您可以像过去那样连续点击使用.\\n\\n&b&a熵变机械臂&f&f,当使用&r于世界中的某些方块时,会就地冶炼它们,例如将沙子变成玻璃,金属矿石变成金属锭.否则,它只会在方块上点燃火焰.\\n\\n最后,&b&a物质炮&f&f功能类似于&a染色器&f,作为一个专用单元,用于存放'弹药'物品,如&a物质球&f和铁/金粒,然后可以发射出去对生物造成伤害或破坏方块.较重的'弹药'&a物质球&f在&a物质炮&f中可以用&b&a染色球&f&f替代,它会在被击中的方块表面施加油漆飞溅效果.&b流明&a染色球&f&f是&a物质炮&f专用的染色球变种,其油漆飞溅在存在于世界中时还会发出一些光."]
-	quest.5CD8D169181C7339.quest_subtitle: "&a温度过高&f对于ATF"
-	quest.5CD8D169181C7339.title: "这些...是武器吗？"
+	quest.5AA3E5DFECB4AC4D.quest_desc: ["AE2自然提供了独有的晶体加速生长方案.\\n\\n将这些设备环绕萌芽晶体布置,接通能源后即可见证晶体飞速成长!\\n&7[Naturally, AE2 provides its own way to dramatically speed up crystal growth.\\n\\nPlace these around your Budding Crystals, give them some power, and watch your crystals grow!]&f"]
+	quest.5BB887411B8B38FA.quest_desc: ["关于无线扩展ME网络本身,第一步确实有些非传统.\\n\\n&b&a物质聚合器&f&f是AE2的垃圾处理装置,可销毁放入物品.当安装&e存储组件&f时,聚合器能汲取被销毁物品的残余能量,通过能量浓缩制造两种特殊合成物.\\n\\n其一是&b&a物质球&f&f,需要至少1k存储组件及256个物品的销毁量才能合成.\\n&7[As for wirelessly expanding the ME Network itself, the first step is admittedly somewhat unorthodox.\\n\\nThe Matter Condenser is AE2's take on a trash can, voiding any items inserted into it. When fitted with a Storage Component, however, the condenser can harness some left-over energy from the item being voided and store it to make two special crafting items out of enough concentrated energy.\\n\\nThe first of these two items is the Matter Ball, requiring at least a 1k storage component and 256 items' worth of voided material.]&f"]
+	quest.5BB887411B8B38FA.title: "凝聚物质&7[Condensed Matter]&f"
+	quest.5C22E3103544B120.quest_desc: ["To connect the vast majority of your ME network together, you will need some cable. ME Glass Cable is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable.\\n\\nBoth glass cables and their covered counterpart can carry up to 8 channels along a single section of cabling. Unlike glass cables, covered cables can subsequently be crafted into dense covered cables, capable of carrying up to 32 channels. However, most 'multipart' devices such as buses and terminals cannot be directly attached to dense cables, requiring normal-width cables to form a connection instead.\\n\\nAll cables can also be crafted with dye to colour them. Uncoloured ('Fluix') cables can connect to any other colour of cable, but otherwise differently-coloured cables will never connect to one another."]
+	quest.5C22E3103544B120.title: "基础线缆系统&7[Basic Cabling]&f"
+	quest.5CD8D169181C7339.quest_desc: ["最后这三件物品算是AE2提供的额外玩具,不一定完全契合任务树分类.\\n\\n&b充能手杖&f是简易能量武器,每次攻击造成3心伤害并消耗300AE能量.它采用1.9版本前的战斗机制,意味着您可以像往日那样连续快速点击攻击.\\n\\n&b&a熵变机械臂&f&f对特定方块&o使用&r时可进行原位冶炼,例如将沙子烧制成玻璃、金属矿石冶炼成金属锭.若目标不可冶炼,则会在方块表面生火.\\n\\n最后,&b&a物质炮&f&f与&a染色器&f类似,是专门装载&a物质球&f及铁/金粒等'弹药'的单元装置,可发射弹药攻击生物或破坏方块.在&a物质炮&f中,较重的&a物质球&f弹药可用&b&a染色球&f&f替代,后者会在命中方块表面形成泼溅颜料效果.&b流明&a染色球&f&f是&a物质炮&f的专属弹药变种,其颜料泼溅后在世界中还会发出光亮.\\n&7[These last three items are more or less some extra toys provided by AE2 and don't necessarily fit under any of these quest trees.\\n\\nThe Charged Staff is just a simple powered staff which deals 3 hearts of damage and consumes 300AE per hit. It also uses pre-1.9 combat mechanics, meaning that you can spam-click with this like in the good old days.\\n\\nThe Entropy Manipulator, when used on certain blocks in the world, will smelt them in-place, such as sand to glass and metal ores to metal ingots. If not, it will simply light a fire on the block.\\n\\nFinally, the Matter Cannon functions similarly to the Color Applicator as a dedicated cell for holding 'ammo' items such as Matter Balls and iron/gold nuggets, which can then be fired out to deal damage to mobs or break blocks. Heavier 'ammo'Matter Balls in a Matter Cannon can be substituted with Paint Balls, which will apply a paint splatter effect on the face of whatever block being fired at. Lumen Paint Balls are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world.]&f"]
+	quest.5CD8D169181C7339.quest_subtitle: "&a温度过高&f(适用于ATF)&7[Too hot for the ATF]&f"
+	quest.5CD8D169181C7339.title: "这是...武器？&7[The... Weapons?]&f"
 	quest.5E24012A3D9B72A1.quest_desc: [
-		"物品并非唯一能存储在ME单元中的东西.&bME流体&a存储单元&f&f可以存储液体,如水、 lava以及各种模组油和燃料,仅举几例."
+		"ME存储单元不仅能容纳物品.&bME流体&a存储单元&f&f可储存水、岩浆以及各种模组油料和燃料等液体,此处仅列举少数示例.\\n&7[Items are not the only things that can be stored in ME cells. ME Fluid Storage Cells can store liquids such as water, lava and any variety of modded oils and fuels, just to give a few examples. ]&f"
 		""
-		"请注意,所有存储单元,无论设计用于存储什么,仅在外壳上有所不同；物品和流体单元都使用相同类型的存储组件制作."
+		"请注意所有存储单元(无论存储类型)的区别仅在于外壳设计——物品与流体存储单元使用同类型的存储组件制造.\\n&7[Note that all storage cells, regardless of what they're designed to store, only differ in terms of their housing; both item and fluid cells use the same kind of storage component to make. ]&f"
 		""
-		"对于流体,1字节等于8桶(8000mb)."
+		"流体存储计量中,1字节对应8桶(8000毫桶)容量.\\n&7[For fluids, 1 byte equals 8 buckets (8000mb).]&f"
 	]
-	quest.5E6585F7627247E3.quest_desc: ["当作为升级组件应用于接口或输出总线等兼容设备时,&b合成卡&f可使该设备自动发送针对特定(过滤后)物品的合成请求.可设置合成CPU仅响应此类请求,以避免占用玩家手动合成所需的CPU资源.\\n\\n当&e电平发射器&f装配合成卡时,可配置其通过红石信号直接参与合成——既可设置为检测到指定物品合成任务时&o持续&r发射信号,也可专门&o触发&r该物品的合成流程.后者适用于仅需红石信号即可触发合成、无需预置合成配方的情况."]
-	quest.5E6585F7627247E3.quest_subtitle: "自动化功能的升级形态!"
-	quest.5E7E35CCAF1C88EE.quest_desc: ["&bME输入总线&f会定期从其所对接的外部存储设备中抽取物品.可通过过滤器设置仅从该容器中吸取特定物品."]
-	quest.5E7E35CCAF1C88EE.quest_subtitle: "输入总"
-	quest.5F56892CD904C40F.quest_desc: ["第五阶也是最终阶的AE2标准存储组件,提供&e262144&f字节存储容量."]
-	quest.5F56892CD904C40F.quest_subtitle: "4^4倍容量"
-	quest.5F56892CD904C40F.title: "256k存储组件"
-	quest.6144202A97C6CD1C.quest_desc: ["&b&a石英切割刀&f&f与扳手类似,分地狱石英和下界石英两种材质,是必备的实用合成工具.\\n\\n通过在电缆间安装&b线缆锚点&f(使用此刀具合成,单把刀具可制作50次),无需染色即可分离电缆.\\n\\n线缆锚点还可用于制作&b线缆伪装板&f,通过任意方块表面覆盖线缆实现墙体隐藏.虽然JEI不显示伪装板配方,但只需将任意常规方块与4个线缆锚点放入合成网格即可制作.\\n\\n除制作锚点外,切割刀另有妙用:右键打开小型界面可制作&b&a名称压印模板&f&f.将这些模板命名后放入压印机,可使输入物品获得模板名称.若在压印机内叠加两个模板,物品将依次获得顶部与底部模板的组合名称."]
-	quest.6144202A97C6CD1C.quest_subtitle: "精密切割"
-	quest.6144202A97C6CD1C.title: "线缆锚点"
+	quest.5E6585F7627247E3.quest_desc: ["当作为升级模块安装到接口或输出总线等兼容设备时,&b合成卡&f可使该设备自动发送针对特定(过滤后)物品的合成请求.可设置合成CPU仅响应此类请求,避免占用玩家手动合成专用的CPU资源.\\n\\n若为&e等级发射器&f安装合成卡升级,可配置其通过红石信号直接参与合成——既可在检测到指定物品的合成任务时&o持续&r发射信号,也可&o专门触发&r该物品的合成.后者适用于仅需红石信号即可启动合成、无需预置合成配方的情况.\\n&7[When applied as an upgrade to any supported device such as an Interface or Export Bus, the Crafting Card allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts.\\n\\nWhen the Level Emitter is upgraded with the Crafting Card, it can be configured to emit redstone in order to directly facilitate in crafting, by emitting a signal either while a crafting job for its given item is detected or specifically to craft the item. The latter would apply for cases where the only thing needed to make a given item is a redstone signal, without even requiring a crafting pattern.]&f"]
+	quest.5E6585F7627247E3.quest_subtitle: "自动化功能的模块化升级!&7[Automation in upgrade form!]&f"
+	quest.5E7E35CCAF1C88EE.quest_desc: ["&bME输入总线&f会以固定频率从其所朝向的外部存储容器中抽取物品.可配置过滤功能使其仅从目标容器吸收特定物品.\\n&7[The ME Import Bus periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory.]&f"]
+	quest.5E7E35CCAF1C88EE.quest_subtitle: "输&7[The I]&f"
+	quest.5F56892CD904C40F.quest_desc: ["第五阶也是最终阶的AE2标准存储组件,提供&e262144&f字节存储容量.\\n&7[The fifth and final AE2-standard tier of storage component, providing 262144 bytes of storage.]&f"]
+	quest.5F56892CD904C40F.quest_subtitle: "4次方^4&7[x4^4]&f"
+	quest.5F56892CD904C40F.title: "256k存储组件&7[256k Storage Component]&f"
+	quest.6144202A97C6CD1C.quest_desc: ["&b&a石英切割刀&f&f与扳手类似,存在下界石英和赛特斯石英两种材质,是值得常备的实用合成工具.\\n\\n通过在电缆间安装&b电缆锚点&f(使用此刀具合成,单把刀具可制作50次)可实现无需染色分离电缆.\\n\\n电缆锚点还可用于制作&b电缆伪装板&f,通过任意方块的表面纹理遮盖电缆实现墙体隐藏.虽然JEI不显示伪装板配方,但只需将任意常规方块与4个电缆锚点在工作台中组合即可合成.\\n\\n除制作锚点外,切割刀另有妙用:右键点击可打开小型界面制作&b&a名称压印模板&f&f.这些模板在压印机中可为输入物品重命名,若将两个模板叠放使用,输出物品名称将呈现自上而下的双模板组合命名.\\n&7[The Quartz Cutting Knife, like the wrench, comes in both nether and certus quartz flavours and is a useful crafting tool to have on hand.\\n\\nCables can also be separated without needing to be coloured by attaching a Cable Anchor between them, crafted using this knife and craftable up to 50 times with the same knife before it breaks.\\n\\nCable Anchors can also be used to craft Cable Facades, allowing you to disguise cables within walls by covering them with the face of an arbitrary block. While facade recipes are hidden in JEI, you can still craft them by taking any regular block and surrounding it with 4 cable anchors in the crafting grid.\\n\\nAside from crafting anchors, the cutting knife also has another use: right-clicking with the knife will open a small GUI that allows you to craft Inscriber Name Presses. When given a name, these presses can be used inside of an Inscriber to rename any input item with the name of the press. Two of these presses can be concatenated in the inscriber to rename the item to the name of the top press, followed by the bottom one.]&f"]
+	quest.6144202A97C6CD1C.quest_subtitle: "精密切割&7[Under the knife]&f"
+	quest.6144202A97C6CD1C.title: "电缆锚点&7[Cable Anchor]&f"
 	quest.6431A384DDFBF439.quest_desc: [
-		"&b&a网络工具&f&f是AE2全阶段的重要工具,用于屏幕显示网络详情(如总耗电量与存储状态)."
+		"&b&a网络工具&f&f是AE2全阶段的重要工具,用于屏幕显示网络详细信息(如总能耗与存储状态).\\n&7[The Network Tool is an important tool throughout AE2, which is used to display various details of a network on-screen such as overall power consumption and storage. ]&f"
 		""
-		"额外附赠功能:自带小型库存空间用于存放&e升级卡&f,查看可升级设备界面时可快速替换卡片.但与传统扳手不同,它无法旋转ME网络中的方块,仅支持潜行拆卸功能."
+		"额外功能是自带可存放&e升级卡&f的小型库存空间,查看任何可升级设备界面时均可快捷替换升级卡.但与传统扳手不同,它无法旋转连接ME网络的方块,仅支持潜行拆卸功能.\\n&7[As an added bonus, it also provides its own small inventory used to hold upgrade cards, which can be accessed when looking at any upgradeable device's screen for easy replacement. However, it cannot rotate blocks attached to the ME network like a regular wrench, only dismantle them when sneaking.]&f"
 	]
-	quest.6431A384DDFBF439.title: "&a网络工具&f"
-	quest.68B0B3DAF1145191.quest_desc: ["在AE2模组中起步最需要的两样设备是&b充能器&f和&b压印器&f.\\n\\n&b充能器&f在通电后会将&e赛特斯石英水晶&r充能,这些&e充能赛特斯水晶&r可用于制作&e福鲁伊克斯水晶&f——该模组中另一种重要资源.它也能为任何可储能的物品充电.\\n\\n&b压印器&f可将AE2中的各种石英晶体研磨成粉,但更重要的功能是制造特殊的&e印刷电路&f与&e处理器&f,下一章节任务会详细说明."]
-	quest.68B0B3DAF1145191.quest_subtitle: "首要事项"
-	quest.68B0B3DAF1145191.title: "首要事项"
-	quest.69B7DE2283B4EE6C.quest_desc: ["&b并行处理单元&f通过让模式供应器加速向连接设备输送物品,或同步制备多种所需材料,来提升合成效率.\\n\\n基础AE2协处理器提供1个协处理器'线程'辅助此功能,而来自&dMEGA存储单元&f的协处理单元单个方块即可提供4线程."]
-	quest.69B7DE2283B4EE6C.quest_subtitle: "扩展CPU核心"
-	quest.6D54B45CDA70FEAB.quest_desc: ["&b能量卡&f可应用于多数可充电设备(如&a便携元件&f与后续将介绍的无线终端),以增加&o其&r能量缓冲容量."]
-	quest.6E15447FC3D678E0.quest_desc: ["&b模糊卡&f使被过滤物品可无视任何NBT元数据(如损耗值或附魔)进行匹配,而&b反相卡&f能将总线上的过滤器从白名单模式切换为黑名单模式."]
-	quest.6E15447FC3D678E0.quest_subtitle: "剩余两种IO卡"
-	quest.6E15447FC3D678E0.title: "概而言之"
+	quest.6431A384DDFBF439.title: "&a网络工具&f&7[Network Tools]&f"
+	quest.68B0B3DAF1145191.quest_desc: ["在AE2模组中,首先需要制作的两个关键设备是&b充能器&f和&b压印器&f.\\n\\n&b充能器&f在通电后,可将&e赛特斯石英水晶&r进行充能.这些&e充能赛特斯水晶&r可用于生产模组中另一种重要资源——&e福鲁伊克斯水晶&f.它还能为任何可存储能量的物品充电.\\n\\n&b压印器&f不仅能将AE2中的各种石英晶体研磨成粉,更重要的功能是制造特殊的&e印刷电路&f和&e处理器&f,具体操作将在下一个任务中详细说明.\\n&7[Two of the very first things you will need to get started in AE2 are the Charger and the Inscriber.\\n\\nThe Charger, when supplied with power, will take Certus Quartz Crystals and charge them. These Charged Certus Crystals can then be used in the production of Fluix, another important resource in the mod. It can also be used to charge any item that stores power.\\n\\nThe Inscriber can be used to turn the various quartz crystals in AE2 into their dust form, but more importantly is used to fabricate special Printed Circuits and Processors, as will become clearer in the next quest.]&f"]
+	quest.68B0B3DAF1145191.quest_subtitle: "首要事宜&7[First Things First]&f"
+	quest.68B0B3DAF1145191.title: "首要事宜&7[First Things First]&f"
+	quest.69B7DE2283B4EE6C.quest_desc: ["&b并行处理单元&f通过让模式供应器加速向连接设备发送物品,或并行处理多个所需材料,从而加快合成速度.\\n\\n基础AE2协处理器提供1个协处理器'线程'协助此过程,而来自&dMEGA存储单元&f的协处理单元单个方块即可提供4个线程.\\n&7[The Crafting Co-Processing Unit helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients.\\n\\nThe base AE2 co-processor provides one co-processor 'thread' to assist this, while the co-processing unit from MEGA Cells provides 4 threads in a single such block.]&f"]
+	quest.69B7DE2283B4EE6C.quest_subtitle: "扩展CPU核心&7[Download more CPU cores]&f"
+	quest.6D54B45CDA70FEAB.quest_desc: ["&b能量卡&f可应用于多数可充电设备(如&a便携元件&f和后续将介绍的无线终端),用以增加&o其&r能量缓冲容量.\\n&7[The Energy Card can be applied to most chargeable devices like Portable Cells and Wireless Terminals (covered later) to also increase their energy buffer.]&f"]
+	quest.6E15447FC3D678E0.quest_desc: ["&b模糊卡&f使被过滤物品可无视任何NBT元数据(如损耗值或附魔)进行匹配,而&b反相卡&f可将此类总线上的过滤器从白名单模式切换为黑名单模式.\\n&7[The Fuzzy Card allows a filtered item to be matched regardless of any (NBT) metadata such as damage or enchantments, while the Inverter Card toggles the filter on such buses from being a whitelist to being a blacklist.]&f"]
+	quest.6E15447FC3D678E0.quest_subtitle: "剩余两种I/O卡&7[The remaining two IO cards]&f"
+	quest.6E15447FC3D678E0.title: "概而言之&7[Loosely Speaking]&f"
 	quest.6F3D0A248B5A9CA2.quest_desc: [
-		"&b空间存储单元&f用于存储特定空间容积,提供三种容量规格,最大可容纳2x2x2、16x16x16及128x128x128方块区域."
+		"&b空间&a存储单元&f用于存储特定空间容积,提供三种容量规格,最大可分别容纳2x2x2、16x16x16和128x128x128方块的空间.\\n&7[Spatial Storage Cells are used to hold one defined volume each, and come in three different capacities allowing for a maximum of 2x2x2, 16x16x16 and 128x128x128 blocks' worth of space. ]&f"
 		""
-		"编码完成后,存储单元会在空间存储&e维度&f内被分配一个区域,并获得对应此区域的唯一ID.已编码的单元仍可通过&a空间IO端口&f取回存储的方块与实体."
+		"编码完成后,存储单元会在空间存储&e维度&f中被分配一个区域,并获得对应此区域的唯一ID.已编码的存储单元仍可通过&a空间I/O端口&f取回其中存储的方块与实体.\\n&7[Upon encoding, a cell is allocated a section of space within the spatial storage dimension, along with a unique ID corresponding to the region allocated to the cell. An encoded cell can still be used within the Spatial IO Port to retrieve any stored blocks and entities. ]&f"
 		""
-		"此后,任何存在于单元空间区域内或与初始编码尺寸相同的SCS中的方块,可分别移回主世界或空间维度.若两处同时存在方块,它们将按规则互换位置."
+		"此后,存储在单元空间区域内或与初始编码尺寸相同的SCS(空间控制结构)中的任何方块,可分别移回主世界或空间维度.若两处同时存在方块,它们将进行对应位置的交换.\\n&7[From then on, any blocks contained either within the cell's region of space or in an SCS with the same size as the one used for the initial encoding can be moved back into the overworld or into the spatial dimension respectively. If there are blocks both within the spatial region and within the SCS, these will simply swap places accordingly.]&f"
 	]
-	quest.6F3D0A248B5A9CA2.title: "空间&a存储单元&f"
+	quest.6F3D0A248B5A9CA2.title: "空间&a存储单元&f&7[Spatial Storage Cell]&f"
 	quest.748EC01C031E661A.quest_desc: [
-		"当然,空岛玩法会略有不同.与制作无瑕萌芽方块类似,压印板的制作方式也需调整."
+		"当然,在空岛模式中运作机制会略有不同.与制作无瑕萌芽方块类似,压印模板的制作方式也需要调整.\\n&7[Of course, being a skyblock things will function slightly differently. As with the creation of flawless budding blocks, you will also want to create your inscriber presses differently.]&f"
 		""
-		"在本整合包中,压印板直接由压印器产出.若未显示合成配方,请查阅下一页——那里记载的配方不会复制压印板,而是制作你的第一块压印板."
+		"在本整合包中,需直接通过压印器制作.找不到合成配方？请查阅下一页——那里记载的并非复制模板,而是首次制作模板的方法.\\n&7[In this pack, that is from the inscriber directly. Dont see the recipe? Check the next page for the one that does not duplicate the press, but creates your first.]&f"
 	]
-	quest.74FC0DDDB91DB172.quest_desc: ["为简化操作,应用能源2提供了一整套用于管理ME数据的设备,例如在全球范围内移动存储的物品.\\n\\n&b&aME接口&f&f便是其中之一.作为输入设备,该接口允许任何物品/流体等通过外部管道输入,并自动存入其所连接的ME网络.\\n\\n作为输出设备,可配置接口持续保持特定数量的可用物品库存,从ME网络调度至其内部存储空间,便于外部源(如其他玩家或管道系统)获取物品."]
-	quest.74FC0DDDB91DB172.quest_subtitle: "注意!注意!注意!"
-	quest.74FC0DDDB91DB172.title: "输入输出核心"
+	quest.74FC0DDDB91DB172.quest_desc: ["为简化操作流程,应用能源2(AE2)提供了一整套用于管理ME数据的设备,实现全球范围内存储物品的调运.\\n\\n&b&aME接口&f&f便是其中之一.作为输入设备,该接口允许通过外部管道输入任意物品/流体等,这些内容会自动存入接口所连接的ME网络.\\n\\n作为输出设备,可配置接口维持特定库存量,将ME网络中的物品转移至其内部库存,便于外部接收源(如其他玩家或管道)获取物资.\\n&7[To make life that much easier, AE2 provides a whole suite of devices for the manipulation of ME data, i.e. moving stored items around the world.\\n\\nThe ME Interface is one of these devices. As an input device, the Interface allows any item/fluid/etc to be piped externally through it, which is then automatically stored in the ME Network that the interface is connected to.\\n\\nAs an output device, the Interface can be configured to keep a certain available amount of a stored item in stock, from the ME network to its own internal inventory. This allows items to then be received by some external source like another player or some pipe.]&f"]
+	quest.74FC0DDDB91DB172.quest_subtitle: "注意注意注意!&7[OI, OI, OI!]&f"
+	quest.74FC0DDDB91DB172.title: "输入输出单元&7[The IO]&f"
 	quest.77C9EE701F72586D.quest_desc: [
-		"&b&a便携元件&f&f与常规存储元件的功能一致,可插入箱子或驱动器进行物品存储."
+		"&b&a便携元件&f&f与常规存储元件的功能一致,可插入箱子或驱动器进行物品存储.\\n&7[Portable Cells function identically to regular cells in that they can be inserted into a chest or drive and filled accordingly. ]&f"
 		""
-		"但不同于常规元件,其内容可通过元件物品本身独立访问,类似于数字化的ME主题背包."
+		"但不同于常规元件,其内容可通过元件物品本身独立访问,类似于数字化的ME风格背包.\\n&7[However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack.]&f"
 	]
-	quest.78311531069807DE.quest_desc: ["在&d应用能源2&f中,每个ME网络都拥有特定数量的&e频道&f,即整个网络可容纳的联网设备数量.\\n\\n一般而言,任何直接处理ME数据(网络内存储物品)并执行输入输出操作的设备都会占用频道.通常仅涉及网络内部能量存储的组件(如&e&a能量单元&f&f和&e压印器&f)&o不&r占用频道.\\n\\n未配置&b&aME控制器&f&f的网络称为”临时网络"]
-	quest.7B7D1F0CB326B28F.quest_desc: ["&b&aME-IO端口&f&f可快速重整ME网络存储内容,在不同存储介质(如ME元件与通过存储总线连接的外部容器)间调度物品.\\n\\n当元件插入左侧输入槽时,可切换&aIO端口&f模式:将元件内容清空至其他ME存储设备,或将分散在多处存储的特定物品填充至(建议预先分区的)元件中."]
-	quest.7B7D1F0CB326B28F.quest_subtitle: "碎片整理"
+	quest.78311531069807DE.quest_desc: ["在&d应用能源2&f中,每个ME网络都拥有特定数量的&e频道&f,即整个网络可容纳的联网设备数量.\\n\\n一般而言,任何直接处理ME数据(网络内存储物品)并执行输入输出操作的设备都会占用频道.通常仅涉及网络内部能源存储的组件(如&e&a能量单元&f&f和&e铭刻机&f)&o不&r占用频道.\\n\\n未配置&b&aME控制器&f&f的网络称为”临时网络\\n&7[In Applied Energistics 2, every ME network has a certain number of channels available, which simply means how many networked devices can fit on the whole network.\\n\\nAs a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like Energy Cells and Inscribers, do not take up channels.\\n\\nNetworks without an ME Controller are known as 'ad-hoc' networks and only support a maximum of 8 channels.]&f"]
+	quest.7B7D1F0CB326B28F.quest_desc: ["&b&aME-IO端口&f&f可实现ME网络存储内容在不同存储介质(如ME元件与通过存储总线连接的外部容器)间的快速重整.\\n\\n当元件插入左侧输入槽时,可切换&aIO端口&f模式:将元件内容清空至其他ME存储设备,或将分散在不同存储设备中的特定物品填充至(理想情况下已分区的)元件.\\n&7[The ME IO Port allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses.\\n\\nWhen a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages.]&f"]
+	quest.7B7D1F0CB326B28F.quest_subtitle: "碎片整理&7[Defragmentation]&f"
 	quest.7EFBAF3E281D2EBE.quest_desc: [
-		"&bME存储总线&f附着于外部存储容器时,可使该容器如同ME网络组成部分般运作,实现纯ME方式存取物品."
+		"&bME存储总线&f面向外部存储容器时,可使该容器如同ME网络组成部分般运作,实现纯ME方式存取物品.\\n&7[The ME Storage Bus, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME. ]&f"
 		""
-		"存储总线可设置过滤器与优先级,使特定物品优先存入关联容器,但不会主动将网络中其他位置的过滤物品转移至该容器."
+		"存储总线可设置过滤器并指定优先级,使特定物品优先存入关联容器,但不会主动将网络内其他位置的过滤物品转移至该容器.\\n&7[Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage.]&f"
 	]
-	quest.7EFBAF3E281D2EBE.quest_subtitle: "备用箱"
-	task.08DA73B1AC17E5F5.title: "合成存储"
-	task.1076BC82EECB73F5.title: "石英扳手"
-	task.14DEFFB80CC96BC1.title: "ME致密包覆线缆"
-	task.23D186249A999B8C.title: "石英切割刀"
-	task.338A6DA0D711B7DC.title: "ME样板供应器"
-	task.38E290AC5E011888.title: "ME致密智能线缆"
-	task.408C5263C4664195.title: "箱子"
-	task.40A7CC56DACC2623.title: "ME玻璃线缆"
-	task.4C5435BE5560E71B.title: "版权所有"
-	task.61D93B13D496547D.title: "流体存储"
-	task.64EAD3DE84E94F02.title: "ME覆盖线缆"
-	task.65C439FD14C5EEB9.title: "&a便携存储&f"
-	task.7241918F270CA402.title: "&aME接口&f"
-	task.729773FF26CBB542.title: "版权所有"
-	task.75924053D6F5B242.title: "空间&a存储单元&f"
-	task.7E0D9E6342295AB0.title: "频道系统前言"
-	task.7FC3DAA1BD5016A0.title: "ME智能线缆"
+	quest.7EFBAF3E281D2EBE.quest_subtitle: "备用箱子&7[The spare chest]&f"
+	task.08DA73B1AC17E5F5.title: "合成存储&7[Crafting Storage]&f"
+	task.1076BC82EECB73F5.title: "石英扳手&7[Quartz Wrenches]&f"
+	task.14DEFFB80CC96BC1.title: "ME致密包覆线缆&7[ME Dense Covered Cables]&f"
+	task.23D186249A999B8C.title: "石英切割刀&7[Quartz Cutting Knives]&f"
+	task.338A6DA0D711B7DC.title: "ME样板供应器&7[ME Pattern Provider]&f"
+	task.38E290AC5E011888.title: "ME致密智能线缆&7[ME Dense Smart Cables]&f"
+	task.408C5263C4664195.title: "箱子&7[Chests]&f"
+	task.40A7CC56DACC2623.title: "ME玻璃线缆&7[ME Glass Cables]&f"
+	task.4C5435BE5560E71B.title: "版权所有&7[AllRightsReserved]&f"
+	task.61D93B13D496547D.title: "流体存储&7[Fluid Storage]&f"
+	task.64EAD3DE84E94F02.title: "ME覆盖型线缆&7[ME Covered Cables]&f"
+	task.65C439FD14C5EEB9.title: "&a便携存储&f&7[Portable Storage]&f"
+	task.7241918F270CA402.title: "&aME接口&f&7[ME Interface]&f"
+	task.729773FF26CBB542.title: "版权所有&7[AllRightsReserved]&f"
+	task.75924053D6F5B242.title: "空间&a存储单元&f&7[Spatial Storage Cells]&f"
+	task.7E0D9E6342295AB0.title: "频道系统导论&7[Foreword on Channels]&f"
+	task.7FC3DAA1BD5016A0.title: "ME智能线缆&7[ME Smart Cables]&f"
 }

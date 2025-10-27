@@ -1,200 +1,202 @@
 {
-	quest.0043ED1E4EF2D4A1.quest_desc: ["这些能有效增强你的能力."]
-	quest.0043ED1E4EF2D4A1.quest_subtitle: "辅助角色"
-	quest.0043ED1E4EF2D4A1.title: "&5其他法核"
-	quest.04987E54ADC2C057.title: "&6德鲁伊护符"
-	quest.04D9F6587EF8D9B7.quest_desc: ["&9&a药水罐&f&r最多可储存100瓶药水.通过空瓶或药水烧瓶点击罐子即可取出药水.\\n\\n女巫在进行自动药水合成时会使用这些罐子."]
-	quest.04D9F6587EF8D9B7.quest_subtitle: "药水存储"
-	quest.088FCB5267CB7A89.quest_desc: ["这条腰带会短暂赋予随机的正面药水效果,效果强度各不相同."]
-	quest.088FCB5267CB7A89.title: "&c不稳定赠礼腰带"
-	quest.0A1ABE9CF7740AAA.quest_desc: ["&a折扣戒指&f可小幅提升最大魔力和魔力回复速度,同时降低施法总消耗."]
-	quest.0A1ABE9CF7740AAA.title: "&3折扣戒指"
-	quest.0D330FAD6C993DBC.quest_desc: ["这是法术书的进阶升级版!\\n\\n它将提升整体魔力值与回复速度,并允许你制作和使用二级符文."]
-	quest.0D330FAD6C993DBC.quest_subtitle: "第二版本"
-	quest.0D330FAD6C993DBC.title: "&5法师&a法术书&f"
-	quest.0DA31E972F2DE8AB.quest_desc: ["法核能以多种方式增强特定类型的魔法.将鼠标悬停在符文上方并查看右上角标识可知晓法术类型."]
-	quest.0DA31E972F2DE8AB.quest_subtitle: "「初级偏好」"
-	quest.0DA31E972F2DE8AB.title: "&9初级&a元素核心&f"
-	quest.0E2AD156E5EF263A.quest_desc: ["用于在抄写台上铭刻法术."]
-	quest.0E2AD156E5EF263A.quest_subtitle: "精制纸张"
-	quest.0E2AD156E5EF263A.title: "&d&a法术羊皮纸&f"
-	quest.111649D7E16D869F.quest_desc: ["&9施法者魔杖&r仅能承载单个法术,需通过抄写台进行铭刻.\\n\\n魔杖法术必须始终以投射>加速作为起始,且只能铭刻无其他释放方式(如接触、自身等)的法术.\\n\\n这使你可突破10个法术的数量上限.若需使用破坏法术,直接单独铭刻破坏符文即可."]
-	quest.111649D7E16D869F.title: "&d附魔师魔杖"
-	quest.1322CDAC5D3007BA.quest_desc: ["此机制较为复杂:首先通过与Lv4&5诡术巫师&r交易获得德鲁伊符咒并合成护符.对&2&a苔石&f&r右击使用可生成&2德鲁伊石阵&r并召唤德鲁伊.\\n\\n此时需使用禁锢之瓶:启动禁锢仪式,放置禁锢瓶与任何想要收集战利品的生物,同时需要&d源力&r作为媒介,即可将生物封入瓶中.\\n\\n最后将瓶子放置在德鲁伊10格范围内,并在&2石阵&r旁放置满&d源力瓶&r与箱子.当观察到瓶口溢出绿色粒子时,战利品便会陆续出现在箱中.\\n\\n具体产出速率计算方式请查阅维基百科."]
-	quest.1322CDAC5D3007BA.quest_subtitle: "对首领也有效"
-	quest.1322CDAC5D3007BA.title: "&6德莱格米养殖"
-	quest.14DB8A515CA50932.quest_desc: ["&9附魔之剑&r允许你为剑附加接触法术.\\n\\n剑上所有法术的最终效果获得+1强化增幅.\\n\\n要通过抄写台为剑附加法术,需创建无形态的法术."]
-	quest.14DB8A515CA50932.title: "&9附魔之剑"
-	quest.151648179684B088.quest_desc: ["&a符文粉笔&f用于在地面绘制永久符文,这些符文会对经过的实体施放法术.\\n\\n要通过抄写台为符文附加法术,需在&e&a法术羊皮纸&f&r上铭刻法术.\\n\\n注意:&a符文&f需要魔源才能运作."]
-	quest.151648179684B088.quest_subtitle: "可放置法术"
-	quest.151648179684B088.title: "&6&a符文粉笔&f"
-	quest.1631AD6036F80333.quest_desc: ["使用&6&d资源蜜蜂&f&r能节省宝贵的时间与空间!请尽快获取."]
-	quest.1631AD6036F80333.quest_subtitle: "优于灌注法阵"
-	quest.1631AD6036F80333.title: "&5自动化&a魔源水晶&f"
-	quest.17D7D34F519F7E5F.quest_desc: ["制作最终阶法术书需要先击杀&6&a荒野奇美拉&f&r.\\n\\n这是需要通过&9&a仪式火盆&f&r完成的&a魔法仪式&f."]
-	quest.17D7D34F519F7E5F.quest_subtitle: "非胆小者所能及"
-	quest.17D7D34F519F7E5F.title: "&6&a大法师法术书&f"
-	quest.18A2FBE2D4133FA2.quest_desc: ["&a奥术基座&f是制作&a仪式火盆&f和&a附魔装置&f合成物品的必备组件.\\n\\n立即为自己制作8个吧!"]
-	quest.18A2FBE2D4133FA2.quest_subtitle: "精工台座"
-	quest.18A2FBE2D4133FA2.title: "&a奥术基座&f"
-	quest.19D02325579F2AA8.quest_desc: ["&a火山魔源通道&f通过消耗可燃物产生魔源,使用秘源木材可额外增产.\\n\\n燃烧过程中会将周围岩石转化为岩浆.\\n\\n同时还会生成&a熔岩睡莲&f."]
-	quest.19D02325579F2AA8.quest_subtitle: "附带损害"
-	quest.1D86B2E553503E53.quest_desc: ["&6&a支配之杖&f&r用于控制世界中遇到的生物!每种生物对法杖的反应不同,请查阅破旧笔记获取详情!"]
-	quest.1D86B2E553503E53.quest_subtitle: "友善助手"
-	quest.1D86B2E553503E53.title: "&6召唤援助!"
-	quest.21B43DA96BAD42A6.quest_desc: ["&5珍异&a魔源罐&f&r可储存100,000魔源,远超普通罐的10,000容量,同时也是&d&a创造魔源罐&f的合成材料."]
-	quest.21B43DA96BAD42A6.quest_subtitle: "稀土金属...蕴含魔法"
-	quest.21B43DA96BAD42A6.title: "&5珍异&a魔源罐&f"
-	quest.227DBA8836021B0B.quest_desc: ["&d新生魔艺&f中的机械动力系统称为&9魔源&r.\\n\\n收集魔源需要&a魔源罐&f.\\n\\n可通过魔源桶转移,或打破&a魔源罐&f直接获取."]
-	quest.227DBA8836021B0B.quest_subtitle: "魔源存储"
-	quest.252F320615FA2839.quest_desc: ["需要法术持续命中特定位置？指定目标点后,投射物将&a弹射&r至目标处."]
-	quest.252F320615FA2839.quest_subtitle: "反转咒术"
-	quest.25B98F334ECF79BD.quest_desc: ["依靠内置时钟而非红石运作的炮塔."]
-	quest.25B98F334ECF79BD.quest_subtitle: "自动施法"
-	quest.25B98F334ECF79BD.title: "&e定时法术炮塔"
-	quest.292A382E323B8A39.quest_desc: ["&6护符&r来自&d&lArs Additions&r模组,是能提供各种防护和实用效果的魔法饰品.它们可通过&d源力&r充能,并提供广泛增益,例如消除火焰伤害、防止死亡或允许水下呼吸."]
-	quest.292A382E323B8A39.title: "&6功能性护符"
-	quest.295C77EEC89000FC.quest_subtitle: "通过生物死亡与动物繁殖生成源力"
-	quest.2C47C9B566A63135.title: "&a旋苗护符"
-	quest.2D0CF18C8B2ABB7D.quest_desc: ["将其放置在生长中的植物或树苗附近可产生源力.奥术木材类树木能提供更多源力!\\n\\n注:骨粉催熟不会产生源力."]
-	quest.2D0CF18C8B2ABB7D.quest_subtitle: "利用植物生长创造源力"
-	quest.3142A40E1EAEBAA3.quest_desc: ["&6&a探矿杆&f&r在使用时会提供魔法寻获与透视能力.\\n\\n这使你能看到附近的魔法生物,并协助寻找紫水晶!"]
-	quest.3142A40E1EAEBAA3.quest_subtitle: "魔法探测器"
-	quest.3182E8AF755104E4.quest_desc: ["格挡伤害时,&9附魔师护盾&r会为使用者短暂赋予&a魔力再生&f和&a法术伤害提升&f效果.\\n\\n此外,该护盾会随时间推移利用佩戴者的魔力自动修复."]
-	quest.3182E8AF755104E4.title: "&5附魔师护盾"
-	quest.33682F4B44950123.quest_desc: ["要深入掌握法术知识,我们需要一种特殊的魔法木材!"]
-	quest.33682F4B44950123.quest_subtitle: "珍奇木材"
-	quest.33682F4B44950123.title: "&9奥术木材"
-	quest.34A173721735401B.title: "&d&a薇克精护符&f"
-	quest.36CDA39C23D3AA2B.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确授权,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务已被隐藏,若您能看到此说明,说明您正处于编辑模式."]
-	quest.3AE659C0C3850002.quest_desc: ["矮精会以&a经验宝石&r形式收集经验!这些宝石用途有限,请随意使用!"]
-	quest.3AE659C0C3850002.quest_subtitle: "固化经验"
-	quest.3AE659C0C3850002.title: "&a经验"
-	quest.3CAB80B2BB5C2C37.quest_desc: ["过滤符文允许您将法术设定为针对特定类型的目标."]
-	quest.3CAB80B2BB5C2C37.title: "&6过滤符文"
-	quest.3D4D88B8BE881351.quest_desc: ["若要施放更强大的法术,您需要&6抄写台&r为法术书&a解锁&f新符文.\\n\\n共有3个等级的符文可&a解锁&f,每个等级都需要消耗经验值与物品.\\n\\n抄写台还可用于将法术附着到&a法术羊皮纸&f上:将&a法术羊皮纸&f置于台上,在法术书中选择法术,然后潜行右击台上的书.\\n\\n制作符文时,持法术书右击抄写台.搜索想要制作的符文,点击底部”选择”选项,再用所需物品右击台面即可生成符文.使用符文以学习它.\\n\\n注:该工作台可从附近容器自动提取物品."]
-	quest.3D4D88B8BE881351.quest_subtitle: "法术升级"
-	quest.3D4D88B8BE881351.title: "&6抄写台"
+	quest.0043ED1E4EF2D4A1.quest_desc: ["这些能有效增强你的能力.\\n&7[These are useful for boosting your abilities.]&f"]
+	quest.0043ED1E4EF2D4A1.quest_subtitle: "辅助角色&7[The support characters]&f"
+	quest.0043ED1E4EF2D4A1.title: "&5其他法核&7[Other Foci]&f"
+	quest.04987E54ADC2C057.title: "&6德鲁伊灵符&7[Drygmy Charm]&f"
+	quest.04D9F6587EF8D9B7.quest_desc: ["&9&a药水罐&f&r最多可储存100瓶药水.通过空瓶或药水烧瓶点击罐子即可取出药水.\\n\\n巫妖灵在进行自动药水合成时会使用这些罐子.\\n&7[The Potion Jar stores up to 100 potions. You can remove them by using an empty bottle or a potion flask on the jar. \\n\\nWixies will use these jars during Potion Autocrafting.]&f"]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "药水存储&7[Storing Potions]&f"
+	quest.088FCB5267CB7A89.quest_desc: ["这条腰带会短暂赋予随机的正面药水效果,效果强度各不相同.\\n&7[This belt will give random positive potion effects for a short duration. These will vary in strength.]&f"]
+	quest.088FCB5267CB7A89.title: "&c不稳定的赠礼腰带&7[Belt of Unstable Gifts]&f"
+	quest.0A1ABE9CF7740AAA.quest_desc: ["&a折扣戒指&f可小幅提升最大魔力和魔力回复速度,同时降低法术施放的总消耗.\\n&7[The Rings of Discount provides a small bonus to max mana and mana regen. It also reduces the total cost to cast a spell.]&f"]
+	quest.0A1ABE9CF7740AAA.title: "&3折扣戒指&7[Rings of Discount]&f"
+	quest.0D330FAD6C993DBC.quest_desc: ["这是法术书的进阶升级版!\\n\\n它将提升整体魔力值与回复速度,并允许你制作和使用二阶符文.\\n&7[This is the next upgrade to your Spellbook! \\n\\nThis will increase your overall mana and mana regen, as well as allowing you to create and use Tier 2 Glyphs.]&f"]
+	quest.0D330FAD6C993DBC.quest_subtitle: "第二版本&7[V2]&f"
+	quest.0D330FAD6C993DBC.title: "&5法师&a法术书&f&7[Mage's Spell Book]&f"
+	quest.0DA31E972F2DE8AB.quest_desc: ["法核能以多种方式增强特定类型的魔法.将鼠标悬停在符文上并查看右上角标识即可识别法术类型.\\n&7[Foci boost magic of a particular type in many different ways. You can see which type a spell is by hovering over the glyph and looking at the top right.]&f"]
+	quest.0DA31E972F2DE8AB.quest_subtitle: "”初级倾向”&7[\"Lesser bias\"]&f"
+	quest.0DA31E972F2DE8AB.title: "&9初级&a元素核心&f&7[Lesser Elemental Foci]&f"
+	quest.0E2AD156E5EF263A.quest_desc: ["用于在抄写台上铭刻法术.\\n&7[Used to inscribe spells on with the Scribe's Table.]&f"]
+	quest.0E2AD156E5EF263A.quest_subtitle: "精制纸张&7[Fancy Paper]&f"
+	quest.0E2AD156E5EF263A.title: "&d&a法术羊皮纸&f&7[Spell Parchment]&f"
+	quest.111649D7E16D869F.quest_desc: ["&9施法者魔杖&r仅能承载单一法术,需通过抄写台进行铭刻.\\n\\n魔杖法术必须始于投射>加速组合,且只能铭刻无其他释放方式(如接触、自身等)的法术.\\n\\n这使你可突破10个法术的数量上限.若需使用破坏法术,直接单独铭刻破坏符文即可.\\n&7[The Caster's Wand only accepts a single spell, and is inscribed using the Scribe's Table. \\n\\nWand spells always start with Projectile > Accelerate, and MUST be inscribed with a spell that does not have another method (like touch, self, etc). \\n\\nThis allows you to cast spells beyond the 10 spell cap. If you want to use Break, just inscribe the wand with Break by itself.]&f"]
+	quest.111649D7E16D869F.title: "&d附魔师魔杖&7[Enchanter's Wand]&f"
+	quest.1322CDAC5D3007BA.quest_desc: ["此流程较为复杂:首先通过与Lv4&5诡术巫师&r交易获得灵符代币并合成德鲁伊灵符.对&2&a苔石&f&r右键使用可生成&2德鲁伊石阵&r并召唤德鲁伊.\\n\\n此时需使用禁锢之瓶:启动禁锢仪式,放置禁锢瓶与任何想要收集战利品的生物,同时需要&d源力&r.成功后将生物封入瓶中.\\n\\n最后将瓶子放置在德鲁伊10格范围内,并在&2石阵&r旁放置满&d源力瓶&r与箱子.可见绿色粒子从瓶中外溢,最终战利品将出现在箱中.\\n\\n具体产出率计算方式请查阅维基百科.\\n&7[Now this ones complicated. First, obtain a drygmy charm by trading with a Lv4 Shady Wizard and crafting it from the token. You can right-click Mossy Cobblestone with it to create a Drygmy Henge, which spawns a Drygmy.\\n\\nHere's where your containment jar comes in. Start the containment ritual, and place the containment jar and any mob whose loot you want to farm. You'll need some Source as well. This should put the mob in the jar.\\n\\nFinally, place the jar within 10 blocks of the drygmy, and put a full source jar and a chest next to the Henge. You should see green particles coming from the jar, and eventually the mob drops should appear in the chest.\\n\\nFor specifics on how the rates are calculated, read the wiki.]&f"]
+	quest.1322CDAC5D3007BA.quest_subtitle: "对Boss也有效&7[Even works for bosses]&f"
+	quest.1322CDAC5D3007BA.title: "&6德莱米养殖&7[Drygmy Farming]&f"
+	quest.14DB8A515CA50932.quest_desc: ["&9附魔之剑&r允许你为剑附加接触类法术.\\n\\n剑上所有法术的最终效果会获得1级强化增幅.\\n\\n要通过抄写台为剑附加法术,需创建无形态的法术.\\n&7[The Enchanter's Sword allows you to attach a Touch Spell to the sword. \\n\\nAll spells on the Sword gain 1 additional Amplify augment to the last effect on the spell. \\n\\nTo apply a spell to the sword, use a Scribe's Table. Create the spell without using a form.]&f"]
+	quest.14DB8A515CA50932.title: "&9附魔之剑&7[Enchanter's Sword]&f"
+	quest.151648179684B088.quest_desc: ["&a符文粉笔&f用于在地面绘制永久性符文.这些符文会对经过的实体施放法术.\\n\\n要通过抄写台为符文附加法术,需在&e&a法术羊皮纸&f&r上铭刻.\\n\\n注意:&a符文&f需要魔源才能运作.\\n&7[Runic Chalk is used to draw permanent Runes on that ground. These runes will cast spells on entities that walk over them. \\n\\nTo attach a spell to a rune, inscribe a Spell Parchment using a Scribe's Table.\\n\\nNote: The Rune will need Source to operate.]&f"]
+	quest.151648179684B088.quest_subtitle: "可放置法术&7[Placeable Spells]&f"
+	quest.151648179684B088.title: "&6&a符文粉笔&f&7[Runic Chalk]&f"
+	quest.1631AD6036F80333.quest_desc: ["使用&6&d资源蜜蜂&f&r可节省宝贵时间与空间!请尽快获取.\\n&7[You can use Productive Bees to save precious time and space! Get it as soon as possible.]&f"]
+	quest.1631AD6036F80333.quest_subtitle: "优于灌注舱&7[Better than imbuement chambers]&f"
+	quest.1631AD6036F80333.title: "&5自动化&a魔源水晶&f&7[Automating Source Gems]&f"
+	quest.17D7D34F519F7E5F.quest_desc: ["制作最终阶法术书需要击杀&6&a荒野奇美拉&f&r.\\n\\n这是需要通过&9&a仪式火盆&f&r完成的&a魔法仪式&f.\\n&7[To create the final tier of your Spellbook, you'll need to have killed the Wilden Chimera. \\n\\nThis is a Ritual that you'll need to complete using a Ritual Brazier.]&f"]
+	quest.17D7D34F519F7E5F.quest_subtitle: "非胆怯者所能及&7[Not for the faint of heart]&f"
+	quest.17D7D34F519F7E5F.title: "&6&a大法师法术书&f&7[Archmage Spell Book]&f"
+	quest.18A2FBE2D4133FA2.quest_desc: ["&a奥术基座&f是&a仪式火盆&f和&a附魔装置&f合成物品的必备组件.\\n\\n请立即制作8个!\\n&7[Arcane Pedestals are needed for the Ritual Brazier and crafting items with an Enchanting Apparatus. \\n\\nGo ahead and make yourself 8 of them!]&f"]
+	quest.18A2FBE2D4133FA2.quest_subtitle: "精工台座&7[Fancy Tables]&f"
+	quest.18A2FBE2D4133FA2.title: "&a奥术基座&f&7[Arcane Pedestals]&f"
+	quest.19D02325579F2AA8.quest_desc: ["&a火山魔源通道&f通过消耗可燃物生成魔源.使用拱形&a原木&f可产生额外魔源.\\n\\n燃烧过程中会将周围岩石转化为熔岩.\\n\\n同时生成&a熔岩睡莲&f.\\n&7[The Volcanic Sourcelink generates Source by consuming burnable items. Archwood logs will generate bonus Source. \\n\\nAs it burns items, it will convert nearby stone into lava. \\n\\nThis also generates Lava Lilys.]&f"]
+	quest.19D02325579F2AA8.quest_subtitle: "附带损害&7[Collateral damage]&f"
+	quest.1A26E6650D007262.quest_desc: ["来源:显然是JEI(注:此处为反讽,该设备实际上仅支持煤炭转化,JEI存在误导说明,其他矿物需通过不同途径转化).\\n&7[Source: JEI, apparently. (and yes, I was being sarcastic there, you are NOT getting any GeOre conversions other than coal with this one, JEI was just gaslighting you all there. There are different paths for this.)]&f"]
+	quest.1A26E6650D007262.quest_subtitle: "绝对100%将&a叵得块&f转化为萌芽地质矿&7[Will totally, absolutely, 100% convert your Unobtainium Blocks into Budding GeOre]&f"
+	quest.1D86B2E553503E53.quest_desc: ["&6&a支配之杖&f&r用于控制世界中遇到的生物!每种生物对法杖的反应不同,请查阅破旧笔记获取详细信息!\\n&7[The Dominion Wand is used for controlling the creatures you might encounter in the world! Each being responds differently to the wand, so make sure to read up in the Worn Notebook!]&f"]
+	quest.1D86B2E553503E53.quest_subtitle: "友好助手&7[Friendly helpers]&f"
+	quest.1D86B2E553503E53.title: "&6召唤援助!&7[Summoning Help!]&f"
+	quest.21B43DA96BAD42A6.quest_desc: ["&5难得素&a魔源罐&f&r可储存100,000魔源,远超普通罐的10,000容量,同时也是&d&a创造魔源罐&f的合成材料.\\n&7[Unobtainum Source Jar can hold 100,000 source, rather than the measly 10,000 provided by a normal one. It is also an ingredient in the Creative Source Jar.]&f"]
+	quest.21B43DA96BAD42A6.quest_subtitle: "稀土金属...蕴含魔力&7[Rare earth metals are...magical]&f"
+	quest.21B43DA96BAD42A6.title: "&5难得素&a魔源罐&f&7[Unobtainum Source Jar]&f"
+	quest.227DBA8836021B0B.quest_desc: ["&d新生魔艺&f中的机械能源系统称为&9魔源&r.\\n\\n收集魔源需要&a魔源罐&f.\\n\\n可通过桶装运输或拆取&a魔源罐&f转移魔源.\\n&7[In Ars Nouveau, the power system for machines is called Source. \\n\\nTo start collecting some Source, we'll need a Source Jar. \\n\\nSource can also be moved with buckets, or by breaking and picking up Source Jars.]&f"]
+	quest.227DBA8836021B0B.quest_subtitle: "魔源存储&7[Storing Source]&f"
+	quest.252F320615FA2839.quest_desc: ["需要持续命中特定位置？指向目标即可让投射物&a弹射&r直达该处.\\n&7[Have spells you want to hit at one place consistently? Point this wherever you want and projectiles will bounce straight there.]&f"]
+	quest.252F320615FA2839.quest_subtitle: "反转卡牌&7[Uno reverse card]&f"
+	quest.25B98F334ECF79BD.quest_desc: ["一种依靠内部时钟而非红石运行的炮塔.\\n&7[A turret that runs on an internal clock rather than redstone.]&f"]
+	quest.25B98F334ECF79BD.quest_subtitle: "自动法术&7[Automatic spells]&f"
+	quest.25B98F334ECF79BD.title: "&e定时法术炮塔&7[Timer Spell Turret]&f"
+	quest.292A382E323B8A39.quest_desc: ["来自&d&lArs附加&r的&6护符&r是能提供各种防护和实用效果的魔法饰品.它们可通过&d源力&r充能,并提供广泛益处,如无效化火焰伤害、防止死亡或允许水下呼吸.\\n&7[Charms from the lArs Additions are magical trinkets that provide various protective and utility effects. They can be recharged with Source and offer a wide range of benefits, such as nullifying fire damage, preventing death, or allowing you to breathe underwater.]&f"]
+	quest.292A382E323B8A39.title: "&6功能护符&7[Functional Charms]&f"
+	quest.295C77EEC89000FC.quest_subtitle: "从生物死亡和动物繁殖中生成源力&7[Generates Source from Mob Deaths and Animal Breeding]&f"
+	quest.2C47C9B566A63135.title: "&a旋灵护符&7[Whirlsprig Charm]&f"
+	quest.2D0CF18C8B2ABB7D.quest_desc: ["将其放置在生长的植物或树苗附近可提供源力.秘法木树能提供更多源力!\\n\\n注:骨粉不会产生源力.\\n&7[Placing this near growing plants or saplings will provide Source. Archwood trees provide more Source! \\n\\nNote: Bonemealing does not produce Source.]&f"]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "利用植物生长创造源力&7[Creates Source using the growth of Plants]&f"
+	quest.3142A40E1EAEBAA3.quest_desc: ["&6&a探矿杆&f&r在使用时赋予你魔法寻获和透视能力.\\n\\n这使你能看到附近的魔法生物,并帮助你寻找紫水晶!\\n&7[The Dowsing Rod gives you Magic Find and Scrying when used. \\n\\nThis allows you to see nearby magic creatures as well as helping you find amethyst!]&f"]
+	quest.3142A40E1EAEBAA3.quest_subtitle: "魔法探测器&7[Magic Finder]&f"
+	quest.3182E8AF755104E4.quest_desc: ["当格挡伤害时,&9附魔师之盾&r会给予使用者&a魔力再生&f和&a法术伤害提升&f效果,持续短暂时间.\\n\\n此外,该盾牌会利用佩戴者的法力随时间自我修复.\\n&7[When blocking damage, the Enchanter's Shield will give the user Mana Regen and Spell Damage for a short amount of time. \\n\\nAdditionally, the shield will repair itself over time using the wearer's mana.]&f"]
+	quest.3182E8AF755104E4.title: "&5附魔师之盾&7[Enchanter's Shield]&f"
+	quest.33682F4B44950123.quest_desc: ["要深入掌握法术知识,我们需要一种特殊的魔法木材!\\n&7[To gain further knowledge of spells, we'll need a specific type of magical wood!]&f"]
+	quest.33682F4B44950123.quest_subtitle: "奇异木材&7[Fancy Wood]&f"
+	quest.33682F4B44950123.title: "&9秘法木&7[Archwood]&f"
+	quest.34A173721735401B.title: "&d&a薇克精护符&f&7[Wixie Charm]&f"
+	quest.36CDA39C23D3AA2B.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods模组包.\\n\\n由于所有&6AllTheMods&r包均采用&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公共包.\\n\\n此任务被故意隐藏,若你看到此信息,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.3AE659C0C3850002.quest_desc: ["矮精以&a经验宝石&r的形式收集经验!它们用途不多,请随意使用!\\n&7[Drygmies farm xp in the form of experience gems! They don't have much use, so feel free to use em!]&f"]
+	quest.3AE659C0C3850002.quest_subtitle: "固化经验&7[Solidified XP]&f"
+	quest.3AE659C0C3850002.title: "&a经验&7[Experience]&f"
+	quest.3CAB80B2BB5C2C37.quest_desc: ["过滤符文允许你将法术设定为针对特定类型的目标.\\n&7[Filter Glyphs allow you to set your spells to specific types of targets.]&f"]
+	quest.3CAB80B2BB5C2C37.title: "&6过滤符文&7[Filter Glyphs]&f"
+	quest.3D4D88B8BE881351.quest_desc: ["若想施展更强大的法术,你需要一张&6抄写员工作台&r来&a解锁&f法术书中的新符文.\\n\\n符文分为3个等级&a解锁&f,每个等级都需要消耗经验值与特定物品.\\n\\n该工作台还可将法术附着至&a法术羊皮纸&f上:放置羊皮纸于台面,选择法术书中对应法术,随后潜行状态下对工作台持书右键点击.\\n\\n制作符文时,持法术书右键点击工作台,搜寻目标符文并点击底部选择按钮.将所需材料右键放入工作台即可生成符文,使用符文即可习得.\\n\\n注:工作台可自动吸取附近容器内的物品.\\n&7[If you want to cast better spells, you'll need a Scribe's Table to unlock new glyphs for your spellbook. \\n\\nThere are 3 tiers of glyphs to unlock, and each one requires some experience and items. \\n\\nThe Scribe's Table is also used to attach spells to Spell Parchments. To do this, place a Spell Parchment on the table, select the spell in your Spellbook, then sneak right-click the book on the table. \\n\\nTo create a Glyph, right-click on the Scribe's Table with your spellbook. Search for the glyph you want to make, then click Select at the bottom. Right-click the table with the items required, and the glyph will be created. Use the glyph to learn it. \\n\\nNote: The table can pull items from nearby inventories.]&f"]
+	quest.3D4D88B8BE881351.quest_subtitle: "法术升级指南&7[Upgrading Spells]&f"
+	quest.3D4D88B8BE881351.title: "&6抄写员工作台&7[Scribe's Table]&f"
 	quest.3D862A3D3F83CA26.quest_desc: [
-		"&9&a附魔装置&f&r用于合成模组中的各种物品,需要魔源才能运作.\\n\\n它也是利用&a奥术基座&f进行合成的多方块结构.\\n\\n首先在地面放置&a奥术核心&f,然后将&a附魔装置&f置于其上,最后用&a奥术基座&f环绕装置.\\n"
+		"&9&a附魔装置&f&r用于合成模组内各类物品,运作需消耗源力.\\n\\n此为多重结构设备,需配合&a奥术基座&f进行合成.\\n\\n首先将&a奥术核心&f置于地面,上方放置&a附魔装置&f,周围用&a奥术基座&f环绕构成完整结构.\\n\\n&7[The Enchanting Apparatus is used to craft various items within the mod. It requires Source to work.\\n\\nIt is also a multiblock structure that utilizes Arcane Pedestals to craft.\\n\\nStart by placing an Arcane Core in the ground, then place the Enchanting Apparatus on top of it. Surround the Apparatus with Arcane Pedestals.\\n]&f"
 		"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
 	]
-	quest.3D862A3D3F83CA26.quest_subtitle: "花式合成"
-	quest.3D862A3D3F83CA26.title: "&9&a附魔装置&f"
-	quest.3DEF6BC2C123E676.quest_desc: ["可通过&6&a支配之杖&f&r调整的升级版,一如既往地兼容后续所有炫酷镜片."]
-	quest.3DEF6BC2C123E676.quest_subtitle: "精准定位"
-	quest.3FD702B5AB006402.quest_desc: ["是否曾渴望所到之处皆可悬浮？\\n\\n此腰带赋予悬浮能力,只需在下落或跳跃时于空中潜行即可激活."]
-	quest.3FD702B5AB006402.title: "&9&a浮空腰带&f"
-	quest.40321FBF721ACF46.quest_desc: ["效果不言而喻的升级...&4强到破坏平衡&r.亲身体验便知..."]
-	quest.40321FBF721ACF46.quest_subtitle: "增强偏转效能"
-	quest.40BC67BDEE15D1DE.quest_desc: ["制作&a魔源水晶&f需将青金石或&a紫水晶碎片&f放入&a灌注室&f,经过转化最终成为&a魔源水晶&f!"]
-	quest.40BC67BDEE15D1DE.quest_subtitle: "奥术之&a铁&f"
-	quest.40BC67BDEE15D1DE.title: "&d&a魔源水晶&f"
-	quest.41A0BE357C8A74E1.quest_desc: ["&9&a炼金魔源通道&f&r可从相邻药水瓶中产生魔源.\\n\\n魔源产量因药水类型与复杂度而异."]
-	quest.41A0BE357C8A74E1.quest_subtitle: "药水供能"
-	quest.441C0659ED28D935.quest_desc: ["制作一级雕文需要消耗3级经验值."]
-	quest.441C0659ED28D935.title: "&a一级雕文"
-	quest.457DE8C154641437.quest_desc: ["&9&a仪式火盆&f&r用于施展仪式,亦可作装饰用途.点燃需对其施放照明法术.\\n\\n进行仪式还需&a奥术基座&f.因仪式种类繁多,请通过&6破旧笔记&r查阅所有仪式!\\n\\n手持笔记时对&a仪式台&f按住Ctrl即可查看."]
-	quest.457DE8C154641437.quest_subtitle: "我发誓这不是邪教..."
-	quest.457DE8C154641437.title: "&9&a仪式火盆&f"
-	quest.47DD9F268BC2254E.quest_desc: ["现在我们有枪了!来自&d&l&d新生魔艺&f&r的&5基础法术炮塔&r可在接收红石信号时施放预设法术,其运作类似发射器但专精法术,从附近&5&a魔源罐&f&r汲取魔源作为施法能量."]
-	quest.47DD9F268BC2254E.quest_subtitle: "咻咻射击"
-	quest.47DD9F268BC2254E.title: "&5基础法术炮塔"
-	quest.48A5B5FBAFD3AED7.quest_subtitle: "威力强化版"
-	quest.48A5B5FBAFD3AED7.title: "&a压缩经验"
-	quest.48A6087A6EAD6A85.title: "&b&a塞壬护符&f"
-	quest.48D5D9D9AD98409F.title: "&6星鼬护符"
-	quest.48D8E1B9D76BAFC1.quest_desc: ["来自&d&l&d新生魔艺&f&r模组的&6手镯&r属于魔法饰品,可提供元素被动效果,增强法术伤害并能通过佩戴提升魔力."]
-	quest.48D8E1B9D76BAFC1.title: "&6手镯"
-	quest.4D4D383E210A4897.quest_desc: ["来自&d&lArs&r的&5精华&r是核心材料,几乎所有法术与附魔装置配方都需使用."]
-	quest.4D4D383E210A4897.quest_subtitle: "这些必不可少..."
-	quest.4D4D383E210A4897.title: "&2奥术&r&9精&r&4华&r&6质"
-	quest.51162B9185A45BB1.quest_desc: ["此弓可通过抄写台铭刻法术.\\n\\n消耗魔力值可将箭矢转化为&a法术箭矢&f,对目标施加铭刻的法术效果.\\n\\n若无箭矢,将发射造成0伤害的法术箭；若魔力不足,则发射普通箭矢.\\n\\n&9附魔弓&r还可使用特殊的强化箭矢来增强铭刻法术效果."]
-	quest.51162B9185A45BB1.title: "&5附魔弓"
-	quest.542C6D76B579886C.quest_desc: ["利用这些种子,我们将制作初始纤维——&5&a法师之花纤维&f&r.\\n\\n此材料可用于制造魔法饰品!"]
-	quest.542C6D76B579886C.quest_subtitle: "精编丝线"
-	quest.542C6D76B579886C.title: "&d&a法师之花纤维&f"
-	quest.54954F1FF453CAA2.quest_desc: ["这些是需要谨慎应对的防御性武器.当法术元素与炮塔元素一致时,它们会发射超强化法术.\\n\\n&o提示:最适用于防御场景."]
-	quest.54954F1FF453CAA2.quest_subtitle: "防御主宰"
-	quest.54954F1FF453CAA2.title: "&6元素炮塔"
-	quest.555B604217D266AF.quest_desc: ["曾想实现魔源流转？&3&a末影魔源罐&f&r正是解决方案!这种与&d&a魔源罐&f&r量子纠缠的容器,通过&d&a支配之杖&f&r链接后可共享魔源容量,实现即时传输."]
-	quest.555B604217D266AF.quest_subtitle: "永动自动化"
-	quest.555B604217D266AF.title: "&3&a末影魔源罐&f"
+	quest.3D862A3D3F83CA26.quest_subtitle: "精工合成系统&7[Fancy Crafting]&f"
+	quest.3D862A3D3F83CA26.title: "&9&a附魔装置&f&7[Enchanting Apparatus]&f"
+	quest.3DEF6BC2C123E676.quest_desc: ["可通过&6&a支配之杖&f&r进行参数调节(一如既往),并兼容后续将出现的各类炫目透镜.\\n&7[An adjustable version, with the Dominion Wand, as always. Also accepts all of those cool lenses that are coming up.]&f"]
+	quest.3DEF6BC2C123E676.quest_subtitle: "精准定位完成&7[That was targeted]&f"
+	quest.3FD702B5AB006402.quest_desc: ["是否曾幻想过凌空漫步？\\n\\n此腰带可令你悬浮空中.激活方式:处于下落或跳跃状态时,在空中保持潜行状态.\\n&7[Have you ever wanted to just hover everywhere you go? \\n\\nThis belt allows you to levitate. To activate, just sneak while in the air, either while falling or from jumping.]&f"]
+	quest.3FD702B5AB006402.title: "&9&a浮空腰带&f&7[Belt of Levitation]&f"
+	quest.40321FBF721ACF46.quest_desc: ["效果不言而喻的升级...&4强到破坏平衡&r.亲身体验便知...\\n&7[Self-explanatory upgrades that are...pretty broken. See for yourself...]&f"]
+	quest.40321FBF721ACF46.quest_subtitle: "偏转效能强化&7[Boosting your deflections]&f"
+	quest.40BC67BDEE15D1DE.quest_desc: ["制作&a魔源水晶&f需将青金石或&a紫水晶碎片&f放入&a灌注室&f,经过转化周期即可获得&a魔源水晶&f!\\n&7[To create Source Gems, we'll need to put either Lapis or Amethyst Shards into the Imbuement Chamber. Over time, these will convert to Source Gems!]&f"]
+	quest.40BC67BDEE15D1DE.quest_subtitle: "&a玄铁&f奥秘&7[The iron of Ars]&f"
+	quest.40BC67BDEE15D1DE.title: "&d&a魔源水晶&f&7[Source Gems]&f"
+	quest.41A0BE357C8A74E1.quest_desc: ["&9&a炼金魔源通道&f&r可从相邻药水瓶中提取源力.\\n\\n产出量随药水类型与炼制复杂度变化.\\n&7[The Alchemical Sourcelink produces Source from adjacent potion jars. \\n\\nThe amount of source varies per potion and complexity.]&f"]
+	quest.41A0BE357C8A74E1.quest_subtitle: "药水能源转化&7[Power through Potions]&f"
+	quest.441C0659ED28D935.quest_desc: ["一级符文制作需消耗3级经验值.\\n&7[Tier 1 Glyphs require 3 levels of experience to be made.]&f"]
+	quest.441C0659ED28D935.title: "&a一级符文&7[Tier 1 Glyphs]&f"
+	quest.457DE8C154641437.quest_desc: ["&9&a仪式火盆&f&r用于施展仪式法术,亦可作装饰用途.点燃方式:对其施展照明法术.\\n\\n进行仪式需配合&a奥术基座&f.因仪式种类繁多,请通过&6破旧笔记&r查阅所有仪式详情!\\n\\n操作方式:持有笔记时,在&a仪式台&f前按住Ctrl键.\\n&7[The Ritual Brazier is used to cast rituals. It can also be used for decoration. If you want to light the Brazier, use a Light spell on it. \\n\\nTo perform rituals, you'll need Arcane Pedestals as well. As there are so many rituals to cast, make sure to check out each of them using the Worn Notebook! \\n\\nThis can be done by holding Ctrl on the Ritual Table while the book is in your inventory.]&f"]
+	quest.457DE8C154641437.quest_subtitle: "我发誓这不是邪教仪式...&7[It's not a cult I swear...]&f"
+	quest.457DE8C154641437.title: "&9&a仪式火盆&f&7[Ritual Brazier]&f"
+	quest.47DD9F268BC2254E.quest_desc: ["现在让我们拥有法术炮塔!来自&d&l&d新生魔艺&f&r的&5基础法术炮塔&r可在接收红石信号时发射预设法术.其机制类似发射器(但用于法术),通过从附近&5&a魔源罐&f&r汲取源力来施放法术.\\n&7[Now we have guns! The Basic Spell Turret from lArs Nouveau is a block that casts a pre-inscribed spell when it receives a redstone signal. It functions similarly to a dispenser but for spells, drawing the necessary source from nearby Source Jars to power the cast.]&f"]
+	quest.47DD9F268BC2254E.quest_subtitle: "咻咻发射&7[Pew pew]&f"
+	quest.47DD9F268BC2254E.title: "&5基础法术炮塔&7[Basic Spell Turret]&f"
+	quest.48A5B5FBAFD3AED7.quest_subtitle: "威力更强&7[Packs a greater punch]&f"
+	quest.48A5B5FBAFD3AED7.title: "&a压缩经验&7[Compressed Experience]&f"
+	quest.48A6087A6EAD6A85.title: "&b&a塞壬护符&f&7[Siren Charm]&f"
+	quest.48D5D9D9AD98409F.title: "&6星核兽护符&7[Starbuncle Charm]&f"
+	quest.48D8E1B9D76BAFC1.quest_desc: ["来自&d&l&d新生魔艺&f&r模组的&6手镯&r是一种魔法饰品,属于魔法装备类型,可提供特殊被动能力并用于增强法术伤害.通过合成并佩戴可获得元素基础效果,提升魔法力量.\\n&7[Bangles from the lArs Nouveau mod are a type of bauble, specifically a piece of magical equipment that provides special passive abilities and can be used to boost spell damage. They can be crafted and worn to grant elemental-based effects and enhance your magical power.]&f"]
+	quest.48D8E1B9D76BAFC1.title: "&6手镯&7[Bangles]&f"
+	quest.4D4D383E210A4897.quest_desc: ["来自&d&lArs&r的&5精华&r是另一种极其重要的材料.几乎每个法术和附魔装置配方都需要它.\\n&7[Essence from lArs is another extremely important material. You need it for virtually every spell and enchanting apparatus recipe.]&f"]
+	quest.4D4D383E210A4897.quest_subtitle: "你会需要这些...&7[You'll need these...]&f"
+	quest.4D4D383E210A4897.title: "&2Ars&r &9精&r&4华&r&6e&7[Ars Essence]&f"
+	quest.51162B9185A45BB1.quest_desc: ["此弓可通过抄写台铭刻法术.\\n\\n消耗魔力值时,箭矢将变为&a法术箭矢&f并对目标施加法术.\\n\\n若无箭矢,将发射造成0伤害的法术箭.魔力不足时则发射普通箭矢.\\n\\n&9附魔弓&r还可使用特殊强化箭矢增强铭刻法术效果.\\n&7[This bow can be inscribed with a spell using a Scribe's Table. \\n\\nAt the cost of mana, arrows will become Spell Arrows and will apply the spell on their target. \\n\\nIf you have no arrows, a spell arrow that deals 0 damage will be cast. If there is not enough mana, regular arrows will be fired instead. \\n\\nThe Enchanter's Bow can also use special Augment Arrows that empower the inscribed spell.]&f"]
+	quest.51162B9185A45BB1.title: "&5附魔弓&7[Enchanter's Bow]&f"
+	quest.542C6D76B579886C.quest_desc: ["用这些种子制作我们的第一根纤维——&5&a法师之花纤维&f&r.\\n\\n这将用于制作魔法饰品!\\n&7[Using those seeds, we'll want to craft our first fiber, the Magebloom Fiber. \\n\\nThis will be used to create us some magical accessories!]&f"]
+	quest.542C6D76B579886C.quest_subtitle: "精制丝线&7[Fancy String]&f"
+	quest.542C6D76B579886C.title: "&d&a法师之花纤维&f&7[Magebloom Fiber]&f"
+	quest.54954F1FF453CAA2.quest_desc: ["These are formidable weapons to go against. They will shoot super-charged spells when the spell is aligned with its element.\\n\\nHint: works best on defense."]
+	quest.54954F1FF453CAA2.quest_subtitle: "防御大师&7[The boss of defense]&f"
+	quest.54954F1FF453CAA2.title: "&6元素炮塔&7[Elemental Turrets]&f"
+	quest.555B604217D266AF.quest_desc: ["曾想移动魔源？你的运气来了!&3&a末影魔源罐&f&r是纠缠态&d&a魔源罐&f&r,用&d&a支配之杖&f&r连接后可共享魔源容量,实现即时传输.\\n&7[Ever wanted to move source around? You're in luck! The Ender Source Jar is an entangled Source Jar where linking them with a Dominion Wand will also link their source capacity, providing instant transport.]&f"]
+	quest.555B604217D266AF.quest_subtitle: "自动化永动机&7[Automation for days]&f"
+	quest.555B604217D266AF.title: "&3&a末影魔源罐&f&7[Ender Source Jar]&f"
 	quest.5766C8B9E850C186.quest_desc: [
-		"制作Ars核心合成物品&9&a魔源水晶&f&r需要先建造&6&a灌注室&f&r.\\n\\n&a灌注室&f需消耗魔源来灌注物品,其自身会缓慢产生少量魔源,也可连接&a魔源罐&f作为能源.\\n\\n部分配方还需在周围放置&a奥术基座&f.\\n"
+		"制作Ars核心合成物品&9&a魔源水晶&f&r需要先建造&6&a灌注室&f&r.\\n\\n&a灌注室&f需消耗魔源来灌注物品,可自行产生少量魔源,也可连接&a魔源罐&f作为能源.\\n\\n部分配方还需在周围放置&a奥术基座&f.\\n\\n&7[To create one of the main crafting items in Ars, the Source Gem, we'll need to make an Imbuement Chamber. \\n\\nThe Imbuement Chamber requires Source to imbue items. It produces a small amount of Source by itself, but can also use Source Jars as a power source. \\n\\nSeveral recipes also require Arcane Pedestals to be placed around it as well.\\n]&f"
 		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
 	]
-	quest.5766C8B9E850C186.quest_subtitle: "合成&a魔源水晶&f"
-	quest.5766C8B9E850C186.title: "&6&a灌注室&f"
-	quest.57C316D02DA833CE.quest_subtitle: "福祸相依"
-	quest.57C316D02DA833CE.title: "&a晶矿傀儡&f"
-	quest.58EC47584C773B82.quest_desc: ["通过&a附魔装置&f结构,我们将制作初始种子——&5&a法师之花种子&f&r.\\n\\n这将用于制作魔法服饰!"]
-	quest.58EC47584C773B82.quest_subtitle: "魔法培育"
-	quest.58EC47584C773B82.title: "&5&a法师之花种子&f"
-	quest.5AEFB843AA0A575E.quest_desc: ["用于制作&d&l&a元素魔艺&f&r多数高级物品的核心材料."]
-	quest.5AEFB843AA0A575E.quest_subtitle: "大师专属"
-	quest.5AEFB843AA0A575E.title: "&5大师徽记"
-	quest.5C3FF43CF16BCF30.quest_desc: ["拥有&a魔源水晶&f后,可通过制作&5源质石&r来构建各种魔法机械."]
-	quest.5C3FF43CF16BCF30.quest_subtitle: "前称为”&a奥术石材&f”"
-	quest.5C3FF43CF16BCF30.title: "&5源质石"
+	quest.5766C8B9E850C186.quest_subtitle: "制作&a魔源水晶&f&7[Creating Source Gems]&f"
+	quest.5766C8B9E850C186.title: "&6&a灌注室&f&7[Imbuement Chamber]&f"
+	quest.57C316D02DA833CE.quest_subtitle: "时而有用,时而无用&7[Sometimes helpful, sometimes not]&f"
+	quest.57C316D02DA833CE.title: "&a晶矿傀儡&f&7[GeOre Golems]&f"
+	quest.58EC47584C773B82.quest_desc: ["利用&a附魔装置&f结构制作我们的第一颗种子——&5&a法师之花种子&f&r.\\n\\n这将用于制作魔法服饰!\\n&7[Using our Enchanting Apparatus structure, we'll want to craft our first seed, the Magebloom Seed. \\n\\nThis will be used to create us some magical clothing!]&f"]
+	quest.58EC47584C773B82.quest_subtitle: "魔法培育&7[Growing Magic]&f"
+	quest.58EC47584C773B82.title: "&5&a法师之花种子&f&7[Magebloom Seed]&f"
+	quest.5AEFB843AA0A575E.quest_desc: ["用于制作&d&l&a元素魔艺&f&r多数高级物品.\\n&7[Used to make much of the advanced items from lArs Elemental.]&f"]
+	quest.5AEFB843AA0A575E.quest_subtitle: "仅限大师&7[Masters only]&f"
+	quest.5AEFB843AA0A575E.title: "&5大师徽记&7[Mark of Mastery]&f"
+	quest.5C3FF43CF16BCF30.quest_desc: ["拥有&a魔源水晶&f后,可通过制作&5魔源石&r开始建造各种机械装置.\\n&7[With Source Gems, you can get started crafting the various machines by creating Sourcestones.]&f"]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "前称为”&a奥术石材&f”&7[Formerly \"Arcane Stones\"]&f"
+	quest.5C3FF43CF16BCF30.title: "&5源石&7[Sourcestone]&f"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
-		"持法术书时按C键开启法术构建界面.\\n\\n每个法术需包含一种形态,初始拥有三种基础形态:投射、自施法、触碰.\\n\\n效果栏决定法术生效形式,单法术最多可叠加9种效果.\\n\\n初始提供伤害与破坏两种效果.\\n\\n选择形态与效果,命名后点击创建即可!"
+		"手持法术书时按C键可打开法术创建页面.\\n\\n每个法术必须包含形态.初始拥有三种基础形态:投射、自施法、接触.\\n\\n效果决定施法时产生的效用,每个法术最多可叠加9种效果.\\n\\n初始拥有伤害与破坏两种效果.\\n\\n选择一种形态与效果,命名法术并点击创建!\\n&7[While holding your Spellbook, you can press C to open up the spell creation page. \\n\\nEach spell must have a form. You start off with 3 basic forms: Projectile, Self-cast, and Touch. \\n\\nFor the Effect, this determines what happens when you cast the spell. You can have up to 9 effects per spell. \\n\\nFor starters, you have Harm and Break. \\n\\nSelect one Form and one Effect, name your spell, and click create!]&f"
 		""
 		"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
 	]
-	quest.5CFBA24B3E0CDEDD.quest_subtitle: "你是个法师,哈利!"
-	quest.5CFBA24B3E0CDEDD.title: "&3创建首个法术"
-	quest.6165B87E2B8D2021.quest_desc: ["这些是强化版的高阶法杖核心."]
-	quest.6165B87E2B8D2021.quest_subtitle: "极致偏倚"
-	quest.6165B87E2B8D2021.title: "&c&a元素核心&f"
-	quest.632BC46928CC9A8C.quest_desc: ["&9附魔师之镜&r在使用时会施加自身法术.\\n\\n通过此镜施放的法术享有消耗减免并获得额外持续时间加成.\\n\\n请使用抄写台来施加法术,创建时不需选用形态基座."]
-	quest.632BC46928CC9A8C.title: "&d附魔师之镜"
-	quest.63DD7F5A4441ACE7.quest_desc: ["二级符文需要消耗5级经验才能制作.\\n\\n同时需要&9法师的&a法术书&f&r作为制作材料."]
-	quest.63DD7F5A4441ACE7.title: "&e二级符文"
-	quest.644FECEAE63D9938.title: "&c火焰炮护符"
-	quest.64D0E66CB4FBEC82.quest_desc: ["首先你需要合成一本&6新手法术书&r!\\n\\n这是你创建和存储法术的地方.\\n\\n按下&9C&r键可打开'创建法术'页面,左侧有多个标签页,主要三个分别是:法术创建、&a拾色器&f和使魔.\\n\\n该法术书仅允许创建和使用一级符文.要制作更强大的法术,你需要升级法术书!"]
-	quest.64D0E66CB4FBEC82.quest_subtitle: "我们的第一本法术书"
-	quest.64D0E66CB4FBEC82.title: "&a法术书&f"
-	quest.671B67E617D56184.quest_desc: ["可自由调整瞄准方向的法术炮塔."]
-	quest.671B67E617D56184.quest_subtitle: "瞄准控制"
-	quest.671B67E617D56184.title: "&9可调式法术炮塔"
-	quest.6877742C20B7A40B.quest_desc: ["现在我们来谈谈这个.可惜另外四种精华还没有配备蜜蜂自动化..."]
-	quest.6877742C20B7A40B.quest_subtitle: "简易改进"
-	quest.6877742C20B7A40B.title: "&2自动化&r &3精华"
-	quest.6A1C0B17B22CE50F.quest_desc: ["&9&a魔力提升护身符&f&r可增加最大魔力值.\\n\\n&6&a魔力再生护身符&f&r能提升魔力恢复速度."]
-	quest.6A1C0B17B22CE50F.title: "&c&a护符&f"
-	quest.6B511C8B572E8940.quest_desc: ["屏幕左下角可见的能量条就是你的魔力池!\\n\\n随着模组进程推进,可通过多种方式扩展魔力池或提升法术效率.升级法术书也能增加魔力上限!"]
-	quest.6B511C8B572E8940.quest_subtitle: "&a魔能&f"
-	quest.6B511C8B572E8940.title: "&5魔力"
-	quest.6CEAA86EEAAC1203.title: "&5&a紫晶傀儡护符&f"
-	quest.6DAA82B5F94AF9F8.quest_desc: ["&9&a光之瓶&f&r会召唤跟随你的浮空光源.\\n\\n&6&a湮灭之瓶&f&r可销毁拾取的物品并转化为魔力,此功能可设置过滤.\\n\\n要通过副手持物添加或移除销毁物品列表,或将瓶子放在抄写台上用物品点击操作.\\n\\n瓶子需置于快捷栏方可生效."]
-	quest.6DAA82B5F94AF9F8.title: "&b&a玻璃罐&f"
-	quest.6E0E13806F388D7E.quest_desc: ["欢迎来到&a&d新生魔艺&f&f!\\n\\n&d新生魔艺&f是一款魔法模组,让你能用模组内各种符文创建自定义法术!"]
-	quest.6E0E13806F388D7E.title: "欢迎来到&a&d新生魔艺&f&f!"
-	quest.6EDA801044ED0445.quest_desc: ["这种升级版炮塔能发射更强力的法术并提升法术威力."]
-	quest.6EDA801044ED0445.quest_subtitle: "威力升级"
-	quest.6EDA801044ED0445.title: "&d&a附魔法术炮塔&f"
-	quest.6F3602F5600A6221.quest_desc: ["三级符文需要消耗10级经验制作.\\n\\n同时需要&6&a大法师法术书&f&r作为制作条件."]
-	quest.6F3602F5600A6221.title: "&4三级符文"
-	quest.77145113CD5B26FB.quest_desc: ["源浆果比其他来源产生更多源质.\\n\\n它还会将周围3x3区域内的草或泥土转化为菌丝体.如果周围空间为空,它还会生长出蘑菇."]
-	quest.77145113CD5B26FB.quest_subtitle: "从附近食物中生成源质"
-	task.00BEC4A28F318E6F.title: "手镯"
-	task.01FD75641E5EA5E4.title: "魔力"
-	task.03EB390E79866058.title: "源质石"
-	task.04A97A2825505B64.title: "&a元素核心&f"
-	task.0E6876A34D1975EB.title: "版权所有"
-	task.15C6E9C02D1FBEC0.title: "二级符文"
-	task.1B916AE67F84E6D7.title: "创建你的第一个法术"
-	task.1CC556A6921208B8.title: "一级符文"
-	task.2BC0F5A88E2F03C3.title: "奥术木"
-	task.388545A0E3B4930D.title: "版权所有"
-	task.470F4163DBE13B6B.title: "棱镜透镜"
-	task.56CA4F2E7116C934.title: "&a晶矿傀儡&f"
-	task.5B96C6088CE5EC1E.title: "功能护符"
-	task.65D68BEEB36FC805.title: "三级符文"
-	task.6821298BA1E6D9C4.title: "过滤符文"
-	task.700585855857088E.title: "其他法杖核心"
-	task.736B8E029232D795.title: "奥术精华"
-	task.755006DBA2D7D500.title: "次级元素核心"
-	task.798D6FBE32F46484.title: "元素炮塔"
+	quest.5CFBA24B3E0CDEDD.quest_subtitle: "你是个巫师,哈利!&7[You're a wizard, Harry!]&f"
+	quest.5CFBA24B3E0CDEDD.title: "&3创建你的第一个法术&7[Creating Your First Spell]&f"
+	quest.6165B87E2B8D2021.quest_desc: ["这些是强化版的进阶法器.\\n&7[These are the more enchanced and powerful versions of foci.]&f"]
+	quest.6165B87E2B8D2021.quest_subtitle: "偏见的极致体现&7[Bias at its finest]&f"
+	quest.6165B87E2B8D2021.title: "&c&a元素核心&f&7[Elemental Foci]&f"
+	quest.632BC46928CC9A8C.quest_desc: ["&9附魔师之镜&r使用时会施加自身法术.\\n\\n通过此镜施放的法术消耗降低且持续时间延长.\\n\\n需使用抄写台配置法术:创建时不选择形态即可.\\n&7[The Enchanter's Mirror will apply a self spell when used. \\n\\nSpells cast with this mirror are discounted and gain additional bonus duration. \\n\\nTo apply a spell, use a Scribe's table. Create a spell without using a form.]&f"]
+	quest.632BC46928CC9A8C.title: "&d附魔师之镜&7[Enchanter's Mirror]&f"
+	quest.63DD7F5A4441ACE7.quest_desc: ["二级符文需要消耗5级经验制作.\\n\\n同时需要&9法师的&r&a法术书&r作为制作材料.\\n&7[Tier 2 Glyphs require 5 levels of experience to be made. \\n\\nThey also require a Mage's Spell Book to create.]&f"]
+	quest.63DD7F5A4441ACE7.title: "&e二级符文&7[Tier 2 Glyphs]&f"
+	quest.644FECEAE63D9938.title: "&c火焰炮符咒&7[Firecannon Charm]&f"
+	quest.64D0E66CB4FBEC82.quest_desc: ["首先需要合成&6新手法术书&r!\\n\\n这是创建与存储法术的载体.\\n\\n按&9C&r键打开法术创建页面,左侧标签页包含:法术创建、&a拾色器&r与使魔管理.\\n\\n该法术书仅支持创建和使用一级符文,升级法术书可解锁更高级法术.\\n&7[To get started, you'll need to craft yourself a Novice Spellbook! \\n\\nThis is where you create and store your spells. \\n\\nHitting the C key will open up the 'Create a Spell' page. On the left, there are several tabs, but the main 3 are: Spell Creation, Color Picker, and Familiars. \\n\\nThis spellbook will only allow you to create and use Tier 1 Glyphs. To create better spells, you'll need to upgrade your Spellbook!]&f"]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "我们的第一本法术书&7[Our First Spellbook]&f"
+	quest.64D0E66CB4FBEC82.title: "&a法术书&f&7[Spell Books]&f"
+	quest.671B67E617D56184.quest_desc: ["可自由调整方向的法术炮塔.\\n&7[A turret that you can aim wherever you like.]&f"]
+	quest.671B67E617D56184.quest_subtitle: "瞄准机制&7[Aiming]&f"
+	quest.671B67E617D56184.title: "&9可调式法术炮塔&7[Adjustable Spell Turret]&f"
+	quest.6877742C20B7A40B.quest_desc: ["现在才像话.可惜另外四种精华还没有蜜蜂相关机制...\\n&7[Now we're talking. Unfortunately the other four essences don't have bees yet...]&f"]
+	quest.6877742C20B7A40B.quest_subtitle: "简易改进&7[A simple improvement]&f"
+	quest.6877742C20B7A40B.title: "&2自动化&r&3精华&7[Automating Essence]&f"
+	quest.6A1C0B17B22CE50F.quest_desc: ["&9&a魔力提升护身符&r增加魔力上限.\\n\\n&6&a魔力再生护身符&r提升魔力恢复速度.\\n&7[The Amulet of Mana Boost gives a boost to max mana. \\n\\nThe Amulet of Mana Regen gives a boost to your mana regen.]&f"]
+	quest.6A1C0B17B22CE50F.title: "&c&a护符&r&7[The Amulets]&f"
+	quest.6B511C8B572E8940.quest_desc: ["屏幕左下角的进度条代表魔力值.\\n\\n可通过多种方式提升魔力上限或法术效率,升级法术书也能增加魔力.\\n&7[In the bottom left of your screen, you'll see a bar. This bar is your mana pool! \\n\\nThere are several ways to increase your mana pool, or increase the efficiency of your spells as you progress through the mod. Upgrading your spellbook can also increase your mana!]&f"]
+	quest.6B511C8B572E8940.quest_subtitle: "&a魔能&f&7[Mage Power]&f"
+	quest.6B511C8B572E8940.title: "&5魔力&7[Mana]&f"
+	quest.6CEAA86EEAAC1203.title: "&5&a紫晶傀儡护符&f&7[Amethyst Golem Charm]&f"
+	quest.6DAA82B5F94AF9F8.quest_desc: ["&9&a光之瓶&r召唤跟随玩家的漂浮光源.\\n\\n&6&a湮灭之瓶&r销毁拾取物品并转化为魔力(可设置过滤).\\n\\n配置销毁物品:副手持物品与瓶交互,或将瓶置于抄写台后放入物品.\\n\\n需将瓶置于快捷栏方可生效.\\n&7[The Jar of Light summons a floating light source that follows you. \\n\\nThe Jar of Voiding destroys items you pick up in exchange for mana. This can be filtered. \\n\\nTo add or remove an item to be destroyed by the jar, use the jar with the item in your off hand, or use an item on the Scribe's Table with the jar placed on it. \\n\\nThe jar must be on your hotbar to function.]&f"]
+	quest.6DAA82B5F94AF9F8.title: "&b&a玻璃罐&f&7[The Jars]&f"
+	quest.6E0E13806F388D7E.quest_desc: ["欢迎来到&a&d新生魔艺&f&f!\\n\\n&d新生魔艺&f是一个魔法模组,允许您使用模组内制作的不同符文来创建自定义法术!\\n&7[Welcome to Ars Nouveau! \\n\\nArs Nouveau is a magic mod that allows you to create custom spells with the different Glyphs made within the mod!]&f"]
+	quest.6E0E13806F388D7E.title: "欢迎来到&a&d新生魔艺&f&f!&7[Welcome to Ars Nouveau!]&f"
+	quest.6EDA801044ED0445.quest_desc: ["这个升级后的炮塔能发射更强大的法术并提升其威力.\\n&7[This upgraded turret shoots much more powerful spells and boosts their power.]&f"]
+	quest.6EDA801044ED0445.quest_subtitle: "威力升级&7[A power upgrade]&f"
+	quest.6EDA801044ED0445.title: "&d&a附魔法术炮塔&f&7[Enchanted Spell Turret]&f"
+	quest.6F3602F5600A6221.quest_desc: ["三级符文需要10级经验才能制作.\\n\\n同时还需要一本&6&a大法师法术书&f&r.\\n&7[Tier 3 Glyphs require 10 levels of experience to be made. \\n\\nThey also require an Archmage Spell Book.]&f"]
+	quest.6F3602F5600A6221.title: "&4三级符文&7[Tier 3 Glyphs]&f"
+	quest.77145113CD5B26FB.quest_desc: ["源浆果比其他来源产生更多源质.\\n\\n它还会将周围3x3区域内的草或泥土转化为菌丝体.如果周围空间空旷,还会生长出蘑菇.\\n&7[Source Berries produce more Source than other sources. \\n\\nThis will also convert grass or dirt into Mycelium in a 3x3 area around it. It will also grow mushrooms around it if the space is empty.]&f"]
+	quest.77145113CD5B26FB.quest_subtitle: "从附近食物生成源质&7[Generates Source from Nearby Food]&f"
+	task.00BEC4A28F318E6F.title: "手镯&7[Bangles]&f"
+	task.01FD75641E5EA5E4.title: "魔力&7[Mana]&f"
+	task.03EB390E79866058.title: "源质石&7[Sourcestones]&f"
+	task.04A97A2825505B64.title: "&a元素核心&f&7[Elemental Foci]&f"
+	task.0E6876A34D1975EB.title: "版权所有&7[AllRightsReserved]&f"
+	task.15C6E9C02D1FBEC0.title: "二级符文&7[Tier 2 Glyphs]&f"
+	task.1B916AE67F84E6D7.title: "创建你的第一个法术&7[Creating Your First Spell]&f"
+	task.1CC556A6921208B8.title: "一级符文&7[Tier 1 Glyphs]&f"
+	task.2BC0F5A88E2F03C3.title: "奥术木&7[Archwood]&f"
+	task.388545A0E3B4930D.title: "版权所有&7[AllRightsReserved]&f"
+	task.470F4163DBE13B6B.title: "棱镜透镜&7[Prism Lenses]&f"
+	task.56CA4F2E7116C934.title: "&a晶矿傀儡&f&7[GeOre Golems]&f"
+	task.5B96C6088CE5EC1E.title: "功能护符&7[Functional Charms]&f"
+	task.65D68BEEB36FC805.title: "三级符文&7[Tier 3 Glyphs]&f"
+	task.6821298BA1E6D9C4.title: "过滤符文&7[Filter Glyphs]&f"
+	task.700585855857088E.title: "其他法杖头&7[Other Foci]&f"
+	task.736B8E029232D795.title: "奥术精华&7[Ars Essences]&f"
+	task.755006DBA2D7D500.title: "次级&a元素核心&f&7[Lesser Elemental Foci]&f"
+	task.798D6FBE32F46484.title: "元素炮塔&7[Elemental Turrets]&f"
 }

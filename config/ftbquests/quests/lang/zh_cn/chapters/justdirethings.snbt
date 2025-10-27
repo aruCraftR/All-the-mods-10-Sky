@@ -1,733 +1,733 @@
 {
 	quest.026C63594F813BCC.quest_desc: [
-		"&l技能类型:&r主动技能"
+		"&l能力类型:&r 主动技能\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"激活时清除玩家所有负面状态,有冷却时间."
+		"激活时移除玩家所有负面减益效果,具有冷却时间\\n&7[Removes all negative debuffs from the player when actived, has a cooldown.]&f"
 	]
 	quest.0272E58516A0C284.quest_desc: [
-		"有效升级模块:"
-		"- &a矿石矿工&f"
-		"- &a矿石扫描仪&f &4&l已禁用&r&f"
-		"- 草坪收割机"
-		"- 高空清扫器"
-		"- 树木砍伐器"
-		"- 树叶破碎器"
-		"- &a自动烧炼&fer"
-		"- 重力锤"
-		"- 物品传送器"
+		"有效升级项:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- &a矿石扫描仪&f &4&l已禁用&r&f\\n&7[- Ore Scanner lDISABLED]&f"
+		"- 草坪修剪机\\n&7[- Lawnmower]&f"
+		"- 天空清扫器\\n&7[- Sky Sweeper]&f"
+		"- 树木砍伐器\\n&7[- Tree Feller]&f"
+		"- 树叶破碎器\\n&7[- Leaf Breaker]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤具\\n&7[- Hammer]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
 	]
-	quest.02B0CCD5607FF3B5.quest_desc: ["&a玩家&f存取器可作为连接玩家库存的容器,通过界面配置可对接主背包、副手栏及装备槽."]
+	quest.02B0CCD5607FF3B5.quest_desc: ["&a玩家&f 存取器可作为连接玩家物品栏的箱子使用.通过图形界面可配置其各侧面与玩家物品栏、副手栏或装备槽进行交互\\n&7[The player accessor acts as a chest that interfaces with the player's inventory. Using the GUI the player accessor can have it's sides configured to interface with the player's inventory, off-hand or armor slots.]&f"]
 	quest.02B8F50721F12CFF.quest_desc: [
-		"&l技能类型:&r被动技能"
+		"&l能力类型:&r 被动技能\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:"
+		"&l能力功能:\\n&7[lAbility Function:]&f"
 		""
-		"使玩家免疫跌落伤害."
+		"防止玩家受到坠落伤害\\n&7[Prevents the player from taking fall damage.]&f"
 	]
 	quest.03ED9B0DFE8B4574.quest_desc: [
-		"有效升级模块:"
-		"- 心智迷雾"
-		"- 昏迷咒"
+		"有效升级项:\\n&7[Valid Upgrades:]&f"
+		"- 心智迷雾\\n&7[- Mind Fog]&f"
+		"- 昏迷咒\\n&7[- Stupefy]&f"
 		""
-		"固有技能:"
-		"- 熔岩修复"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.04A1D582003A0D9A.quest_desc: [
-		"有效升级:"
-		"- &a速度提升&f"
-		"- &a行走速度&f"
+		"有效升级项:\\n&7[Valid Upgrades:]&f"
+		"- &a速度提升&f\\n&7[- Run Speed]&f"
+		"- &a行走速度&f\\n&7[- Walk Speed]&f"
 	]
 	quest.05056CAA64E3971B.quest_desc: [
-		"&l技能类型:&r被动"
+		"&l能力类型:&r 被动技能\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使弓射出的箭矢根据药罐状态施加药水效果"
+		"使弓射出的箭矢根据药剂罐施加对应药水效果\\n&7[Makes arrows fired by the Bow apply a potion effect based on your Potion Canister.]&f"
 	]
 	quest.05D8C6EF8FCD6250.quest_desc: [
-		"原始凝胶是JDT添加的首阶凝胶,需用主世界基础材料合成"
+		"原始凝胶是JDT添加的首阶凝胶,需要主世界基础材料合成\\n&7[Primogel Goo is the first tier of goo added by JDT and requires basic Overworld materials to craft.]&f"
 		""
-		"已解锁配方:"
-		"- 铁核"
-		"- 原始煤炭"
+		"已解锁合成:\\n&7[Crafts Unlocked:]&f"
+		"- 铁核矿\\n&7[- Ferricore]&f"
+		"- 原始煤炭\\n&7[- Primal Coal]&f"
 		""
-		"凝胶扩散示例:"
+		"凝胶扩散示例:\\n&7[Goo Spread Example:]&f"
 		""
 		"{image:atm:textures/questpics/justdirethings/goo_spread_ferricore.png width:200 height:200 align:center}"
 	]
 	quest.07655CA904354E9E.quest_desc: [
-		"&l技能类型:&r主动"
+		"&l能力类型:&r 主动技能\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:"
+		"&l能力功能:\\n&7[lAbility Function:]&f"
 		""
-		"激活时清除周围草类与花朵"
+		"激活时破坏附近的草和花\\n&7[Breaks nearby grass and flowers when activated.]&f"
 	]
-	quest.079A415488A32076.quest_desc: ["烈焰余烬是JDT新增材料,通过二阶及以上凝胶对原始煤炭块进行扩散获取,其矿石受时运影响"]
+	quest.079A415488A32076.quest_desc: ["烈焰余烬是JDT新增材料.通过在原始煤炭块上使用二阶及以上凝胶扩散获得.烈焰余烬矿石受时运附魔影响\\n&7[Blaze Ember is a new material added by JDT. Blaze Ember is aquired by performing Goo Spread on Primal Coal Blocks using tier two goo or higher. Blaze Ember Ore is affected by fortune.]&f"]
 	quest.09485B63483B7A15.quest_desc: [
-		"&l技能类型:&r主动"
+		"&l能力类型:&r 主动技能\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:"
+		"&l能力功能:\\n&7[lAbility Function:]&f"
 		""
-		"暂时使周围敌对生物失去对玩家的仇恨,有冷却时间"
+		"暂时使附近敌对生物失去对玩家的仇恨,具有冷却时间\\n&7[Temporarily makes nearby hostile mobs loose agro to the player, has a cooldown.]&f"
 	]
-	quest.09D2137B4F42006E.quest_desc: ["蚀暗余烬是JDT新增材料,通过四阶凝胶对虚空焰煤块进行扩散获取,其矿石受时运影响"]
+	quest.09D2137B4F42006E.quest_desc: ["月蚀余烬是JDT新增的材料,通过对虚空焰煤块使用四级粘液进行粘液扩散获得.月蚀余烬矿石受时运附魔影响.\\n&7[Eclipse Ember is a new material added by JDT. Eclipse Ember is aquired by performing Goo Spread on Voidflame Coal Blocks using tier four goo. Eclipse Ember Ore is affected by fortune.]&f"]
 	quest.0A02DBE226C3F44E.quest_desc: [
-		"有效升级:"
-		"- 心智迷雾"
-		"- 昏迷咒"
-		"- &a夜视&f"
-		"- 负面效果清除"
-		"- 心智湮灭"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 心智迷雾\\n&7[- Mind Fog]&f"
+		"- 昏昏倒地\\n&7[- Stupefy]&f"
+		"- &a夜视&f\\n&7[- Night Vision]&f"
+		"- 负面效果清除\\n&7[- Debuff Remover]&f"
+		"- 精神湮灭\\n&7[- Mental Obliteration]&f"
 	]
-	quest.0B485DB737A036E9.quest_desc: ["&a机械设置&f复制器允许玩家在机器间复制配置"]
-	quest.0B9BBE2A764631BF.quest_desc: ["&a简易&f传送器可将物品、方块、生物或玩家传送到连接的对应装置,使用铁核扳手进行链接"]
+	quest.0B485DB737A036E9.quest_desc: ["&a机械设置&f复制器允许玩家在机器间复制设置.\\n&7[Machine Settings Copier allows players to copy settings between machines.]&f"]
+	quest.0B9BBE2A764631BF.quest_desc: ["&a简易&f交换器可将其上方的物品、方块、生物或玩家传送至连接的另一个简易交换器.使用铁核扳手链接交换器.\\n&7[The simple swapper can teleport items, blocks, mobs or players above it to another simple sawper it is linked to. To link swapers use the Ferricore wrench.]&f"]
 	quest.0C1D55AA9CC902BD.quest_desc: [
-		"有效升级:"
-		"- 除草机"
-		"- 天空清扫者"
-		"- &a自动烧炼&fer"
-		"- 重锤"
-		"- 掉落物传送"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 除草机\\n&7[- Lawnmower]&f"
+		"- 天空清扫者\\n&7[- Sky Sweeper]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 重锤\\n&7[- Hammer]&f"
+		"- 掉落物传送\\n&7[- Drops Teleporter]&f"
 	]
 	quest.0C2EC56133D3CC6C.quest_desc: [
-		"&l技能类型:&r主动"
+		"&l技能类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"激活时使玩家暂时免疫伤害,有冷却时间"
+		"激活时使玩家暂时免疫伤害,有冷却时间.\\n&7[Temporarily makes the player immune to damage when activated, has a cooldown.]&f"
 	]
 	quest.0C9DD8E53A1B92C0.quest_desc: [
-		"有效升级:"
-		"- &a矿石矿工&f"
-		"- &a自动烧炼&fer"
-		"- 重锤"
-		"- 掉落物传送"
-		"- X光透视"
-		"- 瞬间破环"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 重锤\\n&7[- Hammer]&f"
+		"- 掉落物传送\\n&7[- Drops Teleporter]&f"
+		"- X光透视\\n&7[- X-Ray]&f"
+		"- 瞬间破坏\\n&7[- Instant Break]&f"
 	]
 	quest.0CBFE2CE53DCACD5.quest_desc: [
-		"&l技能类型:&r被动"
+		"&l技能类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"提升玩家的跳跃高度."
+		"Increases the jump height of the player."
 	]
 	quest.0E3FDD8BB6D17A30.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l技能类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"激活时破坏附近的树叶."
+		"激活时破坏附近树叶.\\n&7[Breaks nearby leaves when activated.]&f"
 	]
-	quest.0FAF274ADA65B26A.quest_desc: ["传送门流体是一种神秘的绿色流体,对于高级&a传送枪&f的运作至关重要.\\n\\n将传送门流体催化剂投入多形态流体中会产生不稳定传送门流体,但不稳定传送门流体仅能存在于&a末地&f.使用三级或更高级别的粘液进行扩散时,会将不稳定传送门流体转化为传送门流体."]
+	quest.0FAF274ADA65B26A.quest_desc: ["传送门流体是维持高级&a传送枪&f运作的关键性神秘绿色流体.\\n\\n将传送门流体催化剂投入多态流体会生成不稳定传送门流体,但不稳定传送门流体仅能存在于&a末地&f.使用三级或更高级粘液进行粘液扩散可将不稳定传送门流体转化为传送门流体.\\n&7[Portal Fluid is a mysterious green fluid vital in the opertaion of the Advanced Portal Gun.\\n\\nDropping Portal Fluid Catalyst into Polymorphic Fluid will create Unstable Portal Fluid BUT Unstable Portal Fluid can only exist in the End. Performing Goo Spread with Tier Three goo or higher will convert Unstable Portal Fluid into Portal Fluid.]&f"]
 	quest.120DCA89A919C7AF.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l技能类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"赋予玩家&a夜视&f效果."
+		"赋予玩家&a夜视&f能力.\\n&7[Grants the player Night Vision.]&f"
 	]
 	quest.1256F280F3669DDA.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l技能类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使箭矢能够连锁攻击附近的敌人."
+		"使箭矢在敌人间连锁弹射.\\n&7[Makes Arrows chain to nearby enemies.]&f"
 	]
 	quest.132F4671E121C7B8.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l技能类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"提高行走速度."
+		"提升行走速度.\\n&7[Increases walking speed.]&f"
 	]
-	quest.16E02F671FBE9148.quest_desc: ["&a传送门&f枪是一种利用能量创建两个传送门以实现两点间传送的物品.&a左键点击&f发射蓝色传送门,&a右键点击&f发射橙色传送门,Shift加&a右键点击&f则移除两个传送门."]
-	quest.1705175C20CE91DD.quest_desc: ["月蚀合金是由JDT新增的一种材料.通过在&a下界合金块&f上使用四级粘液进行扩散可获得月蚀合金.月蚀合金矿石受时运附魔影响."]
-	quest.1705175C20CE91DD.title: "月蚀合金"
+	quest.16E02F671FBE9148.quest_desc: ["&a传送门&f枪是通过消耗能量创建两个传送门进行点位传送的工具.&a左键&f发射蓝色传送门,&a右键&f发射橙色传送门,Shift+&a右键&f清除所有传送门.\\n&7[The Portal Gun is an item that uses power to create two portals to teleport between two points. Left Click shoots a blue portal, Right Click an orange portal and Shift Right Click removes both portals.]&f"]
+	quest.1705175C20CE91DD.quest_desc: ["月蚀合金是由JDT添加的新材料.通过在&a下界合金块&f上使用四级凝胶进行凝胶扩散可获得月蚀合金.月蚀合金矿石受时运附魔影响.\\n&7[Eclipse Alloy is a new material added by JDT. Eclipse Alloy is aquired by performing Goo Spread on Netherite Blocks using tier four goo. Eclipse Alloy Ore is affected by fortune.]&f"]
+	quest.1705175C20CE91DD.title: "月蚀合金&7[Eclipse Alloy]&f"
 	quest.171DB70D0D19A942.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l技能类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"自动熔炼开采方块时掉落的物品."
+		"自动熔炼挖掘方块时掉落的物品.\\n&7[Automaticly smelts items dropped from mined blocks.]&f"
 	]
 	quest.176A1CC43467EF23.quest_desc: [
-		"有效升级:"
-		"- &a自动跳跃&f"
-		"- &a跳跃提升&f"
-		"- 地面践踏"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a自动跳跃&f\\n&7[- Step Assist]&f"
+		"- &a跳跃提升&f\\n&7[- Jump Boost]&f"
+		"- 地面践踏\\n&7[- Ground Stomp]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有技能:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.17A9D2CA160561D9.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l技能类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"为玩家提供台阶辅助功能."
+		"为玩家提供台阶辅助功能.\\n&7[Provides step assist to the player.]&f"
 	]
 	quest.17C4F6EC1AFBC3AA.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l技能类型:&r 主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
-		"激活时用粒子效果高亮显示附近的生物."
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
+		"激活时用粒子效果高亮显示附近的生物.\\n&7[Highlights nearby mobs with particals when activated.]&f"
 	]
 	quest.18032636A60D0B2C.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l技能类型:&r 主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"&a矿石扫描仪&f的升级版本,激活时可渲染显示附近的矿石."
+		"&a矿石扫描仪&f的升级版,激活时可渲染显示附近的矿石.\\n&7[An upgraded version of Ore Scanner that renders nearby ores when activated.]&f"
 	]
 	quest.199388A311FAC14C.quest_desc: [
-		"有效升级:"
-		"- &a矿石矿工&f"
-		"- &a矿石扫描仪&f &4&l已禁用&r&f"
-		"- &a自动烧炼&fer"
-		"- 锤子"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- &a矿石扫描仪&f &4&l已禁用&r&f\\n&7[- Ore Scanner lDISABLED]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤击\\n&7[- Hammer]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有技能:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.19E6757F04098A0C.quest_desc: [
-		"有效升级:"
-		"- 割草机"
-		"- 天空清扫者"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 除草机\\n&7[- Lawnmower]&f"
+		"- 天空清扫者\\n&7[- Sky Sweeper]&f"
 	]
-	quest.19E678E6EF9539DC.quest_desc: ["仅是一个简单的传感器,可输出红石信号并带有一个过滤槽."]
-	quest.1B173E7533E1171F.quest_desc: ["仅是一个简单的流体收集器."]
+	quest.19E678E6EF9539DC.quest_desc: ["简易传感器,可输出红石信号并配备一个过滤槽.\\n&7[Just a simple sensor that outputs a restone signal and has one filter slot.]&f"]
+	quest.1B173E7533E1171F.quest_desc: ["简易流体收集器.\\n&7[Just a simple fluid collector.]&f"]
 	quest.1CBA0D7DA0558EBC.quest_desc: [
-		"有效升级:"
-		"- 无敌"
-		"- 灭火"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 无敌\\n&7[- Invulnerability]&f"
+		"- 灭火\\n&7[- Extinguish]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有技能:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.1DAA5DD81EF96469.quest_desc: [
-		"有效升级:"
-		"- 草坪修剪机"
-		"- 天空清扫者"
-		"- &a自动烧炼&fer"
-		"- 锤子"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 除草机\\n&7[- Lawnmower]&f"
+		"- 天空清扫者\\n&7[- Sky Sweeper]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤击\\n&7[- Hammer]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有技能:\\n&7[Intrisic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.1E0C6409B2573CCA.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l技能类型:&r 主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l技能功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"地面践踏的升级版,能击退并减缓附近生物的速度,有冷却时间."
+		"地面践踏的升级版,可击退并减缓附近生物速度,具有冷却时间.\\n&7[An upgraded version of Ground Stomp that repells and slows nearby mobs, has a cooldown.]&f"
 	]
-	quest.1EA02BA24AF02256.quest_desc: ["日蚀合金模板用于将天界宝石护甲和工具升级为日蚀合金,同时保留附魔和已安装的升级."]
-	quest.1ECFA72CF2BA4B45.quest_desc: ["一个简单的投掷器,你可以配置一次投掷的数量."]
+	quest.1EA02BA24AF02256.quest_desc: ["月蚀合金模板用于将天界宝石装备和工具升级为月蚀合金材质,同时保留附魔与已安装的升级模块.\\n&7[Eclipse Alloy Templetes are used to upgrade Celestigem armor and tools to Eclipse Alloy while retaining enchantments and installed upgrades.]&f"]
+	quest.1ECFA72CF2BA4B45.quest_desc: ["简易投掷器,可配置单次投掷数量.\\n&7[A simple dropper and you can configure the amount dropped at once.]&f"]
 	quest.1FE7C52491E7499B.quest_desc: [
-		"有效升级:"
-		"- &a自动跳跃&f"
-		"- &a跳跃提升&f"
-		"- 地面践踏"
-		"- 抵消&a摔落伤害&f"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a自动跳跃&f\\n&7[- Step Assist]&f"
+		"- &a跳跃提升&f\\n&7[- Jump Boost]&f"
+		"- 地面践踏\\n&7[- Ground Stomp]&f"
+		"- 消除&a摔落伤害&f\\n&7[- Negate Fall Damage]&f"
 	]
 	quest.1FFA1DA6A5EA4E70.quest_desc: [
-		"有效升级:"
-		"- &a自动跳跃&f"
-		"- &a跳跃提升&f"
-		"- 地面践踏"
-		"- 抵消&a摔落伤害&f"
-		"- 地震"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- &a自动跳跃&f\\n&7[- Step Assist]&f"
+		"- &a跳跃提升&f\\n&7[- Jump Boost]&f"
+		"- 地面践踏\\n&7[- Ground Stomp]&f"
+		"- 消除&a摔落伤害&f\\n&7[- Negate Fall Damage]&f"
+		"- 地震术\\n&7[- Earthquake]&f"
 	]
-	quest.200ECDC70E97D254.quest_desc: ["&a燃油罐&f是一个可以将其所含流体填充到容器中的储罐.\\n\\n&a燃料&f罐有三种填充模式:\\n\\n - 无\\n - 任意\\n - &d戴尔设备&f"]
+	quest.200ECDC70E97D254.quest_desc: ["&a燃油罐&f是一种可储存流体并填充容器的储罐.\\n\\n&a燃料&f罐有三种填充模式:\\n\\n - 无\\n - 任意\\n - &d戴尔设备&f\\n&7[Fuel Canister is a tank that can fill containers with the fluid it contains.\\n\\nThe Fuel Canister has three fill modes:\\n\\n - None\\n - Any\\n - Just Dire Things]&f"]
 	quest.21147C8CBF98AEB4.quest_desc: [
-		"有效升级:"
-		"- 伐木机"
-		"- 树叶破碎机"
-		"- &a自动烧炼&fer"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 树木砍伐器\\n&7[- Tree Feller]&f"
+		"- 树叶破碎器\\n&7[- Leaf Breaker]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.237D11FF5B09BA88.quest_desc: [
-		"固有能力:"
-		"- 防踩踏"
-		"- 自动收获"
-		"- 加速作物生长 III"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 防踩踏\\n&7[- No Trampling]&f"
+		"- 自动收割\\n&7[- Auto Havesting]&f"
+		"- 作物生长加速III\\n&7[- Accelerated Crop Growth III]&f"
 		""
-		"有效升级:"
-		"- 掉落物传送器"
+		"有效升级:\\n&7[Valid Upgrade:]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
 	]
-	quest.2409EAD96CE3BDF7.quest_desc: ["炽焰金模板用于将铁核护甲和工具升级为炽焰金,同时保留附魔和已安装的升级."]
-	quest.242F74010488F261.quest_desc: ["&a燃料&f罐是一个能更高效利用燃料的物品.它可以储存50,000单位燃料,每种可燃物品根据可熔炼的物品数量有不同的燃料值.一单位燃料足以熔炼一个物品."]
+	quest.2409EAD96CE3BDF7.quest_desc: ["炽金模板用于将铁核护甲和工具升级为炽金材质,同时保留附魔与已安装的升级组件.\\n&7[Blazegold Templetes are used to upgrade Ferricore armor and tools to Blazegold while retaining enchantments and installed upgrades.]&f"]
+	quest.242F74010488F261.quest_desc: ["&a燃料&f罐是可提升燃料利用效率的物品.可储存50,000单位燃料,每件可燃物的燃料值根据可熔炼物品数量而定.一单位燃料可熔炼一件物品.\\n&7[The Fuel Canister is an item that allows for more efficent use of fuel. It can store 50,000 fuel, each burnable item has a different fuel value depending on the amount of items smelted. One fuel is enough to smelt one item.]&f"]
 	quest.24BA4B4EED0A9DBD.quest_desc: [
-		"有效升级:"
-		"- 心灵迷雾"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 心智迷雾\\n&7[- Mind Fog]&f"
 	]
 	quest.25213DBA6E6CEDD2.quest_desc: [
-		"暗影脉冲粘液是JDT添加的第四级也是最终级的粘液,需要远古城市和监守者材料来制作."
+		"暗脉冲凝胶是JDT增加的第四阶也是最终阶凝胶,需使用远古城市和监守者材料合成.\\n&7[Shadowpulse Goo is the fourth and final tier of goo added by JDT and requires Ancient City and Warden materials to craft.]&f"
 		""
-		"已解锁的合成:"
-		"- 月蚀合金"
-		"- 月蚀余烬"
-		"- 时之晶"
+		"解锁配方:\\n&7[Crafts Unlocked:]&f"
+		"- 月蚀合金\\n&7[- Eclipse Alloy]&f"
+		"- 月蚀余烬\\n&7[- Eclipse Ember]&f"
+		"- 时间水晶\\n&7[- Time Crystal]&f"
 	]
-	quest.25E915AE1FC53254.quest_desc: ["天界宝石模板用于将炽金装备和工具升级为天界宝石材质,同时保留附魔与已安装的升级组件."]
-	quest.27FD46A8C958D259.quest_desc: ["死亡召回图腾是一次性使用物品,可使玩家传送回死亡地点."]
+	quest.25E915AE1FC53254.quest_desc: ["天界宝石模板用于将炽金护甲和工具升级为天界宝石材质,同时保留附魔与已安装的升级组件.\\n&7[Celestigem Templetes are used to upgrade Blazegold armor and tools to Celestigem while retaining enchantments and installed upgrades.]&f"]
+	quest.27FD46A8C958D259.quest_desc: ["死亡召回图腾是一次性使用物品,允许玩家传送回死亡地点.\\n&7[Totem of Death Recall is a one time use time that allows a player to teleport back to thier location of death.]&f"]
 	quest.283D7E65F2AD45F2.quest_desc: [
-		"&l技能类型:&r主动"
+		"&l能力类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"生物扫描仪的升级版,激活时对附近生物施加发光效果."
+		"生物扫描仪的升级版,激活时对附近生物施加发光效果.\\n&7[An upgraded version of Mob Scanner that applied Glowing to nearby mobs when activated.]&f"
 	]
 	quest.2875FACD3BFB0A8E.quest_desc: [
-		"&l技能类型:&r主动"
+		"&l能力类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"激活时提供微量&a愈合&f效果,但仅当玩家近期受过伤害或正在承受伤害时可激活."
+		"激活时提供轻微&a愈合&f效果,但仅当玩家近期受伤或正处于受伤状态时可激活.\\n&7[Provides minor healing when activated, but can only be actived if the player has recently taken damage or is taking damage.]&f"
 	]
 	quest.2A01CE9206DD4F8A.quest_desc: [
-		"&l技能类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"同时挖掘相邻的矿石方块,但挖掘耗时稍长."
+		"同时开采相邻的矿石方块,但开采耗时稍长.\\n&7[Mines adjacent ore blocks all at once, but takes slightly longer to mine.]&f"
 	]
 	quest.2A919F73CB09CF8B.quest_desc: [
-		"有效升级:"
-		"- &a速度提升&f"
-		"- &a行走速度&f"
-		"- &a游泳速度&f"
-		"- 诱饵"
-		"- 相位"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- &a速度提升&f\\n&7[- Run Speed]&f"
+		"- &a行走速度&f\\n&7[- Walk Speed]&f"
+		"- &a游泳速度&f\\n&7[- Swim Speed]&f"
+		"- 诱饵\\n&7[- Decoy]&f"
+		"- 相位移动\\n&7[- Phase]&f"
 	]
 	quest.2B1BAEC5DAAF9DAC.quest_desc: [
-		"有效升级:"
-		"- 树木砍伐者"
-		"- 树叶破碎者"
-		"- &a自动烧炼&fer"
-		"- 掉落物传送器"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 树木砍伐者\\n&7[- Tree Feller]&f"
+		"- 树叶破碎者\\n&7[- Leaf Breaker]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
 	]
 	quest.2D86D4403E0F4EB9.quest_desc: [
-		"炽金是JDT新增材料.通过在金块上使用二级及以上粘液进行粘液扩散可获得炽金.炽金矿石受时运附魔影响."
+		"炽焰金是由JDT新增的材料.通过对金块使用二级或更高级别的凝胶蔓延可获得炽焰金.炽焰矿石受时运附魔影响.\\n&7[Blazegold is a new material added by JDT. Blazegold is aquired by performing Goo Spread on Gold Blocks using tier two goo or higher. Blazegold Ore is affected by fortune.]&f"
 		""
-		"炽金赋予工具和装备内置的熔岩修复能力.当投入熔岩源块时,熔岩修复会修复工具/装备,同时将源块转化为黑曜石作为修复代价."
+		"炽焰金为工具和盔甲赋予熔岩修复固有能力.当将工具/盔甲丢入熔岩源块时,熔岩修复会修复该工具/盔甲,同时将源块转化为黑曜石作为修复代价.\\n&7[Blazegold grants the intrinsic ability of Lava Repair to tools and Armor. Lava Repair, repairs the tool/armor when dropped into a lava source block, converting the source block into obsidian in exchange for repairing the tool/armor.]&f"
 	]
-	quest.2D86D4403E0F4EB9.title: "炽金"
+	quest.2D86D4403E0F4EB9.title: "炽焰金&7[Blazegold]&f"
 	quest.2F86FB9E4D49E4B0.quest_desc: [
-		"有效升级:"
-		"- 生物扫描仪"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 生物扫描器\\n&7[- Mob Scanner]&f"
 	]
 	quest.3138B83ABC2930F9.quest_desc: [
-		"内置能力:"
-		"- 防踩踏"
-		"- 自动收割"
-		"- 作物加速生长IV"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 防踩踏\\n&7[- No Trampling]&f"
+		"- 自动收割\\n&7[- Auto Havesting]&f"
+		"- 作物生长加速IV\\n&7[- Accelerated Crop Growth IV]&f"
 		""
-		"有效升级:"
-		"- 掉落物传送器"
+		"有效升级选项:\\n&7[Valid Upgrade:]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
 	]
 	quest.35A78E04092767AD.quest_desc: [
-		"有效升级:"
-		"- 药箭"
-		"- 溅射"
-		"- 滞留"
-		"- &a归航之箭&f"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 药箭\\n&7[- Potion Arrow]&f"
+		"- 喷溅型\\n&7[- Splash]&f"
+		"- 滞留型\\n&7[- Lingering]&f"
+		"- &a归航之箭&f\\n&7[- Homing Arrow]&f"
 	]
 	quest.37B903620493A354.quest_desc: [
-		"有效升级:"
-		"- 自动烟熏"
-		"- 灼伤愈合"
-		"- 掉落物传送器"
-		"- 生物X光透视"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- 自动烟熏炉\\n&7[- Auto Smoker]&f"
+		"- 灼伤愈合\\n&7[- Cauterize Wounds]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
+		"- 生物X光透视\\n&7[- Mob X-Ray]&f"
 	]
-	quest.3971FF7D044D1FE5.quest_desc: ["护甲能力可在配置菜单中设置与切换.使用JDT工具或法杖打开菜单,点击对应护甲即可配置该护甲部件的能力."]
+	quest.3971FF7D044D1FE5.quest_desc: ["盔甲能力可通过配置菜单进行设置与切换.使用JDT工具或法杖打开菜单,点击对应盔甲部件即可配置其能力.\\n&7[Armor abilities can be configured and toggled in the configuration menu. Use a JDT tool or wand to open the menu and click on your armor to configure the abilities of that armor piece.]&f"]
 	quest.3A471716A29F5172.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"为玩家提供鞘翅,请注意此升级提供的鞘翅受行走与&a速度提升&f升级的影响."
+		"为玩家提供鞘翅,请注意此升级提供的鞘翅受行走与&a速度提升&f升级的影响.\\n&7[Provides the player with an Elytra, note the Elytra provided by this upgrade is affected by the Walk and Run Speed upgrades.]&f"
 	]
 	quest.3AE1811C32B94A66.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"若玩家着火则立即灭火,有冷却时间."
+		"当玩家着火时自动灭火,具有冷却时间.\\n&7[Exingishes the player if they are on fire, has a cooldown.]&f"
 	]
 	quest.3B3E3D81843BB358.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"提升奔跑速度."
+		"提升奔跑速度.\\n&7[Increases running speed.]&f"
 	]
 	quest.3BF32843DE3CF3C2.quest_desc: [
-		"有效升级:"
-		"- &a速度提升&f"
-		"- &a行走速度&f"
-		"- &a游泳速度&f"
-		"- 诱饵"
+		"有效升级选项:\\n&7[Valid Upgrades:]&f"
+		"- &a速度提升&f\\n&7[- Run Speed]&f"
+		"- &a行走速度&f\\n&7[- Walk Speed]&f"
+		"- &a游泳速度&f\\n&7[- Swim Speed]&f"
+		"- 诱饵\\n&7[- Decoy]&f"
 	]
-	quest.3C8C80345D3F5FE8.quest_desc: ["物品收集器会收集物品并存入其下方的容器中."]
+	quest.3C8C80345D3F5FE8.quest_desc: ["物品收集器会收集物品并存入其下方的容器中.\\n&7[The item collecter collects items and deposits them into the inventory below it.]&f"]
 	quest.3CBB78C9B8D3665E.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"降低敌对生物的探测范围."
+		"降低敌对生物的探测范围.\\n&7[Reduces the dectection range of hostile mobs.]&f"
 	]
 	quest.3CFD798362605880.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使弓射出的药水箭具有溅射效果,可击中区域内的多个目标."
+		"使弓射出的药水箭具有溅射效果,可击中区域内的多个目标.\\n&7[Makes Potion Arrows fired by the Bow have a Splash effect, hitting multiple targets in an area.]&f"
 	]
-	quest.3D9964CB0440DD5A.quest_desc: ["将烈焰余烬投入多态流体中将生成未精炼的烈焰余烬燃料.使用二级或更高级别的粘液进行扩散可将未精炼的烈焰余烬燃料转化为烈焰余烬燃料."]
+	quest.3D9964CB0440DD5A.quest_desc: ["将烈焰余烬滴入多态流体中会生成未精炼的烈焰余烬燃料.使用二级或更高级别的粘液进行扩散可将未精炼的烈焰余烬燃料转化为烈焰余烬燃料.\\n&7[Dropping Blaze Ember into Polymorphic Fluid will create Unrefined Blaze Ember Fuel. Perfoming Goo Spread with Tier Two goo or higher will convert Unrefined Blaze Ember Fuel into Blaze Ember Fuel.]&f"]
 	quest.3F3559EF5D08B706.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使箭矢主动追踪目标."
+		"使箭矢主动追踪目标.\\n&7[Makes Arrows actively seek their targets.]&f"
 	]
-	quest.40C5C355B6DA1893.quest_desc: ["便携发电机是一种手持式发电机,使用可燃物品为玩家库存中的物品与工具充电,且兼容&a燃油罐&f接口."]
-	quest.41E8C93A44559E48.quest_desc: ["&7悖论机器&r可消耗大量能量与&a时间流体&r,对指定区域内的方块与实体生成快照并进行复制.\\n\\n注意:大量方块与实体已被配置列入黑名单,因此无法复制蜜蜂!"]
-	quest.433117EEA55B6A54.quest_desc: ["仅是一个简单的流体放置器."]
-	quest.441F37A95AB66E6B.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r系列整合包均采用&e保留所有权利&r许可协议,未经明确授权,此任务不得用于&6AllTheMods团队&r未发布的任何公开整合包.\\n\\n此任务已被刻意隐藏,若您能看到此说明,说明您正处于编辑模式."]
-	quest.4458F8829800A950.quest_desc: ["多态流体是JDT中所有流体/燃料的基础形态.通过将多态催化剂投入水中即可制备多态流体."]
-	quest.446A37C7FCDACF84.quest_desc: ["虚空焰煤是JDT新增的材料.通过在烈焰余烬块上使用三级及以上粘液进行粘液扩散可获得虚空焰.虚空焰&a煤矿石&f受时运附魔影响."]
+	quest.40C5C355B6DA1893.quest_desc: ["便携发电机是一种手持式发电机,使用可燃物品为玩家库存中的物品和工具充电,便携发电机与&a燃油罐&f兼容.\\n&7[The Pocket Generator is a handheld generator that uses burnable items to charge items and tools in the player's inventory, the Pocket Generator is compatable with the Fuel Canister.]&f"]
+	quest.41E8C93A44559E48.quest_desc: ["&7悖论机器&r可以消耗大量能量和&a时间流体&r,对指定区域内的方块和实体进行快照,然后进行复制.\\n\\n许多方块和实体已被配置列入黑名单,因此无法复制蜜蜂!\\n&7[The Paradox Machine can, for a price of a lot of Power and Time Fluid, take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!]&f"]
+	quest.433117EEA55B6A54.quest_desc: ["仅是一个简单的流体放置器.\\n&7[Just a simple fluid placer.]&f"]
+	quest.441F37A95AB66E6B.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r包均采用&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开包.\\n\\n此任务已被故意隐藏,若您看到此提示,说明您正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.4458F8829800A950.quest_desc: ["多态流体是JDT中所有流体/燃料的基础.通过将多态催化剂滴入水中制作多态流体.\\n&7[Polymorphic Fluid is the base of all Fluids / Fuels in JDT. Polymorphic Fluid is crafted by dropping Polymorphic Catalyst into water.]&f"]
+	quest.446A37C7FCDACF84.quest_desc: ["虚空焰煤是JDT新增的材料.使用三级或更高级别粘液在烈焰余烬块上进行扩散可获得虚空焰.虚空焰&a煤矿石&f受时运附魔影响.\\n&7[Voidflame Coal is a new material added by JDT. Voidflame is aquired by performing Goo Spread on Blaze Ember Blocks using tier three goo or higher. Voidflame Coal Ore is affected by fortune.]&f"]
 	quest.454662617304E299.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"应用于护腿时允许玩家穿墙行走.存在方块标签用于设置不可穿透的方块黑名单."
-		"应用于弓时允许箭矢穿透墙壁."
+		"应用于护腿时允许玩家穿墙行走.存在方块标签可禁止特定方块被穿透.\\n&7[Allows the player to walk though blocks when applied to leggings. There is a block tag to blacklist blocks from being able to be phased through.]&f"
+		"应用于弓时允许箭矢穿透墙壁.\\n&7[When applied to a bow, allows arrows to phase through walls.]&f"
 	]
 	quest.454CA1F8CC198D9D.quest_desc: [
-		"有效升级:"
-		"- &a自动跳跃&f"
-		"- &a跳跃提升&f"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a自动跳跃&f\\n&7[- Step Assist]&f"
+		"- &a跳跃提升&f\\n&7[- Jump Boost]&f"
 	]
-	quest.45A25221F54A1DEC.quest_desc: ["铁核扳手可用于旋转机器,也可用于连接交换器."]
+	quest.45A25221F54A1DEC.quest_desc: ["铁核扳手允许玩家旋转机器,同时也用于将交换器相互连接.\\n&7[The Ferricore Wrench allows the player to rotate machines, but it is also used to link swappers together.]&f"]
 	quest.45D683D7F1A32B04.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使工具能够瞬间挖掘方块."
+		"使工具能够瞬间挖掘方块.\\n&7[Allows the tool to instantly mine blocks.]&f"
 	]
 	quest.46E6B1600AA8A61E.quest_desc: [
-		"有效升级:"
-		"- 生物扫描仪"
-		"- 自动熏烤机"
-		"- 灼伤愈合"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 生物扫描器\\n&7[- Mob Scanner]&f"
+		"- 自动烟熏炉\\n&7[- Auto Smoker]&f"
+		"- 灼伤愈合\\n&7[- Cauterize Wounds]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.46EE2F9818F8D1D9.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"自动清除被挖掘方块正上方所有受重力影响的方块."
+		"自动清除被挖掘方块正上方受重力影响的任何方块.\\n&7[Automaticly clears any blocks affected by gravity directly above the block mined.]&f"
 	]
 	quest.4773421DC70009AB.quest_desc: [
-		"固有能力:"
-		"- 防踩踏"
-		"- 作物加速生长 I"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 防踩踏\\n&7[- No Trampling]&f"
+		"- 作物生长加速 I\\n&7[- Accelerated Crop Growth I]&f"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["时间流体被悖论机器和时间法杖使用.将时间水晶投入多态流体即可获取.\\n\\n对于如此难获取的水晶,我很高兴他们这次提供了容易获得的流体."]
-	quest.49636B3C6E6D0C2A.quest_desc: ["暂无用途,但外观炫酷."]
+	quest.48E4D75FD3145AD6.quest_desc: ["时间流体由悖论机器和时间法杖使用.将时间水晶投入多态流体中即可获得.\\n\\n对于如此难获取的水晶,我很高兴他们这次给了我们容易获得的流体.\\n&7[Time Fluid is used by the Paradox Machine and Time Wand. It is obtained by dropping a Time Crystal into Polymorphic Fluid.\\n\\nFor a crystal so tough to get, I'm glad they gave us an easy fluid for once.]&f"]
+	quest.49636B3C6E6D0C2A.quest_desc: ["暂无用途,但外观很酷.\\n&7[Has no uses, looks cool though.]&f"]
 	quest.4987759CF379C1EB.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"当物品栏中存在时间水晶时,免疫缓慢与速度效果."
+		"当物品栏中存在时间水晶时,免疫缓慢与速度效果的影响.\\n&7[Prevents slowness and speed effects from being given while you have Time Crystals in your inventory.]&f"
 	]
-	quest.49EF8A4346AEF582.quest_desc: ["将蚀日余烬投入虚空焰燃料可获得未精炼的蚀日余烬燃料.使用四级粘液进行粘液扩散可将未精炼的蚀日余烬燃料转化为蚀日余烬燃料."]
-	quest.4A5937F6E5D06BE1.quest_desc: ["简易液体燃料发电机,使用JDT添加的液体燃料运作."]
+	quest.49EF8A4346AEF582.quest_desc: ["将蚀刻余烬投入虚空火焰燃料可获得未精炼的蚀刻余烬燃料.使用四级粘液进行粘液扩散可将未精炼蚀刻余烬燃料转化为蚀刻余烬燃料.\\n&7[Dropping Eclipse Ember into Voidflame Fuel will create Unrefined Eclipse Ember Fuel. Perfoming Goo Spread with Tier Four goo will convert Unrefined Eclipse Ember Fuel into Eclipse Ember Fuel.]&f"]
+	quest.4A5937F6E5D06BE1.quest_desc: ["简易液体燃料发电机,使用JDT模组添加的液体燃料运作.\\n&7[A simple liquid fuel generator that runs off the liquid fuels added by JDT.]&f"]
 	quest.4ACB72F3A23A5A19.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"&a提升游泳速度&f."
+		"&a提升游泳速度&f.\\n&7[Increases swimming speed.]&f"
 	]
 	quest.4B1E4FC4599DB916.quest_desc: [
-		"有效升级:"
-		"- 无敌"
-		"- 灭火"
-		"- 鞘翅"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 无敌\\n&7[- Invulnerability]&f"
+		"- 灭火\\n&7[- Extinguish]&f"
+		"- 鞘翅\\n&7[- Elytra]&f"
 	]
-	quest.4B3F20E5C7E3BCFB.quest_desc: ["原始煤是JDT新增的材料.通过在煤矿块上使用一级及以上粘液进行粘液扩散可获得原始煤.原始&a煤矿石&f受时运附魔影响."]
+	quest.4B3F20E5C7E3BCFB.quest_desc: ["原始煤炭是JDT添加的新材料.使用一级或更高级粘液对煤炭块进行粘液扩散可获得原始煤炭.原始&a煤矿石&f受时运附魔影响.\\n&7[Primal Coal is a new material added by JDT. Primal Coal is aquired by performing Goo Spread on Coal Blocks using tier one goo or higher. Primal Coal Ore is affected by fortune.]&f"]
 	quest.4C54BD57CAB8A54B.quest_desc: [
-		"烈焰粘浆是JDT添加的第二层级粘浆,需要下界材料合成."
+		"炽绽粘液是JDT添加的第二级粘液,需要下界材料合成.\\n&7[Blazebloom Goo is the second tier of goo added by JDT and requires Nether materials to craft.]&f"
 		""
-		"已解锁合成:"
-		"- 烈焰金"
-		"- 烈焰余烬"
+		"已解锁合成:\\n&7[Crafts Unlocked:]&f"
+		"- 炽金\\n&7[- Blazegold]&f"
+		"- 烈焰余烬\\n&7[- Blaze Ember]&f"
 	]
 	quest.4D98D2123BD5BFB3.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"一次性开采相邻的所有原木,注意开采多个原木时会增加破坏所需时间."
+		"一次性采伐相邻的所有原木,注意:同时采伐多个原木会增加破坏所需时间.\\n&7[Mines adjacent logs all at once, note will increase time taken to break when mining multipul logs.]&f"
 	]
 	quest.4E03AE15BEF86178.quest_desc: [
-		"有效升级:"
-		"- 生物扫描器"
-		"- 自动熏烤机"
-		"- 灼伤愈合"
-		"- 掉落物传送器"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 生物扫描器\\n&7[- Mob Scanner]&f"
+		"- 自动烟熏机\\n&7[- Auto Smoker]&f"
+		"- 灼伤愈合\\n&7[- Cauterize Wounds]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
 	]
-	quest.4E9B35DCA018FD42.title: "工具升级"
-	quest.4F9932477EDDCB8E.quest_desc: ["高级&a传送枪&f是&a传送枪&f的升级版本,需要能量和传送液才能运作.与&a传送枪&f不同,高级&a传送枪&f允许玩家在已编码的位置之间传送.使用”V”键(默认按键)可打开用于编码和选择传送目的地的菜单."]
+	quest.4E9B35DCA018FD42.title: "工具升级&7[Tool Upgrades]&f"
+	quest.4F9932477EDDCB8E.quest_desc: ["高级&a传送枪&f是&a传送枪&f的升级版本,需要能量与传送门流体共同运作.与&a传送枪&f不同,高级&a传送枪&f允许玩家在已编码的定位点之间传送.按”V”键(默认键位)可打开用于编码和选择传送目的地的菜单.\\n&7[The Advanced Portal Gun is the upgraded version of the Portal Gun that requres both power and portal fluid to operate. Unlike the Portal Gun the Adavanced Portal Gun allows the player to teleport between locations that have been encoded. Using \"V\" (default keybind) the menu used to encode and select desinations for teleportion.]&f"]
 	quest.5054977BD5354561.quest_desc: [
-		"有效升级:"
-		"- 树木砍伐器"
-		"- 树叶破碎器"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 树木砍伐器\\n&7[- Tree Feller]&f"
+		"- 树叶破碎器\\n&7[- Leaf Breaker]&f"
 	]
 	quest.515C0527226BA50C.quest_desc: [
-		"&l能力类型:&r被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"赋予玩家创造模式的飞行能力."
+		"赋予玩家创造模式飞行能力.\\n&7[Grants the player creative flight.]&f"
 	]
-	quest.517F0135926B15EE.quest_desc: ["所有简易机器都带有红石控制功能,部分还配备过滤系统."]
+	quest.517F0135926B15EE.quest_desc: ["所有简易机器均支持红石控制,部分带有过滤功能.\\n&7[All simple machines come with redstone controll, and some come with filtering.]&f"]
 	quest.52EC86E03EB50525.quest_desc: [
-		"固有能力:"
-		"- 熔岩修复"
-		"- 防踩踏"
-		"- 自动收割"
-		"- 作物加速生长II"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
+		"- 防踩踏\\n&7[- No Trampling]&f"
+		"- 自动收割\\n&7[- Auto Harvesting]&f"
+		"- 作物生长加速II\\n&7[- Accelerated Crop Growth II]&f"
 	]
-	quest.53F9E5CE7EE6F852.quest_desc: ["&a动物&f捕捉器可用于运输生物.可通过实体标签将生物加入黑名单."]
+	quest.53F9E5CE7EE6F852.quest_desc: ["&a动物&f捕捉器可实现生物运输.可通过实体标签将生物加入黑名单.\\n&7[The Creature Catcher allows for the transport of mobs. Mobs can be blacklisted via an entitiy tag.]&f"]
 	quest.567005978482235F.quest_desc: [
-		"有效升级:"
-		"- 药水箭"
-		"- 溅射效果"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 药箭\\n&7[- Potion Arrow]&f"
+		"- 溅射\\n&7[- Splash]&f"
 		""
-		"固有能力:"
-		"- 熔岩修复"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩修复\\n&7[- Lava Repair]&f"
 	]
 	quest.5961C1ED32522BEF.quest_desc: [
-		"&l能力类型:&r主动"
+		"&l能力类型:&r主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function: ]&f"
 		""
-		"生成一个玩家的诱饵,吸引仇恨远离玩家,有冷却时间."
+		"生成玩家的诱饵体转移仇恨,具有冷却时间.\\n&7[Spwans a decoy of the player that pulls agro away from the player, has a cooldown.]&f"
 	]
 	quest.5A1AB1AD7DEFDD9A.quest_desc: [
-		"有效升级:"
-		"- 无敌"
-		"- 灭火"
-		"- 鞘翅"
-		"- 死亡保护"
-		"- 飞行"
-		"- 熔岩免疫"
-		"- 时间保护"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 无敌\\n&7[- Invulnerability]&f"
+		"- 灭火\\n&7[- Extinguish]&f"
+		"- 鞘翅\\n&7[- Elytra]&f"
+		"- 死亡保护\\n&7[- Death Protection]&f"
+		"- 飞行\\n&7[- Flight]&f"
+		"- 熔岩免疫\\n&7[- Lava Immunity]&f"
+		"- 时间保护\\n&7[- Time Protection]&f"
 	]
 	quest.5A38E9F68570F7F3.quest_desc: [
-		"有效升级:"
-		"- &a速度提升&f"
-		"- &a行走速度&f"
-		"- &a游泳速度&f"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a速度提升&f\\n&7[- Run Speed]&f"
+		"- &a行走速度&f\\n&7[- Walk Speed]&f"
+		"- &a游泳速度&f\\n&7[- Swim Speed]&f"
 		""
-		"固有能力:"
-		"- 熔岩能力"
+		"固有能力:\\n&7[Intrinsic Ability:]&f"
+		"- 熔岩能力\\n&7[- Lava Ability]&f"
 	]
 	quest.5A9436B100FC1E67.quest_desc: [
-		"有效升级选项:"
-		"- 药水箭"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 药箭\\n&7[- Potion Arrow]&f"
 	]
 	quest.5B02719C13B1FFE2.quest_desc: [
-		"Abilities:"
-		"- 空气爆发:进一步提升弹射距离."
-		"- 虚空跃迁:增加传送距离."
-		"- 蚀界之门:在3x3区域内创建可定向的传送孔洞,方向取决于目标方块面.可配置孔洞延伸距离.注意蚀界之门对瓷砖实体无效."
+		"Abilities:\\n&7[Abilities:]&f"
+		"- 空气爆发:进一步提升弹射距离.\\n&7[- Air Burst: Further improved launch distance.]&f"
+		"- 虚空跃迁:增加传送距离.\\n&7[- Void Shift: Improved teleportation distance.]&f"
+		"- 蚀界之门:在3x3区域内创建可定向传送门,方向取决于目标方块面.传送距离可配置.注:蚀界之门对瓷砖实体无效.\\n&7[- Eclipse Gate: Creates a portable hole in a 3x3 area, direction is dependant of the face of the block targeted. Distance of the hole created is configurable. Note Eclipse Gate doesn't work on tile entities.]&f"
 	]
 	quest.5B910F1389C0B915.quest_desc: [
-		"Abilities:"
-		"- 空气爆发:增加弹射距离并消耗FE能量."
-		"- 虚空跃迁:沿玩家视线方向传送并消耗FE能量."
+		"Abilities:\\n&7[Abilities:]&f"
+		"- 空气爆发:增加弹射距离并消耗FE能量.\\n&7[- Air Burst: Improved launching distance and conusmes FE.]&f"
+		"- 虚空跃迁:沿玩家视线方向传送并消耗FE能量.\\n&7[- Void Shift: Teleports player in the direction they are looking consuming FE in the process.]&f"
 	]
 	quest.5BBE8B30ED7518B8.quest_desc: [
-		"有效升级选项:"
-		"- &a矿石矿工&f"
-		"- &a矿石扫描仪&f &4&l已禁用&r&f"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- &a矿石扫描仪&f &4&l已禁用&r&f\\n&7[- Ore Scanner lDISABLED]&f"
 	]
-	quest.5BD5737703F3F077.quest_desc: ["铁核是由JDT新增的材料,通过对铁块使用一级及以上粘液进行扩散获得.铁核矿石受时运附魔影响."]
-	quest.5BD5737703F3F077.title: "铁核"
+	quest.5BD5737703F3F077.quest_desc: ["铁核矿是JDT新增材料.通过对铁块使用一级及以上粘液进行扩散获得,受时运附魔影响.\\n&7[Ferricore is a new material added by JDT. Ferricore is aquired by performing Goo Spread on Iron Blocks using tier one goo or higher. Ferricore Ore is affected by fortune.]&f"]
+	quest.5BD5737703F3F077.title: "铁核矿&7[Ferricore]&f"
 	quest.5C6709350BEF4050.quest_desc: [
-		"虚空闪烁粘液是JDT增加的第三级粘液,需要末地材料合成."
+		"虚空微光粘液是JDT添加的第三阶粘液,需要末地材料合成.\\n&7[Voidshimmer Goo is the third tier of goo added by JDT and requires End materials to craft.]&f"
 		""
-		"已解锁合成:"
-		"- 天界宝石"
-		"- 虚空之火"
+		"已解锁合成:\\n&7[Crafts Unlocked:]&f"
+		"- 天界宝石\\n&7[- Celestigem]&f"
+		"- 虚空之火\\n&7[- Void Flame]&f"
 	]
 	quest.5D4E51471F3939E0.quest_desc: [
-		"Abilites:"
-		"- 空气爆发:沿玩家朝向弹射并消耗耐久度,高阶法杖弹射距离更远.注意手持法杖时玩家不会承受摔落伤害."
+		"Abilites:\\n&7[Abilites:]&f"
+		"- 空气爆发:将玩家朝其面对的方向发射,过程中消耗耐久度,更高阶的法杖可将玩家发射至更远距离.注意:只要玩家持有该法杖就不会受到摔落伤害.\\n&7[- Air Burst: Launches player in the direction they are facing consuming durability in the progress, higher tier wands launch the player a greater distance. Note the player won't take fall damage as long as they are holding the wand.]&f"
 	]
-	quest.5EE7D5DE07A83C7D.quest_desc: ["&l技能类型:&r 主动\\n\\n&l技能功能:&r\\n\\n激活时用绿色粒子高亮附近矿石.\\n\\n&4&l注意:该技能已被禁用.&r&f"]
-	quest.5F5120451BA5B2FE.quest_desc: ["高级机器在保留基础功能的同时,新增可配置工作区域、更多筛选槽位和需供能特性."]
-	quest.60A4994078500F63.quest_desc: ["天界宝石是JDT新增的材料,通过对钻石块使用三级及以上粘液进行扩散获得.天界宝石矿石受时运附魔影响."]
+	quest.5EE7D5DE07A83C7D.quest_desc: ["&l能力类型:&r 主动\\n\\n&l能力功能:&r\\n\\n激活时用绿色粒子高亮显示附近的矿石.\\n\\n&4&l注意:该能力已被禁用.&r&f\\n&7[lAbility Type: Active\\n\\nlAbility Function:\\n\\nHighlights nearby ores with green particals when activated.\\n\\nlNOTE THIS ABILITY HAS BEEN DISABLED.]&f"]
+	quest.5F5120451BA5B2FE.quest_desc: ["高级机器具有与简易版本相同的功能,并额外增加可配置工作区域、更多过滤槽位和需供能运作的特性.\\n&7[Advanced machines have the same capabilities as their simple varients with the addition of configurable working area, more filter slots and requiring power.]&f"]
+	quest.60A4994078500F63.quest_desc: ["天界宝石是JDT新增的材料.通过对钻石块使用三阶或更高阶的粘液进行扩散可获得天界宝石.天界宝石矿石受时运附魔影响.\\n&7[Celestigem is a new material added by JDT. Celestigem is aquired by performing Goo Spread on Diamond Blocks using tier three goo or higher. Celestigem Ore is affected by fortune.]&f"]
 	quest.61213012615619C5.quest_desc: [
-		"&l技能类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"自动熏制被击杀生物掉落物."
+		"自动烟熏被击杀生物掉落的物品.\\n&7[Automaticly smokes items dropped by kills.]&f"
 	]
 	quest.636854555AD75DC3.quest_desc: [
-		"&l技能类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"自动传送掉落物至绑定容器.Shift+&a右键&f工具点击容器即可绑定.注意:当使用JDT锄头时,虚空闪烁/暗影脉冲农田自动收获的作物会传送至绑定容器；若工具绑定容器变更,&a右键&f点击农田可重新绑定."
+		"自动将物品掉落物传送至与工具绑定的容器中.按住潜行键&a右键&f点击容器可进行绑定.注意:当应用于JDT锄头时,虚空微光/暗影脉冲耕地自动收获产生的掉落物也会被传送到绑定容器中；若工具的绑定容器发生变更,通过&a右键&f点击虚空微光/暗影脉冲耕地可重新进行绑定.\\n&7[Automaticly teleports item drops to the inventory bound to the tool. Shift Right Clicking the tool on an inventory binds it. Note when on a JDT hoe items dropped by the auto harvest ability of the voidshimmer / shadowpulse farmland are teleported to the bound inventory, also right clicking voidshimmer / shadowpulse farmland will re-bind them if the bound inventory of the tool has been changed.]&f"
 	]
 	quest.6690AEE064DC2A7C.quest_desc: [
-		"&l技能类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:"
+		"&l能力功能:\\n&7[lAbility Function:]&f"
 		""
-		"增加一次性挖掘区域范围.安装在更高级别的工具上时,最大挖掘区域会增大.挖掘区域可在菜单中配置."
+		"增加单次挖掘范围.安装在更高阶工具上时可提升最大挖掘范围.挖掘范围可通过菜单配置.\\n&7[Increases area mined at once. When installed on higher tier tools the maximum area mined is increase. Mined area can be configured in the menu.]&f"
 	]
 	quest.6720F863B907A5F1.quest_desc: [
-		"&l技能类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使弓射出的药箭带有滞留效果,持续对区域施加状态效果."
+		"使弓射出的药箭具有滞留效果,持续对区域内的目标施加状态效果.\\n&7[Makes Potion Arrows fired by the bow have a Lingering effect, applying effects to an area over time.]&f"
 	]
-	quest.6737CB17D562B134.quest_desc: ["只是一个简单的点击器,会用给予的物品进行点击."]
-	quest.67B87570C340C243.title: "护甲升级"
+	quest.6737CB17D562B134.quest_desc: ["仅是一个简单的点击器,会用被给予的物品进行点击操作.\\n&7[Just a simple clicker that clicks with the item it is given.]&f"]
+	quest.67B87570C340C243.title: "盔甲升级&7[Armor Upgrades]&f"
 	quest.6889EFC6CC291463.quest_desc: [
-		"&l技能类型:&r 主动"
+		"&l能力类型:&r 主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"激活时击退附近的生物,有冷却时间."
+		"激活时击退附近的生物,有冷却时间.\\n&7[Repells nearby mobs when activated, has a cooldown.]&f"
 	]
 	quest.6A4D31194C4CE156.quest_desc: [
-		"有效升级:"
-		"- &a矿石矿工&f"
-		"- 草坪收割机"
-		"- 天空清扫者"
-		"- 树木砍伐器"
-		"- 树叶破碎器"
-		"- &a自动烧炼&fer"
-		"- 巨锤"
-		"- 掉落物传送器"
-		"- X射线透视"
-		"- 瞬间破坏"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- 草坪修剪机\\n&7[- Lawnmower]&f"
+		"- 天空清扫者\\n&7[- Sky Sweeper]&f"
+		"- 树木砍伐器\\n&7[- Tree Feller]&f"
+		"- 树叶破碎器\\n&7[- Leaf Breaker]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤子\\n&7[- Hammer]&f"
+		"- 掉落物传送器\\n&7[- Drops Teleporter]&f"
+		"- X射线\\n&7[- X-Ray]&f"
+		"- 瞬间破坏\\n&7[- Instant Break]&f"
 	]
 	quest.6ADE6F9E004055F7.quest_desc: [
-		"时间水晶是JDT新增的材料.它们生长在萌芽时间&a块状水晶&f上,该晶体是通过在&a紫水晶母岩&f或时间&a水晶块&f上进行黏液蔓延产生的.\\n\\n但萌芽时间&a水晶块&f必须从主世界、&a下界&f和&a末地&f收集时间能量才能生长时间&a晶簇&f.不可破坏或使用精准采集获取萌芽时间&a水晶块&f,必须使用置换器、&a纸板箱&f或剪切粘贴装置移动它们.\\n\\n一段时间后,萌芽时间&a水晶块&f会耗尽能量,必须重新前往主世界、下界和末地充能."
+		"时间晶体是JDT新增的材料,它们生长在萌芽时间&a块状水晶&f上.该方块通过对&a紫水晶母岩&f或时间&a水晶块&f进行黏液蔓延生成.\\n\\n但萌芽时间&a水晶块&f必须分别从主世界、&a下界&f和&a末地&f汲取时间能量才能生长时间&a晶簇&f.不可直接破坏或使用精准采集获取萌芽时间&a水晶块&f,必须使用置换器、&a纸板箱&f或剪切粘贴工具进行移动.\\n\\n一段时间后萌芽时间&a水晶块&f会耗尽能量,需要重新经历主世界、下界和末地的充能循环.\\n&7[Time Crystals are a new material added by JDT. These grow on Budding Time Crystal Blocks, which are created by performing goo spread on Budding Amethyst or a Time Crystal Block.\\n\\nHOWEVER, the Budding Time Crystal Block must collect time from the Overworld, the Nether, and The End to be able to grow Time Crystal Clusters. You CANNOT break or use silk touch on the Budding Time Crystal Block. You must use a Swapper, Cardboard Box, or Cut Paste Gadget to move them.\\n\\nAfter a while, the Budding Time Crystal Block will run out of energy, and must go for another trip to the Overworld, Nether, and End.]&f"
 		"{@pagebreak}"
-		"自动化此过程的方法请查看本任务上方图片中链接的视频."
+		"To automate this process, look at the video linked in the image above this quest."
 	]
-	quest.6ADE6F9E004055F7.quest_subtitle: "时空奇旅"
+	quest.6ADE6F9E004055F7.quest_subtitle: "时空奇旅&7[Timey Wimey]&f"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
-		"&l技能类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l技能功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"使玩家免疫岩浆伤害."
+		"使玩家免疫岩浆伤害.\\n&7[Makes the player immune to lava.]&f"
 	]
-	quest.6F709652A2B88C78.quest_desc: ["&a能量&f发射器可向工作范围内的方块供能,仅能从底部接收能量."]
+	quest.6F709652A2B88C78.quest_desc: ["&a能量&f传输器可向工作范围内的方块供能,仅能从底部接收能量.\\n&7[The energy transmitter provides power to blocks within it's working range, it can only accept power from the bottom.]&f"]
 	quest.6FD4C60B547F4131.quest_desc: [
-		"有效升级:"
-		"- &a矿石矿工&f"
-		"- &a矿石扫描仪&f &4&l已禁用&r&f"
-		"- &a自动烧炼&fer"
-		"- 巨锤"
-		"- 掉落物传送器"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- &a矿石矿工&f\\n&7[- Ore Miner]&f"
+		"- &a矿石扫描仪&f &4&l已禁用&r&f\\n&7[- Ore Scanner lDISABLED]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤击强化\\n&7[- Hammer]&f"
+		"- 物品传送\\n&7[- Drops Teleporter]&f"
 	]
 	quest.703BDCDC88DD813C.quest_desc: [
-		"有效升级:"
-		"- 草坪收割机"
-		"- 天空清扫者"
-		"- &a自动烧炼&fer"
-		"- 巨锤"
-		"- 掉落物传送器"
-		"- 瞬间破坏"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 草坪修剪\\n&7[- Lawnmower]&f"
+		"- 天空清扫\\n&7[- Sky Sweeper]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 锤击强化\\n&7[- Hammer]&f"
+		"- 物品传送\\n&7[- Drops Teleporter]&f"
+		"- 瞬间破拆\\n&7[- Instant Break]&f"
 	]
-	quest.70AD088336748892.quest_desc: ["仅是一个简单的煤炭发电机."]
-	quest.70BF85E2D235BAD5.quest_desc: ["将虚空焰煤放入烈焰余烬燃料中会生成未精炼的虚空焰燃料.使用三级或更高级别的黏液进行蔓延可将未精炼的虚空焰燃料转化为虚空焰燃料."]
-	quest.70C404E5685E4E91.quest_desc: ["仅为一个简易方块放置器."]
+	quest.70AD088336748892.quest_desc: ["基础煤炭发电机.\\n&7[Just a simple coal generator.]&f"]
+	quest.70BF85E2D235BAD5.quest_desc: ["将虚空焰煤投入烈焰余烬燃料可获得未精炼的虚空焰燃料.使用三级及以上黏液进行蔓延可将未精炼的虚空焰燃料转化为虚空焰燃料.\\n&7[Dropping Voidflame Coal into Blaze Ember Fuel will create Unrefined Voidflame Fuel. Perfoming Goo Spread with Tier Three goo or higher will convert Unrefined Voidflame Fuel into Voidflame Fuel.]&f"]
+	quest.70C404E5685E4E91.quest_desc: ["基础方块放置器.\\n&7[Just a simple block placer.]&f"]
 	quest.71128E508D810DDF.quest_desc: [
-		"有效升级选项:"
-		"- 药箭"
-		"- 喷溅"
-		"- 滞留"
-		"- &a归航之箭&f"
-		"- 相位"
-		"- 勇度箭"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 药箭附魔\\n&7[- Potion Arrow]&f"
+		"- 溅射效果\\n&7[- Splash]&f"
+		"- 滞留效果\\n&7[- Lingering]&f"
+		"- &a归航之箭&f\\n&7[- Homing Arrow]&f"
+		"- 相位穿透\\n&7[- Phase]&f"
+		"- 勇度飞箭\\n&7[- Yondu Arrow]&f"
 	]
 	quest.71441DFA05FD73E5.quest_desc: [
-		"有效升级选项:"
-		"- 心智迷雾"
-		"- 昏昏倒地"
-		"- &a夜视&f"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 心智迷雾\\n&7[- Mind Fog]&f"
+		"- 昏睡咒\\n&7[- Stupefy]&f"
+		"- &a夜视&f\\n&7[- Night Vision]&f"
 	]
-	quest.7305EE0F7D73C231.quest_desc: ["空白升级是所有能力的基础.能力分为两种类型:被动与主动.\\n\\n被动能力无需玩家主动操作即可生效,而主动能力仅当玩家通过配置菜单设置的快捷键触发时才会生效,且使用时消耗耐久度/能量.安装在更高阶护甲上时,主动能力的冷却时间会缩短,被动能力的效果则会增强.\\n\\n锻造台用于为JDT工具和护甲添加升级.将鼠标悬停在JDT工具或护甲上时按住Shift键可查看有效升级选项."]
-	quest.73552A4BA0687962.quest_desc: ["这些升级可应用于工具或护甲."]
+	quest.7305EE0F7D73C231.quest_desc: ["空白升级是所有能力的基础载体.能力分为被动与主动两种类型.\\n\\n被动能力无需玩家操作即可持续生效,而主动能力需通过配置菜单设置的快捷键触发,使用时会消耗耐久值/能量.安装在高级护甲上时,主动能力冷却时间缩短,被动能力效果增强.\\n\\n锻造台可用于为JDT工具和护甲添加升级.将鼠标悬停在JDT装备上按住Shift键可查看适用升级类型.\\n&7[Blank Upgrades are the base of all abilities. Abilities are seperated into two types, passive and active.\\n\\nPassive abilities require no active input by the player to work, however Active abilities only work when triggered by a keybind players set in the configuration menu, also active abilities consume durability/power when used. When installed on higher tier armor Active abilities have reduced cooldowns and Passived abilities have greater effects.\\n\\nThe smithing table is used to apply upgrades to JDT tools and armor. Holding shift when hovering over JDT tools or armor shows what upgrades are valid.]&f"]
+	quest.73552A4BA0687962.quest_desc: ["这些升级可应用于工具或护甲.\\n&7[These upgrades can go into either tools or armor.]&f"]
 	quest.7464CA1290B3474B.quest_desc: [
-		"有效升级选项:"
-		"- 无敌"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 无敌\\n&7[- Invulnerability]&f"
 	]
-	quest.76B1C5AFC5D6B7CF.quest_desc: ["时间法杖可用于加速方块,类似于瓶中时逝,最高可达256倍速.与瓶中时逝不同,它使用FE(锻造能量)和时间流体而非存储的时间作为燃料,使得补充燃料更为便捷.\\n\\n但禁止假玩家使用.我们不希望您自动化此操作."]
-	quest.76B1C5AFC5D6B7CF.quest_subtitle: "瓶中时逝的姊妹产品"
+	quest.76B1C5AFC5D6B7CF.quest_desc: ["时间法杖可用于加速方块,类似于瓶中时光,最高可达256倍速.与瓶中时光不同,它使用FE(能量单位)和时间流体而非储存的时间作为燃料,这使得补充燃料更为便捷.\\n\\n但禁止假玩家使用,我们不希望你自动化这个功能.\\n&7[The Time Wand can be used to accelerate blocks, similarly to the Time in a Bottle, up to x256 speed. Unlike TIAB, it uses FE and Time Fluid rather than stored time as fuel, making it considerably easier to refill.\\n\\nIt is blacklisted for fake players, though. We don't want you automating THIS.]&f"]
+	quest.76B1C5AFC5D6B7CF.quest_subtitle: "瓶中时光的姊妹版&7[Cousin of the Time in a Bottle]&f"
 	quest.78840993C7832E89.quest_desc: [
-		"有效升级选项:"
-		"- 伐木工"
-		"- 树叶破碎者"
-		"- &a自动烧炼&fer"
-		"- 掉落物传送"
-		"- 瞬间破坏"
+		"有效升级:\\n&7[Valid Upgrades:]&f"
+		"- 树木砍伐者\\n&7[- Tree Feller]&f"
+		"- 树叶破碎者\\n&7[- Leaf Breaker]&f"
+		"- &a自动烧炼&fer\\n&7[- Auto Smelter]&f"
+		"- 掉落物传送\\n&7[- Drops Teleporter]&f"
+		"- 瞬间破坏\\n&7[- Instant Break]&f"
 	]
 	quest.79BBCC1BEE90DBBB.quest_desc: [
-		"&l能力类型:&r 被动"
+		"&l能力类型:&r 被动\\n&7[lAbility Type: Passive]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"允许玩家规避死亡,冷却时间极长.相当于带有冷却时间且不会被消耗的不死图腾."
+		"允许玩家规避死亡,冷却时间极长.相当于一个带有冷却时间但不被消耗的不死图腾.\\n&7[Allows the player to cheat death, has a very long cooldown. So otherwise a Totem of Undying with a cooldown that isn't consumed.]&f"
 	]
-	quest.7AEFF81E7C8CF300.quest_desc: ["手持JDT工具或法杖时,使用Shift+&a右键&f可打开配置菜单,玩家可在其中配置和切换能力."]
+	quest.7AEFF81E7C8CF300.quest_desc: ["手持JDT工具或法杖时,使用Shift+&a右击&f可打开配置菜单,玩家可在其中配置和切换能力.\\n&7[Using Shift Right Click when holding a JDT tool or wand will open the configuration menu where the player can configure and toggle abilities.]&f"]
 	quest.7B9486981786AC47.quest_desc: [
-		"&l能力类型:&r 主动"
+		"&l能力类型:&r 主动\\n&7[lAbility Type: Active]&f"
 		""
-		"&l能力功能:&r"
+		"&l能力功能:&r\\n&7[lAbility Function:]&f"
 		""
-		"永久移除附近生物的AI,因能量消耗限制,每次激活最多仅能影响五个生物,冷却时间极长."
+		"永久移除附近生物的AI,由于能量消耗,每次激活最多只能影响五个生物,冷却时间极长.\\n&7[Permantly removes the ai of nearby mobs, due to the power cost it can only affect five mobs at max per activation, has a very long cooldown.]&f"
 	]
-	quest.7D1D2A4E07E98709.quest_desc: ["简易的方块破坏器,需要工具来破坏方块."]
-	quest.7F0B2D58361FB00E.quest_desc: ["&d戴尔设备&f是一款多用途模组.&d戴尔设备&f新增了一种称为粘液扩散的合成机制,以及辅助自动化粘液扩散和其他功能的机器."]
-	quest.7F0B2D58361FB00E.title: "&d戴尔设备&f"
-	task.00B0A3B14DEB34B9.title: "混合升级"
-	task.03982D782B426ABB.title: "版权所有"
-	task.19931057AAC1A03A.title: "版权所有"
-	task.32309011F80C0A9E.title: "注意"
-	task.366CA7D53571A552.title: "实用工具"
-	task.3AC95E8DC4229D17.title: "&d戴尔设备&f"
-	task.3CAD6AD06BE4C3D3.title: "工具"
-	task.40B39896B6CD41C6.title: "盔甲"
-	task.5AB4103FF540ABB4.title: "流体"
-	task.5DD919AF75C92C8A.title: "工具"
-	task.665A5DFA6270ADA6.title: "简易机械"
-	task.67B21CF59C3D02E5.title: "高级机械"
-	task.7197FBBA21C0F94A.title: "盔甲"
+	quest.7D1D2A4E07E98709.quest_desc: ["一个简单的方块破坏器,需要工具来破坏方块.\\n&7[A simple block breaker that requires a tool to break blocks.]&f"]
+	quest.7F0B2D58361FB00E.quest_desc: ["&d戴尔设备&f是一个多用途模组.&d戴尔设备&f新增了一种名为粘液扩散的合成机制,以及辅助自动化粘液扩散和其他实用功能的机器.\\n&7[Just Dire Things is a jack of all trades mod. Just Dire Things adds a new crafting mechanic called Goo Spread, along with machines that assist in the automation of Goo Spread and other utilities.]&f"]
+	quest.7F0B2D58361FB00E.title: "&d戴尔设备&f&7[Just Dire Things]&f"
+	task.00B0A3B14DEB34B9.title: "混合升级&7[Hybrid Upgrades]&f"
+	task.03982D782B426ABB.title: "版权所有&7[AllRightsReserved]&f"
+	task.19931057AAC1A03A.title: "版权所有&7[AllRightsReserved]&f"
+	task.32309011F80C0A9E.title: "注意&7[NOTE]&f"
+	task.366CA7D53571A552.title: "实用工具&7[Utilities]&f"
+	task.3AC95E8DC4229D17.title: "&d戴尔设备&f&7[Just Dire Things]&f"
+	task.3CAD6AD06BE4C3D3.title: "工具&7[Tools]&f"
+	task.40B39896B6CD41C6.title: "护甲&7[Armor]&f"
+	task.5AB4103FF540ABB4.title: "流体&7[Fluids]&f"
+	task.5DD919AF75C92C8A.title: "工具&7[Tools]&f"
+	task.665A5DFA6270ADA6.title: "简单机器&7[Simple Machines]&f"
+	task.67B21CF59C3D02E5.title: "高级机器&7[Advanced Machines]&f"
+	task.7197FBBA21C0F94A.title: "护甲&7[Armor]&f"
 }

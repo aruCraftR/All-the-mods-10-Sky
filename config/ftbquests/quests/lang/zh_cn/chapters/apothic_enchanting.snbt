@@ -1,122 +1,122 @@
 {
-	quest.001A348054127235.quest_desc: ["&5&a紫水晶母岩&f&r可用于合成配方甚至培育&5紫水晶&r!\\n\\n使用&5&a紫水晶块&f&r、&a60点永恒能量&r、&c30%&r至&c50%&r的量子能量&r以及&50%秘法能量&r即可进行&d&l灌注&r.\\n\\n为获取全部所需属性,可使用15个&4发光地狱书架&r与4个&2西瓜书架&r."]
-	quest.001A348054127235.title: "制作&5&a紫水晶母岩&f"
-	quest.0518551637F76C50.quest_desc: ["制作&9回响&r升级需要多种材料.\\n\\n蜡烛相对容易获取!而&9&a回响碎片&f&r...显然并非如此...\\n\\n获取它们的最佳途径是掠夺&6远古城市&r,但也可以通过几种不同的仪式来合成.\\n\\n(甚至后期还能通过&5附魔&r获取!)\\n\\n&9回响幽匿书架&r将提供高达&515%&r的&5奥术能量&r,同时将最大&a位阶&r提升至&a75&r."]
-	quest.0518551637F76C50.title: "&9回响幽匿书架"
+	quest.001A348054127235.quest_desc: ["&5紫水晶母岩&r可用于合成配方,甚至能培育&5紫水晶&r!\\n\\n使用&5紫水晶块&r、&a60永恒能量&r、&c30%-50%量子值&r与&50%奥术能量&r即可进行&d&l灌注&r.\\n\\n建议配置:15个&4发光地狱书架&r与4个&2西瓜书架&r来获取所需属性.\\n&7[Budding Amethyst can be useful for Crafting Recipes and even just Growing Amethyst! \\n\\nWith a Amethyst Block, 60 位阶, between 30% and 50% 量子化, and 50% 阿卡那 we can lInfuse one. \\n\\nTo get all those stats we can use 15 Glowing Hellshelves and 4 Melonshelves.]&f"]
+	quest.001A348054127235.title: "制作&5紫水晶母岩&r&7[Making Budding Amethyst]&f"
+	quest.0518551637F76C50.quest_desc: ["要制作&9回响&r升级,我们需要几种不同的物品.\\n\\n蜡烛相对容易获取!还有&9&a回响碎片&f&r...后者绝对不容易...\\n\\n获取它们的最佳方式是在&6远古城市&r中搜刮战利品,但你也可以通过几种不同的仪式来合成.\\n\\n(甚至后期还能通过&5附魔&r获得!)\\n\\n&9回响深暗书架&r将提供高达&515%&r的&5奥术能量&r!同时将最大&a位阶&r提升至&a75&r.\\n&7[For the Echoing upgrade we'll need a few different Items. \\n\\nCandles which are relatively easy to get! And Echo Shards... which definitely aren't... \\n\\nThe best chance at getting them is by Looting an Ancient City, but you can Craft them with a few different Rituals. \\n\\n(Or even later on with Enchanting!) \\n\\nThe Echoing Deepshelves will give a whole lot more 阿卡那 at 15%! Along with raising the max 位阶 to 75.]&f"]
+	quest.0518551637F76C50.title: "&9回响深暗书架&7[Echoing Deepshelf]&f"
 	quest.0A3C464EF7CDD5F6.quest_desc: [
-		"&4地狱书架&r是您接触&c量子能量&r的起点,它们提供&c3%量子能量&r和&a3点位阶&r.\\n\\n比普通书架更优秀对吧？\\n\\n下一步需要16个这样的书架,在&5&a附魔台&f&r周围放置15个&4地狱书架&r,另外1个放在物品栏中.\\n\\n先制作11个,我会给您最后5个&4地狱书架&r!"
+		"&4地狱书架&r是你接触&c量子能量&r的入门,它们提供&c3%量子&r和&a3位阶&r.\\n\\n比普通书架强多了对吧？\\n\\n下一步你需要准备16个,在&5&a附魔台&f&r周围摆放15个&4地狱书架&r,背包里留1个.\\n\\n先制作前11个,我会给你最后5个&4地狱书架&r!\\n&7[Hellshelves are your introduction to 量子化, they give 3% 量子化 and 3 位阶. \\n\\nBetter than normal Shelves right? \\n\\nYou're going to want 16 of them for the next step, 15 Hellshelves around the Enchantment Table, with 1 in your Inventory. \\n\\nMake the first 11 and I'll give you the last 5 Hellshelves!]&f"
 		"{image:atm:textures/questpics/apothic/enchant_hellshelf.png width:100 height:100 align:center}"
 	]
-	quest.0A3C464EF7CDD5F6.title: "&4地狱书架"
-	quest.0F3A0A4DC18E5E55.quest_desc: ["&a位阶&r决定&5附魔等级&r,进而影响可获得&5附魔效果&r的品质!\\n\\n默认值为&a0&r,最大为&a50&r.\\n\\n几乎所有&7书架&r都会提供&a位阶&r,但每个书架都有其可设置的上限."]
-	quest.0F3A0A4DC18E5E55.title: "&a位阶"
-	quest.105442DA79829777.quest_desc: ["用8本&7书&r和一个铁砧,我们可以制作&8&a分解宝典&f&r.实际上需要8本,但您明白原理!\\n\\n在铁砧中将物品与&8宝典&r结合,可以剥离该物品上一半的&5附魔效果&r.\\n\\n操作完成后物品会损毁消失.不建议直接使用,您应该先升级它!"]
-	quest.105442DA79829777.quest_subtitle: "剥离半数附魔,摧毁物品"
-	quest.105442DA79829777.title: "&8&a分解宝典&f"
-	quest.148A33CC36B2563A.quest_desc: ["&d龙息书架&r是完美配置所需的最终书架.\\n\\n它虽只提供&a位阶&r,但拥有&a100&r的极高上限.\\n\\n制作需要5颗&3&a末影珍珠&f&r和1个&d龙首&r,这正是其命名为&d龙息&r的原因!\\n\\n可通过&a&lMA&r获取,或在&d末地船&r上找到.&d末地船&r是&d&l&a末地&f&r的结构,船首(前端)装有&d龙首&r."]
-	quest.148A33CC36B2563A.title: "&d末地龙息书架"
-	quest.158F872A3A2C3650.quest_desc: ["既然我们已有&a80&r点最大&a位阶&r,现在可以开始&d&l灌注&r&d龙息&r!\\n\\n与&d&l&a末影龙&f&r战斗时可获取&d龙息&r.当它栖息在巢穴上方时,会向您喷射&d粉色&r雾气.身处雾中时,用&a空瓶&f&a右击&f即可获得&d龙息&r!\\n\\n最佳配置是:4个&9回响幽匿书架&r、4个&9触魂幽匿书架&r和6个&6稳化石英藏书架&r.\\n\\n这将提供&a80点位阶&r、&c25%量子能量&r和&5100%奥术能量&r,完美契合&d&l灌注&r需求!"]
-	quest.158F872A3A2C3650.title: "&d灌注龙息"
+	quest.0A3C464EF7CDD5F6.title: "&4地狱书架&7[Hellshelves]&f"
+	quest.0F3A0A4DC18E5E55.quest_desc: ["&a位阶&r决定&5附魔等级&r,进而影响你能获得的&5附魔&r!\\n\\n默认值为&a0&r,最大值&a50&r.\\n\\n几乎所有&7书架&r都会提供&a位阶&r,但每种书架都有其设定上限.\\n&7[位阶 sets the Enchantment Level which determines what Enchantments you can or will get! \\n\\nIt's default is 0 and max is 50. \\n\\nAlmost all Bookshelves will give 位阶 but each has max they can set it to.]&f"]
+	quest.0F3A0A4DC18E5E55.title: "&a位阶&7[位阶]&f"
+	quest.105442DA79829777.quest_desc: ["用8本&7书&r和铁砧可以制作&8&a分解宝典&f&r.准确说是需要8次合成,但意思你懂的!\\n\\n在铁砧中将物品与&8宝典&r结合,可以剥离该物品上一半的&5附魔&r.\\n\\n操作完成后物品会损毁消失.我不建议直接使用,你应该先升级它!\\n&7[With 8 Books and an Anvil we can make the Tome of Scrapping. Well actually 8 of them, but you get the picture! \\n\\nBy combining an Item with the Tome in an Anvil, we can take half the Enchantments off the Item. \\n\\nThis will end up breaking and voiding the Item after it is done. I don't recommend using it, rather you should upgrade it!]&f"]
+	quest.105442DA79829777.quest_subtitle: "剥离半数附魔(物品损毁)&7[Half Enchantments, breaks Items]&f"
+	quest.105442DA79829777.title: "&8&a分解宝典&f&7[Tome of Scrapping]&f"
+	quest.148A33CC36B2563A.quest_desc: ["&d龙息书架&r是完美配置所需的终极书架.\\n\\n虽然只提供&a位阶&r,但其最大值可达&a100&r.\\n\\n合成需要5颗&3&a末影珍珠&f&r和&d龙首&r——正是龙首赋予其&d龙息&r特性!\\n\\n可通过&a&lMA&r获取,或在&d末地船&r上找到.&d末地船&r是&d&l&a末地&f&r的建筑,船首像位置就有&d龙首&r.\\n&7[The Draconic Shelf is the last Shelf we'll need for perfect set up. \\n\\nIt might only give 位阶 but it has the max 位阶 of 100. \\n\\nTo Craft it we'll need 5 Ender Pearls and a Dragon Head. That is what makes it Draconic! \\n\\nTo get them you can either use lMA or find them on End Ships. End Ships are Structures in lThe End, on the bow (front) is the Dragon Head. ]&f"]
+	quest.148A33CC36B2563A.title: "&d龙息末地书架&7[Draconic Endshelf]&f"
+	quest.158F872A3A2C3650.quest_desc: ["现在我们的&a位阶&r上限已达&a80&r,可以开始&d&l灌注&d龙息&r了!\\n\\n与&d&l&a末影龙&f&r战斗时,当它盘旋在基岩柱上方时可能向你喷射&d粉色&r雾气.身处雾中时,用&a空瓶&f&a右击&f即可获取&d龙息&r!\\n\\n推荐使用4个&9回响幽匿书架&r、4个&9灵魂触须幽匿书架&r和6个&6晶洞稳固书架&r来提升等级.\\n\\n这套配置提供&a80位阶&r、&c25%量子&r和&5100%奥术&r,是&d&l灌注&r的完美组合!\\n&7[Now that we have our max 位阶 of 80, we can start lInfusing Dragon's Breath! \\n\\nDragon's Breath can be obtained when fighting the lEnder Dragon. When she is perched above her nest she might shoot a Pink mist at you. When in it, you can Right Click with an Empty Bottle, to obtain Dragon's Breath! \\n\\nThe best way to get our Levels is with 4 Echoing Sculkshelves, 4 Soul-Touched Sculkshelves, and 6 Geode-Encased Bookshelves of Stability. \\n\\nThese will give us 80 位阶, 25% 量子化 and 100% 阿卡那. Perfect for lInfusion!]&f"]
+	quest.158F872A3A2C3650.title: "&d灌注龙息&7[Infused Dragon's Breath]&f"
 	quest.1873205CF5247E3E.quest_desc: [
-		"最终极的&7书架&r——&d末地书架&r!\\n\\n用6块&e&a末地石砖&f&r、1颗&3&a末影珍珠&f&r、1个&7书架&r,以及至关重要的&d灌注龙息&r合成.\\n\\n当前属性并非最优(每项仅提供5点),但&a90&r点的最大&a位阶&r极为惊人!\\n\\n哦对了,它们还能与其他物品合成进行升级!"
+		"终极的&7书架&r——&d末地书架&r!\\n\\n合成需要6块&e&a末地石砖&f&r、1颗&3&a末影珍珠&f&r、1个&7书架&r,当然还有&d灌注龙息&r.\\n\\n当前属性并非最佳(每项仅+5),但&a90&r的&a位阶&r上限惊人!\\n\\n哦对了,它们还能与其他物品合成升级!\\n&7[The last and greatest of the Bookshelves, the Endshelves! \\n\\nThese are created with 6 Endstone Bricks, 1 Ender Pearl, 1 Bookshelf, and of course the Infused Dragon's Breath. \\n\\nTheir stats aren't currently the best, only giving 5 for each. But their max 位阶 of 90 is incredible! \\n\\nOh yeah plus they can be Crafted with other Items to upgrade them!]&f"
 		"{image:atm:textures/questpics/apothic/enchant_endshelf.png width:100 height:100 align:center}"
 	]
-	quest.1873205CF5247E3E.title: "&d末地书架"
-	quest.191A7F3C9FBA4C13.quest_desc: ["用&b海晶砂砾&r合成&b注能海晶书架&r可获得&b晶化海晶书架&r.\\n\\n&b晶化海晶书架&r将保持&a5点永恒&r、&5%奥秘&r属性,并新增&c3%量子&r属性.\\n\\n集齐12个即可获得足够等级将&9休眠深暗书架&r&d&l注能&r转化为普通&9深暗书架&r!"]
-	quest.191A7F3C9FBA4C13.title: "&b晶化海晶书架"
-	quest.1FAFDB20F504688E.quest_desc: ["&5附魔&r系统因&5&l神化&r特性发生若干变化.\\n\\n简而言之,15个&7普通书架&r现已不足够.\\n\\n现可通过&5附魔台&r使用新型书架并进行新操作,这些任务将助您理解机制."]
-	quest.1FAFDB20F504688E.title: "&5&l&d神化附魔&f"
-	quest.224716A537F2FFA0.quest_desc: ["&8护甲魔典&r用于获取仅适用于护甲的&5附魔&r.所有&8魔典&r均可获得&5保护&f、&5爆炸保护&f和&5火焰保护&r.\\n\\n每种魔典还提供特定护甲部位的专属附魔:靴子赋予&5深海探索者&r,头盔赋予&5水下速掘&r.\\n\\n若专注获取&5保护&r附魔,建议尝试&8胸甲魔典&r!"]
-	quest.224716A537F2FFA0.title: "&8护甲魔典"
+	quest.1873205CF5247E3E.title: "&d末地书架&7[Endshelves]&f"
+	quest.191A7F3C9FBA4C13.quest_desc: ["我们可以用&b海晶砂粒&r合成&b注能海晶书架&r来获得&b晶化海晶书架&r.\\n\\n&b晶化海晶书架&r将保持相同的&a5位阶&r、&5%奥秘值&r,并新增&c3%量子值&r.\\n\\n集齐12个后,我们就能获得足够等级来&d&l灌注&r&9休眠深岩书架&r成为普通&9深岩书架&r!\\n&7[We can Craft Infused Seashelves with Prismarine Crystals to get Crystalline Seashelves. \\n\\nThe Crystalline Seashelves will keep the same 5 位阶, 5% 阿卡那, and now have 3% 量子化. \\n\\nWith 12 of them, we can get enough Levels to lInfuse Dormant Deepshelves into normal Deepshelves!]&f"]
+	quest.191A7F3C9FBA4C13.title: "&b晶化海晶书架&7[Crystalline Seashelf]&f"
+	quest.1FAFDB20F504688E.quest_desc: ["&5附魔&r系统因&5&l&d神化&f&r发生若干变化.\\n\\n简而言之,现在15个&7普通书架&r已不够用.\\n\\n现在你可以使用&5&a附魔台&f&r操作新型书架,希望这些任务能帮助你理解.\\n&7[Enchanting gets a few changes with lApotheosis. \\n\\nTo summarize it, 15 Bookshelves won't be enough now. \\n\\nThere's new Bookshelves and actions you can do with Enchantment Tables now and hopefully these quests will help you understand.]&f"]
+	quest.1FAFDB20F504688E.title: "&5&l&d神化附魔&f&7[lApothic Enchanting]&f"
+	quest.224716A537F2FFA0.quest_desc: ["&8护甲典籍&r用于获取仅适用于护甲的&5附魔&r.所有&8典籍&r都能获得&5保护&f、&5&a爆炸保护&f&f和&5&a火焰保护&f&r.\\n\\n每种典籍还提供特定护甲部位的专属附魔.靴子会赋予&5&a深海探索者&f&r,头盔则给予&5&a水下速掘&f&r.\\n\\n若想最大化获取&5保护&r附魔的概率,请尝试&8胸甲典籍&r!\\n&7[Armor Tomes are used to get Enchantments which are only used on Armor. All of the Tomes can get Protection, Blast Protection, and Fire Protection. \\n\\nEach also gives ones reserved for a certain part of the Armor. Boots will give Depth Strider and Helmets will give Aqua Affinity. \\n\\nIf you want the best chance for just Protection try the Chestplate Tome!]&f"]
+	quest.224716A537F2FFA0.title: "&8护甲典籍&7[Armor Tomes]&f"
 	quest.235E3C386E8D36A3.quest_desc: [
-		"至此&4地狱书架&r与&b海晶书架&r的分离体系终结!\\n\\n首先需合成&9休眠深暗书架&r,配方为6个&8裂纹深板岩瓦&r加3本&7书&r.\\n\\n随后需要&a60点永恒&r、&c40%量子&r与&540%奥秘&r,可通过12个&b晶化海晶书架&r或12个&4炽焰地狱书架&r达成.\\n\\n最终即可将&9休眠深暗书架&r&d&l注能&r转化为常规&9深暗书架&r!"
+		"这里就是&4地狱书架&r与&b海晶书架&r的分水岭终点!\\n\\n首先需要合成&9休眠深岩书架&r,只需6个&8&a裂纹深板岩瓦&f&r和3本&7书&r.\\n\\n然后需要&a60位阶&r、&c40%量子值&r和&540%奥秘值&r,可通过12个&b晶化海晶书架&r或12个&4炽焰地狱书架&r达成!\\n\\n最终我们就能&d&l灌注&r&9休眠深岩书架&r成为常规&9深岩书架&r!\\n&7[This is where the seperation of Hellshelves and Seashelves end! \\n\\nFirst, we'll need to Craft a Dormant Deepshelf. These are just 6 Cracked Deepslate Tiles and 3 Books. \\n\\nThen, we'll need 60 位阶, 40% 量子化, and 40% 阿卡那. We can get that with 12 Crystalline Seashelves or 12 Glowing Hellshelves! \\n\\nFinally, we can lInfuse our Dormant Deepshelves into regular Deepshelves!]&f"
 		"{image:atm:textures/questpics/apothic/enchant_deepshelf.png width:100 height:100 align:center}"
 	]
-	quest.235E3C386E8D36A3.title: "&9深暗书架"
-	quest.24391162F4FF0587.quest_desc: ["在&5附魔台&r周围放置15个&b海晶书架&r后,可为最终&b海晶书架&r进行&d&l注能&r!\\n\\n&b注能海晶书架&r提供&a5点永恒&r(上限&a60点&r)及&5%奥秘&r.\\n\\n这些可合成为不同&7书架&r,其中&b晶化海晶书架&r是达成&6最大附魔&r的关键.\\n\\n共需12个该书架,故需12个&b注能海晶书架&r.您合成8个,其余由我奖励!"]
-	quest.24391162F4FF0587.title: "&b&a灌注海洋书架&f"
-	quest.24C757B8AA6841F6.quest_desc: ["&5&l神化&r深知获取三叉戟&r之繁琐,故简化了流程...算是一定程度的简化!\\n\\n现可制作&3惰性三叉戟&r并通过&d&l注能&r转化为普通&3三叉戟&r.\\n\\n转化需&a40点永恒&r、&c20%-50%量子&r及至少&535%奥秘&r.\\n\\n可通过1个&7普通书架&r、4个&9回荡幽匿书架&r与1个&2西瓜书架&r达成条件."]
-	quest.24C757B8AA6841F6.title: "制作真&3三叉戟"
-	quest.24FCFF18296ED907.quest_desc: ["强化&9深暗书架&r的方法出乎意料——无需&d&l注能&r,而是进一步合成!\\n\\n首先需要5个&3幽匿块&r与&3幽匿催发体&r,二者皆存在于&9深暗之域&r且需&5精准采集&r获取.\\n\\n最后需要&9监守者触须&r...这是&9&l监守者&r的掉落物...是的,您需击败&9&l监守者&r.\\n\\n集齐材料即可合成顶级&7书架&r!提供&a10点永恒&r、&c15%量子&r与&510%奥秘&r.\\n\\n最关键的是能将&a位阶&r上限提升至&a80点&r!近乎满百!"]
-	quest.24FCFF18296ED907.title: "&9魂触幽匿书架"
-	quest.2EC2FA680076C07D.quest_desc: ["要进一步提升&9深暗书架&r,令人惊讶的是我们不需要&d&l注魔&r!而是需要更多合成步骤!\\n\\n首先需要5个&3幽匿块&r和&3&a幽匿催发体&f&r,两者皆可在&9&a深暗之域&f&r中找到,且需&5&a精准采集&f&r才能收集.\\n\\n最后是&9监守者触须&r...这是&9&l监守者&r的掉落物...没错,你需要击杀&9&l监守者&r.\\n\\n集齐所有材料后,你便能合成最顶级的&7书架&r之一!可提供&a10点永恒能量&r、&c10%量子效率&r与&515%奥术增幅&r.\\n\\n最重要的是,能将&a永恒能量&r上限提升至&a80&r!即将突破百点大关!"]
-	quest.2EC2FA680076C07D.title: "&9回响幽匿书架"
-	quest.31E7F7464D79F881.quest_desc: ["可进行&d&l注魔&r的不仅是&7书架&r!"]
-	quest.31E7F7464D79F881.title: "其他&d&l注魔&r物品"
-	quest.377D6CF86BC1C64F.quest_desc: ["&8&a分解宝典&f&r仅能移除半数&5附魔&r,而&8高级拆解宝典&r可剥离物品所有&5附魔&r!\\n\\n但使用这两种&8宝典&r都会损毁物品.\\n\\n若要将&8&a分解宝典&f&r&d&l注魔&r为&8高级拆解宝典&r,需使用3个&9回响幽匿书架&r和15个普通书架,或4个&a龙块&f."]
-	quest.377D6CF86BC1C64F.quest_subtitle: "剥离全部附魔,会损毁物品"
-	quest.377D6CF86BC1C64F.title: "&8高级拆解宝典"
-	quest.3D31B94CC42BCE43.quest_desc: ["&8萃取宝典&r才是我们寻找的理想&8宝典&r!它能完整剥离所有&5附魔&r且保持物品完好!\\n\\n合成方式是对&8高级拆解宝典&r进行&d&l注魔&r.\\n\\n可直接沿用先前的注魔装置完成."]
-	quest.3D31B94CC42BCE43.quest_subtitle: "剥离全部附魔,不损毁物品"
-	quest.42746659C66CF17F.quest_desc: ["&6&o&a亚历山大图书馆&f&r是强化版&5&a附魔储备台&f&r.\\n\\n它能存储更高级的&5&a附魔书&f&r,但取出时仍需达到对应等级要求.\\n\\n存储容量也更大:&5&a附魔储备台&f&r可存32768点,而&6&o&a亚历山大图书馆&f&r每种&5附魔书&r的存储量高达11亿点!\\n\\n获取方式是对&5&a附魔储备台&f&r进行&d&l注魔&r.\\n\\n需要4个&9魂触幽匿书架&f、4个&9回响幽匿书架&f、1个&d龙晶末影书架&f、5个&6晶壳稳固书架&r以及&a骷髅头颅&f."]
-	quest.42746659C66CF17F.quest_subtitle: "试想若罗马未曾倾覆..."
-	quest.42746659C66CF17F.title: "&6&o&a亚历山大图书馆&f"
-	quest.43167C59036E79A7.quest_desc: ["&8矿工宝典&r能辅助所有采矿作业,提供&5效率&f、&5时运&f与&5&a精准采集&f&r效果.\\n\\n适用于镐、斧、锹乃至锄头!\\n\\n&8&a渔夫宝典&f&r仅赋予&a钓鱼竿&f类&5附魔&r,且种类相当丰富."]
-	quest.43167C59036E79A7.title: "&8工具宝典"
-	quest.45161821C221EF0B.quest_desc: ["当&5&a附魔台&f&r周围放置15个&4地狱书架&r时,&5附魔台&r将拥有&a45点永恒能量&r与&c30%量子效率&r.\\n\\n这正好满足&4地狱书架&r的&d&l注魔&r条件!\\n\\n&4注魔地狱书架&r可提供&a5点永恒能量&r(上限&a60点&r)及&c5%量子效率&r.\\n\\n它们可与其他物品合成特殊&7书架&r,目标合成需12个&4注魔地狱书架&r!\\n\\n当然,本着我的慷慨之心,你只需收集8个即可!"]
-	quest.45161821C221EF0B.title: "&4灌注地狱书架"
-	quest.4E895C54651A3CB3.quest_desc: ["&8魔典&r是&7书&r...不过是更有用的&7书&r!\\n\\n每本&8魔典&r需用&7书&r、木棍、&c烈焰棒&r&f和&c粉末&r合成.\\n\\n&8魔典&r可像物品一样进行&5附魔&r,获取特定&5魔咒&r.\\n\\n另有&8拆解魔典&r,可在铁砧中用于移除物品的&5魔咒&r."]
-	quest.4E895C54651A3CB3.title: "&8&l魔典"
-	quest.516E66BE01EE5B31.quest_desc: ["&8兵器魔典&r会赋予剑与斧的&5魔咒&r.\\n|6np|主要是助你击杀敌人的魔咒!例如&5锋利&f和&5火焰附加&r.\\n&8弓术魔典&r会为远程武器(弓与弩)提供&5魔咒&r.\\n\\n&5穿透&f、&5力量&f和&5击退&r!"]
-	quest.516E66BE01EE5B31.title: "&8兵器魔典"
-	quest.51E554305FFEBA1D.quest_desc: ["&4炽焰地狱书架&r能提供少量&c量子能量&r与&a永恒能量&r,但并非我们进行&d&l灌注&r所需的廉价选择!"]
-	quest.51E554305FFEBA1D.title: "&4炽焰地狱书架"
+	quest.235E3C386E8D36A3.title: "&9深岩书架&7[Deepshelf]&f"
+	quest.24391162F4FF0587.quest_desc: ["当&5附魔台&r周围放置15个&b海晶书架&r后,便可&d&l灌注&r最后一个&b海晶书架&r!\\n\\n&b注能海晶书架&r提供更高&a位阶&r(5点),上限达&a60&r；同时提升&5奥秘值&r至&5%&r.\\n\\n这些可合成不同&7书架&r,我们需要的&6终极附魔&r配置是&b晶化海晶书架&r.\\n\\n共需12个,意味着需要12个&b注能海晶书架&r.你先合成8个,其余的由我奖励!\\n&7[With the 15 Seashelves around the Enchanting Table, we can lInfuse our last Seashelf! \\n\\nInfused Seashelves give more 位阶 at 5 with a max of 60. Also more 阿卡那 at 5%. \\n\\nThese can be Crafted into different Bookshelves, the ones we're looking for, for Max Enchanting is the Crystalline Seashelf. \\n\\nWe'll need 12 of those, so we'll need 12 Infused Seashelves. Craft 8 and I'll reward you the rest!]&f"]
+	quest.24391162F4FF0587.title: "&b&a灌注海洋书架&f&7[Infused Seashelf]&f"
+	quest.24C757B8AA6841F6.quest_desc: ["&5&l&d神化&f&r深知获取&3三叉戟&r的烦人程度,所以进行了优化...算是优化吧!\\n\\n现在可制作&3&a惰性三叉戟&f&r并通过&d&l灌注&r获得普通&3三叉戟&r.\\n\\n需要&a40位阶&r、&c20%-50%量子值&r及至少&535%奥秘值&r.\\n\\n可通过1个&7普通书架&r、4个&9幽鸣幽匿书架&r和1个&2西瓜书架&r达成.\\n&7[lApotheosis knows how annoying Tridents can be to get so they made it easier... well kinda easier! \\n\\nYou can now make an Inert Trident and lInfuse it to get a normal Trident. \\n\\nThe Trident requires between 40 位阶, 20%-50% 量子化, and atleast 35% 阿卡那. \\n\\nYou can get this with 1 Bookshelf, 4 Echoing Sculkshelf, and 1 Melonshelf.]&f"]
+	quest.24C757B8AA6841F6.title: "制作真正的&3三叉戟&7[Making a real Trident]&f"
+	quest.24FCFF18296ED907.quest_desc: ["要进一步提升&9深岩书架&r,意外的是不需要&d&l灌注&r!而是需要更多合成步骤!\\n\\n首先需要5个&3幽匿块&r和1个&3&a幽匿催发体&f&r,两者均需在&9&a深暗之域&f&r中用&5&a精准采集&f&r获取.\\n\\n最后是&9监守者触须&r...这是&9&l监守者&r的掉落物...没错,你需要击杀&9&l监守者&r.\\n\\n集齐材料后即可合成顶级&7书架&r之一!能提供&a10位阶&r、&c15%量子值&r和&510%奥秘值&r.\\n\\n最重要的是将&a位阶&r上限提升至&a80&r!离100点不远了!\\n&7[To upgrade Deepshelves even farther, surprisingly we don't need lInfusion! Instead we need more Crafting! \\n\\nFirst, is 5 Sculk Blocks and a Sculk Catalyst. Both can be found within the Deep Dark and will need Silk Touch to collect. \\n\\nLast is the Warden Tendril... this is a Drop from the lWarden... Yes, you'll need to kill the lWarden. \\n\\nOnce you have all that you can Craft one of the best Bookshelves! One that gives 10 位阶, 15% 量子化, and 10% 阿卡那. \\n\\nAnd most importantly, gives us a max 位阶 of 80! Almost to 100!]&f"]
+	quest.24FCFF18296ED907.title: "&9灵魂触感幽匿书架&7[Soul-Touched Sculkshelf]&f"
+	quest.2EC2FA680076C07D.quest_desc: ["要将&9深暗书架&r进一步升级,令人惊讶的是我们不需要&d&l灌注&r!而是需要更多合成!\\n\\n首先需要5个&3幽匿块&r和1个&3&a幽匿催发体&f&r.两者都能在&9&a深暗之域&f&r中找到,并且需要&5&a精准采集&f&r来收集.\\n\\n最后是&9监守者触须&r...这是&9&l监守者&r的掉落物...没错,你需要击杀&9&l监守者&r.\\n\\n集齐所有材料后,你就能合成最强大的&7书架&r之一!它能提供&a10永恒&r、&c10%量子&r和&515%奥术&r.\\n\\n最重要的是,能将我们的&a位阶&r上限提升至&a80&r!几乎达到100了!\\n&7[To upgrade Deepshelves even farther, surprisingly we don't need lInfusion! Instead we need more Crafting! \\n\\nFirst, is 5 Sculk Blocks and a Sculk Catalyst. Both can be found within the Deep Dark and will need Silk Touch to collect. \\n\\nLast is the Warden Tendril... this is a Drop from the lWarden... Yes, you'll need to kill the lWarden. \\n\\nOnce you have all that you can Craft one of the best Bookshelves! One that gives 10 位阶, 10% 量子化, and 15% 阿卡那. \\n\\nAnd most importantly, gives us a max 位阶 of 80! Almost to 100!]&f"]
+	quest.2EC2FA680076C07D.title: "&9回响幽匿书架&7[Echoing Sculkshelf]&f"
+	quest.31E7F7464D79F881.quest_desc: ["并非只有&7书架&r才能进行&d&l灌注!&r\\n&7[It's not just Bookshelves that can be lInfused!]&f"]
+	quest.31E7F7464D79F881.title: "其他&d&l灌注&r物品&7[Other lInfusion Items]&f"
+	quest.377D6CF86BC1C64F.quest_desc: ["&8&a分解宝典&f&r只会移除一半的&5附魔&r,而&8高级拆解典籍&r会移除物品上的所有&5附魔&r!\\n\\n不过这两种&8典籍&r都会在使用时损毁物品.\\n\\n要将&8&a分解宝典&f&r&d&l灌注&r成&8高级拆解典籍&r,我们需要3个&9回响幽匿书架&r和15个普通书架,或者4个&a龙块&f.\\n&7[The Tome of Scrapping will only take off half the Enchantments, while the Tome of Superior Scrapping will take every Enchantment off the Item! \\n\\nBoth of these Tomes will break the Item in use though. \\n\\nTo lInfuse our Tome of Scrapping into a Tome of Superior Scrapping we can use 3 Echoing Sculkshelves and 15 Bookshelves, or 4 Draconium Blocks.]&f"]
+	quest.377D6CF86BC1C64F.quest_subtitle: "移除所有附魔,损毁物品&7[All Enchantments, breaks Item]&f"
+	quest.377D6CF86BC1C64F.title: "&8高级拆解典籍&7[Tome of Superior Scrapping]&f"
+	quest.3D31B94CC42BCE43.quest_desc: ["&8萃取典籍&r正是我们寻找的&8典籍&r!它能移除所有&5附魔&r且保留物品完好!\\n\\n制作它需要&d&l灌注&r我们的&8高级拆解典籍&r.\\n\\n我们可以直接沿用之前的配置方案.\\n&7[The Tome of Extraction is the Tome we are looking for! It will take off all Enchantments and leave the Item alone! \\n\\nTo make it we'll need to lInfuse our Tome of Superior Scrapping. \\n\\nWe can just use our previous setup for this.]&f"]
+	quest.3D31B94CC42BCE43.quest_subtitle: "移除所有附魔,不损毁物品&7[All Enchantments, doesn't break]&f"
+	quest.42746659C66CF17F.quest_desc: ["&6&o&a亚历山大图书馆&f&r是更高级的&5&a附魔储备台&f&r.\\n\\n它能存储更高等级的&5&a附魔书&f&r,但取出时仍需要对应等级的&5书&r.\\n\\n其存储容量也更大.普通&5&a附魔储备台&f&r可存储32768点,而&6&o&a亚历山大图书馆&f&r能存储每种&5书&r11亿点!\\n\\n获取方式是对&5&a附魔储备台&f&r进行&d&l灌注&r.\\n\\n需要4个&9灵魂触感幽匿书架&f、4个&9回响幽匿书架&f、1个&d末影龙终极书架&f、5个&6晶洞稳固书架&r和1个&a骷髅头颅&f.\\n&7[The Library of Alexandria is a better Enchantment Library. \\n\\nIt can hold higher Levels of Enchanted Books, but it will still need the Level of Book to get taken out at that Level. \\n\\nIt will also hold more Points. The Enchantment Library can hold 32768, while the Library of Alexandria can hold 1.1 Billion Points of each Book! \\n\\nTo obtain it, we'll need to lInfuse the Enchantment Library. \\n\\nUse 4 Soul-Touched Sculkshelves, 4 Echoing Sculkshelves, 1 Draconic Endshelf, 5 Geode-Encased Bookshelves of Stability, and a Skeleton Skull.]&f"]
+	quest.42746659C66CF17F.quest_subtitle: "想象一下如果罗马从未被焚毁...&7[Just imagine if Rome never burned...]&f"
+	quest.42746659C66CF17F.title: "&6&o&a亚历山大图书馆&f&7[Library of Alexandria]&f"
+	quest.43167C59036E79A7.quest_desc: ["&8矿工典籍&r能助你高效采矿,提供&5效率&f、&5时运&f和&5&a精准采集&f&r效果.\\n\\n适用于镐、斧、锹甚至锄头!\\n\\n&8&a渔夫宝典&f&r仅提供&a钓鱼竿&f的&5附魔&r,而且种类相当丰富.\\n&7[The Tome of Miners will help you with all your Mining. It will give Efficiency, Fortune, and Silk Touch. \\n\\nThese work for Pickaxes, Axes, Shovels, and even Hoes! \\n\\nTome of the Fishers will only give Fishing Rod Enchantments, and yeah there is a lot.]&f"]
+	quest.43167C59036E79A7.title: "&8工具典籍&7[Tool Tomes]&f"
+	quest.45161821C221EF0B.quest_desc: ["当我们在&5&a附魔台&f&r周围放置15个&4地狱书架&r后,&5附魔台&r将拥有&a45永恒&r和&c30%量子&r.\\n\\n这正是&d&l灌注&r&4地狱书架&r的完美时机!\\n\\n&4灌注地狱书架&r提供&a5永恒&r(上限&a60&r)和&c5%量子&r.\\n\\n它们可与其他物品合成不同&7书架&r,我们需要的这种需消耗12个&4灌注地狱书架&r!\\n\\n当然,本大人如此慷慨,你只需收集8个就够了!\\n&7[Once we get those 15 Hellshelves around our Enchantment Table, we'll have 45 位阶 and 30% 量子化 in our Table. \\n\\nThis is the perfect amount to lInfuse our Hellshelves! \\n\\nInfused Hellshelves give 5 位阶 with a max of 60 位阶, along with 5% 量子化. \\n\\nThese can be Crafted with other Items to make different Bookshelves, for the ones we want we'll need 12 Infused Hellshelves! \\n\\nOf course, with me being soooo generous, you'll only need to collect 8!]&f"]
+	quest.45161821C221EF0B.title: "&4灌注地狱书架&7[Infused Hellshelves]&f"
+	quest.4E895C54651A3CB3.quest_desc: ["&8魔典&r是&7书籍&r...不过是更有用的&7书籍&r!\\n\\n每本&8魔典&r由&7书籍&r、木棍、&c烈焰棒&f以及&c粉末&r合成.\\n\\n&8魔典&r可像物品一样进行&5附魔&r,以获得特定&5魔咒&r.\\n\\n另有&8剥离魔典&r,可在铁砧中使用以移除物品上的&5魔咒&r.\\n&7[Tomes are Books... just more useful Books! \\n\\nEach Tome is Crafted with Books, Sticks, Blaze Rods and Powder. \\n\\nTomes can be Enchanted, like Items, to get certain Enchantments. \\n\\nThere is also the Tomes of Scrapping which can be used in Anvils to take Enchantments off Items.]&f"]
+	quest.4E895C54651A3CB3.title: "&8&l魔典&7[lTomes]&f"
+	quest.516E66BE01EE5B31.quest_desc: ["&8兵器魔典&r会赋予剑与斧的&5魔咒&r.\\n\\n主要是助你击杀敌人的魔咒!例如&5锋利&f与&5火焰附加&r.\\n&8弓术魔典&r会赋予远程武器(弓与弩)的&5魔咒&r.\\n\\n&5穿透&f、&5力量&f以及&5击退&r!\\n&7[Tomes of Weaponry will give Enchantments for Swords and Axes. \\n\\nMostly the ones that help with Killing things! Like Sharpness and Fire Aspect. \\nTomes of Archery will give Enchantments for ranged Weapons, the Bow and Crossbow. \\n\\nPiercing, Power, and Knockback!]&f"]
+	quest.516E66BE01EE5B31.title: "&8兵器魔典&7[Weapon Tomes]&f"
+	quest.51E554305FFEBA1D.quest_desc: ["&4炽焰地狱书架&r能提供少量&c量子能&r与&a永恒能&r,但并非我们进行&d&l灌注&r所需的廉价之选!\\n&7[Blazing Hellshelves give a bit of 量子化 and 位阶 but they aren't the cheap option we are looking for, for our lInfusions!]&f"]
+	quest.51E554305FFEBA1D.title: "&4炽焰地狱书架&7[Blazing Hellshelf]&f"
 	quest.523DC411241B470A.quest_desc: [
-		"&5附魔台&r的所有&5魔咒&r由&a永恒能量&r、&c量子能量&r与&5奥秘能量&r的等级决定.\\n\\n物品正在&5附魔&r时,点击&5附魔台&r图形界面&a右上角&f的？即可查看可用的&5魔咒&r池.\\n\\n&c量子能量&r&a越高&f,获得较弱&5魔咒&r的几率越大.\\n\\n使用&6晶洞稳固书架&r可消除劣质&5魔咒&r的增益几率."
+		"&5附魔台&r的所有&5魔咒&r均由&a永恒能&r、&c量子能&r与&5奥秘能&r的等级决定.\\n\\n当物品正在&5附魔&r时,点击&5附魔台&r图形界面&a右上角&f的？即可查看可用的&5魔咒&r池.\\n\\n&c量子能&r&a越高&f,获得较弱&5魔咒&r的几率越大.\\n\\n使用&6晶洞稳固书架&r可消除劣质&5魔咒&r的增益几率.\\n&7[All Enchantments from the Enchantment Table is determined by the Levels of 位阶, 量子化, and 阿卡那. \\n\\nWe can see the Pool of Enchantments available by clicking the ? in the Top Right of the Enchantment Table's GUI when an Item is being Enchanted. \\n\\nThe higher the 量子化 is, the better the chance we get a weaker Enchantment gets. \\n\\nWith the Geode-Encased Bookshelf of Stability it will get rid of the increased chances of worse Enchantments.]&f"
 		"{@pagebreak}"
-		"合成需1个&7书架&r、7个方解石和1个&5紫水晶母岩&r.\\n\\n&5紫水晶母岩&r无法通过挖掘获取(即使使用&5精准采集&r).你需要通过&a魔法仪式&r或灌注才能获得!"
+		"合成需1个&7书架&r、7方解石与1个&5紫水晶母岩&r.\\n\\n&5紫水晶母岩&r无法通过挖掘获取(即使使用&5精准采集&r).你需要通过&a魔法仪式&f或灌注才能获得!\\n&7[To Craft it we'll need a Bookshelf, 7 Calcite, and 1 Budding Amethyst. \\n\\nBudding Amethyst can not be collected from Mining, even with Silk Touch. You'll need either a Ritual or Infusion to get one then!]&f"
 	]
-	quest.523DC411241B470A.title: "&6负面魔咒消除"
-	quest.586D5DE28EEC8014.quest_desc: ["&c量子能量&r有助于混合&5魔咒&r池,让你更容易获得大量不同的&5魔咒&r.\\n\\n但&c量子能量&r也可能对你不利——拥有越多,不良&5魔咒&r(如&5绑定诅咒&r)出现越频繁.\\n\\n现在我们改用&6晶洞稳固书架&r替代过去的&e修正&r!\\n\\n默认&c量子能量&r为&c15%&r,最高可达&c100%&r."]
-	quest.586D5DE28EEC8014.title: "&c量子能量"
-	quest.5C73247A48E72FB3.quest_desc: ["若想从&5魔咒池&r中&a移除&f特定&5魔咒&r,可在&5附魔&r装置中使用此&b书架&r!\\n\\n将想要加入黑名单的&5附魔书&r放入此&b海洋书架&r的空位.\\n\\n此后进行&5附魔&r时,该&5魔咒&r将不会出现在物品或书上."]
-	quest.5C73247A48E72FB3.title: "从魔咒池移除&5魔咒&r"
-	quest.5DE45BC0258D1B0B.quest_desc: ["&d珠光末地书架&r是性价比不错的&7书架&r.\\n\\n由&d末地书架&r与4个&7末地烛&r、2个&3末影珍珠&r合成.\\n\\n可提供最高&a永恒能量90&r,但并非追求极致&5附魔&r所需."]
-	quest.5DE45BC0258D1B0B.title: "&d珠光末地书架"
-	quest.60850E717C747A78.quest_desc: ["你可曾花三个月研读&o《银河法典》&r只为理解&5&a附魔台&f&r语言,结果发现全是乱码？\\n\\n没有？\\n\\n我也没有,但&9附魔线索&r才是真正的翻译官!\\n\\n每个&9附魔线索&r都能在使用前告诉你1个&5附魔效果&r."]
-	quest.60850E717C747A78.title: "&3附魔线索"
-	quest.61217D80BFF8A858.quest_desc: ["&5&a末影拴绳&f&r的第三阶终极版现已登场!此版本不可损坏,甚至能将生物绑定至刷怪笼.需要更&a狡猾&f的&d&l注魔&r配置:至少需&a75永恒能量&r、&c85%量子值&r,以及&560-85%奥秘值&r.\\n\\n可用4个&9触魂幽匿书架&r、4个&9回响幽匿书架&r、2个&7石质书架&r加1个原版书架合成.注意:本次&d&l注魔&r需在&a末影拴绳&f范围内放置女巫."]
-	quest.61217D80BFF8A858.quest_subtitle: "我发誓这和&d神秘学&f毫无关系"
-	quest.61217D80BFF8A858.title: "&5秘术&a末影拴绳&f"
-	quest.6220EDE42C813C1B.quest_desc: ["&e咒符&r最讨厌的是会损坏!为什么这些超强的&a药水效果&f非得有耐久度!\\n\\n别担心,&5&l&d神化&f&r可通过&d&l注魔&r解决——需要&a100永恒能量&r、&c8.5%&r至&c13.5%量子值&r,以及&532.5%&r至&537.5%奥秘值&r.\\n\\n使用10个&4炽焰地狱书架&r、4个&6稳化石英晶簇书架&r、2个&d龙息末地书架&r和1个&a骷髅头颅&f即可!\\n\\n没错,除&7书架&r外,某些头颅和其他物品也能提供属性!"]
-	quest.6220EDE42C813C1B.title: "不毁&e咒符"
-	quest.62D39F68DE6E44A4.quest_desc: ["&5奥秘值&r至关重要:它能增加获取&5附魔效果&r的数量,并提高稀有&5附魔&r的出现概率.\\n\\n以剑为例:&5亡灵杀手&r很常见,但&5掠夺&r更为稀有.\\n\\n&5奥秘值&r默认&50%&r,上限&5100%&r."]
-	quest.62D39F68DE6E44A4.title: "&5奥秘值"
-	quest.6852BEFDD4DE4E4B.quest_desc: ["&9触魂深暗书架&r是&9深暗书架&r的升级版.\\n\\n用&b&a灵魂灯笼&f&r加3个&3幽匿块&r合成(采集&3幽匿块&r需&5&a精准采集&f&r).\\n\\n合成后可获得&9触魂&r版本,提供高达&c15%&r的&c量子值&r!\\n\\n同时将&a永恒能量&r上限提升至&a75&r."]
-	quest.6852BEFDD4DE4E4B.title: "&9触魂深暗书架"
-	quest.6884E25641A1020C.quest_desc: ["&5&a附魔储备台&f&r 是有史以来最强大的&5&a附魔书&f&r存储装置!\\n\\n合成需要4个&3&a末影箱子&f&r、1个&5附魔台&r以及任意4个&d&l灌注&r&7书架&r:&4&a灌注下界书架&f&r、&b灌注海洋书架&r和&9灌注深暗书架&r.\\n\\n使用时,可通过Shift+&a左键点击&f&5&a附魔书&f&r或将其放入&9蓝色槽位&r,即可将&5附魔书&r添加至&5图书馆&r.\\n\\n&5附魔书&r按名称分类并以点数形式存储.每级&5&a附魔书&f&r对应特定点数需求:1级需1点,2级需2点,3级需4点,4级需8点.\\n\\n单种&5附魔书&r最多存储32768点,通过&a左键点击&f已存储的&5附魔书&r可提取.每次点击会为&6橙色槽位&r中的&5附魔书&r提升1级.\\n\\n可点击不同&5附魔书&r叠加至&6橙色槽位&r,类似铁砧合成机制.\\n\\n&5&a附魔书&f&r的最高等级取决于已存入的最高等级.即使拥有32000点,若仅存入&5锋利III&r,则只能提取&5锋利III&r."]
-	quest.6884E25641A1020C.title: "&5&a附魔储备台&f"
-	quest.695889817162EFC7.quest_desc: ["&a经验&r对&5&l&d神化&f附魔&r至关重要!所有&5附魔&r皆需消耗它!(否则我为何在每个奖励中都提供？)\\n\\n通过&d&l灌注&r,可将&6&a蜂蜜瓶&f&r转化为&a附魔之瓶&r.实际上共有3种&d&l灌注&r等级:分别产出1瓶、8瓶和32瓶!\\n\\n初级需2个&9回响幽匿书架&r产出1瓶；\\n\\n中级需5个&9回响幽匿书架&r和1个&9触魂幽匿书架&r产出8瓶；\\n\\n高级需5个&9回响幽匿书架&f、3个&9触魂幽匿书架&f和1个&d龙息末地书架&r产出32瓶!"]
-	quest.695889817162EFC7.title: "合成&a经验&r？"
+	quest.523DC411241B470A.title: "&6负面魔咒消除&7[Negative Enchantments Removal]&f"
+	quest.586D5DE28EEC8014.quest_desc: ["&c量子能&r有助于混合&5魔咒&r池,让你更易获得大量不同的&5魔咒&r.\\n\\n但&c量子能&r也可能对你不利——拥有越多,不良&5魔咒&r(如&5绑定诅咒&r)的出现频率就越高.\\n\\n我们现已用&6晶洞稳固书架&r替代了过去使用的&e矫正&r!\\n\\n默认&c量子能&r为&c15%&r,最大值为&c100%&r.\\n&7[量子化 helps to mix up the Enchantment Pool, making it easier to get a whole bunch of different Enchantments. \\n\\n量子化 can work against you though, the more you have it, the more common Bad Enchantments will get. Bad Enchantments like Curse of Binding! \\n\\nBefore we used Rectification, instead we now use Geode-Encased Bookshelves of Stability! \\n\\nDefault 量子化 is 15% and its max is 100%.]&f"]
+	quest.586D5DE28EEC8014.title: "&c量子能&7[量子化]&f"
+	quest.5C73247A48E72FB3.quest_desc: ["若想&a移除&5附魔池&r中的特定&5魔咒&r,可在&5附魔&r装置中使用此&b书架&r!\\n\\n将想要加入黑名单的&5附魔书&r放入此&b海洋书架&r的空位中.\\n\\n此后进行&5附魔&r时,该&5魔咒&r将不会出现在物品或书籍上.\\n&7[If you want to remove a specific Enchant from Enchantment Pool, you can use this Bookshelf in your Enchanting set up! \\n\\nPlace an Enchantment Book, you want to Blacklist, in an empty spot in this Seashelf. \\n\\nThen, when you Enchant, this Enchantment won't show up on Items or Books.]&f"]
+	quest.5C73247A48E72FB3.title: "从池中移除&5魔咒&r&7[Remove Enchantments from Pool]&f"
+	quest.5DE45BC0258D1B0B.quest_desc: ["&d珠光末地书架&r是性价比不错的&7书架&r.\\n\\n通过组合1个&d末地书架&r、4个&7末地烛&r与2个&3末影珍珠&r制成.\\n\\n可提供最高&a永恒能90&r,但这并非我们追求的最大化&5附魔&r所需配置.\\n&7[The Pearlescent Endshelf is an alright Shelf especially for the price. \\n\\nIt is created by combining an Endshelf with 4 End Rods and 2 Ender Pearls. \\n\\nIt will give us max 位阶 90, but this isn't what we want for max Enchanting.]&f"]
+	quest.5DE45BC0258D1B0B.title: "&d珠光末地书架&7[Pearlescent Endshelf]&f"
+	quest.60850E717C747A78.quest_desc: ["你可曾花三个月研究&o星界符文&r就为看懂&5&a附魔台&f&r的语言,结果发现全是乱码？\\n\\n没有？\\n\\n我也没有,但&9附魔线索&r才是真正的翻译官!\\n\\n每个&9附魔线索&r都能在使用前揭示1个&5附魔属性&r.\\n&7[You ever spend 3 months studying Galatic Code to finally understand Enchantment Table language just for it to be gibberish? \\n\\nNo? \\n\\nMe either, but Enchanting Clues are your actual translator for it! \\n\\nEach Enchanting Clue will tell you 1 Enchantment before you actually use it.]&f"]
+	quest.60850E717C747A78.title: "&3附魔线索&7[Enchanting Clues]&f"
+	quest.61217D80BFF8A858.quest_desc: ["&5&a末影拴绳&f&r的第三阶终极形态登场!此版本不可损坏,甚至能将生物绑定至刷怪笼.需要更复杂的&a诡术&f&d&l灌注&r配置:至少&a75永恒能量&r、&c85%量子效率&r及&560-85%奥秘能量&r.\\n\\n用4个&9触魂幽匿书架&r、4个&9回响幽匿书架&r、2个&7石质书架&r及普通书架合成.注意还需在&a末影拴绳&f的&d&l灌注&r过程中加入女巫.\\n&7[The third and final tier of Ender Lead is here! This one is unbreakable and can even bind mobs to Spawners. It will require a considerably more tricky lInfusion setup. We'll need at least 75 位阶, 85% 量子化, and between 60-85% 阿卡那.\\n\\nYou can get this with 4 Soul-Touched Sculkshelves, 4 Echoing Sculkshelves, 2 Stoneshelves, and a vanilla Bookshelf. Oh, and you also need a Witch in the Ender Lead used for this lInfusion.]&f"]
+	quest.61217D80BFF8A858.quest_subtitle: "我发誓这和&d神秘学&f毫无关系&7[Nothing to do with Occultism I swear]&f"
+	quest.61217D80BFF8A858.title: "&5秘术&a末影拴绳&f&7[Occult Ender Lead]&f"
+	quest.6220EDE42C813C1B.quest_desc: ["&e咒符&r最讨厌的是会损坏!为什么这些超强&a药水效果&f非得有耐久度!\\n\\n别担心,&5&l&d神化灌注&f&r能解决这个问题...通过&d&l灌注&r!\\n\\n需要&a100永恒能量&r、&c8.5%&f至&c13.5%量子效率&r以及&532.5%&f至&537.5%奥秘能量&r.\\n\\n可用10个&4炽焰地狱书架&r、4个&6稳化石英藏书架&r、2个&d龙息末影书架&r和&a骷髅头颅&f!\\n\\n注意:除&7书架&r外,某些头颅和物品也能提供属性!\\n&7[The worst part about Charms is that they break! Why would these OP Potion Effects have to have Durability! \\n\\nWell don't you worry, lApotheosis has a cure for that... with lInfusions! \\n\\nYou'll need 100 位阶, between 8.5% and 13.5% 量子化, and between 32.5% and 37.5% 阿卡那. \\n\\nYou can use 10 Glowing Hellshelves, 4 Geode-Encased Bookshelves of Stability, 2 Draconic Endshelves, and a Skeleton Skull! \\n\\nYes, some Skulls and other Items besides Bookshelves give stats!]&f"]
+	quest.6220EDE42C813C1B.title: "不毁&e咒符&7[Unbreakable Charms]&f"
+	quest.62D39F68DE6E44A4.quest_desc: ["&5奥秘能量&r至关重要:它能增加&5附魔属性&r获取数量,并提高稀有&5附魔&r出现概率.\\n\\n以剑为例:&5亡灵杀手&r是常见附魔,而&5掠夺&r更为稀有.\\n\\n&5奥秘能量&r默认值为&50%&r,上限为&5100%&r.\\n&7[阿卡那 is very important quantity, it increases the amount of Enchantments you get; and makes rare Enchantments more common. \\n\\nAn example with Swords would be like, Smite is a very common Enchantment but Looting is much more rare. \\n\\n阿卡那s default is 0% and max is 100%.]&f"]
+	quest.62D39F68DE6E44A4.title: "&5奥秘能量&7[阿卡那]&f"
+	quest.6852BEFDD4DE4E4B.quest_desc: ["&9触魂幽匿书架&r是&9幽匿书架&r的升级版.\\n\\n用&b&a灵魂灯笼&f&r和3个&3幽匿块&r合成,采集&3幽匿块&r需&5&a精准采集&f&r附魔.\\n\\n合成后的&9触魂&r版本可提供&c15%&r的巨额&c量子效率&r!\\n\\n同时将&a永恒能量&r上限提升至&a75&r.\\n&7[Soul-Touched Deepshelves are an upgrade to Deepshelves. \\n\\nThey are Crafted with a Soul Lantern and 3 Sculk Blocks. You'll need Silk Touch to pick up Sculk Blocks. \\n\\nThen, we can Craft our Soul-Touched version. These will give a ton more 量子化 at 15%! \\n\\nIt also increases max 位阶 to 75.]&f"]
+	quest.6852BEFDD4DE4E4B.title: "&9触魂幽匿书架&7[Soul-Touched Deepshelf]&f"
+	quest.6884E25641A1020C.quest_desc: ["&5&a附魔储备台&f&r是有史以来最强大的&5&a附魔书&f&r存储装置!\\n\\n合成它需要4个&3&a末影箱子&f&r、1个&5附魔台&r以及任意4个&d&l灌注&r&7书架&r:&4&a灌注下界书架&f&r、&b灌注海洋书架&r或&9深渊书架&r.\\n\\n使用时,可通过Shift+&a左键点击&f&5&a附魔书&f&r或将其放入&9蓝色槽位&r,将&5附魔书&r存入&5图书馆&r.\\n\\n&5附魔书&r按名称分类并以点数存储.每级&5&a附魔书&f&r对应不同点数需求:1级=1点,2级=2点,3级=4点,4级=8点.\\n\\n每种&5附魔书&r最多存储32768点,通过&a左键点击&f已存&5附魔书&r可提取.每次点击会为&6橙色槽位&r中的&5附魔书&r提升1级.\\n\\n可点击不同&5附魔书&r叠加到&6橙色槽位&r,类似铁砧合成.\\n\\n&5&a附魔书&f&r最高等级取决于存入的最高等级.即使拥有32000点,若仅存入&5锋利III&r,则只能取出&5锋利III&r.\\n&7[The Enchantment Library is the single greatest Enchanted Book storage, ever! \\n\\nTo Craft it you'll need 4 Ender Chests, 1 Enchanting Table, and 4 of any of the lInfused Bookshelves: Infused Hellshelf, Infused Seashelves, and Deepshelves. \\n\\nTo use it, you can either Shift Left Click Enchanted Books or bring them into the Blue Slot. This will add the Books to the Library. \\n\\nThe Books are sorted by name and are held in Points. Each Level of Enchanted Book determines the Level, and it is reflected on how many Books would be needed to get that Level. Level 1, is 1 Point. Level 2 is 2 Points. Level 3 is 4 Points. Level 4 is 8 Points. \\n\\nEach Book is stored to a max of 32768 Points, and they can be extracted by Left Clicking the stored Book. Each Click will add another Level to the Book in the Orange Slot. \\n\\nYou can Click different Books to add to the Book in the Orange Slot, similar to combining Books in an Anvil. \\n\\nThe max Level of Enchanted Book is determined by the highest Level of Book you've put in. It doesn't matter if you have 32000 Points, if you only put in Sharpness III, you can only take out Sharpness III.]&f"]
+	quest.6884E25641A1020C.title: "&5&a附魔储备台&f&7[Enchantment Library]&f"
+	quest.695889817162EFC7.quest_desc: ["&a经验值&r对&5&l&d神化附魔&f&r至关重要!每个&5附魔&r都需要它!(否则我为何将其设为每项奖励？)\\n\\n通过&d&l灌注&r可将&6&a蜂蜜瓶&f&r转化为&a附魔之瓶&r.实际上有三种&d&l灌注&r方案:分别产出1瓶、8瓶和32瓶!\\n\\n初级方案:1瓶需2个&9回荡幽匿书架&r.\\n\\n中级方案:8瓶需5个&9回荡幽匿书架&r和1个&9触魂幽匿书架&r.\\n\\n高级方案:32瓶需5个&9回荡幽匿书架&f、3个&9触魂幽匿书架&f和1个&d龙息末地书架&r!\\n&7[EXP is very important for lApotheosis Enchanting! Every Enchant requires it! (Why do you think I give it in every Reward?) \\n\\nWith lInfusion we can transform Honey Bottles into Bottles O' Enchanting. Actually we get 3 different lInfusions for it! It goes from 1 Bottle O' Enchanting, to 8, to 32! \\n\\nFirst, is for 1 Bottle and needs only 2 Echoing Sculkshelves. \\n\\nSecond, is for 8 Bottles and needs 5 Echoing Sculkshelves and 1 Soul-Touched Sculkshelf. \\n\\nLast, is for 32 Bottles O' Enchanting and will need 5 Echoing Sculkshelves, 3 Soul-Touched, and 1 Draconic Endshelf!]&f"]
+	quest.695889817162EFC7.title: "合成&a经验值&r？&7[Crafting EXP?]&f"
 	quest.6A07D09831428CB9.quest_desc: [
-		"若觉得&4&l&a下界&f&r过于危险,不妨探索&b海洋&r并使用&b海洋书架&r!\\n\\n&b海洋书架&r是&5阿卡那&r体系的入门道具,提供&53%奥秘值&r与&a3位阶&r.\\n\\n比普通&7书架&r更优秀对吧？\\n\\n&d&l灌注&r需16个——实际15个用于灌注,1个被灌注!\\n\\n与&4下界书架&r类似,我会额外提供,现在只需收集11个!"
+		"若畏惧&4&l&a地狱&f&r,不妨选择&b海洋&r路线——使用&b海洋书架&r!\\n\\n&b海洋书架&r是&5阿卡那&r的入门选择,提供&53%奥秘值&r和&a3位阶&r.\\n\\n比普通&7书架&r更优秀吧？\\n\\n&d&l灌注&r需要16个——确切说是15个用于&d&l灌注&r,1个作为&d&l被灌注&r对象!\\n\\n与&4地狱书架&r相同,我会额外赠送,现在只需收集11个!\\n&7[lThe Nether can be pretty scary, if you'd rather voyage the Sea, use Seashelves! \\n\\nSeashelves are your introduction to 阿卡那, they give 3% 阿卡那 and 3 位阶. \\n\\nBetter than normal Shelves right? \\n\\nYou're going to need 16 for lInfusing... well 15 for lInfusing, 1 to be lInfused! \\n\\nLike the Hellshelves, I'll give you extra, just collect 11 now!]&f"
 		"{image:atm:textures/questpics/apothic/enchant_seashelf.png width:100 height:100 align:center}"
 	]
-	quest.6A07D09831428CB9.title: "&b海洋书架"
-	quest.6C2C135B9B7B9402.quest_desc: ["&d&l灌注&r是&5附魔&r的特殊进阶形式,用于获取更强&5附魔&r.\\n\\n当&a位阶&r、&c量子值&r与&5奥秘值&r达到要求时,&5附魔&r将触发&d&l灌注&r.\\n\\n(可通过EMI模组或任务指引查看具体数值需求)"]
-	quest.6C2C135B9B7B9402.title: "&l&d灌注"
-	quest.6C57D64518FF22C0.quest_desc: ["其余&5附魔&r来自这本&8典籍&r.\\n\\n&5耐久&r...其他我也不太清楚..."]
-	quest.6C57D64518FF22C0.title: "&8其他典籍"
-	quest.70D2C5FAC661E01A.quest_desc: ["&b心铸海洋书架&r是&b&a灌注海洋书架&f&r的升级版.\\n\\n造价较高但提供大量&5奥秘值&r!\\n\\n对后期需要高额&5奥秘值&r的&d&l灌注&r极为重要."]
-	quest.70D2C5FAC661E01A.title: "&b心铸海洋书架"
-	quest.784466C3813AA506.quest_desc: ["是否曾想过捕捉生物？我们有灵魂宝石、&a生物捕捉工具&f和生物捕捉器来实现这个目标.\\n\\n让我们暂时忽略这些,专注于&5&l&d神化&f&r提供的选项.&5简易&a末影拴绳&f&r是&5&a末影拴绳&f&r中最便宜但也最脆弱、最不耐用的变体.它只能捕捉动物,并且使用8次后就会损坏."]
-	quest.784466C3813AA506.title: "&5简易&a末影拴绳&f"
-	quest.78BFDD3A9B996655.quest_desc: ["这是&5简易&a末影拴绳&f&r的一个显著升级.现在,它也能捕捉敌对生物,并且可以使用64次后才会损坏.要获得这个,我们至少需要&a45永恒能量&r、&c25%量子能量&r和&540%奥秘能量&r.\\n\\n这可以通过9个&b晶化海书架&r实现,或者,如果你更喜欢&4地狱书架&r,可以用9个&4发光地狱书架&r和8根蜡烛(提示:一个方块内最多可以放置4根蜡烛)."]
-	quest.78BFDD3A9B996655.title: "&5&a末影拴绳&f"
-	quest.78E66F1DE42C747A.quest_desc: ["&9&a回响碎片&f&r的获取可能相当烦人,而且我们需要很多!所以为什么不找一个更简单的方法来 farming 它们呢？\\n\\n通过&d&l灌注&r,我们可以将1个&9&a回响碎片&f&r变成4个!\\n\\n我们需要&a70永恒能量&r、&c50%量子能量&r和&50%奥秘能量&r.\\n\\n为此,我们可以使用12个&4发光地狱书架&r和2个非&9休眠&r的&9深海书架&r!"]
-	quest.78E66F1DE42C747A.title: "无限的&9&a回响碎片&f&r？"
-	quest.78FEDE6FA4845585.quest_desc: ["一些&d&l灌注&r需要非常、非常精确的&a永恒能量&r、&c量子能量&r或&5奥秘能量&r的量.\\n\\n要获得这些,你可能需要这些&7书架&r中的一种.\\n\\n每一个都会降低其相应能量的量."]
-	quest.78FEDE6FA4845585.title: "&4负值&r"
-	quest.79AF63E77AD70A93.quest_desc: ["&7书架&r是你的起点,但绝对不是你的终点.至少不是普通的&7书架&r.\\n\\n仅使用普通&7书架&r,你只能将&a永恒能量&r提升到最多30.\\n(我很快就会解释&5附魔等级&r,但要知道你需要提升它们)"]
-	quest.79AF63E77AD70A93.title: "&2&l原版&r最大值只是开始"
-	quest.7C758209D06ED0E3.quest_desc: ["通过将一个&4&a灌注下界书架&f&r与一些&e荧石&r结合,我们可以制作&4发光地狱书架&r!\\n\\n这些书架提供相同的&a永恒能量&r和&c量子能量&r,但额外给予&53%奥秘能量&r.\\n\\n这在后期的&d&l灌注&r中会很有帮助,比如如果我们想用12个这样的书架来&d&l灌注&r一个&9休眠深海书架&f变成一个&9深海书架&r!"]
-	quest.7C758209D06ED0E3.title: "&4发光地狱书架"
-	quest.7C9D9D1C054874A7.quest_desc: ["是否曾想要最完美的&5附魔&r？比如,每个属性都达到最大值,每个好的&5附魔&r都可用？那么,你需要这些!\\n\\n首先,是5个&9触魂幽匿书架&r和5个&9回响幽匿书架&r.这些将提供我们所需的所有&c量子能量&r和&5奥秘能量&r!\\n\\n接下来,是&d龙息末地书架&r,它将提供&a100永恒能量&r,既是永恒能量的量,也是最大等级.\\n\\n第三,是&6晶洞稳固书架&r,这将确保&c量子能量&r不会用糟糕的&5附魔&r背刺我们!\\n\\n最后一个是可选的,但你应该添加它,&6奥法宝藏深海书架&r.那个&7书架&r将允许我们获得通常无法获得的&5附魔&r,比如&5经验修补&r!"]
-	quest.7C9D9D1C054874A7.title: "&6&l最佳附魔配置"
-	task.3D62C020980A2DEC.title: "书架"
-	task.432FCFECDAA542F1.title: "书架"
-	task.4644C76CEC129AA4.title: "永久符文"
-	task.52C6DC68BF096122.title: "武器典籍"
-	task.598F1FCB5B5ED8FC.title: "工具典籍"
-	task.5AB4C41B6800D7FA.title: "护甲典籍"
+	quest.6A07D09831428CB9.title: "&b海洋书架&7[Seashelves]&f"
+	quest.6C2C135B9B7B9402.quest_desc: ["&d&l灌注&r是&5附魔&r的特殊变体,讽刺的是它能强化&5附魔效果&r.\\n\\n当&a位阶&r、&c量子值&r和&5奥秘值&r达到要求时,&5附魔&r将触发&d&l灌注&r.\\n\\n(具体需求等级可通过EMI查看或跟随任务指引)\\n&7[lInfusion is a special version of Enchanting which ironically is used for better Enchantments. \\n\\nWhen the right amount of 位阶, 量子化, and 阿卡那 is reached the Enchantments will offer lInfusion. \\n\\n(To know the Levels needed you can check EMI or follow these Quests)]&f"]
+	quest.6C2C135B9B7B9402.title: "&l&d灌注仪式&7[lInfusing]&f"
+	quest.6C57D64518FF22C0.quest_desc: ["其余&5附魔&r来自这本&8典籍&r.\\n\\n&5耐久&r...其他的我也不太清楚...\\n&7[The rest of the Enchantments come from this Tome. \\n\\nUnbreaking... I don't really know what else...]&f"]
+	quest.6C57D64518FF22C0.title: "&8其他典籍&7[ETC. Tomes]&f"
+	quest.70D2C5FAC661E01A.quest_desc: ["&b心铸海洋书架&r是&b&a灌注海洋书架&f&r的进阶版.\\n\\n造价较高但提供大量&5奥秘值&r!\\n\\n这对后期需要高额&5奥秘值&r的&d&l灌注&r至关重要.\\n&7[The Heart-Forged Seashelf is another upgrade to the Infused Seashelf. \\n\\nIt's a little expensive but gives lots of 阿卡那! \\n\\nThis will be very helpful for later lInfusions needing lots of 阿卡那.]&f"]
+	quest.70D2C5FAC661E01A.title: "&b心铸海洋书架&7[Heart-Forged Seashelf]&f"
+	quest.784466C3813AA506.quest_desc: ["是否曾想过捕捉生物？我们有灵魂宝石、&a生物捕捉工具&f和生物捕捉器可以实现.\\n\\n现在先忽略这些,重点看看&5&l&d神化&f&r提供的选项.&5简易型&a末影拴绳&f&r是&5&a末影拴绳&f&r中最廉价的版本,但也是最脆弱、耐久最低的.它只能束缚被动生物,使用8次后就会损坏.\\n&7[Ever wanted to pick up mobs? We...have Soul Gems, Mob Imprisonment Tools, and Creature Catchers for that.\\n\\nLet's just ignore those for now and focus on the option lApotheosis offers. The Flimsy Ender Lead is the cheapest variant of Ender Lead, but also the weakest, and most fragile. It can only hold animals, and breaks after 8 uses.]&f"]
+	quest.784466C3813AA506.title: "&5简易型&a末影拴绳&f&7[Flimsy Ender Lead]&f"
+	quest.78BFDD3A9B996655.quest_desc: ["这比&5简易型&a末影拴绳&f&r有了显著提升.现在它可以束缚敌对生物了,耐久也提升至64次使用.制作它至少需要&a45永恒能量&r、&c25%量子能量&r和&540%奥术能量&r.\\n\\n可通过9个&b晶化海书架&r达成,若偏好&4地狱书架&r方案,则需要9个&4发光地狱书架&r和8支蜡烛(小技巧:单个方块最多可放置4支蜡烛)\\n&7[A considerable step up from the Flimsy Ender Lead. Now, it can hold hostile mobs as well, and will break after 64 uses. To get this, we will need at least 45 位阶, 25% 量子化, and 40% 阿卡那.\\n\\nThis can be achieved with 9 Crystalline Seashelves, or, if you prefer Hellshelves, 9 Glowing Hellshelves and 8 Candles (Tip: You can fit up to 4 candles into one block)]&f"]
+	quest.78BFDD3A9B996655.title: "&5&a末影拴绳&f&7[Ender Lead]&f"
+	quest.78E66F1DE42C747A.quest_desc: ["&9&a回响碎片&f&r的收集相当繁琐,而我们又需要大量碎片!何不采用更高效的获取方式？\\n\\n通过&d&l灌注&r仪式,1个&9&a回响碎片&f&r可增殖为4个!\\n\\n需要&a70永恒能量&r、&c50%量子能量&r和&50%奥术能量&r.\\n\\n可使用12个&4发光地狱书架&r和2个非&9休眠状态&r的&9深渊书架&r来实现!\\n&7[Echo Shards can be pretty annoying to farm, plus we'll need a lot of them! So why not have an easier way of Farming them. \\n\\nWith lInfusion we can make 1 Echo Shard into 4! \\n\\nWe'll need 70 位阶, 50% 量子化, and 50% 阿卡那. \\n\\nTo get that, we can use 12 Glowing Hellshelves and 2 Deepshelves, that aren't Dormant!]&f"]
+	quest.78E66F1DE42C747A.title: "无限&9&a回响碎片&f&r？&7[Infinite Echo Shards?]&f"
+	quest.78FEDE6FA4845585.quest_desc: ["某些&d&l灌注&r仪式对&a位阶&r、&c量子&r或&5阿卡那&r能量的精度要求极高.\\n\\n这时你就需要这些&7特殊书架&r来调节.\\n\\n每种书架都能降低对应能量的数值.\\n&7[Some lInfusions need very, very exact amounts of 位阶, 量子化, or 阿卡那. \\n\\nTo get these you might need one of these Shelves. \\n\\nEach lowers the amount of its respective quantities.]&f"]
+	quest.78FEDE6FA4845585.title: "&4负值&r调节&7[Negative amounts]&f"
+	quest.79AF63E77AD70A93.quest_desc: ["&7普通书架&r只是起点,但绝非终点——至少不是常规的&7书架&r.\\n\\n仅使用普通&7书架&r时,&a永恒能量&r上限仅为30.\\n(&5附魔等级&r机制稍后说明,现在只需记住需要提升它们)\\n&7[Bookshelves are your starting point, but definitely not your end point. Atleast not normal Bookshelves. \\n\\nWith only normal Bookshelves you can only get 位阶 up and to a max of 30. \\n(I will explain the Enchantment Levels soon but just know you need them up)]&f"]
+	quest.79AF63E77AD70A93.title: "&2&l原版上限&r只是开始&7[lVanilla Max is just the start]&f"
+	quest.7C758209D06ED0E3.quest_desc: ["将&4&a灌注下界书架&f&r与&e荧石&r结合可制作&4发光地狱书架&r!\\n\\n它们提供相同的&a位阶&r与&c量子&r能量,但额外赋予&53%奥术能量&r.\\n\\n这对后期&d&l灌注&r至关重要,比如用12个这种书架就能将&9休眠深渊书架&f转化为&9活性深渊书架&r!\\n&7[By combining an Infused Hellshelf with some Glowstone we can make Glowing Hellshelves! \\n\\nThese have the same 位阶 and 量子化, but give 3% 阿卡那. \\n\\nThis will be helpful in later lInfusions, like if we wish to use 12 of them to lInfuse a Dormant Deepshelf into a Deepshelf!]&f"]
+	quest.7C758209D06ED0E3.title: "&4发光地狱书架&7[Glowing Hellshelf]&f"
+	quest.7C9D9D1C054874A7.quest_desc: ["渴望最完美的&5附魔&r？想要所有属性满值、所有优质&5附魔&r尽收囊中？那你需要这些配置!\\n\\n首先是5个&9灵魂触须幽匿书架&r与5个&9回响幽匿书架&r,它们将提供所需的全部&c量子&r与&5阿卡那&r能量!\\n\\n接着是&d龙息终界书架&r,提供&a100点永恒能量&r——既是数值也是等级上限.\\n\\n第三件是&6晶洞稳固书架&r,能防止&c量子能量&r反噬导致劣质&5附魔&r!\\n\\n最后可选的&6奥法宝藏深渊书架&r也建议添加,这个&7书架&r能解锁常规无法获取的&5附魔&r,比如&5经验修补&r!\\n&7[Ever want the most perfect Enchantments? Like, every stat maxed out, every good Enchantment available? Then, you'll need these! \\n\\nFirst, is the 5 Soul-Touched Sculkshelves and 5 Echoing Sculkshelves. These will give us all the 量子化 and 阿卡那 we need! \\n\\nNext, is the Draconic Endshelf which will give us 100 位阶, as in amount of 位阶 and the max level. \\n\\nThird, is the Geode-Encased Bookshelf of Stability, this will make it so the 量子化 doesn't backstab us with awful Enchantments! \\n\\nLast is optional but you should add it, the Deepshelf of Arcane Treasures. That Bookshelf will allow us to get Enchantments we normally wouldn't, like Mending!]&f"]
+	quest.7C9D9D1C054874A7.title: "&6&l终极附魔配置&7[lBest Enchanting set-up]&f"
+	task.3D62C020980A2DEC.title: "书架系统&7[Bookshelves]&f"
+	task.432FCFECDAA542F1.title: "书架图鉴&7[Bookshelves]&f"
+	task.4644C76CEC129AA4.title: "永久性符文&7[Permanent Charms]&f"
+	task.52C6DC68BF096122.title: "武器典籍&7[Weapon Tomes]&f"
+	task.598F1FCB5B5ED8FC.title: "工具典籍&7[Tool Tomes]&f"
+	task.5AB4C41B6800D7FA.title: "护甲典籍&7[Armor Tomes]&f"
 }

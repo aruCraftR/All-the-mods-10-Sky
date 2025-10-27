@@ -100,7 +100,7 @@
 		{
 			click: "#21693C4DE6531D73"
 			height: 2.0d
-			hover: ["破碎机"]
+			hover: ["粉碎机"]
 			image: "atm:textures/questpics/railcraft/rail_crusher.png"
 			rotation: 0.0d
 			width: 2.179640718562874d
@@ -166,7 +166,7 @@
 		{
 			click: "#08457BEED799E600"
 			height: 1.0d
-			hover: ["轨道:清除器、重铺器与铺设器"]
+			hover: ["轨道:清除器、铺设器与回收器"]
 			image: "atm:textures/questpics/railcraft/rail_carttracks.png"
 			rotation: 0.0d
 			width: 3.0225563909774436d

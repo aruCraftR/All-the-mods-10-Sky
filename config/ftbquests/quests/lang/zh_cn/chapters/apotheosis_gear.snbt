@@ -1,71 +1,71 @@
 {
-	quest.001C1881E9289566.quest_desc: ["&9精良&r是稀有度中的中间等级.\\n\\n出现在所有&l世界层级&r,最常见于&l世界层级:&e攀升&r.\\n\\n&9&a发光水晶碎片&f&r可通过在&c&l拆解台&r处理&9精良&r级&e物品&r获得."]
-	quest.001C1881E9289566.quest_subtitle: "&9精良"
-	quest.001C1881E9289566.title: "&9&a发光水晶碎片&f"
-	quest.0089A394566B0F3B.quest_desc: ["&a优良&r是第二级稀有度.\\n\\n始于&l世界层级:&9避风港&r,在&l世界层级:&2边疆&r最为丰富,止于&l世界层级:&4巅峰&r.\\n\\n&a陈旧织物&r可通过在&c&l拆解台&r处理&a优良&r级&e物品&r获得."]
-	quest.0089A394566B0F3B.quest_subtitle: "&a优良"
-	quest.0089A394566B0F3B.title: "&a陈旧织物"
-	quest.097FDC136BC843A7.quest_desc: ["&l世界层级:&6顶峰&r需要将&e防具&r和&e工具/武器&r从&a优良&r升级至&9精良&r(或更高)!还需击杀&0&l&a凋零摄魂&f&r.\\n\\n&0&l&a凋零摄魂&f&r不必是&4入侵者&r,非入侵者形态实际上更容易应对.\\n\\n在&6&l顶峰&r中,&5史诗&r级&e物品&r和&2宝石&r最为常见,且可能获得&6传说&r级&e物品&r,以及&a宝石&r中可发现&c完&6美&e级&f&d珍&5品&4&r.两者都极为稀有!\\n\\n此时我们将获得75%经验加成和50%幸运值.\\n\\n&4怪物&r将强化至拥有12点&a护甲值&f、10点&a盔甲韧性&f、15点护甲穿透和10点保护穿透.\\n\\n难道只有我觉得它们的强化比我们的更厉害吗？"]
-	quest.097FDC136BC843A7.title: "&l世界层级:&6顶峰"
-	quest.099C2A9B9CA138F8.quest_desc: ["&6传说&r是我们能获得的顶级装备!\\n\\n仅可在&l世界层级:&6顶峰&r和&l世界层级:&4巅峰&r中发现,后者出现概率最高.\\n\\n&6神铸珍珠&r可通过在&c&l拆解台&r处理&6传说&r级&e物品&r获得."]
-	quest.099C2A9B9CA138F8.quest_subtitle: "&6传说"
-	quest.099C2A9B9CA138F8.title: "&6神铸珍珠"
-	quest.1403D677CF2815C3.quest_desc: ["&5&l重铸台&r具备&9&l简易版&r的所有功能,且更为出色!\\n\\n它不仅能保留原有属性,还能为我们附加&5史诗&r与&6神话&r级的&e词缀&r!"]
-	quest.1403D677CF2815C3.title: "(进阶版)&5&l重铸台&r"
-	quest.166CE4243896A0CD.quest_desc: ["对当前的&a宝石&r不满意？那就更换它们!\\n\\n若要提升&a宝石&r的稀有度,需使用此&a&l合成台&r.\\n\\n消耗两颗同类型同稀有度的&a宝石&r及材料,即可提升宝石稀有度并增强其效能."]
-	quest.166CE4243896A0CD.title: "获取更优质的&a宝石&r"
-	quest.16C74B5F99AD6724.quest_desc: ["&8普通&r是最基础的稀有度,常见于游戏初期但属性最弱.\\n\\n该等级在&l世界层级:&9避风港&r中最易获得,到达&l世界层级:&6巅峰&r后不再出现.\\n\\n通过在&c&l拆解台&r处理&8普通&r级&e物品&r,可制成&8神秘&a废金属&f&r."]
-	quest.16C74B5F99AD6724.quest_subtitle: "&8普通&r"
-	quest.16C74B5F99AD6724.title: "&8神秘&a废金属&f&r"
-	quest.196312DF0D2E2CB6.quest_desc: ["&4入侵者&r即我们所知的&6&l&d神化&f&r级&4首领&r.\\n\\n这些生物可生成于任意维度,始终携带强化效果并装备&e词缀物品&r.\\n\\n多数拥有高于普通生物的生命值、&a伤害&f及特效,击败后会掉落&e词缀物品&f与&a宝石&r.\\n\\n其稀有度与&6&l&d神化&f&r等级对应,决定生成配置与属性.\\n\\n稀有度由&l世界层级&r决定!该体系是&6&l&d神化&f&r的新机制,将影响战利品与&4首领&r的稀有度.\\n\\n按住CTRL+T键可开启&l世界层级&r菜单."]
-	quest.196312DF0D2E2CB6.title: "&4入侵者/首领&r与&l世界层级&r"
-	quest.1CD05CB4A3DB112A.quest_desc: ["&c&l拆解台&r无需&7铁砧&r即可获取材料与&9宝石尘&r.\\n\\n可回收带&e词缀&r的&e工具&f与&e护甲&f以提取材料.\\n\\n获得的&a武器材料&f基于物品稀有度,&8普通&r级物品产出&8普通&r材料.\\n\\n此外还可分解马/狗铠甲(用途未知)."]
-	quest.1CD05CB4A3DB112A.title: "&c&l拆解台&r"
-	quest.1D1FAA2F86695781.quest_desc: ["在&l&2边境&r阶段&e词缀&r稀有度无关紧要,但进入&l&e晋升&r后需全部达到&a精良&r及以上.\\n\\n还需击杀&4入侵者&r(即&6&l天启&r首领)来提升&l世界层级&r,首领稀有度不限!\\n\\n&e词缀&r最高保留至&5史诗&r级,但&9稀有&r级出现概率显著提高.亦有几率获得&6神话&r级&a宝石&r...全凭幸运女神眷顾!\\n\\n幸运值将提升至30%,经验获取率达55%.\\n\\n相应地,&4怪物&r将拥有8点&a护甲值&f和5点护甲穿透."]
-	quest.1D1FAA2F86695781.title: "&l世界层级:&e晋升&r"
-	quest.2002C7EB13626AE7.quest_desc: ["&6&l强化台&r需消耗特殊燃料——&6强化符印&r运作.\\n\\n每次重铸消耗1枚&6强化符印&r,每次升级则需2枚!\\n\\n每4次操作需消耗1颗&6神铸珍珠&r."]
-	quest.2002C7EB13626AE7.title: "&6强化符印&r"
-	quest.22E57BF23B9BA2C5.quest_desc: ["&6&l&d神化&f&r 现已与 &a传送门&r 整合.\\n\\n每个 &l世界层级&r(除 &l&9避风港&r 外)都设有 &a传送门&r,会生成怪物波次与 &4入侵者&r.这些 &a传送门&r 仅能在对应的 &l世界层级&r 中使用.成功通过最终波次后,可获得多种奖励,有助于完成该 &l世界层级&r 的挑战.\\n\\n与其他 &a传送门&r 不同,您总共拥有 3 次生命机会."]
-	quest.24D11ED5F4EEDC48.quest_desc: ["对于刚接触 &6&l&d神化&f&r 的玩家,&9镶孔&r 可能令人困惑且烦恼.\\n\\n简而言之,武器和护甲需要 &9镶孔&r 才能镶嵌 &a宝石&r.\\n\\n如果没有 &9镶孔&r 怎么办？\\n\\n那就需要 &9镶孔符印&r!\\n\\n在 &8&l&a锻造台&f&r 中组合物品与 &9符印&r,即可获得最多 2 个 &9镶孔&r."]
-	quest.24D11ED5F4EEDC48.title: "&9镶孔符印"
-	quest.29EA8E178F8F8FDB.quest_desc: ["&9&l简易重铸台&r 的使用方式类似 &5&l&a附魔台&f&r,但针对 &e词缀&r!\\n\\n为任意 &e物品&r 添加 &e词缀&r 时,请将物品放入中央槽位,并将稀有度材料放入 &a左侧&f 槽位.\\n\\n稀有度材料将决定物品获得的 &e词缀&r 稀有度,可用于提升物品等级(例如从 &8普通&r 升至 &a稀有&r).\\n\\n您可从 3 个 &e词缀&r 选项中选择,与 &5&l&a附魔台&f&r 类似,第二和第三个选项成本更高.\\n\\n&9&l简易重铸台&r 最高只能获得 &9稀有&r 级 &e词缀&r."]
-	quest.29EA8E178F8F8FDB.title: "&9&l简易重铸台"
-	quest.2A032EC573B5316C.quest_desc: ["要解锁 &l世界层级:&2边境&r,显然需先完成 &9&l避风港&r,同时需要若干 &e带词缀物品&r!\\n\\n具体数量？需要一整套 &e带词缀护甲&r 加一件 &e带词缀工具&r 或 &e武器&r.\\n\\n当前 &a稀有&r 级 &4入侵者&r 与 &a宝石&r 最为常见,其余按出现频率排序为:&8普通&r、&9稀有&r 及 &5史诗&r.\\n\\n拥有 &l世界层级:&2边境&r 的 &a玩家&f 将获得 35% &a经验增益&f 及 20% 幸运值!\\n\\n但请注意,挑战不会轻松——&4怪物&r 将额外获得 4 点 &a护甲值&f."]
-	quest.2A032EC573B5316C.title: "&l世界层级:&2边境"
-	quest.2E5E129F25707C5D.quest_desc: ["&6至尊符印&r!\\n\\n与 &c恶意符印&r 类似,该符印无法合成,同样能强化词缀.不同之处在于它会增强装备所有词缀,且不会牺牲任何现有词缀.\\n\\n可通过通关 &a末地&f 之外的 Apothic入侵者传送门 100 波次获得."]
-	quest.2E5E129F25707C5D.quest_subtitle: "我给无筛玩家留了条后路"
+	quest.001C1881E9289566.quest_desc: ["&9稀有&r是中间档位的稀有度.\\n\\n在所有&l世界层级&r都会出现,但在&l世界层级:&e攀升&r最常见.\\n\\n&9&a发光水晶碎片&f&r需在&c&l回收工作台&r分解&9稀有&r&e物品&r获得.\\n&7[Rare is the middle ground of Rarities. \\n\\nIt appears in all lWorld Tiers but most common in lWorld Tier: Ascent. \\n\\nLuminous Crystal Shards are made from using Rare Items in a lSalvaging Table.]&f"]
+	quest.001C1881E9289566.quest_subtitle: "&9稀有&7[Rare]&f"
+	quest.001C1881E9289566.title: "&9&a发光水晶碎片&f&7[Luminous Crystal Shard]&f"
+	quest.0089A394566B0F3B.quest_desc: ["&a普通&r是第二档稀有度.\\n\\n从&l世界层级:&9避风港&r开始出现,在&l世界层级:&2边疆&r最丰富,到&l世界层级:&4巅峰&r绝迹.\\n\\n&a陈旧布料&r需在&c&l回收工作台&r分解&a普通&r&e物品&r获得.\\n&7[Uncommon is the second Rarity. \\n\\nIt starts appearing in lWorld Tier: Haven, most abundant in lWorld Tier: Frontier, and stops in lWorld Tier: Pinnacle. \\n\\nTimeworn Fabric is made from using Uncommon Items in a lSalvaging Table.]&f"]
+	quest.0089A394566B0F3B.quest_subtitle: "&a普通&7[Uncommon]&f"
+	quest.0089A394566B0F3B.title: "&a陈旧布料&7[Timeworn Fabric]&f"
+	quest.097FDC136BC843A7.quest_desc: ["进入&l世界层级:&6顶峰&r需要将&e防具&r和&e工具/武器&r从&a普通&r升级至&9稀有&r(或更高)!还需击杀&0&l&a凋零摄魂&f&r.\\n\\n&0&l&a凋零摄魂&f&r不必是&4入侵者&r形态,非入侵者形态反而更易对付.\\n\\n在&6&l顶峰&r中,&5史诗&r&e物品&f和&2宝石&r最常见,且能获取&6传说&r级&e物品&r与&cP&6&er&f&de&5c&4t&r&a宝石&r(两者都极为稀有).\\n\\n此时我们将获得75%经验加成与50%幸运值.\\n\\n&4怪物&r会强化至拥有12点&a护甲值&f、10点&a盔甲韧性&f、15点护甲穿透和10点保护穿透.\\n\\n他们的强化是不是比我们还强？\\n&7[lWorld Tier: Summit will need you to upgrade your Armor and Tool/Weapon from Uncommon to Rare (or better)! You'll also need to kill lThe Wither. \\n\\nlThe Wither doesn't need to be an Invader and honestly, it'll be easier if he isn't. \\n\\nIn lSummit Epic Items and Gems will be the most common, and for Items you can now get Mythic and with Gems you can find Perfect. Again, both being extremely rare! \\n\\nNow we'll get 75% Experience Gained and 50% Luck. \\n\\nMonsters will also be buffed to get 12 Armor Points, 10 Armor Toughness, 15 Armor Pierce, and 10 Protection Pierce. \\n\\nIs it just me or are their upgrades better than ours?]&f"]
+	quest.097FDC136BC843A7.title: "&l世界层级:&6顶峰&7[lWorld Tier: Summit]&f"
+	quest.099C2A9B9CA138F8.quest_desc: ["&6传说&r是我们能获取的顶级品质!\\n\\n仅在&l世界层级:&6顶峰&r和&l世界层级:&4巅峰&r(此处最常见)出现.\\n\\n&6神铸珍珠&r需在&c&l回收工作台&r分解&6传说&r&e物品&r获得.\\n&7[Mythic are some of the greatest we can get! \\n\\nMythics are found only in lWorld Tier: Summit and in lWorld Tier: Pinnacle, where they are most common. \\n\\nGodforged Pearls are made from using Mythic Items in a lSalvaging Table.]&f"]
+	quest.099C2A9B9CA138F8.quest_subtitle: "&6传说&7[Mythic]&f"
+	quest.099C2A9B9CA138F8.title: "&6神铸珍珠&7[Godforged Pearl]&f"
+	quest.1403D677CF2815C3.quest_desc: ["&5&l重铸台&r具备&9&l简易版&r的所有功能,且更为强大!\\n\\n它不仅能保留原有属性,还能赋予装备&5史诗&r与&6神话&e词缀&r!\\n&7[The lReforging Table does everything the lSimple one will do, but better! \\n\\nIt can give us Epic and Mythic Affixes along with our previous ones!]&f"]
+	quest.1403D677CF2815C3.title: "(进阶版)&5&l重铸台&r&7[(Better) lReforging Table]&f"
+	quest.166CE4243896A0CD.quest_desc: ["对当前的&a宝石&r不满意？那就更换它们!\\n\\n使用这张&a&l宝石加工台&r可改变&a宝石&r的稀有度.\\n\\n消耗2颗同类型同稀有度的&a宝石&r与对应材料,即可提升宝石稀有度并增强其效能.\\n&7[Don't like your Gems? Then, change them! \\n\\nTo change the Rarity of your Gem you'll need to use this lTable. \\n\\nBy using 2 of the same Gem and Rarity Materials, you can increase your Gems Rarity and that increases its power.]&f"]
+	quest.166CE4243896A0CD.title: "获取更优质的&a宝石&r&7[Getting better Gems]&f"
+	quest.16C74B5F99AD6724.quest_desc: ["&8普通&r是最基础的稀有度.在游戏初期最为常见,但属性也最弱.\\n\\n该等级主要出现在&l世界层级:&9避风港&r,到达&l世界层级:&6巅峰&r后不再产出.\\n\\n将&8普通&r级&e物品&r放入&c&l回收台&r可分解出&8神秘废金属&r.\\n&7[Common is the most basic Rarity. This makes it most common to find early game, but also the weakest. \\n\\nCommon shows up most at the lWorld Tier: Haven, and will stop appearing after lWorld Tier: Summit. \\n\\nMysterious Scrap Metals are made from using Common Items in a lSalvaging Table.]&f"]
+	quest.16C74B5F99AD6724.quest_subtitle: "&8普通&r&7[Common]&f"
+	quest.16C74B5F99AD6724.title: "&8神秘&a废金属&f&7[Mysterious Scrap Metals]&f"
+	quest.196312DF0D2E2CB6.quest_desc: ["Invaders are what we know as lApotheosis Bosses. \\n\\nThese are Mobs that can spawn in any Dimension and they will always be buffed and have Affixed Items equipped. \\n\\nMost will have more Hearts, Damage, and Effects than normal Mobs! When Killed they'll drop Affixed Items and Gems. \\n\\nThey have their own Rarities align with lApotheosis Rarities. Their Rarities determine what they spawn with and their stats. \\n\\nTheir Rarities are determined by the lWorld Tier! lWorld Tiers are new additions to lApotheosis, they will change the Rarity of Loot and Bosses you can find. \\n\\nTo access the lWorld Tier Menu, Hold CTRL and press T."]
+	quest.196312DF0D2E2CB6.title: "&4入侵者/首领&r与&l世界层级&r&7[Invaders/Bosses and lWorld Tiers]&f"
+	quest.1CD05CB4A3DB112A.quest_desc: ["&c&l回收台&r无需借助&7铁砧&r即可提取材料与&9宝石尘&r.\\n\\n可分解带&e词缀&r的&e工具&f与&e护甲&f获取原材料.\\n\\n&a武器材料&f产出取决于物品稀有度,&8普通&r级物品分解得&8普通&r材料.\\n\\n亦可分解马铠/狗甲(用途不明).\\n&7[The lSalvaging Table can finally get you Materials and Gem Dust without using Anvils. \\n\\nYou can recycle Tools and Armor with Affixes to get their Materials. \\n\\nThe Materials you get are based on the Rarity of Item, Common Items will give Common Materials. \\n\\nAnd break down Horse/Dog Armor for some reason.]&f"]
+	quest.1CD05CB4A3DB112A.title: "&c&l回收台&r&7[lSalvaging Table]&f"
+	quest.1D1FAA2F86695781.quest_desc: ["在&l&2边境&r层级中&e词缀&r稀有度无关紧要,但进入&l&e晋升&r层级后所有装备需达&a精良&r及以上品质.\\n\\n需击杀&4入侵者&r(即&6&l天启&r首领)来提升&l世界层级&r,首领稀有度不限.\\n\\n&e词缀&r最高可达&5史诗&r级,&9稀有&r级出现概率显著提高.还有机会获得&6神话&r&a宝石&r...但这需要幸运女神眷顾!\\n\\n幸运值将提升至30%,经验获取率达55%.\\n\\n&4怪物&r将拥有8点&a护甲值&f和5点护甲穿透.\\n&7[For lFrontier the Rarity of Affixes didn't matter, but now for lAscent you'll need everything being Uncommon or better. \\n\\nYou'll also need to kill an Invader aka an lApothic Boss, to upgrade your lWorld Tier. The Rarity of Boss doesn't matter! \\n\\nAffixes will only stay up to Epic but now Rare is more common than the rest. We can also get Mythic Gems... just only with Lady Luck's Favor! \\n\\nSpeaking of Luck, our Luck will increase to 30% and Experience will jump to 55%. \\n\\nMonsters in return will now have 8 Armor Points and 5 Armor Pierce.]&f"]
+	quest.1D1FAA2F86695781.title: "&l世界层级:&e晋升&r&7[lWorld Tier: Ascent]&f"
+	quest.2002C7EB13626AE7.quest_desc: ["&6&l强化台&r需消耗特殊燃料——&6强化符印&r方能运作.\\n\\n每次重铸消耗1枚&6强化符印&r,每次升级则需2枚!\\n\\n每4次操作需要1颗&6神铸珍珠&r.\\n&7[The lAugmenting Table needs different Fuel to work, and that Fuel is Sigils of Enhancement. \\n\\nEach Reroll will cost 1 Sigil of Enhancement while each Upgrade will cost 2! \\n\\nYou'll need a Godforged Pearl for 4 of them.]&f"]
+	quest.2002C7EB13626AE7.title: "&6强化符印&r&7[Sigil of Enhancement]&f"
+	quest.22E57BF23B9BA2C5.quest_desc: ["&6&l&d神化&f&r现已与&a传送门&r系统整合.\\n\\n每个&l世界层级&r(除&l&9庇护所&r外)都设有对应&a传送门&r,会生成怪物潮与&4入侵者&r.这些&a传送门&r仅能在对应&l世界层级&r使用.成功击退最终波次后,将获得有助于通关该层级的丰富奖励.\\n\\n与其他&a传送门&r不同,此处你共有3条生命可供使用.\\n&7[lApotheosis is now integrated with Gateways.\\n\\nThere are Gateways based on each lWorld Tier (except lHaven), providing waves of monsters and Invaders. These Gateways may only be used within their respective lWorld Tier. Once you beat the final wave, you get a variety of rewards, useful for finishing their respective lWorld Tier.\\n\\nUnlike other Gateways, you have a total of 3 lives to work with.]&f"]
+	quest.24D11ED5F4EEDC48.quest_desc: ["对于初入&6&l&d神化&f&r的玩家,&9镶嵌孔&r机制可能令人困惑.\\n\\n简言之,武器防具需&9镶嵌孔&r才能装备&a宝石&r.\\n\\n若物品无&9镶嵌孔&r怎么办？\\n\\n你需要&9打孔符印&r!\\n\\n在&8&l&a锻造台&f&r将物品与&9符印&r合成,即可获得最多2个&9镶嵌孔&r.\\n&7[To those new to lApotheosis, Sockets can be confusing and irritating. \\n\\nIn short, your Weapons and Armor need Sockets to use Gems with it. \\n\\nBut what if it doesn't have a Socket? \\n\\nThen you'll need a Sigil of Socketing! \\n\\nCombine your item and Sigil in a lSmithing Table and boom you can get up to 2 Sockets.]&f"]
+	quest.24D11ED5F4EEDC48.title: "&9打孔符印&7[Sigil of Socketing]&f"
+	quest.29EA8E178F8F8FDB.quest_desc: ["&9&l基础重铸台&r使用方式类似&5&l&a附魔台&f&r,但作用于&e词缀&r!\\n\\n将&e物品&r置于中央槽位,稀有度材料放入&a左侧&f槽位即可添加&e词缀&r.\\n\\n材料稀有度决定&e物品&r获得&e词缀&r的品级,可将&8普通&r提升至&a精良&r等.\\n\\n与&5&l&a附魔台&f&r相似,提供3个&e词缀&r选项,后两个选项消耗更大.\\n\\n&9&l基础重铸台&r最高仅能获得&9稀有&r级&e词缀&r.\\n&7[The lSimple Reforging Table is used like an lEnchantment Table but with Affixes! \\n\\nTo add an Affix to any Item, place the Item in the center Slot. Then, add your Rarity Material to the left Slot. \\n\\nThe Rarity Material will determine what Rarity Affix you get on your Item. This can be used to upgrade some Items, like from Common to Uncommon. \\n\\nYou will get 3 choices of Affixes you can pick, also similar to an lEnchantment Table the second and third get more expensive. \\n\\nWith the lSimple Reforging Table we can only get up to Rare Affixes.]&f"]
+	quest.29EA8E178F8F8FDB.title: "&9&l基础重铸台&7[lSimple Reforging Table]&f"
+	quest.2A032EC573B5316C.quest_desc: ["解锁&l世界层级:&2边疆&r需先完成&9&l庇护所&r,并准备若干&e词缀装备&r!\\n\\n具体需要:全套&e词缀防具&r加一件&e词缀工具&r或&e武器&r.\\n\\n该层级&a精良&r级&4入侵者&r与&a宝石&r最为常见,其余按&8普通&r、&9稀有&r、&5史诗&r顺序递减.\\n\\n&a玩家&f在此层级可获得35%&a经验加成&f与20%幸运值!\\n\\n但挑战亦随之升级:&4怪物&r将额外获得4点&a护甲值&f.\\n&7[To get the lWorld Tier: Frontier, you'll obviously need lHaven done, but also need a few Affixed Items! \\n\\nHow many? You need a full set of Affixed Armor plus an Affixed Tool or Weapon. \\n\\nNow Uncommon Invaders and Gems are most abundant, with the rest following in order: Common, Rare, and also Epic. \\n\\nThe Player with lWorld Tier: Frontier will get a 35% Experience Boost plus 20% Luck! \\n\\nHey, not everything will be easy though, now Monsters will gain 4 Armor Points extra.]&f"]
+	quest.2A032EC573B5316C.title: "&l世界层级:&2边疆&7[lWorld Tier: Frontier]&f"
+	quest.2E5E129F25707C5D.quest_desc: ["&6至尊符印&r!\\n\\n与&c恶意符印&r同为不可合成品,能强化词缀.不同之处在于:它可强化装备所有词缀且无需牺牲任何属性.\\n\\n需在&a末地&f类传送门中连续击退100波次Apothic入侵者方可获得.\\n&7[The Sigil of Supremacy!\\n\\nAnother sigil that cannot be crafted, similarly to Malice. Like Malice, it can make affixes stronger. Unlike Malice, it does this to EVERY affix on the gear, and will not sacrifice any in the process.\\n\\nYou can obtain this by beating 100 waves of the Endless Gateway of Apothic Invaders. ]&f"]
+	quest.2E5E129F25707C5D.quest_subtitle: "给无筛玩家的福利&7[I'm throwing Sieveless runs a bone]&f"
 	quest.377A41499D8218C9.quest_desc: [
-		"&a第一&f 个 &l世界层级&r 是 &l&9避风港&r!作为初始层级,它最易于探索和达成.\\n\\n只需手持一件 &e带词缀物品&r 即可解锁,系统将自动激活该层级.\\n\\n&l世界层级:&9避风港&r 中 &8普通&r 级 &a装备&r 与 &a宝石&r 出现概率最高,偶尔会出现 &a稀有&r 级,极低概率出现 &9稀有&r 级."
+		"&a初始&f&l世界层级&r是&l&9庇护所&r!作为起点最易探索与获取.\\n\\n只需手持&e词缀物品&r即可自动解锁.\\n\\n此层级&8普通&r级&a装备&r&f与&a宝石&r爆率最高,偶有&a精良&r,极低概率出现&9稀有&r.\\n&7[The 1st lWorld Tier is lHaven! It being the first makes it the easiest to explore with and easiest to obtain. \\n\\nTo get it you just need to hold an Affixed Item in your Hand! It will automatically be set when unlocked. \\n\\nThe lWorld Tier: Haven has highest chances for Common Gear and Gems. It can also have Uncommon and very rarely, Rare.]&f"
 		""
-		"这也是唯一无法与 &4入侵者&r 交战的 &l世界层级&r."
+		"此层级也是唯一无法遭遇&4入侵者&r的&l世界层级&r.\\n&7[This is also the only lWorld Tier where Invaders cannot be fought.]&f"
 	]
-	quest.377A41499D8218C9.title: "&l世界层级:&9避风港"
-	quest.38956DC28E317DEF.quest_desc: ["&d重生徽章&r是所有&l&9重铸台&r的燃料.\\n\\n当然它们仍需要另一种材料,以及明确要转化的物品才能运作...\\n\\n至少它们的合成相对容易!"]
-	quest.38956DC28E317DEF.title: "&d重生徽章"
-	quest.3BF5B8DE7A1CC4D7.quest_desc: ["想要获得优质装备,你需要&6&l神化&f品质的装备&r,而这都始于一枚&a宝石&r!\\n\\n&a宝石&r是稀有物品,&a掉落自&f所有生物,同时也被证实会由&4入侵者&r&a掉落&f.\\n\\n稍后你会了解更多相关信息,现在先去刷怪吧!"]
-	quest.3BF5B8DE7A1CC4D7.title: "&6&l神化&f冒险"
-	quest.45647395169978ED.quest_desc: ["要获得&9宝石尘&r,你需要一枚&6&l神化&r&a宝石&r和一个&7&l铁砧&r.\\n\\n任意&6&l神化&r&a宝石&r(推荐仅使用&8普通&f和&a稀有&r品质)!\\n\\n获得&a宝石&r后,用下落的&7&l铁砧&r砸碎它们!\\n\\n然后你就可以用&9宝石尘&r合成&c&l回收台&r."]
-	quest.45647395169978ED.title: "&9宝石尘"
-	quest.4E9DDDBD8263D0E3.quest_desc: ["&7无名徽章&r如其名,当你有一件带有冗长名称的&e词缀物品&r时,可在&8&l锻造台&f&r中将其与&7徽章&r结合,以清除大部分名称.\\n\\n(仅保留材质、物品类型及稀有度颜色)."]
-	quest.4E9DDDBD8263D0E3.title: "&7无名徽章"
-	quest.552BA5E6FA987256.quest_desc: ["&c恶意徽章&r是神秘徽章,无人知晓其合成方式.传闻由&4入侵者&r掉落.\\n\\n其功效仍是谜团,但有玩家发现对装备使用后会移除一个词缀,同时强化另一个随机词缀.被选中的词缀如同徽章本身,仍是未解之谜."]
-	quest.57BB2CC6D9D2AE87.quest_desc: ["这才是完美&e词缀&r所需的核心要素.\\n\\n首先你需要&6&l强化台&r、工具和&6强化徽章&r.\\n\\n集齐这些后,世界尽在掌握!你可以重roll&e词缀&r、指定&e词缀&r或升级套装&e词缀&r!"]
-	quest.57BB2CC6D9D2AE87.title: "&6&l强化台"
-	quest.6667638252DB9C74.quest_desc: ["&8徽章&r是用于改造&6&l神化&r&e词缀物品&r的道具:可清除&9镶孔&r、增加&9镶孔&r或移除名称!\\n\\n所有操作都需在&8&l锻造台&f&r、&9&l重铸台&r或&6&l强化台&r中对物品使用."]
-	quest.6667638252DB9C74.quest_subtitle: "现在只需关注徽章!"
-	quest.6667638252DB9C74.title: "&m药瓶与&r&8徽章"
-	quest.6B5B01C612951BAF.quest_desc: ["与其他传送珠不同,此珠需通过通关&4&l巅峰&r传送门获得.\\n\\n但需以永恒者克雷格——拥有巨额血量的生物——作为祭品.\\n\\n该传送门会召唤无限增强的波次,间隔时间逐波缩短.可生成来自任意维度的&4入侵者&r,不限于使用时所处维度.这意味着你能获得其他维度专属的宝石,例如在&a末地&f之外获取末影激涌宝石.\\n\\n若能通过100波,你将获得……"]
-	quest.6EF206A0BD5BAC0A.quest_desc: ["&5史诗&r品质正逐渐偏向超强属性.\\n\\n&5史诗&r在&l世界层级:&2边境&r之后出现,并在&l世界层级:&4巅峰&r中最常见.\\n\\n通过在&c&l拆解台&r中使用&5史诗&r&e物品&r可制作出&5奥术沙&r."]
-	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5史诗"
-	quest.6EF206A0BD5BAC0A.title: "&5奥术沙"
-	quest.7080F026A37F1832.quest_desc: ["该任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务已被故意隐藏,若您能看到此说明,说明您正处于编辑模式."]
-	quest.7C90008081DEBECA.quest_desc: ["您已获得&e工具&r和&a宝石&r...那么如何将它们结合？\\n\\n首先确保您的&e工具&r有空的&9插槽&r(关于&9插槽&r的详情请查阅符文章节).\\n\\n若有空闲插槽,可在&8&l&a锻造台&f&r中将&e工具&r与&a宝石&r结合.\\n\\n若对当前&a宝石&r不满意,您可能需要使用其他工作台!"]
-	quest.7C90008081DEBECA.title: "镶嵌&a宝石&r(及其他)"
-	quest.7CB03F92F9ECEFFB.quest_desc: ["值得庆幸的是,&6&l&d神化&f&r使得从&e工具&r中取出&9插槽&r变得更为简便!\\n\\n现在您无需在保留&e工具&r或&a宝石&r之间抉择,二者皆可保留.\\n\\n在&8&l&a锻造台&f&r中对&e已镶嵌工具&r使用&a剥离符文&r,即可将&a宝石&r分离出来."]
-	quest.7CB03F92F9ECEFFB.title: "&a剥离符文"
-	quest.7EF873DCEB3B9D48.quest_desc: ["最终&l世界层级&r——&l世界层级:&4巅峰&r.达成需至少击杀一次&d&l&a末影龙&f&r,并装备全套&5史诗&r或&6神话&r品质的&e防具&r及&e工具/武器&r.\\n\\n此时&5史诗&r与&6神话&r品质的&a宝石&r和&e工具&r最为常见,且更易获得&c完&6美&e无&f瑕&d的&5极&4品&r宝石!虽然会失去&8普通&r和&a罕见&r品质物品,但嘿,谁会在意呢!\\n\\n升级后将获得125%经验获取加成与100%幸运值提升.\\n\\n&4怪物&r将获得最终强化:16点&a护甲值&f、20点&a盔甲韧性&f、25点护甲穿透与20点保护穿透."]
-	quest.7EF873DCEB3B9D48.title: "&l世界层级:&4巅峰"
-	task.1F073FD0F4A296A3.title: "秘法传送门"
-	task.31C72EBA091270E7.title: "版权所有"
-	task.67D884FA6DD22065.title: "任意&d神化&f宝石"
+	quest.377A41499D8218C9.title: "&l世界层级:&9庇护所&7[lWorld Tier: Haven]&f"
+	quest.38956DC28E317DEF.quest_desc: ["&d重生徽章&r是所有&l&9重铸台&r的燃料.\\n\\n当然它们还需要其他材料,以及待转换的物品才能运作...\\n\\n至少它们的合成配方相对简单!\\n&7[The Sigil of Rebirth is Fuel for all the lReforging Tables. \\n\\nThey still need the other Material, and obviously the Item it'll change to work though... \\n\\nAtleast they're relatively easier to Craft!]&f"]
+	quest.38956DC28E317DEF.title: "&d重生徽章&7[Sigil of Rebirth]&f"
+	quest.3BF5B8DE7A1CC4D7.quest_desc: ["想要获得强力装备,你需要&6&l神化&f级装备&r,而这一切都始于&a宝石&r!\\n\\n&a宝石&r是稀有掉落物,可从任何生物身上获取,同时确认会由&4入侵者&r掉落.\\n\\n关于这些你之后会了解更多,现在先去刷怪吧!\\n&7[If you want good gear you're gonna need lApotheosis Gear, and that all starts with a Gem! \\n\\nGems are rare Drops from any Mob, they are also confirmed Drops from Invaders. \\n\\nYou'll learn more about those later, for now Farm those Mobs!]&f"]
+	quest.3BF5B8DE7A1CC4D7.title: "&6&l神化&f冒险&7[lApotheosis Adventure]&f"
+	quest.45647395169978ED.quest_desc: ["获取&9宝石粉尘&r需要&6&l神化&r&a宝石&r和&7&l铁砧&r.\\n\\n任意&6&l神化&r&a宝石&r均可(推荐仅使用&8普通&f和&a精良&r品质)!\\n\\n获得&a宝石&r后,用下落的&7&l铁砧&r砸碎它们!\\n\\n然后就能用&9宝石粉尘&r合成&c&l回收台&r了.\\n&7[To get Gem Dust you need an lApotheosis Gem and an lAnvil. \\n\\nAny lApotheosis Gem (Recommended only Common and Uncommon)! \\n\\nOnce you get your Gems, smash them with a falling lAnvil! \\n\\nThen, you can use your Gem Dust to Craft a lSalvaging Table.]&f"]
+	quest.45647395169978ED.title: "&9宝石粉尘&7[Gem Dust]&f"
+	quest.4E9DDDBD8263D0E3.quest_desc: ["&7无名徽章&r如其名所示,当你拥有名称冗长的&e词缀物品&r时,可在&8&l锻造台&r中将其与&7徽章&r合成以缩短名称.\\n\\n(仅保留材质、物品类型及稀有度颜色)\\n&7[Sigil of Unnaming does as the name suggests, when you have an Affixed Item with an awkwardly long name, you can combine it with the Sigil in a lSmithing Table to get rid of most of the name. \\n\\n(Only the Material and Item Type as with the Rarity color will stay).]&f"]
+	quest.4E9DDDBD8263D0E3.title: "&7无名徽章&7[Sigil of Unnaming]&f"
+	quest.552BA5E6FA987256.quest_desc: ["&c恶意徽章&r是神秘徽章,无人知晓其合成方式.传闻&4入侵者&r会掉落它.\\n\\n其效果同样成谜,但有玩家发现使用后会移除装备上一个词缀,同时强化另一个词缀.被选中的词缀如同徽章本身,仍是未解之谜.\\n&7[The Sigil of Malice is a mysterious sigil. No one knows how to craft it. Rumors circulate about it being dropped by Invaders.\\n\\nWhat it does is another mystery, though some players found that they lost an affix from gear they used it on, making a different affix stronger. The affixes chosen for this are, much like the sigil itself, yet another mystery.]&f"]
+	quest.57BB2CC6D9D2AE87.quest_desc: ["这才是打造完美&e词缀&r的关键.\\n\\n首先你需要&6&l强化台&r、工具和&6强化徽章&r.\\n\\n集齐这些后,世界尽在掌握!你可以重铸&e词缀&r、指定&e词缀&r或升级套装&e词缀&r!\\n&7[This is what you really need for perfect Affixes. \\n\\nFirst you need the lTable, a Tool, and Sigils of Enhancement. \\n\\nOnce you have all those, the world is all yours! You can reroll Affixes, choose a specific Affix, or upgrade set Affixes!]&f"]
+	quest.57BB2CC6D9D2AE87.title: "&6&l强化台&7[lAugmenting Table]&f"
+	quest.6667638252DB9C74.quest_desc: ["&8徽章&r用于改造&6&l神化&r&e词缀物品&r:无论是清空&9镶孔&r、增加&9镶孔&r还是移除名称!\\n\\n所有操作都需在&8&l锻造台&r、&9&l重铸台&r或&6&l强化台&r中进行.\\n&7[Sigils are items used to change your lApotheosis Affixed Items; whether it be clearing Sockets, adding more Sockets, or removing the Name! \\n\\nAll are used with your Item in a lSmithing Table, lReforging Table, or lAugementing Table.]&f"]
+	quest.6667638252DB9C74.quest_subtitle: "现在只剩徽章了!&7[Just Sigils now!]&f"
+	quest.6667638252DB9C74.title: "&m药水与&r&8徽章&7[Vials and Sigils]&f"
+	quest.6B5B01C612951BAF.quest_desc: ["与其他传送珍珠不同,这颗需要通过通关&4&l巅峰&r传送门获得.\\n\\n不过要以永恒者克雷格——这个拥有巨额血量的生物为祭品.\\n\\n该传送门会召唤无限增强的波次,间隔时间越来越短.它能从&4任意维度&r召唤入侵者,而不仅限于使用时的维度.这意味着你能获取其他维度专属的宝石,比如在&a末地&f之外获得末影激涌宝石.\\n\\n若能击败100波次,你将得到...\\n&7[Unlike other Gate Pearls, this one is obtained by clearing the lPinnacle Gateway.\\n\\nIt will come with the sacrifice of Craig the 位阶l, a creature with a LOT of health, though.\\n\\nThis gateway will summon an endless stream of increasingly scaling waves, with less and less time between each one. It can spawn Invaders from ANY dimension, not just the dimension you used it in. This also means you can get gems normally exclusive to other dimensions, such as Endersurge Gems outside of The End.\\n\\nIf you can beat 100 waves, you can get...]&f"]
+	quest.6EF206A0BD5BAC0A.quest_desc: ["&5史诗&r品质终于开始偏向强力属性.\\n\\n&5史诗&r装备在&l世界层级:&2边疆&r后出现,在&l世界层级:&4巅峰&r中最常见.\\n\\n&5奥术沙砾&r可通过在&c&l分解台&r中使用&5史诗&r&e物品&r制作.\\n&7[Epic is finally climbing more to the overpowered side. \\n\\nEpic appears after lWorld Tier: Frontier and is most common in lWorld Tier: Pinnacle. \\n\\nArcane Sands are made from using Epic Items in a lSalvaging Table.]&f"]
+	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5史诗&7[Epic]&f"
+	quest.6EF206A0BD5BAC0A.title: "&5奥术沙砾&7[Arcane Sands]&f"
+	quest.7080F026A37F1832.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何非官方发布的公开整合包中使用本任务.\\n\\n此任务默认隐藏,若您能看到此说明,说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.7C90008081DEBECA.quest_desc: ["您已获得&e工具&r和&a宝石&r...那么如何将它们结合？\\n\\n首先确保您的&e工具&r有空的&9镶嵌槽&r(关于&9镶嵌槽&r详见符文章节).\\n\\n若有空槽,可在&8&l锻造台&r中合成&e工具&r与&a宝石&r.\\n\\n若对当前&a宝石&r不满意,您可能需要换用其他工作台!\\n&7[You got Tools and you got Gems... so how do we combine them? \\n\\nFirst, make sure your Tool has an open Socket. (For more on Sockets check the Sigils section). \\n\\nIf one is open, you can combine your Tool and Gem in a lSmithing Table. \\n\\nIf you aren't happy with your current Gems then you might need a different Table!]&f"]
+	quest.7C90008081DEBECA.title: "镶嵌&a宝石&r(及其他)&7[Applying Gems (and others)]&f"
+	quest.7CB03F92F9ECEFFB.quest_desc: ["值得庆幸的是,&6&l神化&r系统让从&e工具&r取出&9镶嵌槽&r变得更容易!\\n\\n现在您无需在保留&e工具&r或&a宝石&r之间抉择,两者皆可保留.\\n\\n在&8&l锻造台&r中对&e已镶嵌工具&r使用&a剥离符文&r即可分离&a宝石&r.\\n&7[Thankfully lApotheosis has made taking Sockets out of Tools much easier! \\n\\nNow instead of having to choose whether to save the Tool or Gem you can now keep both. \\n\\nUse the Sigil of Withdrawal with an Affixed Tool in a lSmithing Table and you'll separate the Gem from it.]&f"]
+	quest.7CB03F92F9ECEFFB.title: "&a剥离符文&7[Sigil of Withdrawal]&f"
+	quest.7EF873DCEB3B9D48.quest_desc: ["最终&l世界层级&r——&l世界层级:&4巅峰&r.达成条件:至少击杀&d&l末影龙&r一次,并装备全套&5史诗&r或&6神话&r&e防具&r及&e工具/武器&r.\\n\\n此时&5史诗&r和&6神话&r品质的&a宝石&r与&e工具&r最为常见,还有更高概率获得&cP&6&er&f&de&5c&4t&r宝石!代价是&8普通&r和&a罕见&r品质消失——不过谁会在乎呢!\\n\\n升级模式包含:125%经验获取加成与100%幸运值提升.\\n\\n&4怪物&r将获得终极强化:16&a护甲值&f、20&a盔甲韧性&f、25护甲穿透与20保护穿透.\\n&7[The last lWorld Tier, lWorld Tier: Pinnacle. To get it, you'll need to Kill the lEnder Dragon atleast once, and equip all Epic or Mythic Armor and Tool/Weapon. \\n\\nNow Epic and Mythic are most common for Gems and Tools, plus we are more likely to get Perfect gems! This comes at the loss of Common and Uncommon but hey, who'll miss them! \\n\\nOn the same pattern of upgrades we'll get 125% Experience Gained and 100% Luck increase. \\n\\nMonsters will receive their final upgrade, getting: 16 Armor Points, 20 Armor Toughness, 25 Armor Pierce, and 20 Protection Pierce.]&f"]
+	quest.7EF873DCEB3B9D48.title: "&l世界层级:&4巅峰&7[lWorld Tier: Pinnacle]&f"
+	task.1F073FD0F4A296A3.title: "奥法传送门&7[Apothic Gateways]&f"
+	task.31C72EBA091270E7.title: "版权所有&7[AllRightsReserved]&f"
+	task.67D884FA6DD22065.title: "任意&d神化&r宝石&7[Any Apotheosis Gem]&f"
 }

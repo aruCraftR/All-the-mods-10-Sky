@@ -1,59 +1,59 @@
 {
-	quest.1568CBFA09827137.quest_desc: ["与逻辑编程器功能相同,但此设备可在任意位置使用."]
-	quest.1B5C86AE05678420.quest_desc: ["右键点击接口时会显示多个选项,功能如下:\\n\\n&l设置面&r:在屏幕顶部可设置接口模拟的朝向面,对于有特定输入/输出面的机器非常实用.\\n\\n&l刻/操作&r:若接口设置为&a10刻&f/操作,则每&a10刻&f(0.5秒)执行一次导入/导出.\\n\\n&l优先级&r:优先将物品输送至装有更高优先级接口的容器.\\n\\n&l物品/能量通道&r:将系统分割为多个通道,可从网络中不同位置推送或提取内容."]
-	quest.2F37E284BB83BFF6.quest_desc: ["扳手用于旋转或拆除特定方块,Shift+右键点击空气可切换模式."]
-	quest.33F4A7613764A016.quest_desc: ["功能与导入器类似,但执行导出操作."]
-	quest.33F4A7613764A016.quest_subtitle: "导出系统"
-	quest.3BC94B0B922C0708.quest_desc: ["这些是制作导入设备的合成材料,可处理物品、流体或能量的导入."]
-	quest.3C9539083BCC145C.quest_desc: ["&a门瑞欧蜜蜂&f可用于自动化生产门瑞欧结晶方块碎块."]
-	quest.3C9539083BCC145C.quest_subtitle: "门瑞尔自动化"
-	quest.437F4945AFBE0825.quest_desc: ["右键点击导入器或导出器会显示菜单,主要用于筛选.例如若变量卡设置为圆石,导出器将只发送圆石.\\n\\n插入变量时左侧有&a小型”+”按钮&f,点击会打开新界面,可调整传输速率以发送&d无限&r物品/流体/能量,并执行其他操作.\\n\\n左上角设置选项与接口设置功能基本相同.\\n\\n注意:延迟可能限制传输速率."]
-	quest.44DA091B53473723.quest_desc: ["&a技工&f挤压器需消耗能量进行挤压操作."]
-	quest.450EDE68EC992A5A.quest_desc: ["接口会&c读取&r所连接的容器内容,可类比&bAE2&r存储总线.\\n\\n不理解？举例:装有100个圆石的箱子连接接口后,你的ID系统就会显示存有100个圆石,很简单对吧？"]
-	quest.450EDE68EC992A5A.quest_subtitle: "接口配有图形界面!"
-	quest.499CF9F39CED8899.quest_desc: ["&b&d动态联合/集成动力&f&r(ID)是物流模组,可用于存储、物品/能量/流体传输等!\\n\\n门瑞尔树生长于门格林生物群系.\\n\\n本任务涵盖模组基础概念,若需深入研习请阅读任务奖励提供的指南书."]
-	quest.499CF9F39CED8899.quest_subtitle: "培育门瑞尔"
-	quest.499CF9F39CED8899.title: "&b&d动态联合/集成动力&f"
-	quest.4A05C037C0EE40BD.quest_desc: ["逻辑线缆与其他线缆不同.其他线缆充当漏斗功能,物品会从第一个容器进入线缆,再传输到第二个容器.而逻辑线缆直接省去中间环节,同时大幅减少卡顿.\\n\\n它们仅用于连接导入器与接口."]
-	quest.4A05C037C0EE40BD.quest_subtitle: "组建网络"
-	quest.4A05C037C0EE40BD.title: "逻辑线缆"
-	quest.4D4152032F0410D2.quest_desc: ["&a逻辑&f编程器可设置变量值.该值可用于物品与流体的过滤设置,甚至可设定数值参数.\\n\\n举个简单例子:在左侧选择&b物品&r,将任意物品放入弹出的GUI界面中央槽位,并在右下角槽位放置&b变量卡&r.若将此变量卡置入导入器/导出器,将只会导入/导出该指定方块!"]
-	quest.4D4152032F0410D2.quest_subtitle: "进阶应用"
-	quest.4D62C62B523C69EC.quest_desc: ["&a发电机&f可通过燃烧煤炭等可燃燃料产生FE能量."]
-	quest.4D62C62B523C69EC.quest_subtitle: "能源供给!"
-	quest.56BF647EA84FFF7E.quest_desc: ["实时显示正在进行的合成配方."]
-	quest.56BF647EA84FFF7E.quest_subtitle: "配方展示"
-	quest.60D9F04E91171D16.quest_desc: ["可作为变量存储箱使用,亦可应用于高级网络系统.\\n\\n若需构建高级网络,请务必查阅&e整合动力学&r章节."]
-	quest.62B4A37CFDECA679.quest_desc: ["&a门瑞欧树脂&f将流向挤压机的两侧.在挤压机旁放置&a烘干池&f可自动收集树脂.\\n\\n7.5秒后树脂将转化为&a水晶化门瑞欧&f."]
-	quest.65D89991A45BC042.quest_desc: ["将合成接口置于工作台并右键点击,会显示&b变量卡&r槽位.\\n\\n通过逻辑编程器在左上角搜索&e配方&r,创建自动合成配方并保存至&b变量卡&r.若配方&c&l需要&r次级合成材料,需为每个材料单独创建配方,最后将所有变量卡置入合成接口."]
-	quest.65D89991A45BC042.quest_subtitle: "&l&c自&6动&e合&a成&b系&d统&9"
-	quest.65FA86357BC60573.quest_desc: ["现在开始物品传输教学,步骤如下:\\n\\n&l1.&r 在容器(如箱子或储罐)上安装接口\\n\\n&l2.&r 根据传输方向(提取或输送),在目标容器安装导入器或导出器\\n\\n&l3.&r 用线缆连接两者,将变量卡置入导入器/导出器即可运作!"]
-	quest.65FA86357BC60573.quest_subtitle: "物品传输!"
-	quest.68498ADEF9765F81.quest_desc: ["制作晶化门瑞欧块需先将门瑞欧原木放入挤压机.跳踏挤压机将其转化为树脂.\\n\\n可通过红石信号清空挤压机."]
-	quest.6ABDBE41880CFDA9.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n根据&e保留所有权利&r的许可协议,未经&6AllTheMods团队&r明确授权,不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若可见说明正处于编辑模式."]
-	quest.6C9191DA4B1039D6.quest_desc: ["食用暗木浆果可短暂获得&a夜视&f效果."]
-	quest.6D75CF34957ECCD9.quest_desc: ["&a能量&f电池用于存储FE能源,传输能量需配合&6&a能量接口&f&r使用."]
-	quest.6D75CF34957ECCD9.quest_subtitle: "能量存储"
-	quest.72F57D77C3FB366D.quest_desc: ["晶化暗木块可合成晶化暗木碎块,这是ID装置的核心合成材料."]
-	quest.72F57D77C3FB366D.quest_subtitle: "&a核心&f合成材料"
-	quest.72F57D77C3FB366D.title: "晶化暗木碎块"
+	quest.1568CBFA09827137.quest_desc: ["与逻辑编程器功能相同,但这个可以在任何地方使用.\\n&7[Same thing as Logic Programmer, only this one can be used anywhere.]&f"]
+	quest.1B5C86AE05678420.quest_desc: ["右键点击接口时会出现多个选项,功能如下:\\n\\n&l设置面&r:在屏幕顶部可设置接口模拟的朝向,适用于有特定输入/输出面的机器.\\n\\n&l刻/操作&r:若接口设置为 &a10刻&f/操作,则每 &a10刻&f(0.5秒)导入/导出一次.\\n\\n&l优先级&r:将物品优先输送至具有更高优先级接口的容器.\\n\\n&l物品/能量通道&r:将系统分割为多个通道,可从网络不同位置推送和提取资源.\\n&7[When you right-click on an interface, it brings up several options, here's what they all do:\\n\\nlSet Side: At the top of the screen, you can set the side that the interface \"acts\" like it's on. It can be useful for machines with specific input/output sides.\\n\\nlTicks/Operation: If an interface is set to 10 ticks/operation, it will import/export once every 10 ticks (0.5 seconds).\\n\\nlPriority: Sends items to the inventory with the higher priority interface on it.\\n\\nlItem/Energy Channels: This will split your system into multiple channels. You can push and pull from different places in your network.]&f"]
+	quest.2F37E284BB83BFF6.quest_desc: ["扳手用于旋转或拆除特定方块,Shift+右键点击空气可切换模式.\\n&7[The Wrench is used to rotate or destroy certain blocks, shift right-click in the air to change modes.]&f"]
+	quest.33F4A7613764A016.quest_desc: ["功能与导入器相同,但改为执行导出操作.\\n&7[Works like Importers do, only they export instead.]&f"]
+	quest.33F4A7613764A016.quest_subtitle: "导出&7[Exporting]&f"
+	quest.3BC94B0B922C0708.quest_desc: ["这些是制作导入功能部件的合成材料,可处理物品、流体或能量的导入.\\n&7[These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy.]&f"]
+	quest.3C9539083BCC145C.quest_desc: ["&a门瑞欧蜜蜂&f 可用于自动化生产结晶门瑞欧碎片.\\n&7[Menril Bees can be used to automate Crystallized Menril Chunks.]&f"]
+	quest.3C9539083BCC145C.quest_subtitle: "自动化门瑞欧生产&7[Automating Menril]&f"
+	quest.437F4945AFBE0825.quest_desc: ["当你右键点击输入器或输出器时,会弹出一个菜单.该菜单主要用于过滤设置,例如若你的变量卡设置为圆石,输出器将只会传输圆石.\\n\\n插入变量卡时左侧有个小小的”+”号,点击它会打开另一个图形界面.在这里你可以调整传输速率以实现&d无限&r传输物品/流体/能量,还能进行其他操作.\\n\\n左上角是设置选项,其功能与接口设置大体相同.\\n\\n注意:延迟可能会限制传输速率.\\n&7[When you right-click on an Importer or an Exporter, it brings up a menu. The menu is mainly for filtering, say you have a Variable Card set to Cobblestone, your Exporter will only send Cobblestone.\\n\\nThere is a little \"+\" to the left of variables when you insert them, clicking on it opens another GUI. In here you can change transfer rates to be able to send INFINITE items/fluids/energy, as well as being able to do some other stuff.\\n\\nOn the top left we have settings, these are for the most part the same thing as the interface settings.\\n\\nNote: Lag may limit transfer rate.]&f"]
+	quest.44DA091B53473723.quest_desc: ["&a技工&f挤压机通过消耗能量进行挤压作业.\\n&7[The Mechanical Squeezer uses energy to squeeze.]&f"]
+	quest.450EDE68EC992A5A.quest_desc: ["接口会&c读取&r其所指向容器的内容.你可以将其理解为&b应用能源2&r的存储总线.\\n\\n不明白吗？这里有个例子:一个装有一百块圆石的箱子连接了接口,这意味着你的集成动力网络系统中存在一百块圆石,很简单对吧？\\n&7[Interfaces read whatever they're looking at. You can think of this like an AE2 Storage Bus.\\n\\nYou don't know what that is? Well here's an example: A chest with 100 Cobblestone in it has an interface on it, this means your ID network has 100 Cobblestone in it's system, pretty simple, right?]&f"]
+	quest.450EDE68EC992A5A.quest_subtitle: "接口具备图形操作界面!&7[Interfaces Have GUIs!]&f"
+	quest.499CF9F39CED8899.quest_desc: ["&b&d集成动力&f&r(ID)是一款物流类模组,可用于存储、物品/电力/流体传输等多种功能!\\n\\n门瑞尔树生长在门格林生物群系中.\\n\\n本任务线将介绍模组的基础概念,若想深入探索请阅读任务奖励赠送的指南书.\\n&7[Integrated Dynamics (ID) is a logistics mod that can be used for storage, item/power/fluid transfer and more!\\n\\nMenril trees can be found in Meneglin biomes.\\n\\nThese quests will cover some of the basic concepts of the mod, read the guidebook given as a reward for this quest if you want to go further in depth.]&f"]
+	quest.499CF9F39CED8899.quest_subtitle: "培育门瑞尔树&7[Growing Menril]&f"
+	quest.499CF9F39CED8899.title: "&b&d动态联合/集成动力&f&7[Integrated Dynamics]&f"
+	quest.4A05C037C0EE40BD.quest_desc: ["逻辑线缆与其他线缆不同.普通线缆类似漏斗,物品需要经过:容器1→线缆→容器2的流程.而逻辑线缆直接省去中间环节,大幅降低延迟.\\n\\n它们专用于连接输入器和接口.\\n&7[Logic Cables are different from other cables. Other Cables act as Hoppers, the items move from 1 Inventory, into the cable, then into the 2nd inventory. Logic Cables just skip the middle man which also skips a lotta lag.\\n\\nThey are just for connecting Importers and Interfaces.]&f"]
+	quest.4A05C037C0EE40BD.quest_subtitle: "组建网络&7[Making Networks]&f"
+	quest.4A05C037C0EE40BD.title: "逻辑线缆&7[Logic Cables]&f"
+	quest.4D4152032F0410D2.quest_desc: ["&a逻辑&f编程器可用于设定变量值.既可设置为物品和流体用于过滤,也能设定数值.\\n\\n举个简单例子:从左侧选择&b物品&r,在弹出的GUI中央槽位放入指定物品,再将&b变量卡&r放入右下角槽位.将此变量卡置入输入器/输出器后,将只会导入/导出该指定方块!\\n&7[The Logic Programmer lets you set the value of variables. This can be set to to items and fluids for filtering, or even values. \\n\\nLet me give you a simple example: Select Item from the left side, place an item of choice into the center slot of the GUI that pops up, and place a Variable Card in the bottom right slot. If you then put that variable card in an importer/exporter, it will only import/export that block!]&f"]
+	quest.4D4152032F0410D2.quest_subtitle: "进阶应用&7[Getting Advanced]&f"
+	quest.4D62C62B523C69EC.quest_desc: ["&a发电机&f通过燃烧煤炭等可燃燃料产生FE能量.\\n&7[The Generator generates FE using burnable fuels like Coal.]&f"]
+	quest.4D62C62B523C69EC.quest_subtitle: "能源供应!&7[Providing Energy!]&f"
+	quest.56BF647EA84FFF7E.quest_desc: ["实时显示正在进行的合成配方.\\n&7[Shows which crafting recipes are happening at any time.]&f"]
+	quest.56BF647EA84FFF7E.quest_subtitle: "配方展示&7[Shows Recipes]&f"
+	quest.60D9F04E91171D16.quest_desc: ["既可作为变量卡的存储箱使用,也能应用于高级网络.\\n\\n若想构建高级网络,请务必阅读&e《集成动力学》&r的相关内容.\\n&7[This can act as a Chest for your Variables, or can actually be used in an advanced network.\\n\\nIf you want advanced networks, make sure to read about them in the Dynamics of Integration.]&f"]
+	quest.62B4A37CFDECA679.quest_desc: ["&a门瑞欧&f树脂会流向挤压机两侧.在挤压机旁放置&a烘干池&f可收集门瑞尔树脂.\\n\\n7.5秒后门瑞尔树脂将转化为&a水晶石块&f状的门瑞尔晶体.\\n&7[The Menril Resin will go to 2 sides of the Squeezer. Placing a Drying Basin next to the Squeezer will make the Drying Basin pick up the Menril Resin.\\n\\nAfter 7.5 seconds the Menril Resin will turn into a Block of Crystallized Menril.]&f"]
+	quest.65D89991A45BC042.quest_desc: ["在工作台上放置合成接口并右键点击,这将为你提供一些&b变量卡&r的插槽.\\n\\n使用逻辑编程器,在左上角搜索&e配方&r,创建一个用于自动合成的配方,然后将其保存到&b变量卡&r中.如果配方&c&l需要&r合成的物品,请为每个物品创建一个配方,然后将所有内容放入合成接口.\\n&7[Place a Crafting Interfaces on a crafting table and right-click on it, this will give you some slots for Variable Cards. \\n\\nUsing the Logic Programmer, search for Recipe in the top left, and create one for autocrafting, then save it to a Variable Card. If a recipe lrequires items that need to be crafted, create a recipe for each of those, then put everything in the Crafting Interface.]&f"]
+	quest.65D89991A45BC042.quest_subtitle: "&l&c自&6动&e合&a成 &b系&d统&9&7[lAUTO CRAFT]&f"
+	quest.65FA86357BC60573.quest_desc: ["是时候将物品从一个地方移动到另一个地方了.以下是步骤:\\n\\n&l1.&r 在容器(如箱子或储罐)上放置一个接口\\n\\n&l2.&r 在另一个容器上放置导入器或导出器,具体取决于你是想从中提取物品还是向其发送物品.\\n\\n&l3.&r 用线缆连接两者,将变量卡放入导入器或导出器中,然后就可以了!\\n&7[It's time to move stuff from one place to another. Here are the steps:\\n\\nl1. Place an interface on an inventory (like a Chest or a Tank)\\n\\nl2. Place an Importer or an Exporter on another inventory, depending on whether you want to pull or send stuff to it.\\n\\nl3. Hook the both up with Cables, place a Variable Card into the Importer or Exporter, and there you go!]&f"]
+	quest.65FA86357BC60573.quest_subtitle: "移动物品!&7[Moving Stuff!]&f"
+	quest.68498ADEF9765F81.quest_desc: ["要制作门瑞欧结晶方块块,首先需要将一些门瑞尔原木放入挤压机中.跳上挤压机将其转化为门瑞尔树脂.\\n\\n你可以通过给挤压机一个红石信号来清空它.\\n&7[To make Crystallized Menril Chunks you first need to place some Menril Logs in a Squeezer. Jump on the Squeezer to turn them into Menril Resin.\\n\\nYou can empty the Squeezer by giving it a Redstone signal.]&f"]
+	quest.6ABDBE41880CFDA9.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r创作,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确许可,此任务不允许在任何非&6AllTheMods团队&r发布的公开整合包中使用.\\n\\n此任务被故意隐藏,如果你看到此内容,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.6C9191DA4B1039D6.quest_desc: ["食用门瑞尔浆果会给予你短时间的&a夜视&f效果.\\n&7[Menril Berries give you Night Vision for a short amount of time when eaten.]&f"]
+	quest.6D75CF34957ECCD9.quest_desc: ["&a能量&f电池可用于存储FE能量.要传输能量,你需要&6&a能量接口&f&r.\\n&7[The Energy Battery lets you store FE. To transfer it, you will need Energy Interfaces.]&f"]
+	quest.6D75CF34957ECCD9.quest_subtitle: "存储能量&7[Storing Energy]&f"
+	quest.72F57D77C3FB366D.quest_desc: ["门瑞欧结晶方块块可以合成为门瑞欧结晶方块碎片.这些碎片是ID的主要合成材料.\\n&7[Blocks of Crystallized Menril can be crafted into Crystallized Menril Chunks. These chunks are the main crafting ingredient of ID.]&f"]
+	quest.72F57D77C3FB366D.quest_subtitle: "&a主要&f合成材料&7[The Main Crafting Ingredient]&f"
+	quest.72F57D77C3FB366D.title: "门瑞欧结晶方块碎片&7[Crystallized Menril Chunks]&f"
 	quest.73EA326304C01C3B.quest_desc: [
-		"将输入器置于来源容器,接口器置于目标容器,用逻辑电缆连接二者.将变量卡插入输入器后即可自定义设置.\\n\\n可设置为以整数上限(超20亿)导入物品."
+		"将导入器放置在你想要提取物品的容器上.接着,将接口放在第二个容器上,并用逻辑线缆连接它们.然后,将变量卡放入导入器并根据需要进行调整.\\n\\n可以设置为以整数上限(超过20亿)导入物品.\\n&7[Put an Importer onto the inventory you want stuff pulled from. Next, put the Interface on the second inventory and connect them with Logic Cables. Then, put in the Variable Card into the Importer and change it as you please.\\n\\nIt can be changed to import things at the Integer Limit (Over 2 billion).]&f"
 		"{image:atm:textures/questpics/logistics/id_item.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_fluid.png width:200 height:50 align:center}"
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
-	quest.73EA326304C01C3B.quest_subtitle: "物品导入"
-	quest.7413BB136EF9D6C5.quest_desc: ["&a技工&f型&a烘干池&f消耗能量进行烘干作业"]
-	quest.79C1105A84B8BF8F.quest_desc: ["变量卡是启动物品导入等交互功能的关键.将其插入输入器卡槽后,\\n\\n通过+按钮可编辑所有参数:导入数量、物品槽位、频道设置等.\\n\\n若仅需基础物品转移功能,插入后调整数量上限即可."]
-	quest.79C1105A84B8BF8F.title: "变量卡"
-	task.166BA23E49F6DCD6.title: "输入器"
-	task.1C045BB5FAFCF4D3.title: "接口器"
-	task.1C7C0F345759111C.title: "输出器"
-	task.22CCBBC66D509404.title: "物流网络!"
-	task.238B5BA2FAE9785B.title: "版权所有"
-	task.2656ACB55A33D4FE.title: "接口器界面"
-	task.267CE316E1F8FA83.title: "版权所有"
-	task.4209A06A392362DB.title: "输入器 \\ 输出器界面"
-	task.5DD862CF56AF7BF9.title: "暗木原木"
+	quest.73EA326304C01C3B.quest_subtitle: "导入&7[Importing]&f"
+	quest.7413BB136EF9D6C5.quest_desc: ["&a技工&fal &a烘干池&f消耗能量进行干燥\\n&7[The Mechanical Drying Basin uses energy to dry]&f"]
+	quest.79C1105A84B8BF8F.quest_desc: ["变量卡是启动如导入物品等交互所必需的.你将它们放入导入器的插槽中以添加它们.\\n\\n从那里,你可以通过+按钮编辑所有内容.你可以更改导入的数量、物品槽位、频道等,几乎所有设置都可以通过这张卡完成.\\n\\n如果你只是想移动物品,不需要太复杂的设置,只需放入卡片并可能更改移动数量的限制即可.\\n&7[Variable Cards are necessary for starting Interactions like Importing Items. You will put them in one of the slots of the Importer to add them.\\n\\nFrom there you can edit everything via the + Button. You can change how much is Importer, which Item Slot, which Channel, practically everything with just that Card.\\n\\nIf you're just wanting to move items, nothing too fancy just put it in and maybe change the Limit for how much is moved.]&f"]
+	quest.79C1105A84B8BF8F.title: "变量卡&7[Variable Cards]&f"
+	task.166BA23E49F6DCD6.title: "导入器&7[Importers]&f"
+	task.1C045BB5FAFCF4D3.title: "接口&7[Interfaces]&f"
+	task.1C7C0F345759111C.title: "输出器&7[Exporters]&f"
+	task.22CCBBC66D509404.title: "网络系统!&7[Networks!]&f"
+	task.238B5BA2FAE9785B.title: "版权所有&7[AllRightsReserved]&f"
+	task.2656ACB55A33D4FE.title: "界面图形用户界面&7[Interface GUI]&f"
+	task.267CE316E1F8FA83.title: "版权所有&7[AllRightsReserved]&f"
+	task.4209A06A392362DB.title: "输入器 \\ 输出器图形界面&7[Importer \\\\ Exporter GUI]&f"
+	task.5DD862CF56AF7BF9.title: "梅瑞尔原木&7[Menril Logs]&f"
 }

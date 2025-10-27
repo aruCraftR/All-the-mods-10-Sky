@@ -1,96 +1,96 @@
 {
-	quest.0143D41FAD499FD0.quest_desc: ["制作&3振金升级模板&r不需要复杂合成.\\n\\n只需普通合成台!\\n\\n首次制作需要&6全模升级模板&r、7个&6全模锭&r和&3&a块&f振金&r.\\n\\n后续&3振金升级模板&r只需另一个&3振金升级模板&r、7个&6全模锭&r和&3&a远古石头&f&r."]
-	quest.0143D41FAD499FD0.title: "&3振金&a锻造模板&f"
-	quest.03F381C22741F1E6.quest_desc: ["没有独特变化,只是照例更快更强!"]
-	quest.052FDEEDAAC3F932.quest_desc: ["&3&a振金剑&f&r现在造成36点&4伤害&r,&a攻击速度&f为3.6.\\n\\n&3&a振金斧&f&r造成38点&4伤害&r,&a攻击速度&f与&2&l原版&r斧相同,&a挖掘速度&f为16.\\n\\n从&6全模钉锤&r升级到&3振金钉锤&r需消耗&3&a块&f振金&r.&3振金钉锤&r造成26点&4伤害&r,&a攻击速度&f为20.\\n\\n是的,钉锤在坠落时会造成更多&a伤害&f."]
-	quest.078C16A9D3BAEA45.quest_desc: ["用&9&a灵魂熔岩&f&r可制作&3&a远古石头&f&r.\\n\\n需要&9&a灵魂熔岩&f&r和&7&a石头发电机&f&r.\\n\\n可在&7&a石头发电机&f&r侧面使用&9&a灵魂熔岩&f&r与&b&a浮冰&f&r,但底部需放置&6全模块&r.\\n\\n想要更便宜？用&b&a蓝冰&f&r替代&b&a浮冰&f&r,底部放置&a氧化&a铜块&f&r即可."]
-	quest.078C16A9D3BAEA45.title: "&3&a古代石头&f"
-	quest.09EFBC2297441B77.quest_desc: ["什么？&c&a下界合金熔炉&f&r还不够用吗!\\n\\n你可以将其升级为&6全模熔炉&r.\\n\\n与&c&a下界合金熔炉&f&r相同,每5刻(0.25秒)完成冶炼,但&6全模熔炉&r每次可同时处理16个物品.\\n\\n这意味着一秒内可熔炼整组物品."]
-	quest.09EFBC2297441B77.title: "&6全模熔炉"
-	quest.0DD626A1DB5A589F.quest_desc: ["&5&a难得素剑&f&r造成51点&4伤害&r,&a攻击速度&f为4.4——三击即可斩杀&d&l&a末影龙&f&r!\\n\\n&5&a难得素斧&f&r造成51点&4伤害&r,&a攻击速度&f1.2…等等,怎么和剑一样？至少它有18点&a挖掘速度&f.\\n\\n遵循相同规则,需用&5&a难得素块&f&r替代锭.&5难得素钉锤&f&r造成36点&4伤害&r,&a攻击速度&f为22."]
-	quest.15672B8686426197.quest_desc: ["用&3&a振金镐&f&r(或同级工具)可开采&5&a难得矿石&f&r!\\n\\n别忘了进行矿石处理!物尽其用!"]
-	quest.15672B8686426197.title: "&5&l难得素"
-	quest.17378FE70654852D.quest_desc: ["ME无限单元在驱动器中的功能与普通单元相同,但它不存储物品,而是提供无限数量的该物品!\\n\\n所有无限单元都需要&a256M-MEGA存储组件&f以及十亿物品…好吧不是十亿但接近了.\\n\\n外加全模锭、振金锭和&a难得素锭&f."]
-	quest.17378FE70654852D.title: "&l无限ME单元"
-	quest.19D9C6110D72EA7E.quest_desc: ["这是除尘埃外所有&b筛子&r方块的清单,用锤子即可获取,无需担心.\\n\\n&2苔藓&f和&c&a红沙&f&r需5倍压缩,其余所列物品需6倍压缩."]
-	quest.19E8DD3B8554BF57.quest_desc: ["&5无法获取合金升级&r遵循相同的模式.\\n\\n你需要一个&5&a块&f无法获取合金&r、7个&3&a振金锭&f&r和一个&3振金升级模板&r.\\n\\n你可以用另外7个&3&a振金锭&f&f和一个单一的&e末地石&r来复制它们!"]
-	quest.19E8DD3B8554BF57.title: "&5无法获取合金升级模板"
-	quest.208734A50051ECEC.quest_desc: ["就像将任何物品升级到&6ATM合金&r一样,你需要一个&6ATM合金锭&f和一个&6ATM合金升级&r.\\n\\n你还需要一个&d大法师的法术书&r!\\n\\n&6ATM合金&r &d法术书&r将能够施放第4阶符文."]
-	quest.208734A50051ECEC.title: "&6ATM合金&r &d&a法术书&f"
-	quest.21A953649550C761.quest_desc: ["&6ATM合金工具&r是&c下界合金工具&r的升级版.\\n\\n它们更快、更强,并且无法破坏？是的,它们甚至没有耐久度!\\n\\n&6ATM合金镐&r可以挖掘&c下界合金&r及以下无法挖掘的方块...&6铲子&r和&6锄头&r除了无法破坏和更快之外,没有其他新功能."]
-	quest.225C6EB3287BC8A2.quest_desc: ["使用我们新发现的&b&a精英工作台&f&r,我们可以使用7x7网格制作&b&a晶素锭&f&r!\\n\\n我们只需要10个&9&a青金岩&f&r、8个&b钻石&r、4个&e金&r、4个&7铁&r和2个&a下界之星&f来制作4个&b&a晶素锭&f&r.\\n\\n制作它需要特定的图案."]
-	quest.225C6EB3287BC8A2.title: "&b&a晶素锭&f"
-	quest.24CE75F2FA3F08C9.quest_desc: ["回到&a&a末影工作台&f&r!\\n\\n将&b&a晶素锭&f&r放在中间槽,然后用一堆&7地质矿石碎片&r包围它.\\n\\n哪些&7碎片&r？只需要石英、&7铁&r、&e金&r、&b钻石&r、&a绿宝石&r、&a铀&r和2个&2铀矿&r!\\n\\n现在我们终于得到了&3振金&r."]
-	quest.24CE75F2FA3F08C9.title: "&3&l振金"
-	quest.258C1375A5DB4253.quest_desc: ["什么比&6ATM合金&r更好？&3振金&r就是!\\n\\n&3&a振金熔炉&f&r的烹饪时间为3刻,一次可以熔炼32个物品.\\n\\n整整一组物品只需6刻!"]
-	quest.258C1375A5DB4253.title: "&3&a振金熔炉&f"
-	quest.2A9F546586CAC34E.quest_desc: ["任何&d&l法术&r玩家所能要求的最好装备!\\n\\n40点&a护甲值&f,但只有24点&a盔甲韧性&f,最糟糕的是...没有&a击退抗性&f.\\n\\n至少我们还能获得更多的法力和&a法术强度&f!"]
-	quest.2BC31E5B6BD68A35.quest_desc: ["现在可以施放第5阶符文了!"]
-	quest.2BC31E5B6BD68A35.title: "&3振金&r &d&a法术书&f"
-	quest.2C2BF70590DBF943.quest_desc: ["&a&a末影工作台&f&r尽管看起来像工作台,但大不相同!\\n\\n制作它和&a&a末影发电机&f&r非常简单.需要工作台、&a末影之眼&r和&2&a末影锭&f&r.这些只是&a&a末影珍珠&f&r和&7铁&r.\\n\\n关于&a交流发电机&r,我们需要一个7x7x7的区域,中间放置&a&a末影工作台&f&r."]
-	quest.2C2BF70590DBF943.title: "&a&a末影工作台&f"
-	quest.2D7FCB751FC563E5.quest_desc: ["&5无法获取合金盔甲&r拥有所有盔甲中最高的&a护甲值&f和韧性!只是防护不如量子盔甲或机械套装.\\n\\n拥有40点&a护甲值&f和60点&a盔甲韧性&f.外加100%&a击退抗性&f!没人能指使你去哪里.\\n\\n而且我觉得,它无疑是最帅的盔甲套装!"]
-	quest.2D7FCB751FC563E5.title: "&5无法获取合金盔甲"
-	quest.31C384EB37DD24BC.quest_desc: ["我们会获得两把常规武器,外加(算是)新武器&8钉头锤&r!\\n\\n&6剑&r造成18点&4伤害&r,&a攻击速度&f为2.6.比原版&2&lMinecraft&r剑1.6的速度快得多!\\n\\n&6斧&r可兼作工具与武器!能附魔&a效率&f和锋利.&6ATM合金斧&r造成22点&4伤害&r,但&a攻击速度&f仅0.8...比普通斧1.0的&a攻击速度&f更慢.\\n\\n&6钉头锤&r是&2&l原版Minecraft&r的最新武器,我们自然要有&6ATM合金&r版本!\\n\\n首先需要获取&8钉头锤&r.召唤弱风之灵获得&7&a旋风棒&f&r,用旋风棒召唤风之灵获取&a试炼钥匙&f,最终用钥匙召唤强风之灵才能得到&8&a沉重核心&f&r.\\n\\n升级需要&6ATM合金升级模板&r和&6&a块&fATM合金&r.成品&6钉头锤&r将拥有13点&4伤害&r和19点&a攻击速度&f!且坠落高度越高造成的&a伤害&f越大."]
-	quest.337022C12CE5FD07.quest_desc: ["培育&6ATM合金&r需先获得&c&a远古蜜蜂&f&r.之所以说”一些"]
-	quest.337022C12CE5FD07.title: "&6ATM合金蜜蜂"
-	quest.38256909C87DCD36.quest_desc: ["&d全系奥秘装备&r制作方式类似&6ATM合金&r,不同之处在于升级对象是&2大地&f/天界/&b海洋&f/&c烈焰&r法师的&d装备&r.\\n\\n这套装备提供24点&a护甲值&f,但仅有16点&a盔甲韧性&f且无&a击退抗性&f.\\n\\n其优势在于提供更高法力上限、&a魔力再生&f和&a法术强度&f!"]
-	quest.3D4CCEA2ED727AE4.quest_desc: ["制作全套&6ATM合金装备&r需要:&6ATM合金锭&r、&6ATM合金升级模板&r和&c&a下界合金装备&f&r(或类似&d奥秘装备&r的模组顶级装备)."]
-	quest.3D4CCEA2ED727AE4.title: "&6ATM合金升级模板"
-	quest.4AEA51A241D61D15.quest_desc: ["挤压融合足够多的&a恶魂蜜蜂&f可制成&a恶魂蜜蜂&f &a刷怪蛋&f.\\n\\n通过&c&l熔铸厂&r将一桶&9&a灵魂熔岩&f&r浇铸其上,即可获得&9&a灵魂熔岩蜜蜂&f&r!\\n\\n这种&9蜜蜂&r以&9&a灵魂熔岩&f&r作为繁花基座.别担心,它们是&a火焰免疫生物&f!\\n\\n但其他蜜蜂未必免疫...最好给它们划分独立区域..."]
-	quest.4AEA51A241D61D15.title: "&9&a灵魂熔岩蜜蜂&f"
-	quest.4D525B47CCCAC0B3.quest_desc: ["既然已知获取&6ATM合金 &a刷怪蛋&f&r的方法,就直入主题吧!\\n\\n只需将4个&3&a振金锭&f&r浇铸在&6ATM合金 &a刷怪蛋&f&r上.\\n\\n需要&3&a振金块&f&r作为繁花基座.\\n\\n就这么简单!"]
-	quest.4D525B47CCCAC0B3.title: "&3&a振金蜜蜂&f"
-	quest.4D96FBB5645ADC84.quest_desc: ["部分玩家倾向使用能源而非燃料.但&c动力加热线圈&r仅能达到1500°C.\\n\\n等等,有解决方案!&b高功率加热线圈&r!\\n\\n这能让我们使用能源并达到3000°C."]
-	quest.4D96FBB5645ADC84.title: "&b高功率加热线圈"
-	quest.5319D267A6A2C625.quest_desc: ["所有16种&2&l原版&r &c染&e色&a玻&b璃&r!抱歉&l&c染&6色&e玻&a璃&b&9&5&d&c&r,这些都需要合成制作.\\n\\n你需要6个同色压缩混凝土来制作."]
-	quest.5319D267A6A2C625.title: "无限染色玻璃"
-	quest.538C9CDF7BEC18D8.quest_desc: ["每一个符文!所有!!!\\n\\n\\n\\n全部可用."]
-	quest.538C9CDF7BEC18D8.title: "&5难得素 &d&a法术书&f"
-	quest.53A6BC88439B6767.quest_desc: ["&6全模锭&r由&6碎粒&r合成,需要9个&6全模碎粒&r制作1个&6锭&r.\\n\\n最初获取&6碎粒&r的方式是通过&b&l筛矿&r.\\n\\n你需要&a钻石筛网&f或&a下界合金筛网&f,下界合金筛网概率更高.\\n\\n可筛选&0破碎黑石&r或&e沙子&r,&0黑石&r掉落&6全模矿&r概率更高!"]
-	quest.53A6BC88439B6767.title: "&l第三章:&6全模矿"
-	quest.54A9C70D01935A16.quest_desc: ["沿用相同模式,将4个&a难得素锭&f浇注在&a振金蜜蜂&f&a刷怪蛋&f上.\\n\\n使用&a叵得块&f作为开花方块.\\n\\n砰!基本白嫖难得素!"]
-	quest.54A9C70D01935A16.title: "&5&a难得素蜜蜂&f"
-	quest.55E56A748C8681AC.quest_desc: ["我把剩余无限单元扔这儿了...\\n\\n包含&7粘土&r、&0基岩碎矿&r、&b&a陨石&f&r和&3&a远古岩石&f&r.\\n\\n均需5倍压缩."]
-	quest.55E56A748C8681AC.title: "无限杂项方块"
-	quest.5663FA8B7C8570C5.quest_desc: ["别担心,我们仍可通过传统方式获取&5难得素&r!\\n\\n没错,就在这&d末地高地&r.\\n\\n建议用首个收获物制作&5难得素追踪符&r."]
-	quest.5663FA8B7C8570C5.title: "&d&l&a终章&f"
-	quest.589A36B5AEC1E588.quest_desc: ["&6全模矿&d奥术装备&f的&a新材料发现&f是&3振金&d奥术装备&f.\\n\\n它仍提供32点&a护甲值&f(同&3振金&r),但如&6全模矿&d奥术装备&f般&a盔甲韧性&f(20)和&a击退抗性&f(0)较低.\\n\\n取而代之的是提供最大魔力值、&a魔力恢复&f和&a法术强度&f!甚至超越&6全模矿&r装备!"]
-	quest.5A21264D1043A0DA.quest_desc: ["这些&7石材&r与&b筛矿&r无关!\\n\\n用于建筑非常实用.\\n\\n除&7玄武岩&r需6倍压缩外,其余均需5倍压缩."]
-	quest.615CE400A733C804.quest_desc: ["现在可合成&6全模锭&r!\\n\\n单用途有限...\\n\\n可在&c&l熔铸厂&f熔炼后浇注至&c&a远古蜜蜂&f&r实现&6全模矿&r自动化.\\n\\n或用其&6方块&r制作&6全模矿&a锻造模板&f&r.首份模板可用&c&a下界合金锭堆&f&r和&8深板岩&r复制."]
-	quest.615CE400A733C804.title: "&6&l全模矿"
+	quest.0143D41FAD499FD0.quest_desc: ["制作&3振金升级模板&r无需复杂合成.\\n\\n普通合成即可!\\n\\n首次制作需要&6全模升级&r、7个&6全模锭&r和1个&3&a块&f振金&r.\\n\\n后续&3振金升级&r只需另一个&3振金升级&r、7个&6全模锭&r和&3&a远古岩石&f&r.\\n&7[No we won't need any fancy Crafting for the Vibranium Upgrade Template. \\n\\nJust normal Crafting! \\n\\nTo make your first you'll need an AllTheModium Upgrade, 7 AllTheModium Ingots, and a Block of Vibranium. \\n\\nThe other Vibranium Upgrades will only need another Vibranium Upgrade, 7 AllTheModium Ingots, and Ancient Stone.]&f"]
+	quest.0143D41FAD499FD0.title: "&3振金&a锻造模板&f&7[Vibranium Smithing Template]&f"
+	quest.03F381C22741F1E6.quest_desc: ["无特殊变化,仅常规性提速增效!\\n&7[Not much unique change here, just faster and stronger per usual!]&f"]
+	quest.052FDEEDAAC3F932.quest_desc: ["&3&a振金剑&f&r现造成36点&4伤害&r,&a攻速&f为3.6.\\n\\n&3&a振金斧&f&r造成38点&4伤害&r,&a攻速&f与原版斧相同,&a挖掘速度&f为16.\\n\\n从&6全模钉锤&r升级至&3振金钉锤&r需消耗1个&3&a块&f振金&r,后者造成26点&4伤害&r,&a攻速&f为20.\\n\\n是的,钉锤在坠落时造成更多&a伤害&f.\\n&7[The Vibranium Sword now does 36 Damage with a 3.6 Attack Speed. \\n\\nThe Vibranium Axe does 38 Damage with same Attack Speed as lVanilla Axes, as well as 16 Mining Speed. \\n\\nIt will cost a Block of Vibranium to Upgrade from AllTheModium Mace to Vibranium Mace. The Vibranium one will do 26 Damage with 20 Attack Speed. \\n\\nYes, Maces do more Damage while Falling.]&f"]
+	quest.078C16A9D3BAEA45.quest_desc: ["使用&9&a灵魂熔岩&f&r我们可以制作&3&a古代石头&f&r.\\n\\n我们需要&9&a灵魂熔岩&f&r和&7&a石制发电机&f&r.\\n\\n可以在&7&a石制发电机&f&r侧面使用&9&a灵魂熔岩&f&r和&b&a浮冰&f&r,但底部需要放置&6AllTheModium方块&r.\\n\\n想要更经济的方案？用&b&a蓝冰&f&r替代&b&a浮冰&f&r,并在下方放置&a氧化&a铜块&f&r.\\n&7[With Soul Lava we can make Ancient Stone. \\n\\nWe'll need Soul Lava and a Stone Generator. \\n\\nWe can use Soul Lava and Packed Ice on the Stone Generators sides, but we'll need an AllTheModium Block underneath. \\n\\nWant a cheaper option? Use Blue Ice instead of Packed Ice and you can place an Oxidized Copper Block below it. ]&f"]
+	quest.078C16A9D3BAEA45.title: "&3&a古代石头&f&7[Ancient Stone]&f"
+	quest.09EFBC2297441B77.quest_desc: ["什么？&c&a下界合金熔炉&f&r还满足不了你!\\n\\n你可以将其升级为&6AllTheModium熔炉&r.\\n\\n它们与&c&a下界合金熔炉&f&r同样具有5刻(0.25秒)的烹饪速度,但&6AllTheModium熔炉&r可同时处理16个物品.\\n\\n这意味着整组物品一秒内即可熔炼完成.\\n&7[What? Are Netherite Furnaces not enough for you! \\n\\nWell, you can make them into AllTheModium Furnaces. \\n\\nThey have the same Cooking Time as fNetherite Furnaces of 5 Ticks (0.25 seconds) but the AllTheModium Furnace Cooks Items at 16 at a time. \\n\\nThat means an entire Stack will be Smelt in a second.]&f"]
+	quest.09EFBC2297441B77.title: "&6AllTheModium熔炉&7[AllTheModium Furnace]&f"
+	quest.0DD626A1DB5A589F.quest_desc: ["&5&a难得素剑&f&r造成51点&4伤害&r和4.4&a攻击速度&r,三击即可斩杀&d&l&a末影龙&f&r!\\n\\n&5&a难得素斧&f&r造成51点&4伤害&r和1.2&a攻击速度&r...等等,这和&5剑&r一样？至少它有18&a挖掘速度&r.\\n\\n遵循相同规律,我们需要用&5&a叵得块&f&r替代&5锭&r.&5难得素钉头锤&r将造成36点&4伤害&r和22&a攻击速度&r.\\n&7[51 Damage and 4.4 Attack Speed from Unobtainium Sword. That's 3 Hits to Kill the lEnder Dragon! \\n\\nThe Unobtainium Axe does 51 Damage and 1.2 Attack Speed... wait that's the same as the Sword? Atleast it has 18 Mining Speed. \\n\\nFollowing the same pattern, we'll need an Unobtainium Block instead of Ingot. The Unobtainium Mace will do 36 Damage with a 22 Attack Speed.]&f"]
+	quest.15672B8686426197.quest_desc: ["使用&3&a振金镐&f&r(或同级工具)可开采&5&a叵得矿石&f&r!\\n\\n别忘了进行矿石处理!物尽其用!\\n&7[With a Vibranium Pickaxe (or equivalent) we can Mine the Unobtainium Ore! \\n\\nDon't forget to Ore Process it! Get the most bang for your buck! ]&f"]
+	quest.15672B8686426197.title: "&5&l难得素&7[lUnobtainium]&f"
+	quest.17378FE70654852D.quest_desc: ["ME无限单元在驱动器中的运作方式与普通单元相同,但它们不存储物品,而是提供无限数量的该物品!\\n\\n所有无限单元都需要&a256M-MEGA存储组件&f以及十亿个物品...好吧不是十亿但接近这个数量.\\n\\n外加AllTheModium、振金和&a难得素锭&f.\\n&7[The ME infinity Cell work like normal Cells in a Drive, just instead of Storing Items, they will provide you an infinite amount of that Item! \\n\\nAll of them require the 256M MEGA Storage Component as well as a billion Items... okay not a billion but pretty close. \\n\\nPlus an AllTheModium, Vibranium, and Unobtainium Ingot.]&f"]
+	quest.17378FE70654852D.title: "&l无限ME单元&7[lInfinity ME Cells]&f"
+	quest.19D9C6110D72EA7E.quest_desc: ["这是所有&b筛矿&r方块的清单(尘埃除外),你可以用锤子获取,所以没问题.\\n\\n&2苔藓&f和&c&a红沙&f&r需使用5倍压缩材料,其余所列物品均需6倍压缩材料.\\n&7[This is every Sieve Block minus Dust, you can Hammer for it so you'll be fine. \\n\\nMoss and Red Sand use 5x Compressed and everything else listed uses 6x Compressed.]&f"]
+	quest.19E8DD3B8554BF57.quest_desc: ["&5难得素升级模板&r遵循相同规律.\\n\\n你需要一个&5&a块&f难得素&r、7个&3&a振金锭&f&r和一个&3振金升级模板&r.\\n\\n可用另外7个&3&a振金锭&f&f和单个&e末地石&r进行复制!\\n&7[The Unobtainium Upgrade follows the same pattern. \\n\\nYou'll need a Block of Unobtainium, 7 Vibranium Ingots, and a Vibranium Upgrade Template. \\n\\nYou can duplicate them with another 7 Vibranium Ingots and a singular Endstone!]&f"]
+	quest.19E8DD3B8554BF57.title: "&5难得素升级模板&7[Unobtainium Upgrade Template]&f"
+	quest.208734A50051ECEC.quest_desc: ["与升级任何物品至&6AllTheModium&r相同,你需要&6AllTheModium锭&f和&6AllTheModium升级模板&r.\\n\\n但还需额外准备&d大法师法术书&r!\\n\\n&6AllTheModium&r&d法术书&r将能施展第四阶符文.\\n&7[Like Upgrading anything to AllTheModium, you'll need an AllTheModium Ingot and AllTheModium Upgrade. \\n\\nYou'll just also need an Archmage's Spellbook! \\n\\nThe AllTheModium Spellbook will be able to Cast Tier 4 Glyphs.]&f"]
+	quest.208734A50051ECEC.title: "&6AllTheModium&d&a法术书&f&7[AllTheModium Spell Book]&f"
+	quest.21A953649550C761.quest_desc: ["&6AllTheModium工具&r是&c下界合金工具&r的升级版.\\n\\n它们更快、更强且无法破坏？没错,它们甚至没有耐久度!\\n\\n&6AllTheModium镐&r可开采&c下界合金&r及以下等级无法开采的方块...&6锹&r和&6锄&r除了无法破坏和速度更快外没有新增功能.\\n&7[AllTheModium Tools are an Upgrade to Netherite Tools. \\n\\nThese are faster, stronger, and Unbreakable? Yep, they don't even have Durability! \\n\\nThe AllTheModium Pickaxe can Mine Blocks Netherite and below can't... the Shovel and Hoe don't do anything new besides be Unbreakable and faster.]&f"]
+	quest.225C6EB3287BC8A2.quest_desc: ["凭借新获得的&b&a精英工作台&f&r,我们可以使用7x7合成网格制作&b&a晶素锭&f&r!\\n\\n只需10个&9&a青金岩&f&r、8个&b钻石&r、4个&e金锭&r、4个&7铁锭&r和2个&a下界之星&f即可制作4个&b&a晶素锭&f&r.\\n\\n需要按照特定合成图案进行制作.\\n&7[With our new-found Elite Crafting Table we can use the 7x7 Grid to make Crystaltine Ingots! \\n\\nWe'll just need 10 Lapis Lazuli, 8 Diamonds, 4 Gold, 4 Iron, and 2 Nether Stars to make 4 Crystaltine Ingots. \\n\\nThere is a specific pattern you need to use to Craft it.]&f"]
+	quest.225C6EB3287BC8A2.title: "&b&a晶素锭&f&7[Crystaltine Ingot]&f"
+	quest.24CE75F2FA3F08C9.quest_desc: ["回到&a&a末影工作台&f&r!\\n\\n将&b&a晶素锭&f&r放入中心格,周围环绕大量&7地矿碎片&r.\\n\\n需要哪些&7碎片&r？只需石英、&7铁&r、&e金&r、&b钻石&r、&a绿宝石&r、&a铀矿石&r以及2个&2沥青铀矿&r!\\n\\n现在终于获得&3振金&r.\\n&7[Back to the Ender Crafter! \\n\\nPut the Crystaltine Ingot in the middle slot then surround it with a bunch of GeOre Shards. \\n\\nWhich Shards? Just Quartz, Iron, Gold, Diamond, Emerald, Uranium, and 2 Uraninite! \\n\\nNow we finally got Vibranium. ]&f"]
+	quest.24CE75F2FA3F08C9.title: "&3&l振金&7[lVibranium]&f"
+	quest.258C1375A5DB4253.quest_desc: ["有什么能胜过&6ATM合金&r？那就是&3振金&r!\\n\\n&3&a振金熔炉&f&r的熔炼速度仅需3刻,且每次可同时熔炼32个物品.\\n\\n整组物品仅需6刻即可完成!\\n&7[What's better than AllTheModium? Vibranium is! \\n\\nThe Vibranium Furnace has a Cooktime of 3 Ticks and will Smelt 32 Items at a time. \\n\\nAn entire Stack of Items in 6 Ticks!]&f"]
+	quest.258C1375A5DB4253.title: "&3&a振金熔炉&f&7[Vibranium Furnace]&f"
+	quest.2A9F546586CAC34E.quest_desc: ["这是所有&d&l神秘学者&r玩家梦寐以求的装备!\\n\\n提供40点&a护甲值&f但仅有24点&a盔甲韧性&f,最遗憾的是...不具备&a击退抗性&f.\\n\\n至少我们获得了更多法力值与&a法术强度&f提升!\\n&7[The best any lArs Player can ask for! \\n\\n40 Armor Points but only 24 Armor Toughness and worst of all... no Knockback Resistance. \\n\\nAtleast we do get even more Mana and Spell Power!]&f"]
+	quest.2BC31E5B6BD68A35.quest_desc: ["现在可施展第五阶符文法术!\\n&7[Now able to cast Tier 5 Glyphs!]&f"]
+	quest.2BC31E5B6BD68A35.title: "&3振金 &d&a法术书&f&7[Vibranium Spell Book]&f"
+	quest.2C2BF70590DBF943.quest_desc: ["&a&a末影工作台&f&r虽外观类似工作台,实则大不相同!\\n\\n合成它和&a&a末影发电机&f&r非常简单:需要工作台、&a末影之眼&r和&2&a末影锭&f&r.后者仅需&a&a末影珍珠&f&r与&7铁锭&r合成.\\n\\n关于&a交流发电机&r,我们需要在7x7x7区域内以&a&a末影工作台&f&r为核心进行建造.\\n&7[The Ender Crafter is, despite looking like a Crafting Table, much different! \\n\\nCrafting it and the Ender Alternator is pretty simple. Crafting Table, Eyes of Ender, and Ender Ingots. Those are just Ender Pearls and Iron. \\n\\nTalking about the Alternator, we will need one is a 7x7x7 Area with the Ender Crafter in the center.  ]&f"]
+	quest.2C2BF70590DBF943.title: "&a&a末影工作台&f&7[Ender Crafter]&f"
+	quest.2D7FCB751FC563E5.quest_desc: ["&5难以获取盔甲&r拥有所有护甲中最高的&a护甲值&f与韧性!但防护性仍不及量子护甲或机械动力服.\\n\\n具备40点&a护甲值&f和60点&a盔甲韧性&f,外加100%&a击退抗性&f!无人能迫使你位移.\\n\\n况且不得不说,这绝对是外观最炫酷的护甲套装!\\n&7[Unobtainium Armor has the highest Armor Points and Toughness of any Armor! Just not more Protection than Quantum Armor or MekaSuit. \\n\\nWith 40 Armor Points and 60 Armor Toughness. Plus 100% Knockback Resistance! Nobody will tell you where to go. \\n\\nAnd I mean come on, it is easily the best looking Armor Set!]&f"]
+	quest.2D7FCB751FC563E5.title: "&5难以获取盔甲&7[Unobtainium Armor]&f"
+	quest.31C384EB37DD24BC.quest_desc: ["我们将获得两把常规武器,外加(算是)新武器&8钉头锤&r!\\n\\n&6剑&r造成18点&4伤害&r,攻速为2.6&a攻击速度&f,远快于&2&l原版&r1.6攻速的剑!\\n\\n&6斧&r可兼作工具与武器!能附魔&a效率&f和锋利.&6ATM合金斧&r造成22点&4伤害&r,但&a攻击速度&f仅0.8...低于普通斧头1.0的&a攻击速度&f.\\n\\n&6钉头锤&r是&2&l我的世界原版&r最新武器,我们自然要打造&6ATM合金&r版本!\\n\\n首先需要获取&8基础钉头锤&r:召唤弱化野性之风获得&7&a旋风棒&f&r,用其召唤野性之风获取&a试炼钥匙&f,最终用钥匙召唤强化野性之风取得&8&a沉重核心&f&r.\\n\\n升级需要&6ATM合金升级模板&r和&6&a块&f状ATM合金&r.成品&6钉头锤&r将拥有13点&4伤害&r与19&a攻击速度&f!且坠落高度越高,造成的&a伤害&f越大.\\n&7[We get the 2 usual Weapons, plus the (kinda) new Mace! \\n\\nThe Sword does 18 Damage with a 2.6 Attack Speed. Much faster than the lVanilla Swords at 1.6! \\n\\nThe Axe can be used as a Tool and Weapon! It can take Efficiency and Sharpness. The AllTheModium Axe does 22 Damage, but with an Attack Speed of 0.8... Slower than normal Axes at 1 Attack Speed. \\n\\nThe Mace is the newest Weapon to lVanilla Minecraft so of course we get an AllTheModium version! \\n\\nFirst though, you'll need a Mace. To get them, you'll need to summon a Weak Wild Breeze to get Breeze Rods. Then, with those Breeze Rods you can summon a Wild Breeze to get Trial Keys. With those Keys you can finally summon a Strong Wild Breeze to get our Heavy Core. \\n\\nTo Upgrade it we'll need an AllTheModium Upgrade and a Block of AllTheModium. The Mace will have 13 Damage with a 19 Attack Speed! And yes, it does more Damage the higher you fall from.]&f"]
+	quest.337022C12CE5FD07.quest_desc: ["要培育&6全模域&r,首先需要一些&c&a远古蜜蜂&f&r.之所以说”一些\\n&7[To Farm AllTheModium you'll first need some Ancient Bees. I say some because you'll need a Spawn Egg of them. \\n\\nThat means you'll need to use a bunch of Netherite Blocks to feed to Diamond Bees. \\n\\nOnce you get an Ancient Bee Spawn Egg. Use the lFoundry to pour 4 AllTheModium Ingots onto the Spawn Egg to create an AllTheModium Bee Spawn Egg. \\n\\nDon't think that's the only AllTheModium you'll need to spend! You'll also need a Block of AllTheModium to be a Flowering Block to the Bee.]&f"]
+	quest.337022C12CE5FD07.title: "&6全模域蜜蜂&7[AllTheModium Bee]&f"
+	quest.38256909C87DCD36.quest_desc: ["&d全系奥法装备&r的制作方式与&6全模域&r类似,只是不需要升级&c下界合金&r,而是升级&2大地&f/天域/&b流水&f/&c烈焰&r法师的&d装备&r.\\n\\n这些装备提供24点&a护甲值&f,但只有16点&a盔甲韧性&f,且没有&a击退抗性&f.\\n\\n其优势在于提供更高的最大法力值、&a法力恢复&f和&a法术强度&f!\\n&7[AllTheArcanist Gear is created similar to AllTheModium, just instead of Upgrading Netherite, you'll Upgrade the Geo/Aether/Aqua/Pyro-mancer Gear. \\n\\nThese will give 24 Armor Points but only 16 Armor Toughness and no Knockback Resistance. \\n\\nIt makes up for it by giving more Max Mana, Mana Regen, and Spell Power! ]&f"]
+	quest.3D4CCEA2ED727AE4.quest_desc: ["制作全套&6全模域装备&r需要:&6全模域锭&r、&6全模域升级模板&r和&c&a下界合金齿轮&f&r(或类似&d奥法装备&r的各模组顶级装备).\\n&7[To get all of our AllTheModium Gear, we'll need: AllTheModium Ingot, AllTheModium Upgrade Template, and Netherite Gear (or the Mods best gear like for the Arcanist Gear).]&f"]
+	quest.3D4CCEA2ED727AE4.title: "&6全模域升级模板&7[AllTheModium Upgrade Template]&f"
+	quest.4AEA51A241D61D15.quest_desc: ["通过挤压融合足够多的&a恶魂蜜蜂&f,可以制作出&a恶魂蜜蜂&f &a刷怪蛋&f.\\n\\n使用&c&l熔铸厂&r将一桶&9&a灵魂熔岩&f&r浇注其上,即可获得&9&a灵魂熔岩蜜蜂&f&r!\\n\\n这种&9蜜蜂&r以&9&a灵魂熔岩&f&r作为繁花区块.别担心,它们是&a火焰免疫生物&f!\\n\\n但其他蜜蜂可能不行……或许该让这些小家伙待在独立区域……\\n&7[By squishing and combining enough Ghostly Bees we can make a Ghostly Bee Spawn Egg. \\n\\nBy pouring a Buckets worth of Soul Lava onto it with the lFoundry, we will get a Soul Lava Bee! \\n\\nThis Bee will use Soul Lava as its Flowering Block. Don't worry they're Fire Resistant! \\n\\nOther Bees might not be though... maybe keep these guys in their own sections...]&f"]
+	quest.4AEA51A241D61D15.title: "&9&a灵魂熔岩蜜蜂&f&7[Soul Lava Bee]&f"
+	quest.4D525B47CCCAC0B3.quest_desc: ["既然你已经知道如何获得&6全模域 &a刷怪蛋&f&r,那就直入主题吧!\\n\\n只需将4个&3&a振金锭&f&r浇注在&6全模域 &a刷怪蛋&f&r上.\\n\\n你需要一个&3&a振金块&f&r作为繁花区块.\\n\\n就这么简单!\\n&7[You already know how to get an AllTheModium Spawn Egg, so let's cut straight to the point! \\n\\nJust pour 4 Vibranium Ingots over an AllTheModium Spawn Egg. \\n\\nYou'll need a Vibranium Block as a Flowering Block. \\n\\nThat's it!]&f"]
+	quest.4D525B47CCCAC0B3.title: "&3&a振金蜜蜂&f&7[Vibranium Bee]&f"
+	quest.4D96FBB5645ADC84.quest_desc: ["部分玩家更倾向使用能量而非燃料.但问题是&c动力加热线圈&r仅能达到1500°C.\\n\\n等等,有解决方案!&b高能加热线圈&r!\\n\\n这能让我们使用能量并达到3000°C.\\n&7[Some Players would rather use Energy than Fuel. Only problem is that the Powered Heating Coils will only get us 1500 C. \\n\\nOh wait, there is a solution! High Powered Heating Coils! \\n\\nThis will allow us to use Energy and get up to 3000 C.]&f"]
+	quest.4D96FBB5645ADC84.title: "&b高能加热线圈&7[High Powered Heating Coil]&f"
+	quest.5319D267A6A2C625.quest_desc: ["集齐16种&2&l原版&r &c染&e色&a材&b料&r!抱歉&l&c多&6维&e彩&a虹&b色&9材&5料&d&c&r,那些必须手动合成.\\n\\n每种颜色的&c染&e色&b材&r需要6份压缩混凝土.\\n&7[All the 16 lVanilla Dyes! Sorry lDyenamics, those will have to be Crafted. \\n\\nYou'll need 6x Compressed Concrete for the same Color Dye.]&f"]
+	quest.5319D267A6A2C625.title: "无限&c染&e色&a材&b料&7[Infinite Dyes]&f"
+	quest.538C9CDF7BEC18D8.quest_desc: ["每一个符文!全部!!!\\n\\n\\n\\n皆可获取.\\n&7[Every single Glyph! EVER!!! \\n\\n\\n\\nIs available.]&f"]
+	quest.538C9CDF7BEC18D8.title: "&5难以获取之 &d&a法术书&f&7[Unobtainium Spell Book]&f"
+	quest.53A6BC88439B6767.quest_desc: ["&6全模域&r由&6碎粒&r合成,需要9个&6全模域碎粒&r制作1个&6锭&r.\\n\\n最初获得&6碎粒&r的方式是通过&b&l筛矿&r.\\n\\n需要使用&a钻石筛网&f或&a下界合金筛网&f,下界合金筛网有更高概率.\\n\\n可筛取&0破碎黑石&r或&e沙子&r,其中&0黑石&r掉落&6全模域&r的概率更高!\\n&7[AllTheModium is created from the Nuggets, you'll need a 9 Piece AllTheModium Nuggets to make 1 Ingot. \\n\\nThe way you originally get the Nugget is from lSieving. \\n\\nYou'll need either a Diamond Mesh or Netherite Mesh, with Netherite giving higher chances. \\n\\nAnd you can lSieve Crushed Blackstone or Sand. With Blackstone having higher chances of Dropping AllTheModium!]&f"]
+	quest.53A6BC88439B6767.title: "&l第三章:&6全模域&7[lChapter 3: AllTheModium]&f"
+	quest.54A9C70D01935A16.quest_desc: ["按照相同模式,将4个&a难得素锭&f浇铸在&a振金蜜蜂&f&a刷怪蛋&f上.\\n\\n并使用&a叵得块&f作为开花基座.\\n\\n砰!基本上白嫖难得素!\\n&7[Follow the same pattern, pour 4 Unobtainium Ingots over a Vibranium Bee Spawn Egg. \\n\\nAnd use an Unobtainium Block as a Flowering Block. \\n\\nBoom! Basically free Unobtainium!]&f"]
+	quest.54A9C70D01935A16.title: "&5&a难得素蜜蜂&f&7[Unobtainium Bee]&f"
+	quest.55E56A748C8681AC.quest_desc: ["我把剩下的无限细胞都扔这儿了...\\n\\n包含&7黏土&r、&0基岩碎屑&r、&b&a陨石&f&r和&3&a古代石头&f&r.\\n\\n全部需要5倍压缩.\\n&7[I just threw the rest of the Infinite Cells here... \\n\\nIt has Clay, Kivi, Sky Stone, and Ancient Stone. \\n\\nAll require 5x Compressed.]&f"]
+	quest.55E56A748C8681AC.title: "无限杂项方块&7[Infinite ETC Blocks]&f"
+	quest.5663FA8B7C8570C5.quest_desc: ["别担心,我们仍可通过传统方式获取&5难得素&r!\\n\\n没错,就在这老旧的&d末地高地&r里.\\n\\n建议用收集到的第一块制作&5难得素探测护符&r.\\n&7[Don't worry, we still get Unobtainium through the old fashioned way! \\n\\nYep, right here in them ole End Highlands. \\n\\nI'd recommend making an Unobtainium Sight Charm with the first one you collect. ]&f"]
+	quest.5663FA8B7C8570C5.title: "&d&l&a终章&f&7[lThe End]&f"
+	quest.589A36B5AEC1E588.quest_desc: ["&6ATM&d奥术护甲&f的&a新材料发现&f是&3振金&d奥术护甲&f.\\n\\n它仍提供32点&a护甲值&f(同&3振金&r),但类似&6ATM&d奥术护甲&f,&a盔甲韧性&f(20)和&a击退抗性&f(0)较低.\\n\\n取而代之的是提供最大魔力值、&a魔力回复&f和&a法术强度&f!甚至超越&6ATM&r版本!\\n&7[The Upgrade to AllTheModium Arcanist Gear is Vibranium Arcanist Gear. \\n\\nIt still gives 32 Armor Points like Vibranium, but like the AllTheModium Arcanist Gear it doesn't give as much Armor Toughness (20) or Knockback Resistance (0). \\n\\nInstead it will give Max Mana, Mana Regen, and Spell Power! Even more than what the AllTheModium one gives!]&f"]
+	quest.5A21264D1043A0DA.quest_desc: ["这些是与&b筛矿&r无关的&7石材&r!\\n\\n用于建筑时非常实用.\\n\\n除&7玄武岩&r需6倍压缩外,其余均为5倍压缩.\\n&7[These are the Stones that aren't related to Sieving! \\n\\nVery helpful if you plan on building out of them. \\n\\nAll of them use 5x Compressed besides Basalt which uses 6x.]&f"]
+	quest.615CE400A733C804.quest_desc: ["现在可合成&6ATM锭&r!\\n\\n虽然单独用处不大...\\n\\n可在&c&l熔铸厂&r熔炼后浇铸在&c&a远古蜜蜂&f&r上实现&6ATM&r自动化.\\n\\n或用其&6方块&r制作&6ATM&a锻造模板&f&r.首块模板完成后可用&c&a下界合金锭堆&f&r与&8深板岩&r复制.\\n&7[Now we can Craft our AllTheModium Ingot! \\n\\nWhich will not do much on its own... \\n\\nWe can Smelt it in a lFoundry and poor it over an Ancient Bee to start Automating AllTheModium. \\n\\nOr use a Block of it to make an AllTheModium Smithing Template. Don't worry after the first one, you can duplicate it with Netherite Ingots and Deepslate.]&f"]
+	quest.615CE400A733C804.title: "&6&lATM&7[lAllTheModium]&f"
 	quest.63BF3A8C26F37498.quest_desc: [
-		"&b&a精英工作台&f&r是&8&l&d合成拓展&f&r的第三阶.\\n\\n其7x7合成格用于制作&b&a晶素锭&f&r.\\n\\n制作需2个&e进阶工作台&r,每个进阶工作台需2个基础工作台."
+		"&b&a精英工作台&f&r是&8&l&d合成拓展&f&r第三阶.\\n\\n其7x7合成格专用于制作&b&a晶素锭&f&r.\\n\\n制作需2个&e进阶工作台&r,每个需2个基础工作台.\\n&7[The Elite Crafting Table is the third Tier of lExtended Crafting. \\n\\nIt has a 7x7 Grid which we'll need for Crafting the Crystaltine Ingot. \\n\\nTo make this Table, we'll need 2 Advanced Crafting Tables. Each of those will need 2 Basic Crafting Tables.]&f"
 		"{@pagebreak}"
-		"计算下来,您将需要8个工作台、4个&7铁块&r、4个&8&a黑铁板&f&r、16个基础元件和4个基础催化剂.所有这些可制作出4个基础合成台.\\n\\n要制作&e高级合成台&r,您将使用4个基础合成台、2个&e金块&r、2个&8&a黑铁板&f&r、8个&e高级元件&r和2个&e高级催化剂&r.\\n\\n最后,利用2个&e高级合成台&r,您可以将它们与1个&b钻石块&r、1个&8&a黑铁板&f&r、4个&b精英元件&r和1个&b精英催化剂&r组合."
+		"计算可知:需要8个工作台、4个&7铁块&r、4个&8&a黑铁板&f&r、16个基础零件和4个基础催化剂,产出4个基础工作台.\\n\\n&e进阶工作台&r需4个基础工作台、2个&e金块&r、2个&8&a黑铁板&f&r、8个&e进阶零件&r和2个&e进阶催化剂&r.\\n\\n最后将2个&e进阶工作台&r与&b钻石块&r、&8&a黑铁板&f&r、4个&b精英零件&r和1个&b精英催化剂&r组合.\\n&7[Doing the Math, you'll need 8 Crafting Tables, 4 Iron Blocks, 4 Black Iron Slates, 16 Basic Components, and 4 Basic Catalysts. All for 4 Basic Crafting Tables. \\n\\nFor the Advanced Crafting Tables you'll use the 4 Basic Crafting Tables, 2 Blocks of Gold, 2 Black Iron Slates, 8 Advanced Components, and 2 Advanced Catalysts. \\n\\nFinally with the 2 Advanced Crafting Tables you can combine them with a Diamond Block, a Black Iron Slate, 4 Elite Components, and 1 Elite Catalyst.]&f"
 	]
-	quest.63BF3A8C26F37498.quest_subtitle: "第三层"
-	quest.63BF3A8C26F37498.title: "&b&a精英工作台&f"
-	quest.6599BB9DCA903F65.quest_desc: ["只有想象中最棒的&5熔炉&r!\\n\\n&5&a难得素熔炉&f&r仅需1游戏刻即可完成烹饪,即1/20秒!\\n\\n并且它一次能烹饪整整一组物品."]
-	quest.6599BB9DCA903F65.title: "&5&a难得素熔炉&f"
-	quest.665980EC12F695E9.quest_desc: ["要获得&9&a灵魂熔岩&f&r,我们需要大量&l&d工业先锋&f&r机器.\\n\\n首先,我们需要囚禁一个&3&l监守者&r(多么讽刺).使用并供能一个&8&a冷凝室&f&r以获取缓速场,然后将&3&l监守者&r引入其中.\\n\\n有多种方法可以获得&3&l监守者&r,特别是通过使用&3&a幽匿尖啸体&f&r和&3幽匿核心&r.\\n\\n接着,我们需要在&3&l监守者&r正上方放置&b&a流体镭射钻基座&f&r.在&b&a流体镭射钻基座&f&r中放入&9&a蓝色透镜&f&r,这是必需的!\\n\\n最后,我们需要让&a镭射钻&f朝向&b&a流体镭射钻基座&f&r,并确保供能.然后,我们将缓慢获得&9&a灵魂熔岩&f&r!"]
-	quest.665980EC12F695E9.title: "制作&9&a灵魂熔岩&f"
-	quest.69AD0D65488065A4.quest_desc: ["&c下界合金&r装备不够用？何不试试&6AllTheModium&r!\\n\\n它在每一项属性上都更优越!并且无法破坏!\\n\\n24点&a护甲值&f,20点&a盔甲韧性&f,以及50%的&a击退抗性&f.\\n\\n此外,您还可以在上面使用饰纹!"]
-	quest.69AD0D65488065A4.title: "&6AllTheModium盔甲"
-	quest.6B04292F127FC8CB.quest_desc: ["&3振金盔甲套装&r的属性甚至比&6AllTheModium&r更优秀.\\n\\n我们可获得32点&a护甲值&f,36点&a盔甲韧性&f,以及80%的&a击退抗性&f!"]
-	quest.6B04292F127FC8CB.title: "&3振金盔甲"
-	quest.6F37F7ABBBA910B2.quest_desc: ["一旦我们最终获得1000mB的&9&a灵魂熔岩&f&r,就可以将其装入&7桶&r中!从这里我们有很多选择.\\n\\n我们可以按照接下来的任务获取配方,将其用作&c熔炉&r或&6&a热力发电机&f&r的&6&a热源&f&r,或者投入&c岩浆发生器&r中!\\n\\n选择权在您手中,但我推荐获取一只&9&a灵魂熔岩蜜蜂&f&r."]
-	quest.6F37F7ABBBA910B2.title: "&9&l&a灵魂熔岩&f"
-	quest.6F930E97EB804F15.quest_desc: ["制作&3&a振金锭&f&r需要大量令人不适的&7地质矿石&r.\\n\\n大部分比较简单,只需通过&c&l铸造厂&r将&7矿石&r覆盖在&e&a一重压缩沙子&f&r上……但&2铀矿&r有所不同.\\n\\n我们需要使用&a&a末影工作台&f&r将4个&2铀矿&r与1个&a萌芽铀地质矿石&r组合.\\n\\n您可以用钻石或&a下界合金筛网&f&b&l筛&r&e沙子&r来获取&2铀矿&r!"]
-	quest.6F930E97EB804F15.title: "&2铀地质矿石"
-	quest.737A779F82686366.quest_desc: ["既然能制作零食,为何还要将&6万能矿&r浪费在&6工具&r和&6盔甲&r这类非必需品上？\\n\\n&6万能矿胡萝卜&r可提供20点饱食度,相当于5块牛排!还能获得160点饱和度,略高于21个&e&a金胡萝卜&f&r!\\n此后长时间无需担心饥饿问题.\\n\\n&6万能矿苹果&r效果稍逊,仅提供10点&a饱食度&f和40点饱和度.\\n\\n那为何还要制作并食用&6苹果&r？或许因为它能提供再生与吸收效果!"]
-	quest.737A779F82686366.title: "&6万能矿&r食物？"
-	quest.7DE7E266A42E822E.quest_desc: ["开采&5难以获得矿&r需要&3&a振金镐&f&r.\\n\\n&3锹&r和&3锄&r仅能提升工作效率.\\n\\n当然&3镐&r也有效率加成,只是更具独特性!"]
-	task.2954E9A84730D187.title: "&6万能矿&r武器"
-	task.2FCC2AAD26F80D20.title: "&6万能矿&r&d奥秘法师装备"
-	task.3A705CAF7547846A.title: "无限&7石材"
-	task.44B02FBFAD918254.title: "ME无限染料单元"
-	task.464877B75929C3C4.title: "&5难以获得矿&r工具"
-	task.51CB2D73F130E55A.title: "&5难以获得矿&r武器"
-	task.5C5BD15346C75F38.title: "无限&b筛矿&r方块"
-	task.6C22DF8825A25915.title: "&3振金&r工具"
-	task.6EAD7AAB2A57424E.title: "&3振金&r武器"
-	task.6EFE20C8ED04A071.title: "&5难以获得矿&r&d奥秘法师装备"
-	task.7226040F3B42C6E1.title: "&3振金&r&d奥秘法师装备"
-	task.7F534695D6EC391F.title: "&6万能矿&r工具"
+	quest.63BF3A8C26F37498.quest_subtitle: "第三阶&7[Tier 3]&f"
+	quest.63BF3A8C26F37498.title: "&b&a精英工作台&f&7[Elite Crafting Table]&f"
+	quest.6599BB9DCA903F65.quest_desc: ["唯有想象中最顶级的&5熔炉&r!\\n\\n&5&a难得素熔炉&f&r仅需1游戏刻完成烧炼,即1/20秒!\\n\\n且每次可烧炼整组物品.\\n&7[Only the best Furnace imaginable! \\n\\nThe Unobtainium Furnaces Cooks in only 1 Tick. 1/20th a second! \\n\\nAnd it Cooks them an entire Stack at a time.]&f"]
+	quest.6599BB9DCA903F65.title: "&5&a难得素熔炉&f&7[Unobtainium Furnace]&f"
+	quest.665980EC12F695E9.quest_desc: ["要获得&9&a灵魂熔岩&f&r,我们需要大量&l&d工业先锋&f&r机器.\\n\\n首先需要囚禁&3&l循声守卫&r(多么讽刺).使用并供能&8&a冷凝室&f&r获取缓速力场,再将&3&l循声守卫&r引入其中.\\n\\n获取&3&l循声守卫&r有多种方式,特别是通过&3&a幽匿尖啸体&f&r与&3潜声核心&r生成.\\n\\n接着需要在&3&l循声守卫&r正上方放置&b&a流体镭射钻基座&f&r,并在基座内装入&9&a蓝色透镜&f&r——这步至关重要!\\n\\n最后将充能状态的&a镭射钻&f对准&b&a流体镭射钻基座&f&r,即可缓慢产出&9&a灵魂熔岩&f&r!\\n&7[To get Soul Lava we need a whole lot of lIndustrial Foregoing Machines. \\n\\nFirst, we need to jail a lWarden (how ironic). Use and Power a Stasis Chamber to get the slow field. Then, get a lWarden into it. \\n\\nThere's a bunch of ways to get a lWarden especially through Sculk Shriekers with Sculk Cores. \\n\\nThen, we'll need the Fluid Laser Base directly above the lWarden. Place a Blue Lens in the Fluid Laser Base, it is necessary! \\n\\nLastly we'll need Laser Drills facing the Fluid Laser Base, and are Powered. Then, we will slowly get Soul Lava!]&f"]
+	quest.665980EC12F695E9.title: "制作&9&a灵魂熔岩&f&7[Making Soul Lava]&f"
+	quest.69AD0D65488065A4.quest_desc: ["&c下界合金&r装备不够用？何不试试&6全模晶&r!\\n\\n各项属性全面超越!且永不损坏!\\n\\n提供24点&a护甲值&f、20点&a盔甲韧性&f及50%&a击退抗性&f.\\n\\n还支持盔甲纹饰定制!\\n&7[Not enough Armor with Netherite? Why not use AllTheModium! \\n\\nIt is higher in every single statistic! And is Unbreakable! \\n\\n24 Armor Points, 20 Armor Toughness, and 50% Knockback Resistance. \\n\\nPlus you can use Trims on it!]&f"]
+	quest.69AD0D65488065A4.title: "&6全模晶盔甲&7[AllTheModium Armor]&f"
+	quest.6B04292F127FC8CB.quest_desc: ["&3振金盔甲套装&r属性更胜&6全模晶&r一筹.\\n\\n可提供32点&a护甲值&f、36点&a盔甲韧性&f及80%&a击退抗性&f!\\n&7[The Vibranium Armor Set has even better stats than AllTheModium. \\n\\nWe get 32 Armor Points, 36 Armor Toughness, and 80% Knockback Resistance!]&f"]
+	quest.6B04292F127FC8CB.title: "&3振金盔甲&7[Vibranium Armor]&f"
+	quest.6F37F7ABBBA910B2.quest_desc: ["当收集满1000mB&9&a灵魂熔岩&f&r后,可装入&7桶&f中.此后有多种应用方向:\\n\\n按后续任务指南合成物品、作为&c熔炉&f或&6&a热力发电机&f&r的&6&a热源&f&r,亦可投入&c岩浆转化器&f!\\n\\n选择权在你,但我推荐培育&9&a灵魂熔岩蜜蜂&f&r.\\n&7[Once we finally get 1,000mB of Soul Lava we can put it into a Bucket! From here we got a lot of choices. \\n\\nWe can follow the next Quests for Recipes, use it as a Heat Source for Crucibles or Thermo Generators, or toss it into a Magmator! \\n\\nThe choice is yours, but I recommend getting a Soul Lava Bee.]&f"]
+	quest.6F37F7ABBBA910B2.title: "&9&l&a灵魂熔岩&f&7[lSoul Lava]&f"
+	quest.6F930E97EB804F15.quest_desc: ["合成&3&a振金锭&f&r需消耗大量&7地质矿&f.\\n\\n多数合成较简单,只需在&c&l熔铸厂&f中用&7矿石&f覆盖&e&a一重压缩沙子&f&r...但&2沥青铀矿&f例外.\\n\\n需在&a&a末影工作台&f&r中将4个&2沥青铀矿&f与&a铀晶芽地质矿&f合成.\\n\\n可通过钻石筛网或&a下界合金筛网&f&b&l筛分&f&e沙子&f获取&2沥青铀矿&f!\\n&7[The Vibranium Ingot needs an uncomfortable amount of GeOres. \\n\\nMost are pretty simple, just cover Compressed Sand with that Ore through the lFoundry... Uraninite is different though. \\n\\nWe'll need to use our Ender Crafter to combine 4 Uraninite with a Budding Uranium Geore. \\n\\nYou can lSieve Sand with a Diamond or Netherite Mesh to get Uraninite!]&f"]
+	quest.6F930E97EB804F15.title: "&2沥青铀地质矿&7[Uraninite GeOre]&f"
+	quest.737A779F82686366.quest_desc: ["既然能制作零食,何必将&6全模晶&f浪费在&6工具&f和&6盔甲&f上？\\n\\n&6全模晶胡萝卜&f可恢复20点饱食度(相当于5块牛排),并提供160点饱和度(略超21个&e&a金胡萝卜&f&r)!\\n长期无需担心饥饿问题.\\n\\n&6全模晶苹果&f仅恢复10点&a饥饿值&f和40点饱和度,效果稍逊.\\n\\n那为何还要制作食用？或许因其能提供生命恢复与伤害吸收效果!\\n&7[Why use that AllTheModium on unnecessary stuff, like Tools and Armor, when you can make Snacks! \\n\\nThe AllTheModium Carrot will give 20 Food Points. That's equal to 5 Steaks! It also gives 160 Saturation Points. That's slightly over 21 Golden Carrots! \\nYou won't have to worry about feeling Hungry for a long time. \\n\\nThe AllTheModium Apple gives less, with only 10 Hunger Points and 40 Saturation Points. \\n\\nSo why make and Eat the Apple instead? Maybe because it gives Regeneration and Absorption!]&f"]
+	quest.737A779F82686366.title: "&6全模晶&r食物？&7[AllTheModium Food?]&f"
+	quest.7DE7E266A42E822E.quest_desc: ["开采&5难以获取矿&f需使用&3&a振金镐&f&r.\\n\\n&3锹&f和&3锄&f仅提升工作效率.\\n\\n当然&3镐&f也有效率加成,只不过更具特殊性!\\n&7[The Vibranium Pickaxe will be needed to Mine Unobtainium. \\n\\nThe Shovel and Hoe just do their job quicker. \\n\\nWell I mean the Pickaxe does as well, it's just more unique!]&f"]
+	task.2954E9A84730D187.title: "&6全模晶武器&7[AllTheModium Weapons]&f"
+	task.2FCC2AAD26F80D20.title: "&6全模晶 &d奥秘法器装备&7[AllTheModium Arcanist Gear]&f"
+	task.3A705CAF7547846A.title: "无限&7石材&7[Infinite Stones]&f"
+	task.44B02FBFAD918254.title: "ME无限染料单元&7[ME Infinity Dye Cells]&f"
+	task.464877B75929C3C4.title: "&5难以获取矿工具&7[Unobtainium Tools]&f"
+	task.51CB2D73F130E55A.title: "&5难以获取矿武器&7[Unobtainium Weapons]&f"
+	task.5C5BD15346C75F38.title: "无限&b筛矿&f方块&7[Infinite Sieve Blocks]&f"
+	task.6C22DF8825A25915.title: "&3振金工具&7[Vibranium Tools]&f"
+	task.6EAD7AAB2A57424E.title: "&3振金武器&7[Vibranium Weapons]&f"
+	task.6EFE20C8ED04A071.title: "&5难得素 &d奥术装备&7[Unobtainium Arcanist Gear]&f"
+	task.7226040F3B42C6E1.title: "&3振金 &d奥术装备&7[Vibranium Arcanist Gear]&f"
+	task.7F534695D6EC391F.title: "&6ATM工具&7[AllTheModium Tools]&f"
 }

@@ -1,361 +1,361 @@
 {
-	quest.00075A5F9AC120ED.quest_desc: ["这将从输入箱中取出物品."]
-	quest.00075A5F9AC120ED.quest_subtitle: "始终需要"
+	quest.00075A5F9AC120ED.quest_desc: ["该装置会自动从输入箱中提取物品.\\n&7[This will take the items out of your input chest.]&f"]
+	quest.00075A5F9AC120ED.quest_subtitle: "始终必备&7[Always Required]&f"
 	quest.002163B909070CF8.quest_desc: [
-		"允许你查看特定方块/流体的详细信息,甚至可穿透墙壁.\\n"
+		"可透视墙壁查看方块/流体的详细信息.\\n\\n&7[Allows you to see details about certain blocks/fluid, even through walls.\\n]&f"
 		"{image:atm:textures/questpics/pneumaticcraft/block_tracker.png width:150 height:150 align:center}"
 	]
-	quest.002163B909070CF8.quest_subtitle: "最大:1"
-	quest.00D7BCC68D971A53.quest_desc: ["自动追踪附近的生物,可穿透墙壁.若为敌对生物,当其锁定你时会发出警告."]
-	quest.00D7BCC68D971A53.quest_subtitle: "最大:1"
-	quest.02643BAD1AE747C6.quest_desc: ["&3高级液体压缩机&r与普通版功能相同,但效率更优!"]
-	quest.04BE9F63E6003475.quest_desc: ["&3液化石油气&r可用于制造&a熔融塑料&f."]
-	quest.04BE9F63E6003475.quest_subtitle: "&a一&f我们需要"
-	quest.04BE9F63E6003475.title: "液化石油气"
-	quest.0672462DA3599484.quest_subtitle: "512,000毫巴"
-	quest.09BA45CBBFB4AE26.quest_desc: ["模组下一阶段需要搭建&3装配线&r,其核心组件是&3装配控制器&r.\\n\\n此处将承受压力."]
-	quest.09BA45CBBFB4AE26.quest_subtitle: "始终需要"
+	quest.002163B909070CF8.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.00D7BCC68D971A53.quest_desc: ["自动追踪附近生物(可穿透墙壁),当敌对生物锁定你时会发出警报.\\n&7[Living creatures nearby will be automatically tracked, even through walls. If it's an aggressive mob you'll get a warning when it targets you.]&f"]
+	quest.00D7BCC68D971A53.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.02643BAD1AE747C6.quest_desc: ["&3高级液体压缩机&f&r与普通版功能相同,但效率大幅提升!\\n&7[The Advanced Liquid Compressor works the same as the Liquid Compressor, only way better!]&f"]
+	quest.04BE9F63E6003475.quest_desc: ["&3液化石油气&r可用于制造&a熔融塑料&f.\\n&7[LPG can be used to make Molten Plastic.]&f"]
+	quest.04BE9F63E6003475.quest_subtitle: "&a所需&f物资&7[The one we need]&f"
+	quest.04BE9F63E6003475.title: "液化石油气&7[LPG]&f"
+	quest.0672462DA3599484.quest_subtitle: "512,000毫巴&7[512,000mb]&f"
+	quest.09BA45CBBFB4AE26.quest_desc: ["下一阶段需搭建&3组装流水线&r,其核心组件是&3装配控制器&f&r.\\n\\n此处为压力传输接口.\\n&7[The next stage of this mod requires you to set up Assembly Lines. The main component of an Assembly Line is the Assembly Controller.\\n\\nThis is where the pressure will go.]&f"]
+	quest.09BA45CBBFB4AE26.quest_subtitle: "始终必备&7[Always Required]&f"
 	quest.0A912B2E2BE34920.quest_desc: [
-		"虽然地表可找到&a原油&f,但钻井是获取大量石油的有效方式.先用&3地下石油探测器&r定位地下石油,再用装满钻管的&3气举&r进行钻井(需压力驱动).\\n"
+		"虽然地表可获取&a原油&f,但钻井仍是高效采油方式.先用&3地下石油探测器&f&r定位油层,再使用装满钻管的&3气举&f&r进行钻井(需压力驱动).\\n\\n&7[Although you can find Crude Oil on the surface, drilling is a great way to obtain a bunch of oil. First use a Seismic Sensor until you find oil underneath you, then use your Gas Lift filled with drill pipes to drill for oil. (This requires pressure to work).\\n]&f"
 		"{image:pneumaticcraft:textures/patchouli/oil_pumping.png width:200 height:200 align:right fit:true}"
 	]
-	quest.0A912B2E2BE34920.quest_subtitle: "石油钻探"
-	quest.0AEAEA976ED0C470.quest_desc: ["&3充电站&r通过压力为&a气动工艺&f中的各种工具设备充电."]
-	quest.0AEAEA976ED0C470.quest_subtitle: "电源线在哪？"
-	quest.0CC48C2AA553A314.quest_desc: ["&3钻头&r可用于&a气动凿岩锤&f."]
-	quest.0D2F5CC96269F9E3.quest_desc: ["制造印刷电路板的下一步需使用&3蚀刻器&r配合&a蚀刻酸&f,需要加热运作."]
-	quest.0D2F5CC96269F9E3.quest_subtitle: "蚀刻时刻!"
-	quest.0D31CD79BE6CC8D2.quest_desc: ["为什么普通面包不需要酵母？"]
-	quest.0D31CD79BE6CC8D2.quest_subtitle: "&a酵母&f解决你的难题"
-	quest.0D31CD79BE6CC8D2.title: "酵母"
+	quest.0A912B2E2BE34920.quest_subtitle: "石油钻探&7[Drilling for Oil]&f"
+	quest.0AEAEA976ED0C470.quest_desc: ["&3充能站&r通过压力为&a气动工艺&f&r中的工具设备充能.\\n&7[The Charging Station is used to charge various tools and gadgets in PneumaticCraft using pressure.]&f"]
+	quest.0AEAEA976ED0C470.quest_subtitle: "连接线在哪？&7[Where's the cord?]&f"
+	quest.0CC48C2AA553A314.quest_desc: ["&3钻头&r可用于&a气动凿岩锤&f.\\n&7[Drill Bits can be used in a Pneumatic Jackhammer.]&f"]
+	quest.0D2F5CC96269F9E3.quest_desc: ["制造电路板的下一步是使用&3蚀刻器&f&r配合&a蚀刻酸&f,需要加热运行.\\n&7[The next step of making PCBs involves using the Etching Tank with Etching Acid. Requires heat to run.]&f"]
+	quest.0D2F5CC96269F9E3.quest_subtitle: "蚀刻时刻!&7[It's Etching Time!]&f"
+	quest.0D31CD79BE6CC8D2.quest_desc: ["为什么普通面包不需要酵母？\\n&7[Why doesn't regular Bread need Yeast?]&f"]
+	quest.0D31CD79BE6CC8D2.quest_subtitle: "&a酵母&f解决方案&7[The Yeast of your Problems]&f"
+	quest.0D31CD79BE6CC8D2.title: "酵母&7[Yeast]&f"
 	quest.0D5015B8FF482D0A.quest_desc: [
-		"我们需要通过&3&aAmadron平板电脑&f&r从&3Amadron&r订购一些物品以继续推进进程.使用时,按住Shift键并&a右键点击&f箱子和流体罐,将货币(绿宝石等)放入关联容器中即可下单.您会看到Amadrone无人机降落取走货款,另一架Amadrone则会送来您订购的物品."
+		"我们需要通过&3&a阿玛德隆平板电脑&f&r从&3阿玛德隆&r订购一些物品以继续推进进程.使用时,按住Shift键并&a右键点击&f箱子和流体罐,将货币(绿宝石等)放入关联容器后即可下单.随后你会看到一架阿玛德隆无人机前来取款,另一架则会送达你订购的物品.\\n&7[We will need to order some stuff off of Amadron using the Amadron Tablet in order to continue progression. To use it, shift-right click a Chest and a Fluid tank, put your currency in a linked container (Emeralds, etc) and order something. You'll see an Amadrone come down to take your money and another Amadrone come to drop off what you ordered.]&f"
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/amadron_drone.png width:300 height:150 align:center}"
 	]
-	quest.0D5015B8FF482D0A.quest_subtitle: "不知道他们有没有次日达服务？"
-	quest.0D5015B8FF482D0A.title: "Amadron交易系统"
-	quest.0D50BDEFA0319EA1.quest_desc: ["成品将会被送入您的输出箱中."]
-	quest.0D50BDEFA0319EA1.quest_subtitle: "始终必需"
-	quest.0D9560C8E247F9E7.quest_desc: ["右键点击某处即可标记路径返航点.当距离足够近且路线畅通时,将会显示导航路径."]
-	quest.0D9560C8E247F9E7.quest_subtitle: "最大:1"
+	quest.0D5015B8FF482D0A.quest_subtitle: "不知道他们有没有当日达服务？&7[I wonder if they have 1 day delivery?]&f"
+	quest.0D5015B8FF482D0A.title: "阿玛德隆&7[Amadron]&f"
+	quest.0D50BDEFA0319EA1.quest_desc: ["成品将会被输送至输出箱中.\\n&7[This will drop the finished product into your output chest.]&f"]
+	quest.0D50BDEFA0319EA1.quest_subtitle: "始终需要&7[Always Required]&f"
+	quest.0D9560C8E247F9E7.quest_desc: ["右键点击某处即可生成返程路径.当距离足够近且路线畅通时,地面将显示指引路径.\\n&7[Right-click somewhere and you will be able to pathfind your way back. If you're close enough and have a direct route, a path will appear.]&f"]
+	quest.0D9560C8E247F9E7.quest_subtitle: "最大:1&7[Max: 1]&f"
 	quest.0E65BE9460B74000.quest_desc: [
-		"&a原木&f框架需要连接&3&a物流模块&f&r才能正常工作."
+		"&a原木&f框架需连接&3&a物流模块&f&r方可运作.\\n&7[The Logistic Frames need to connect to a Logistics Module to work.]&f"
 		""
 		"{image:pneumaticcraft:textures/patchouli/logistics_module.png width:100 height:100 align:left fit:true}"
 	]
-	quest.0F49E9167B5E97C9.quest_desc: ["您坠落时承受的伤害(无视护甲)会同等作用于附近的生物."]
-	quest.0F49E9167B5E97C9.quest_subtitle: "最大:1"
-	quest.0FF050EC1EA6EAED.quest_desc: ["&3&a液体漏斗&f&r是针对液体的漏斗装置,不能替代管道系统."]
-	quest.0FF050EC1EA6EAED.quest_subtitle: "谁还需要管道呢？"
-	quest.122EDEC12C9A05D2.quest_desc: ["我是不是忘了说所有东西都可能爆炸？...\\n\\n好在有个简单的解决方案!将&3安全升级组件&r放入机器可防止爆炸,请在所有兼容机器中安装此组件."]
-	quest.122EDEC12C9A05D2.quest_subtitle: "要是真有简单解决方案就好了..."
-	quest.122EDEC12C9A05D2.title: "防爆措施？"
-	quest.132DF9ECEFFB3B71.quest_desc: ["&3模块扩展卡&r能显著增强&a充气模块&f的性能."]
-	quest.13F68CA518CD287C.quest_desc: ["&3柴油&r可用于炼制更多煤油或生产润滑剂."]
-	quest.13F68CA518CD287C.quest_subtitle: "可怜的塞尔"
-	quest.13F68CA518CD287C.title: "柴油"
-	quest.1427B3AB09510D20.quest_desc: ["将未组装的PCB与2个电容器、2个晶体管合成即可获得&3成品PCB&r."]
-	quest.1427B3AB09510D20.quest_subtitle: "成功完成!"
-	quest.142C67218BD16867.quest_desc: ["为迷你机枪装填&3&a加特林机枪弹药&f&r即可使用."]
-	quest.15007DCAF701B361.quest_desc: ["通过胸甲储存的能量为 inventory 中其他可加压物品充能."]
-	quest.15007DCAF701B361.quest_subtitle: "最大:6"
-	quest.15D355EB164EBE68.quest_subtitle: "制作成品PCB所需"
-	quest.15D355EB164EBE68.title: "电容器"
-	quest.187816477B732517.quest_desc: ["&3&a传输装置&f&r的功能类似于可放置在方块之间的漏斗."]
-	quest.187816477B732517.quest_subtitle: "微型漏斗"
+	quest.0F49E9167B5E97C9.quest_desc: ["坠落时承受的伤害(无视护甲)会同步作用于周围生物.\\n&7[Any damage you take when falling (ignoring armor) will also be dealt to nearby mobs.]&f"]
+	quest.0F49E9167B5E97C9.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.0FF050EC1EA6EAED.quest_desc: ["&3&a液体漏斗&f&r是针对液体的漏斗装置,不可替代管道功能.\\n&7[The Liquid Hopper is a Hopper, but for liquids. Not a replacement for pipes.]&f"]
+	quest.0FF050EC1EA6EAED.quest_subtitle: "谁还需要管道呢？&7[Who needs pipes?]&f"
+	quest.122EDEC12C9A05D2.quest_desc: ["我是不是忘了说所有东西都可能爆炸？...\\n\\n好在有个简单的解决方案!将&3安全升级组件&f&r装入机器可防止爆炸,请为所有兼容机器配备此组件.\\n&7[Did I forget to mention everything can blow up? ...\\n\\nLuckily there's an easy solution! The Security Upgrade when placed in a machine makes sure they don't explode, put these into any machines they can go into.]&f"]
+	quest.122EDEC12C9A05D2.quest_subtitle: "要是能有简单的解决方案就好了...&7[If only there was an easy Solution...]&f"
+	quest.122EDEC12C9A05D2.title: "防爆措施？&7[Preventing Explosions?]&f"
+	quest.132DF9ECEFFB3B71.quest_desc: ["&3模块扩展卡&f&r能显著增强&a充气模块&f的性能.\\n&7[The Module Expansion Card makes the Charging Module even better.]&f"]
+	quest.13F68CA518CD287C.quest_desc: ["&3柴油&f&r可用于提炼更多煤油或制造润滑剂.\\n&7[Diesel can be used to make more Kerosene or to make Lubricant.]&f"]
+	quest.13F68CA518CD287C.quest_subtitle: "可怜的塞尔&7[Poor Sel]&f"
+	quest.13F68CA518CD287C.title: "柴油&7[Diesel]&f"
+	quest.1427B3AB09510D20.quest_desc: ["将未组装的PCB与2个电容、2个晶体管合成即可获得&3成品PCB&f&r.\\n&7[Craft together your Unassmbled PCB with 2 Capacitors and 2 Transistors to get yourself a Finished PCB.]&f"]
+	quest.1427B3AB09510D20.quest_subtitle: "成功完成!&7[You did it!]&f"
+	quest.142C67218BD16867.quest_desc: ["为迷你机枪装填&3&a加特林机枪弹药&f&r即可使用.\\n&7[Load up your Minigun with this Minigun Ammo to use it.]&f"]
+	quest.15007DCAF701B361.quest_desc: ["通过胸甲储存的能量为 inventory 中可加压物品充能.\\n&7[Charges other pressurizable items in your inventory from the chestplate's storage.]&f"]
+	quest.15007DCAF701B361.quest_subtitle: "最大:6&7[Max: 6]&f"
+	quest.15D355EB164EBE68.quest_subtitle: "制作成品PCB所需&7[Needed for Finished PCBs]&f"
+	quest.15D355EB164EBE68.title: "电容器&7[Capacitors]&f"
+	quest.187816477B732517.quest_desc: ["&3&a传输装置&f&r的功能类似于可放置在方块间的漏斗.\\n&7[The Transfer Gadget acts like a Hopper that can be placed inbetween blocks.]&f"]
+	quest.187816477B732517.quest_subtitle: "微型漏斗&7[Smaller Hopper]&f"
 	quest.21624A6500545C42.quest_desc: [
-		"在作物上方放置&3&a作物架&f&r可加速其生长."
+		"在作物上方放置&3&a作物架&f&r可加速其生长.\\n&7[Crop Supports can be placed over your crops to make them grow faster.]&f"
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/crop_support.png width:200 height:100 align:center}"
 	]
-	quest.21624A6500545C42.quest_subtitle: "作物加速器"
-	quest.22572456571C3F8D.quest_desc: ["&3&a充气模块&f&r可对其指向容器内的所有可加压物品进行减压处理."]
-	quest.230463E830D6FFEB.quest_desc: ["获得塑料后,下一步是制作成品PCB.首先需要在&a压力室&f中制作&3&a空印刷电路板&f&r."]
-	quest.230463E830D6FFEB.quest_subtitle: "PCB制造之路"
-	quest.2338E5269CA23C91.quest_desc: ["&3&a下界合金钻头&f&r 是最佳的钻头,甚至优于 &a钻石钻头&f."]
-	quest.2338E5269CA23C91.quest_subtitle: "&a登峰造极&f"
-	quest.23737103592776C2.quest_desc: ["&3&a煤油灯&f&r 是一种出色的光源,使用燃料(煤油最佳)来产生光亮."]
-	quest.23737103592776C2.quest_subtitle: "&a巨型火把&f 根本不算什么!"
-	quest.24042326B4632DD4.quest_desc: ["要开始物流系统,请先制作一个 &3&a物流核心&f&r,建议阅读 PNC:R 手册以获取完整使用教程."]
-	quest.24042326B4632DD4.quest_subtitle: "物品/流体运输"
-	quest.24042326B4632DD4.title: "物流系统"
-	quest.26BEA64C80ECE1A6.quest_desc: ["每个 &3物流框架&r 可用于不同类型的自动化功能."]
-	quest.2745297337E13E9E.quest_desc: ["&3高级 &a空气压缩机&f&r 的工作原理与 &a空气压缩机&f 相同,但性能更优!"]
-	quest.2745297337E13E9E.quest_subtitle: "现在不再需要乏味的旧款 &a空气压缩机&f 了!"
-	quest.2801B7B6BF61E978.quest_desc: ["&3煤油&r 可用于制造汽油,或作为 &a煤油灯&f 的燃料."]
-	quest.2801B7B6BF61E978.quest_subtitle: "你见过煤油吗？"
-	quest.2801B7B6BF61E978.title: "煤油"
+	quest.21624A6500545C42.quest_subtitle: "作物加速&7[Faster Crops]&f"
+	quest.22572456571C3F8D.quest_desc: ["&3&a充气模块&f&r可对其指向容器内的可加压物品进行减压处理.\\n&7[The Charging Module depressurizes any pressurizable things in containers it points at.]&f"]
+	quest.230463E830D6FFEB.quest_desc: ["获得塑料后,下一步是制作成品PCB.首先需要在&a压力室&f中制作&3&a空印刷电路板&f&r.\\n&7[Now that we have plastic, the next step is getting some finished PCBs, first make some Empty PCBs in the Pressure Chamber.]&f"]
+	quest.230463E830D6FFEB.quest_subtitle: "PCB制造之路&7[The path to PCBs]&f"
+	quest.2338E5269CA23C91.quest_desc: ["&3&a下界合金钻头&f&r 是最佳的钻头,甚至优于 &a钻石钻头&f.\\n&7[The Netherite Drill Bit is the best Drill Bit, it's even better than the Diamond Drill Bit.]&f"]
+	quest.2338E5269CA23C91.quest_subtitle: "&a登峰造极&f&7[This is the Best Bit]&f"
+	quest.23737103592776C2.quest_desc: ["&3&a煤油灯&f&r 是一种出色的光源,使用燃料(煤油最佳)来产生光亮.\\n&7[The Kerosene Lamp is a great light source that uses fuel (Kerosene being the best) to produce light.]&f"]
+	quest.23737103592776C2.quest_subtitle: "&a巨型火把&f 根本不算什么!&7[Mega Torches are nothing!]&f"
+	quest.24042326B4632DD4.quest_desc: ["要开始物流系统,请先制作 &3&a物流核心&f&r,建议阅读 PNC:R 手册以获取完整使用教程.\\n&7[To start with Logistics craft a Logistics Core, I recommend reading the PNC:R Manual for a full tutorial on how to use these items.]&f"]
+	quest.24042326B4632DD4.quest_subtitle: "物品/流体运输&7[Transporting Items/Fluids]&f"
+	quest.24042326B4632DD4.title: "物流系统&7[Logistics]&f"
+	quest.26BEA64C80ECE1A6.quest_desc: ["每个 &3物流框架&r 可用于不同类型的自动化功能.\\n&7[Each Logistic Frame can be used for different types of automation.]&f"]
+	quest.2745297337E13E9E.quest_desc: ["&3高级 &a空气压缩机&f&r 的工作原理与普通 &a空气压缩机&f 相同,但性能更优!\\n&7[The Advanced Air Compressor works the same way as the Air Compressor, only way better!]&f"]
+	quest.2745297337E13E9E.quest_subtitle: "现在不再需要无聊的老式 &a空气压缩机&f 了!&7[No need for boring old Air Compressors now!]&f"
+	quest.2801B7B6BF61E978.quest_desc: ["&3煤油&r 可用于制造汽油,或作为 &a煤油灯&f 的燃料.\\n&7[Kerosene can be used to make Gasoline or it can be used as fuel in a Kerosene Lamp.]&f"]
+	quest.2801B7B6BF61E978.quest_subtitle: "你煤油见过这个吗？&7[Have you Kero-seen this?]&f"
+	quest.2801B7B6BF61E978.title: "煤油&7[Kerosene]&f"
 	quest.2AED15E3AC0346FE.quest_desc: [
-		"以下是一些在该模组早期可使用的 &3升级组件&r.将鼠标悬停在 &3升级组件&r 上并按 Shift 查看其适用对象,或悬停在物品上按 Shift 查看可用的升级选项."
+		"以下是该模组初期可用的 &3升级组件&r.将鼠标悬停在 &3升级组件&r 上并按 Shift 查看适用对象,或悬停在物品上按 Shift 查看可用的升级选项.\\n&7[Below are some Upgrades you can use early on in this mod. Shift while hovering over an Upgrade to see what it can be used in, or shift while hovering over something to see what upgrades it can use.]&f"
 		""
-		"注意:副标题会显示该物品可容纳的 &3升级组件&r 最大数量."
+		"注意:副标题会显示该物品可容纳的 &3升级组件&r 最大数量.\\n&7[Note: The subtitle will tell you the max amount of that Upgrade that can be put in something.]&f"
 	]
-	quest.2AED15E3AC0346FE.quest_subtitle: "非常实用的东西"
-	quest.2AED15E3AC0346FE.title: "基础升级组件"
-	quest.2C5D78630C7AD57F.quest_desc: ["增加作用范围,在不同设备中产生不同效果."]
-	quest.2C5D78630C7AD57F.quest_subtitle: "再靠近一点!"
+	quest.2AED15E3AC0346FE.quest_subtitle: "非常实用的东西&7[Very useful stuff]&f"
+	quest.2AED15E3AC0346FE.title: "基础升级组件&7[Simple Upgrades]&f"
+	quest.2C5D78630C7AD57F.quest_desc: ["增加作用范围,在不同设备中产生不同效果.\\n&7[Increases range, does different things when used in different things.]&f"]
+	quest.2C5D78630C7AD57F.quest_subtitle: "再靠近一点!&7[Come Closer!]&f"
 	quest.2CC56A4F06E53307.quest_desc: [
-		"将 &a空印刷电路板&f 放入 &3&a紫外光灯箱&f&r 中进行充电.需要气压和阳光照射."
+		"将 &a空印刷电路板&f 放入 &3&a紫外光灯箱&f&r 中进行充能.需要气压和阳光照射.\\n&7[Place your Empty PCBs in a UV Light Box to charge them. Needs pressure and access to sunlight.]&f"
 		"{image:atm:textures/questpics/pneumaticcraft/uv_charging.png width:300 height:150 align:center}"
 	]
-	quest.2CC56A4F06E53307.quest_subtitle: "希望你备有太阳镜!"
-	quest.2CC56A4F06E53307.title: "紫外线充电"
-	quest.2DE7CC686B56881F.quest_desc: ["防护 &d通用机械&f 辐射."]
-	quest.2DE7CC686B56881F.quest_subtitle: "最大:1"
+	quest.2CC56A4F06E53307.quest_subtitle: "希望你备有太阳镜!&7[I hope you have some Sunglasses!]&f"
+	quest.2CC56A4F06E53307.title: "紫外线充能&7[Charging with UVs]&f"
+	quest.2DE7CC686B56881F.quest_desc: ["防护 &d通用机械&f 辐射.\\n&7[Protects you from Mekanism radiation.]&f"]
+	quest.2DE7CC686B56881F.quest_subtitle: "最大:1&7[Max: 1]&f"
 	quest.2E8F851A4E98F741.quest_desc: [
-		"&3&a气动装甲&f&r 本身性能卓越,但若想进一步提升,需安装升级组件.默认按 U 键打开升级界面,部分升级需消耗气压,部分则不需要."
+		"&3&a气动装甲&f&r 本身性能卓越,但若想进一步提升,需要安装升级组件.按默认键 'U' 打开升级界面,部分升级需消耗气压,部分则不需要.\\n&7[The Pneumatic Armor by itself is pretty great, however if you want to make this armor amazing, you'll need to install upgrades. Press 'U' by default to open the Upgrade GUI, some upgrades use pressure, some don't.]&f"
 		""
-		"与升级 &d气动工艺&f 中其他工具类似,升级 &3&a气动装甲&f&r 需要具备气压的充电 &a空间站&f."
+		"与升级 &d气动工艺&f 中其他工具类似,升级 &3&a气动装甲&f&r 需要带有气压的充能 &a空间站&f.\\n&7[Just like upgrading other tools in PneumaticCraft, to upgrade Pneumatic Armor you will need a Charging Station with pressure.]&f"
 		""
-		"注意:副标题会显示该物品可容纳的升级组件最大数量."
+		"注意:副标题会显示该物品可容纳的升级组件最大数量.\\n&7[Note: The subtitle will tell you the max amount of that upgrade that can be put in something.]&f"
 	]
-	quest.2E8F851A4E98F741.quest_subtitle: "&a压缩铁侠&f"
-	quest.2E8F851A4E98F741.title: "&a气动装甲&f"
-	quest.30AD7B15682E4D0E.quest_desc: ["智能告示牌,可存储并自适应缩放任意长度的文本,确保文字始终完整显示.\\n\\n&a右键&f 使用染料可分别对边框和背景进行独立染色."]
-	quest.30AD7B15682E4D0E.quest_subtitle: "告示牌？从来没听说过!"
-	quest.312331F6DB0CE5F4.quest_desc: ["速度超越一级设备."]
-	quest.312331F6DB0CE5F4.quest_subtitle: "最大:1"
-	quest.31BCE63F5E016323.quest_desc: ["&3太阳能压缩机&r通过吸收阳光产生压力,温度越高,产生的压力越大.\\n\\n但需注意:过热会导致设备故障,届时需进行维修."]
-	quest.31BCE63F5E016323.quest_subtitle: "在我掌心之中..."
-	quest.31BCE63F5E016323.title: "来自太阳的压力"
-	quest.325483DEB0C602F8.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n所有&6AllTheMods&r系列作品均采用&e保留所有权利&r许可协议,未经明确授权不得在任何非官方发布的公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到本说明,表明您正处于编辑模式."]
-	quest.32C3E14578D48E6C.quest_desc: ["与普通&3&a压力管道&f&r类似,但此类管道可承受10巴压力."]
-	quest.32C3E14578D48E6C.quest_subtitle: "&a增强&f&a压力管道&f"
-	quest.3334D15766A47A46.quest_desc: ["使用激光&a装配程序&f可加速生产&3未组装的印刷电路板&r.只需将&a空印刷电路板&f放入输入箱,注入压力后等待即可."]
-	quest.3334D15766A47A46.title: "自动化生产印刷电路板"
-	quest.36D72D759C4E8823.quest_desc: ["甚至可能有些过于迅速了."]
-	quest.36D72D759C4E8823.quest_subtitle: "最大数量:1"
-	quest.371A34B297C8A8EF.quest_desc: ["&d气动工艺&f的核心在于压力控制!本任务虽不涵盖该模组全部内容,但仍将深入讲解多项机制.请务必查阅JEI、查看物品提示信息并阅读PCB:R手册,这些都非常有用.\\n\\n首先需要合成一些&3&a压缩铁锭&f&r!最简便的方法是在地面挖坑,投入铁锭(或铁块)后用TNT引爆!\\n\\n爆炸可能会造成部分损耗,但这个风险值得承担!"]
-	quest.371A34B297C8A8EF.quest_subtitle: "空气的&a力量&f"
-	quest.371A34B297C8A8EF.title: "&d气动工艺:重置版&f"
-	quest.39F142224D5210A9.quest_desc: ["&3生物柴油&r可用于制造&3润滑剂&r和&3&a熔融塑料&f&r."]
-	quest.39F142224D5210A9.quest_subtitle: "生物/柴油"
-	quest.39F142224D5210A9.title: "生物柴油"
-	quest.3A9AC6AB4407DC32.quest_desc: ["虽非所有配方需求相同,但可配置包含全套组件的&3装配线&r.下图展示了适用于各类生产的简易&3装配线&r布局.请阅读各组件对应任务以获取关键信息.\\n\\n&a高速&f等级能显著提升效率!"]
-	quest.3A9AC6AB4407DC32.quest_subtitle: "需要组装"
-	quest.3A9AC6AB4407DC32.title: "使用装配线"
+	quest.2E8F851A4E98F741.quest_subtitle: "&a压缩铁侠&f&7[Compressed Iron Man]&f"
+	quest.2E8F851A4E98F741.title: "&a气动装甲&f&7[Pneumatic Armor]&f"
+	quest.30AD7B15682E4D0E.quest_desc: ["智能告示牌,可存储并自适应缩放显示任意长度的文本.\\n\\n&a右键&f 使用染料可分别对边框和背景进行独立染色.\\n&7[A smart Sign which can store and display arbitrary amounts of text, scaled so the text always fits.\\n\\nRight-click with any Dye to recolor the tile, you can color the border and the background independentrly.]&f"]
+	quest.30AD7B15682E4D0E.quest_subtitle: "告示牌？从来没听说过!&7[Signs? Never heard of them!]&f"
+	quest.312331F6DB0CE5F4.quest_desc: ["速度超越一级版本.\\n&7[Goes faster than Tier I.]&f"]
+	quest.312331F6DB0CE5F4.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.31BCE63F5E016323.quest_desc: ["&3太阳能压缩机&r通过阳光产生压力,温度越高,产生的压力越大.\\n\\n但需注意:过热会导致设备故障,届时需进行维修.\\n&7[The Solar Compressor generates Pressure by using sunlight, the warmer it gets, the more Pressure it will produce.\\n\\nHowever, be careful, if it gets too hot it will malfunction and you will need to repair it.]&f"]
+	quest.31BCE63F5E016323.quest_subtitle: "在我掌心之中...&7[In the palm of my hand...]&f"
+	quest.31BCE63F5E016323.title: "来自太阳的压力&7[Pressure from the Sun]&f"
+	quest.325483DEB0C602F8.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r系列整合包均采用&e保留所有权利&r许可协议,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您能看到此说明,表明您正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.32C3E14578D48E6C.quest_desc: ["与普通&3&a压力管道&f&r类似,但此类管道可承受10巴压力.\\n&7[Just like regular Pressure Tubes only these can hold 10 bars of pressure.]&f"]
+	quest.32C3E14578D48E6C.quest_subtitle: "&a增强&f&a压力管道&f&7[Upgraded Pressure Tubes]&f"
+	quest.3334D15766A47A46.quest_desc: ["使用激光&a装配程序&f可加速&3未组装PCB&r的生产.只需将&a空印刷电路板&f放入输入箱,注入压力后等待即可.\\n&7[Using a Laser Assembly Program you can speed up the production of Unassembled PCBs. Just put an Empty PCB in the input chest, pump in some pressure and wait.]&f"]
+	quest.3334D15766A47A46.title: "PCB自动化生产&7[Automating PCBs]&f"
+	quest.36D72D759C4E8823.quest_desc: ["甚至可能有点太快了.\\n&7[Maybe a little too fast even.]&f"]
+	quest.36D72D759C4E8823.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.371A34B297C8A8EF.quest_desc: ["&d气动工艺&f的核心是压力系统!本任务系列不会涵盖该模组的全部内容,但仍将涉及大量知识点.请记得查看JEI、阅读工具提示及PCB:R说明书,它们都非常实用.\\n\\n首先需要合成一些&3&a压缩铁锭&f&r!最简单的方法是在地面挖洞,投入铁锭(或铁块)后用TNT引爆!\\n\\n爆炸可能会造成部分损耗,但这个风险值得承担!\\n&7[PneumaticCraft is all about Pressure! These quests won't go over everything the mod has, but will still go over a lot! Please remember to check JEI, read the tooltips and read the PCB:R, they are all very useful.\\n\\nTo get started, you'll need to craft some Compressed Iron Ingots! The easiest way to do this is to make a hole in the ground, throw in some iron ingots (or blocks) and then blow it up with some TNT!\\n\\nSome might get lost in the explosion, but that's a risk we'll have to take!]&f"]
+	quest.371A34B297C8A8EF.quest_subtitle: "&a空气之力&f&7[The Power of Air]&f"
+	quest.371A34B297C8A8EF.title: "&d气动工艺:重置版&f&7[PneumaticCraft: Repressurized]&f"
+	quest.39F142224D5210A9.quest_desc: ["&3生物柴油&r可用于制造&3润滑剂&r和&3&a熔融塑料&f&r.\\n&7[Biodeisel can be used to make Lubricant and Molten Plastic.]&f"]
+	quest.39F142224D5210A9.quest_subtitle: "生物/柴油&7[Bio/Diesel]&f"
+	quest.39F142224D5210A9.title: "生物柴油&7[Biodeisel]&f"
+	quest.3A9AC6AB4407DC32.quest_desc: ["Although not every recipe requires the same components, you can set up your Assembly Lines with everything installed. A simple Assembly Line setup that can be used for everything is shown in the image below. Read the quests for each component for some important information about them.\\n\\nSpeed Upgrades make this so much quicker!"]
+	quest.3A9AC6AB4407DC32.quest_subtitle: "需要组装&7[Some Assembly Required]&f"
+	quest.3A9AC6AB4407DC32.title: "使用装配线&7[Using Assembly Lines]&f"
 	quest.3CFE522A4B7CC2EC.quest_desc: [
-		"&3&a强化箱子&f&r是具备36格存储空间的防爆箱,不可合并为双箱结构,功能类似潜影盒."
+		"&3&a强化箱子&f&r是具备36格存储空间的防爆箱,不可合并为双箱结构,功能类似潜影盒.\\n&7[The Reinforced Chest is a blast-proof Chest with 36 slots. Not Double Chest-able. Also works like a Shulker Box.]&f"
 		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
 	]
-	quest.3CFE522A4B7CC2EC.quest_subtitle: "超越普通储物箱"
-	quest.3D819550074CA376.quest_desc: ["物品需先放置于此区域方可被重新拾取."]
-	quest.3D819550074CA376.quest_subtitle: "始终必需"
-	quest.3E16CF590C911129.quest_desc: ["&3&a空气压缩机&f&r是制造压力的便捷方式,只需投入可燃物即可见证奇迹!(建议初始至少制作3台)"]
-	quest.3E16CF590C911129.quest_subtitle: "压力感知"
-	quest.3E16CF590C911129.title: "&a产出气压&f"
-	quest.3F9CCCFEF4E84166.quest_desc: ["若要提升产热效率,请在&a涡流管&f的冷端安装&3&a散热片&f&r."]
-	quest.3F9CCCFEF4E84166.quest_subtitle: "更多热量"
-	quest.3F9CCCFEF4E84166.title: "更好的热量生产"
-	quest.40924F0D64253A38.quest_desc: ["使物品能够分发物品."]
-	quest.40924F0D64253A38.quest_subtitle: "消失了!"
-	quest.40F634AC38F42B88.quest_desc: ["要移动压力,你需要获得&3&a压力管道&f&r.你可能会问是什么压力？继续任务线以了解这些管道的用途."]
-	quest.40F634AC38F42B88.quest_subtitle: "什么压力？"
-	quest.40F634AC38F42B88.title: "移动压力"
-	quest.423B8DA485C1308C.quest_desc: ["&3汽油&r可用于制造液化石油气(LPG)."]
-	quest.423B8DA485C1308C.quest_subtitle: "气体,气体,气体"
-	quest.423B8DA485C1308C.title: "汽油"
-	quest.42951D14ADCD9332.quest_desc: ["我能来点豌豆泥配&a茄汁豆吐司&f吗,总督先生？"]
-	quest.42951D14ADCD9332.quest_subtitle: "想来点炸鱼薯条吗？"
-	quest.42951D14ADCD9332.title: "炸鱼薯条!"
-	quest.43CDC28DC56BB3E2.quest_subtitle: "128,000毫巴"
-	quest.43EF5513A1C52A37.quest_desc: ["&3&a热气动加工机&f&r将用于制造&a熔融塑料&f,只需泵入一些液化石油气、煤和热量."]
-	quest.43EF5513A1C52A37.quest_subtitle: "名字越长越好"
-	quest.43EF5513A1C52A37.title: "热气动加工"
+	quest.3CFE522A4B7CC2EC.quest_subtitle: "超越普通箱子&7[Better than your Everyday Chest]&f"
+	quest.3D819550074CA376.quest_desc: ["物品需先放置于此位置方可被重新拾取.\\n&7[The item will need to be placed here before getting picked back up.]&f"]
+	quest.3D819550074CA376.quest_subtitle: "始终必需&7[Always Required]&f"
+	quest.3E16CF590C911129.quest_desc: ["&3&a空气压缩机&f&r是制造压力的便捷方式,只需投入可燃物即可见证奇迹!(建议初始至少制作3台)\\n&7[The Air Compressor is an easy way of making pressure, simply put some burnable items into it, and watch the magic happen! (I recommend making at least 3 of these to start off with).]&f"]
+	quest.3E16CF590C911129.quest_subtitle: "压力感应&7[Feeling the Pressure]&f"
+	quest.3E16CF590C911129.title: "&a产出气压&f&7[Generating Pressure]&f"
+	quest.3F9CCCFEF4E84166.quest_desc: ["若要提升产热效率,请在&a涡流管&f的冷端安装&3&a散热片&f&r.\\n&7[To increase your heat production, place a Heat Sink on the cold side of your Vortex Tube.]&f"]
+	quest.3F9CCCFEF4E84166.quest_subtitle: "更多热量&7[More Heat]&f"
+	quest.3F9CCCFEF4E84166.title: "更好的热力生产&7[Better Heat Production]&f"
+	quest.40924F0D64253A38.quest_desc: ["使装置能够分发物品.\\n&7[Makes things able to dispense items.]&f"]
+	quest.40924F0D64253A38.quest_subtitle: "消失!&7[Gone!]&f"
+	quest.40F634AC38F42B88.quest_desc: ["要传输压力,你需要获取&3&a压力管道&f&r.你可能会问是什么压力？继续任务线以了解它们的用途.\\n&7[To move pressure you will need to obtain Pressure Tubes. What pressure you may be asking? Continue the questline to see what these are used for.]&f"]
+	quest.40F634AC38F42B88.quest_subtitle: "什么压力？&7[What Pressure?]&f"
+	quest.40F634AC38F42B88.title: "传输压力&7[Moving Pressure]&f"
+	quest.423B8DA485C1308C.quest_desc: ["&3汽油&r可用于制造液化石油气.\\n&7[Gasoline can be used to make LPG.]&f"]
+	quest.423B8DA485C1308C.quest_subtitle: "气体,气体,气体&7[Gas, gas, gas]&f"
+	quest.423B8DA485C1308C.title: "汽油&7[Gasoline]&f"
+	quest.42951D14ADCD9332.quest_desc: ["长官,能给我来点豌豆泥配&a茄汁豆吐司&f吗？\\n&7[Could I get that with some Mashed Peas with a side of Beans on Toast please Governor?]&f"]
+	quest.42951D14ADCD9332.quest_subtitle: "想来点炸鱼薯条吗？&7[Fancy some Fish \\\\ Chips?]&f"
+	quest.42951D14ADCD9332.title: "炸鱼薯条!&7[Fish \\\\ Chips!]&f"
+	quest.43CDC28DC56BB3E2.quest_subtitle: "128,000毫巴&7[128,000mb]&f"
+	quest.43EF5513A1C52A37.quest_desc: ["&3&a热气动加工机&f&r将用于制造&a熔融塑料&f,只需泵入一些液化石油气、煤炭和热量.\\n&7[The Thermopneumatic Processing Plant will be used to make Molten Plastic, simply pump in some LPG, Coal and some heat.]&f"]
+	quest.43EF5513A1C52A37.quest_subtitle: "名字越长越好&7[The longer the name, the better]&f"
+	quest.43EF5513A1C52A37.title: "热气动加工&7[Thermopneumatic Processing]&f"
 	quest.440B1E1D4951F808.quest_desc: [
-		"&3&a智能箱子&f&r是一个防爆箱子,拥有72个槽位,内置一个完全可配置的&a全方向漏斗&f,并具有升级槽.无法合并为双箱子.功能类似潜影盒."
+		"&3&a智能箱子&f&r是一个防爆箱子,拥有72个槽位,内置一个完全可配置的&a全方向漏斗&f,并具有升级槽.不能合并成双箱.功能类似潜影盒.\\n&7[The Smart Chest is a blast-proof Chest with 72 slots, includes a built in, fully configuarble Omnidirectional Hopper and has upgrade slots. Not Double Chest-able. Also works like a Shulker Box.]&f"
 		"{image:atm:textures/questpics/pneumaticcraft/smart_chest_ui.png width:200 height:100 align:center}"
 	]
-	quest.440B1E1D4951F808.quest_subtitle: "箱子的极客"
-	quest.456B9DD108CF340F.quest_desc: ["使物品更快."]
-	quest.456B9DD108CF340F.quest_subtitle: "快速!"
+	quest.440B1E1D4951F808.quest_subtitle: "箱子的极客&7[The Nerds of Chests]&f"
+	quest.456B9DD108CF340F.quest_desc: ["使事物更快.\\n&7[Makes things faster.]&f"]
+	quest.456B9DD108CF340F.quest_subtitle: "快速!&7[Speedy!]&f"
 	quest.461C8F1E88AA58D9.quest_desc: [
-		"这些可用于使用桶装版本&d气动工艺&f液体的配方中.\\n\\n当一个&3&a流体储罐&f&r放置在另一个&3&a流体储罐&f&r上方并用扳手连接时,它们会合并成一个大储罐.\\n"
+		"这些可用于使用桶装版本&d气动工艺&f液体的配方中.\\n\\n当一个&3&a流体储罐&f&r放在另一个&3&a流体储罐&f&r上并用扳手连接时,它们会变成一个大储罐.\\n\\n&7[These can be used in recipes using the bucketed version of PneumaticCraft liquids.\\n\\nWhen a Fluid Tank is put on top of another Fluid Tank and wrenched together they become one big tank.\\n]&f"
 		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
 	]
-	quest.461C8F1E88AA58D9.quest_subtitle: "32,000毫巴"
-	quest.46BE62C20C720D10.quest_desc: ["使末影人不会像雕刻南瓜一样对你生气."]
-	quest.46BE62C20C720D10.quest_subtitle: "最大:1"
-	quest.482E558BCFEE6B7E.quest_desc: ["&3建筑砖块&r是酷炫的建筑方块,小心它们会造成伤害.再次合成可以使它们变得平滑."]
-	quest.482E558BCFEE6B7E.quest_subtitle: "没有比踩到这些更痛苦的了"
-	quest.495DCA49B4E80852.quest_desc: ["&3加特林机枪&r是一种需要压力和弹药才能工作的枪.阅读工具提示&a了解更多信息&f."]
-	quest.495DCA49B4E80852.quest_subtitle: "砰砰!"
+	quest.461C8F1E88AA58D9.quest_subtitle: "32,000毫巴&7[32,000mb]&f"
+	quest.46BE62C20C720D10.quest_desc: ["使末影人不会像雕刻南瓜那样对你生气.\\n&7[Makes Endermen not get angry at you like Carved Pumpkins.]&f"]
+	quest.46BE62C20C720D10.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.482E558BCFEE6B7E.quest_desc: ["&3建筑砖&r是很酷的建筑方块,小心它们会造成伤害.再次合成可以使它们变得平滑.\\n&7[Construction Bricks are cool building blocks, be careful they hurt. Craft them again to make them smooth.]&f"]
+	quest.482E558BCFEE6B7E.quest_subtitle: "没有比踩到这些更痛的了&7[There's no pain worse than stepping on these]&f"
+	quest.495DCA49B4E80852.quest_desc: ["&3加特林机枪&r是一种需要压力和弹药才能工作的枪.阅读工具提示&a了解更多信息&f.\\n&7[The Minigun is a gun that needs pressure and ammo to work. Read the tooltip for more info.]&f"]
+	quest.495DCA49B4E80852.quest_subtitle: "砰砰!&7[Pew Pew!]&f"
 	quest.4A076530297F4A97.quest_desc: [
-		"使用这三个组件,你可以创建一些惊人的&3电梯&r.\\n"
+		"用这三个组件,你可以制造一些惊人的&3电梯&r.\\n\\n&7[With these 3 components you can create some amazing Elevators.\\n]&f"
 		"{image:pneumaticcraft:textures/patchouli/elevator.png width:1 height:1 align:left fit:true}"
 	]
-	quest.4A076530297F4A97.title: "电梯"
-	quest.4B4F5341D6DBDD19.quest_desc: ["保持你在水下的呼吸,一旦气泡减少到5个,它们会被重新填充!它还让你在水下看得更清楚!"]
-	quest.4B4F5341D6DBDD19.quest_subtitle: "最大:1"
+	quest.4A076530297F4A97.title: "电梯&7[Elevators]&f"
+	quest.4B4F5341D6DBDD19.quest_desc: ["保持你在水下的呼吸,一旦气泡减少到5个,它们会被重新填满!它还让你在水下看得更清楚!\\n&7[Keep your breathing underwater, once your bubbles go down to 5 they will be refilled! It also allows you to see much more easily underwater!]&f"]
+	quest.4B4F5341D6DBDD19.quest_subtitle: "最大:1&7[Max: 1]&f"
 	quest.4C0D00B5305117A1.quest_desc: [
-		"&3&a哨兵炮塔&f&r可以放置在某个地方,并设置为在生物或玩家进入范围时攻击.它只需要一些&a加特林机枪弹药&f."
+		"&3&a哨兵炮塔&f&r可以放置在某个地方,并设置为在生物或玩家进入范围时攻击.它只需要一些&a加特林机枪弹药&f.\\n&7[The Sentry Turret can be placed somewhere and set to attack mobs or players when they are in range. It just needs some Minigun Ammo.]&f"
 		""
 		"{image:pneumaticcraft:textures/patchouli/sentry_turret.png width:100 height:100 align:left fit:true}"
 	]
-	quest.4C0D00B5305117A1.quest_subtitle: "砰砰(没有你)"
-	quest.4CA17B0A80020B2F.quest_desc: ["&3压力计&r用于显示机器的额外信息."]
-	quest.4CA17B0A80020B2F.quest_subtitle: "我需要更多信息!"
-	quest.4E1E31EDD544EE10.quest_subtitle: "64,000毫巴"
-	quest.4F5348D0C83C3B0D.quest_desc: ["&3&a太阳能电池板&f&r用于制造太阳能压缩机."]
-	quest.4F5348D0C83C3B0D.quest_subtitle: "&a太阳&f能电池"
-	quest.4F5348D0C83C3B0D.title: "&a太阳能电池板&f"
-	quest.4FCC20D9F8F87B2F.quest_desc: ["&3气动扳手&r用于移动或拆除你的机器和管道."]
-	quest.4FCC20D9F8F87B2F.quest_subtitle: "工具扭矩详解!"
-	quest.5103C817381181DE.quest_desc: ["让你在穿戴&a气动胸甲&f的同时使用鞘翅."]
-	quest.5103C817381181DE.quest_subtitle: "最大:1"
-	quest.520EFA7F446AFBF2.quest_desc: ["&3润滑剂&r可用于制造钻头."]
-	quest.520EFA7F446AFBF2.quest_subtitle: "生产润滑剂!"
-	quest.520EFA7F446AFBF2.title: "润滑剂"
-	quest.521656D425E2FDBA.quest_desc: ["速度比二级更快."]
-	quest.521656D425E2FDBA.quest_subtitle: "最大:1"
-	quest.52D3697F1F5625C7.quest_desc: ["&3&a蚀刻酸&f&r在&a压力室&f中用&a熔融塑料&f...以及其他材料制成.用于&a蚀刻器&f."]
-	quest.52D3697F1F5625C7.quest_subtitle: "别问..."
-	quest.5303509A1C2B1CCD.quest_desc: ["&3&a气动凿岩锤&f&r利用压力采矿,可通过升级变得非常强大!"]
-	quest.5303509A1C2B1CCD.quest_subtitle: "抱歉杰克!"
-	quest.53518D4ED99A242F.quest_desc: ["&3&a伪装涂覆器&f&r可用于将&d气动工艺&f机械隐藏在其他方块内."]
-	quest.53518D4ED99A242F.quest_subtitle: "想让你的装置看起来更酷？"
-	quest.54169B69725C49DF.quest_desc: ["将&a液态塑料&f放置在地上,或用附有&a导热框架&f的箱子存储一些,即可得到&3&a塑料板&f&r!"]
-	quest.54169B69725C49DF.quest_subtitle: "终于!"
-	quest.54169B69725C49DF.title: "&f塑料"
-	quest.5A0860631323B5E3.quest_desc: ["用&3&a小麦粉&f&r制成.&a可用于&f制作&a鲑鱼天妇罗&f和&a酸面包&f."]
-	quest.5A0860631323B5E3.quest_subtitle: "你需要这个"
-	quest.5A9D6672385D3D82.quest_desc: ["升级仅需1个青金石而非4个."]
-	quest.5A9D6672385D3D82.quest_subtitle: "节省青金石"
-	quest.5AEE86EB39FD4087.quest_desc: ["&3&a涡流管&f&r将压力分离为冷热空气.冷空气流向蓝色端,热空气流向红色端."]
-	quest.5AEE86EB39FD4087.quest_subtitle: "仍然不是RF..."
-	quest.5AEE86EB39FD4087.title: "热量生产"
-	quest.5B9F933ECD6B24FD.quest_desc: ["让你跳得比二级更高."]
-	quest.5B9F933ECD6B24FD.quest_subtitle: "最大:1"
-	quest.5C7D9BCDF19B86BD.quest_desc: ["防止物品爆炸."]
-	quest.5C7D9BCDF19B86BD.quest_subtitle: "安全!"
-	quest.5D64250B940BC8FD.quest_desc: ["&a压缩铁&f可用于制作&3&a压缩铁&f盔甲&r,其属性与&a铁甲&f相同,但具有更好的&a盔甲韧性&f和&a击退抗性&f.\\n\\n&a盔甲&f可通过制作或在战利品箱中常见获得."]
-	quest.5D64250B940BC8FD.quest_subtitle: "强大的&a击退抗性&f"
-	quest.5D64250B940BC8FD.title: "&a压缩铁&f盔甲"
-	quest.5D71ED16FD4E725A.quest_desc: ["使猪灵保持中立(与穿戴金甲效果相同),只需将升级模块安装在一件装备上即可."]
-	quest.5D71ED16FD4E725A.quest_subtitle: "最大:1"
+	quest.4C0D00B5305117A1.quest_subtitle: "砰砰(没有你)&7[Pew Pew (Without you)]&f"
+	quest.4CA17B0A80020B2F.quest_desc: ["&3压力计&r用于显示机器的额外信息.\\n&7[The Manometer is used to show extra information about a machine.]&f"]
+	quest.4CA17B0A80020B2F.quest_subtitle: "我需要更多信息!&7[I need more Info!]&f"
+	quest.4E1E31EDD544EE10.quest_subtitle: "64,000毫巴&7[64,000mb]&f"
+	quest.4F5348D0C83C3B0D.quest_desc: ["&3&a太阳能电池板&f&r 用于制造太阳能压缩机.\\n&7[Solar Cells are used to make Solar Compressors.]&f"]
+	quest.4F5348D0C83C3B0D.quest_subtitle: "&a太阳&f之芯&7[The Sun's Cells]&f"
+	quest.4F5348D0C83C3B0D.title: "&a太阳能电池板&f&7[Solar Cells]&f"
+	quest.4FCC20D9F8F87B2F.quest_desc: ["&3气动扳手&r 用于移动或拆除机器和管道.\\n&7[The Pneumatic Wrench is used to move around or break your machines and tubes.]&f"]
+	quest.4FCC20D9F8F87B2F.quest_subtitle: "工具扭矩详解!&7[Torque-ing about Tools!]&f"
+	quest.5103C817381181DE.quest_desc: ["允许你在穿戴&a气动胸甲&f时同时使用鞘翅.\\n&7[Allows you to use an Elytra while still having your Pneumatic Chestplate on.]&f"]
+	quest.5103C817381181DE.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.520EFA7F446AFBF2.quest_desc: ["&3润滑液&r 可用于制造钻头.\\n&7[Lubricant can be used to make Drill Bits.]&f"]
+	quest.520EFA7F446AFBF2.quest_subtitle: "润滑液生产!&7[Producing Lube!]&f"
+	quest.520EFA7F446AFBF2.title: "润滑液&7[Lubricant]&f"
+	quest.521656D425E2FDBA.quest_desc: ["速度超越二级等级.\\n&7[Goes even faster than Tier II.]&f"]
+	quest.521656D425E2FDBA.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.52D3697F1F5625C7.quest_desc: ["&3&a蚀刻酸&f&r 在&a压力室&f中用&a熔融塑料&f及其他材料制成,用于&a蚀刻器&f.\\n&7[Etching Acid is made in the Pressure Chamber with Molten Plastic...and some other stuff. Used in the Etching Tank.]&f"]
+	quest.52D3697F1F5625C7.quest_subtitle: "请勿追问...&7[Don't Ask...]&f"
+	quest.5303509A1C2B1CCD.quest_desc: ["&3&a气动凿岩锤&f&r 利用压力采矿,可通过升级变得卓越!\\n&7[The Pneumatic Jackhammer uses pressure to mine, it can be upgraded to be amazing!]&f"]
+	quest.5303509A1C2B1CCD.quest_subtitle: "抱歉,杰克!&7[Sorry Jack!]&f"
+	quest.53518D4ED99A242F.quest_desc: ["&3&a伪装涂覆器&f&r 可将&d气动工艺&f机械隐藏于其他方块内.\\n&7[The Camouflage Applicator can be used to hide PneumaticCraft machinery inside of other blocks.]&f"]
+	quest.53518D4ED99A242F.quest_subtitle: "想让你的装置更酷炫？&7[Want to make your setup look cool?]&f"
+	quest.54169B69725C49DF.quest_desc: ["将&a液态塑料&f放置于地面或用附有&a导热框架&f的箱子储存,即可获得&3&a塑料板&f&r!\\n&7[Place your Liquid Plastic onto the ground or store some in a Chest with a Heat Frame attached and there's your Plastic Sheet!]&f"]
+	quest.54169B69725C49DF.quest_subtitle: "终于!&7[Finally!]&f"
+	quest.54169B69725C49DF.title: "&f塑料&7[Plastic]&f"
+	quest.5A0860631323B5E3.quest_desc: ["由&3&a小麦粉&f&r制成,&a可用于&f制作&a鲑鱼天妇罗&f和&a酸面包&f.\\n&7[Made with Wheat Flour. Can be used to make Salmon Tempura and Sourdough Bread.]&f"]
+	quest.5A0860631323B5E3.quest_subtitle: "你需要这个&7[You knead this]&f"
+	quest.5A9D6672385D3D82.quest_desc: ["升级仅需1个青金石而非4个.\\n&7[Only use 1 Lapis for an Upgrade instead of 4.]&f"]
+	quest.5A9D6672385D3D82.quest_subtitle: "节省青金石&7[Saving Lapis]&f"
+	quest.5AEE86EB39FD4087.quest_desc: ["&3&a涡流管&f&r 将压力分离为冷热空气,冷空气流向蓝色端,热空气流向红色端.\\n&7[The Vortex Tube seperates pressure into hot and cold air. The cold air goes to the blue side and the hot air goes to the red side.]&f"]
+	quest.5AEE86EB39FD4087.quest_subtitle: "仍非RF能源...&7[Still not RF...]&f"
+	quest.5AEE86EB39FD4087.title: "热能生产&7[Heat Production]&f"
+	quest.5B9F933ECD6B24FD.quest_desc: ["跳跃高度超越二级等级.\\n&7[Allows you to jump higher than with Tier II.]&f"]
+	quest.5B9F933ECD6B24FD.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.5C7D9BCDF19B86BD.quest_desc: ["防止物品爆炸.\\n&7[Prevents things from exploding.]&f"]
+	quest.5C7D9BCDF19B86BD.quest_subtitle: "安全防护!&7[Secure!]&f"
+	quest.5D64250B940BC8FD.quest_desc: ["&a压缩铁&f 可用于制作&3&a压缩铁甲&f&r,其属性同&a铁甲&f,但具备更好的&a盔甲韧性&f和&a击退抗性&f.\\n\\n&a盔甲&f 可通过制作或常见于战利品箱中获得.\\n&7[Compressed Iron can be used to craft Compressed Iron Armor, it's the same as Iron Armor but with better Armor Toughness and Knockback Resistance.\\n\\nThe armor can be crafted or can be found commonly in loot chests.]&f"]
+	quest.5D64250B940BC8FD.quest_subtitle: "卓越的&a击退抗性&f&7[Great Knockback Resistance]&f"
+	quest.5D64250B940BC8FD.title: "&a压缩铁&f盔甲&7[Compressed Iron Armor]&f"
+	quest.5D71ED16FD4E725A.quest_desc: ["使猪灵保持中立(效果同穿戴金甲),只需将升级模块安装于任意一件装备.\\n&7[Makes Piglins Passive (same as wearing Gold Armor), you only need to put the Upgrade on one piece.]&f"]
+	quest.5D71ED16FD4E725A.quest_subtitle: "最大:1&7[Max: 1]&f"
 	quest.5D7B34761E8FD212.quest_desc: [
-		"&3&a静电压缩机&f&r通过&a雷电打击&f产生大量压力.\\n\\n更多信息请查看JEI中的”信息”标签页.\\n"
+		"&3&a静电压缩机&f&r 通过&a雷电打击&f产生大量压力.\\n\\n更多信息请查阅JEI中的”信息”标签页.\\n\\n&7[The Electrostatic Compressor generates a lot of pressure from Lightning Strikes.\\n\\nFor more info check out the \"Information\" tab in JEI.\\n]&f"
 		"{image:pneumaticcraft:textures/patchouli/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
 	]
-	quest.5D7B34761E8FD212.title: "雷电产压"
-	quest.5E71F8A046C60346.quest_desc: ["谁说&d气动工艺&f与能源生产无关？\\n\\n&3&a气动能源炉&f&r可将压力转化为FE能量.查看物品提示或查阅PNC:R手册了解运作原理."]
-	quest.5E71F8A046C60346.quest_subtitle: "压力=能源"
-	quest.5E71F8A046C60346.title: "能源生产"
-	quest.602C3E88D96F8843.quest_desc: ["将充能版&a空印刷电路板&f与&a蚀刻酸&f放入&a蚀刻器&f加热,即可获得&3未组装电路板&r."]
-	quest.602C3E88D96F8843.quest_subtitle: "即将完成!"
-	quest.61AD2207E770CD7F.quest_desc: ["可从更远距离吸取物品与经验"]
-	quest.61AD2207E770CD7F.quest_subtitle: "最大:6"
-	quest.61B479079DC1C69C.quest_desc: ["提供比一级更强的跳跃能力"]
-	quest.61B479079DC1C69C.quest_subtitle: "最大:1"
-	quest.61BA2932EC86DA2E.quest_desc: ["实现超高跳跃"]
-	quest.61BA2932EC86DA2E.quest_subtitle: "最大:1"
-	quest.63F6F4EBCEB914B0.quest_desc: ["&3&a压力室&f&r是由&3&a压力室墙壁&f&r构成的重要多方块结构(墙面可替换为&3&a压力室玻璃&f&r).最小为3x3x3,最大为5x5x5规格,本任务需完成5x5x5建造.\\n\\n使用&3&a压力管道&f&r将压力导入&3&a压力室气阀&f&r(记得在&a加压阀门&f内安装安全升级).&l不同配方所需压力值不同&r.\\n\\n通过&3&a压力室接口&f&r进行物品输入(蓝色外框)输出(金色外框),可安装于任意面."]
-	quest.63F6F4EBCEB914B0.quest_subtitle: "增压中!"
-	quest.63F6F4EBCEB914B0.title: "&a压力室&f"
-	quest.649167FC31EB916E.quest_desc: ["将作物或种子放入&3&a热气动加工机&f&r可制得&3&a植物油&f&r."]
-	quest.649167FC31EB916E.quest_subtitle: "优质油料"
-	quest.649167FC31EB916E.title: "&a植物油&f"
-	quest.64D34A6C3487C5DF.quest_desc: ["&3&a空气接口&f&r可为可加压设备补充压力,使&a气动装甲&f无需充电即可使用!\\n\\n制作&6&aATM之星&f&r需要此部件."]
-	quest.64D34A6C3487C5DF.quest_subtitle: "无线压力传输!"
-	quest.64E2E05B228EA53E.quest_desc: ["&3高级&a压力管道&f&r是目前最优管道,可承受20巴压力!\\n\\n除独立使用外,还能参与更高级配方制作."]
-	quest.64E2E05B228EA53E.quest_subtitle: "全新层级!"
+	quest.5D7B34761E8FD212.title: "雷电生压&7[Pressure from Lightning]&f"
+	quest.5E71F8A046C60346.quest_desc: ["谁说&d气动工艺&f不涉及能源生产？\\n\\n&3&a气动能源炉&f&r可将压力转化为FE能量.查看物品提示或查阅PNC:R手册了解运作原理.\\n&7[Whoever told you PneumaticCraft wasn't about generating power?\\n\\nThe Pneumatic Dynamo allows you to turn your pressure in FE. Read the tooltip or read about it in the PNC:R to learn how it works.]&f"]
+	quest.5E71F8A046C60346.quest_subtitle: "压力=能源&7[Pressure = Power]&f"
+	quest.5E71F8A046C60346.title: "能源生产&7[Generating Power]&f"
+	quest.602C3E88D96F8843.quest_desc: ["将充能版&a空印刷电路板&f与&a蚀刻酸&f放入&a蚀刻器&f中加热,即可获得&3未组装的PCB电路板&r.\\n&7[Put a Charged Empty PCB into the Etching Tank with some Etching Acid and some heat and you'll get an Unassembled PCBs.]&f"]
+	quest.602C3E88D96F8843.quest_subtitle: "即将完成!&7[Almost there!]&f"
+	quest.61AD2207E770CD7F.quest_desc: ["允许从更远距离吸取物品和经验.\\n&7[Allows you to pickup items and experience from furthur away.]&f"]
+	quest.61AD2207E770CD7F.quest_subtitle: "最大:6级&7[Max: 6]&f"
+	quest.61B479079DC1C69C.quest_desc: ["提供比一级更强的跳跃能力.\\n&7[Allows you to jump higher than with Tier I.]&f"]
+	quest.61B479079DC1C69C.quest_subtitle: "最大:1级&7[Max: 1]&f"
+	quest.61BA2932EC86DA2E.quest_desc: ["允许进行超高跳跃.\\n&7[Allows you to jump VERY high.]&f"]
+	quest.61BA2932EC86DA2E.quest_subtitle: "最大:1级&7[Max: 1]&f"
+	quest.63F6F4EBCEB914B0.quest_desc: ["&3&a压力室&f&r是由&3&a压力室墙壁&f&r构成的重要多方块结构(墙面可替换为&3&a压力室玻璃&f&r).最小为3x3x3,最大为5x5x5规格,本任务需完成5x5x5建造.\\n\\n使用先前制作的&3&a压力管道&f&r将压力导入&3&a压力室气阀&f&r(记得在&a加压阀门&f内安装安全升级).&l不同配方需要不同压力值&r.\\n\\n通过&3&a压力室接口&f&r进行物品输入输出:蓝色外框为输入端,金色外框为输出端,可安装于任意面.\\n&7[The Pressure Chamber is an important multiblock structure made up of Pressure Chamber Walls (The faces can be replaced with Pressure Chamber Glass). The Pressure Chamber can be as small as a 3x3x3 multiblock, or as big as a 5x5x5 multiblock. The blocks required for the 5x5x5 is what's needed to complete this quest.\\n\\nTo use the Pressure Chamber you will need to pipe pressure into a Pressure Chamber Valve using the Pressure Tubes you made earlier, remember to put a Security Upgrade into the Pressure Valve. lDifferent recipes require different amounts of pressure.\\n\\nYou'll need to be able to input and output items to and from the Pressure Chamber, this is where Pressure Chamber Interfaces come into it. Blue on the outside means it's for importing items, while if gold is on the outside it's for outputing items, place one of each on any face.]&f"]
+	quest.63F6F4EBCEB914B0.quest_subtitle: "加压进行时!&7[Pressurizing!]&f"
+	quest.63F6F4EBCEB914B0.title: "&a压力室&f&7[The Pressure Chamber]&f"
+	quest.649167FC31EB916E.quest_desc: ["将作物或种子放入&3&a热气动加工机&f&r可制取&3&a植物油&f&r.\\n&7[Vegetable Oil can be made by putting either crops or seeds into a Thermopneumatic Processing Plant.]&f"]
+	quest.649167FC31EB916E.quest_subtitle: "优质油料&7[Better Oil]&f"
+	quest.649167FC31EB916E.title: "&a植物油&f&7[Vegetable Oil]&f"
+	quest.64D34A6C3487C5DF.quest_desc: ["&3&a空气接口&f&r可为可加压设备补充压力,使&a气动装甲&f无需充电即可使用!\\n\\n制作&6&aATM之星&f&r需要此装置.\\n&7[The Aerial Interface can be used to refill your pressurizable things with pressure. Now you can use your Pneumatic Armor without needing to recharge!\\n\\nYou will need one of these in order to craft the ATM Star.]&f"]
+	quest.64D34A6C3487C5DF.quest_subtitle: "无线压力传输!&7[Wireless Pressure!]&f"
+	quest.64E2E05B228EA53E.quest_desc: ["&3高级&a压力管道&f&r是目前最优管道,可承受20巴压力!\\n\\n除独立使用外,还能参与更高级的合成配方.\\n&7[Advanced Pressure Tubes are the best Pressure Tubes available, being able to hold 20 bars of pressure!\\n\\nAlthough these are really cool on their own, they can also be used in some even cooler recipes.]&f"]
+	quest.64E2E05B228EA53E.quest_subtitle: "全新层级!&7[A Whole new Level!]&f"
 	quest.657DB994B029F61C.quest_desc: [
-		"当&3&a导热框架&f&r接触特定流体容器并充分冷却时,可将流体转化为物品."
+		"当&3&a导热框架&f&r接触特定流体容器并降至足够低温时,可将流体转化为物品.\\n&7[When the Heat Frame is placed on a container containing certain fluids and made cold enough, it will turn said fluids into items.]&f"
 		""
-		"将&a熔融塑料&f转化为塑料"
-		"将水转化为冰"
-		"将熔岩转化为黑曜石"
+		"将&a熔融塑料&f转化为塑料\\n&7[Turns Molten Plastic into Plastic.]&f"
+		"将水转化为冰\\n&7[Turns Water into Ice.]&f"
+		"将岩浆转化为黑曜石\\n&7[Turns Lava into Obsidian.]&f"
 	]
-	quest.65E2AF881709C896.quest_desc: ["&3&a强化石头&f&r是重要材料,需用&a压缩铁&f与普通石头合成32个."]
-	quest.65E2AF881709C896.quest_subtitle: "此材料需求量大"
-	quest.65E2AF881709C896.title: "&a强化石头&f"
-	quest.6674270897997BF7.quest_desc: ["使你能跳得比平时更高,并让你具有弹性,从而实现更快的移动.\\n\\n护腿每次只能拥有一个等级的此类升级."]
-	quest.6674270897997BF7.quest_subtitle: "最大:1"
-	quest.681A3F31FB242555.quest_desc: ["&3乙醇&r可用于制造生物柴油."]
-	quest.681A3F31FB242555.title: "乙醇"
-	quest.68F92455A9483AD6.quest_desc: ["只有使用过&a喷射加速模块&f后才会看到此任务.\\n\\n使用&a喷射加速模块&f不可能不受到伤害,甚至别尝试..."]
-	quest.68F92455A9483AD6.quest_subtitle: "你以为使用鞘翅很难吗？"
-	quest.68F92455A9483AD6.title: "&a喷射加速模块&f"
-	quest.6B1C06C753C10E44.quest_desc: ["&3&a物流配置器&f&r可用于配置物流框架和&a传输装置&f."]
-	quest.6CA01DCE1F4A0EC3.quest_desc: ["模组的下一阶段需要收集&3&a原油&f&r.这种石油可以自然生成在主世界的地表."]
-	quest.6CA01DCE1F4A0EC3.quest_subtitle: "&a铺路石&f变塑料"
-	quest.6CA01DCE1F4A0EC3.title: "&a原油&f"
-	quest.6D124ACF4AE80490.quest_desc: ["使用微型导弹,你可以从远处发射爆炸!现在没人能逃得掉!\\n\\n这些是合成&6&aATM之星&f&r所必需的."]
-	quest.6D124ACF4AE80490.quest_subtitle: "从远处发射爆炸!"
+	quest.65E2AF881709C896.quest_desc: ["&3&a强化石头&f&r是重要材料,需用&a压缩铁&f与普通石头合成32个.\\n&7[One of the most important materials you'll be needing is Reinforced Stone, start by making 32 using Compressed Iron and some regular stone.]&f"]
+	quest.65E2AF881709C896.quest_subtitle: "此物需求量大&7[You'll need a lot of this]&f"
+	quest.65E2AF881709C896.title: "&a强化石头&f&7[Reinforced Stone]&f"
+	quest.6674270897997BF7.quest_desc: ["使你能跳得比平时更高,并让你具有弹性,从而实现更快的移动.\\n\\n护腿每次只能拥有一级此类升级.\\n&7[Allows you to jump higher than usual and makes you springy, making for faster travel.\\n\\nYou can only have one level of these Upgrades in the Leggings at a time.]&f"]
+	quest.6674270897997BF7.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.681A3F31FB242555.quest_desc: ["&3乙醇&r可用于制造生物柴油.\\n&7[Ethanol can be used to make Biodiesel.]&f"]
+	quest.681A3F31FB242555.title: "乙醇&7[Ethanol]&f"
+	quest.68F92455A9483AD6.quest_desc: ["只有使用过&a喷射加速模块&f后才会看到此任务.\\n\\n使用&a喷射加速模块&f不可能不受到伤害,甚至别尝试...\\n&7[You will only see this quest if you have used Jet Boots.\\n\\nThere's no way of using Jet Boots without taking damage, don't even try...]&f"]
+	quest.68F92455A9483AD6.quest_subtitle: "你以为使用鞘翅很难吗？&7[You thought using an Elytra was hard?]&f"
+	quest.68F92455A9483AD6.title: "&a喷射加速模块&f&7[Jet Boots]&f"
+	quest.6B1C06C753C10E44.quest_desc: ["&3&a物流配置器&f&r可用于配置物流框架和&a传输装置&f.\\n&7[The Logistics Configurator can be used to configure Logistic Frames and Transfer Gadgets.]&f"]
+	quest.6CA01DCE1F4A0EC3.quest_desc: ["模组的下一阶段需要收集&3&a原油&f&r.这种石油可以自然生成在主世界地表.\\n&7[The next stage of the mod requires the collection of Crude Oil. This Oil can be found naturally on the surface of the overworld.]&f"]
+	quest.6CA01DCE1F4A0EC3.quest_subtitle: "&a铺路石&f变塑料&7[The Path to Plastic]&f"
+	quest.6CA01DCE1F4A0EC3.title: "&a原油&f&7[Crude Oil]&f"
+	quest.6D124ACF4AE80490.quest_desc: ["有了微型导弹,你可以从远处发射爆炸!现在没人能逃得掉!\\n\\n制作&6&aATM之星&f&r需要这些.\\n&7[With Micromissiles you can shoot explosions from far away! Now nobody can escape!\\n\\nTheses are needed to craft the ATM Star.]&f"]
+	quest.6D124ACF4AE80490.quest_subtitle: "从远处发射爆炸!&7[Firing Explosions from afar!]&f"
 	quest.6EB53CDCB80D4B66.quest_desc: [
-		"&3&a气动门&f&r充当自动门,可以设置为只为你打开!"
+		"&3&a气动门&f&r可作为自动门,可设置为仅为你开启!\\n&7[The Pneumatic Door acts as automatic door that can be made to only open for you!]&f"
 		""
 		"{image:pneumaticcraft:textures/patchouli/pneumatic_door.png width:200 height:200 align:right fit:true}"
 	]
-	quest.6FD65139CD50A8C0.quest_desc: ["这甚至可能吗？\\n\\n如果你想自动化这个过程,可以使用&e&d资源蜜蜂&f&r或&a&d神秘农业&f&r.或者,我想你可以用...爆炸来自动化它."]
-	quest.6FD65139CD50A8C0.quest_subtitle: "厌倦了炸东西？"
+	quest.6FD65139CD50A8C0.quest_desc: ["这甚至可能吗？\\n\\n如果你想自动化这个过程,可以使用&e&d资源蜜蜂&f&r或&a&d神秘农业&f&r.或者,我想你可以用...爆炸来自动化它.\\n&7[Is that even possible?\\n\\nIf you wish to automate this process you can use Productive Bees or Mystical Agriculture. Or I guess you could automate it, with...explosions.]&f"]
+	quest.6FD65139CD50A8C0.quest_subtitle: "厌倦了炸东西？&7[Tired of blowing stuff up?]&f"
 	quest.7040CA41C0A3C2F2.quest_desc: [
-		"&3&a印刷电路板蓝图&f&r现正特价,仅售8绿宝石.(&a仅限&f有限时间)."
+		"&3&a印刷电路板蓝图&f&r现特价8绿宝石.(&a仅限&f有限时间).\\n&7[PCB Blueprints ON SALE NOW for 8 Emeralds. (Only for a limited time).]&f"
 		"{@pagebreak}"
-		"(新页面&a占位符文本&f)"
+		"(新页面&a占位符文本&f)\\n&7[(new page placeholder text)]&f"
 	]
-	quest.7040CA41C0A3C2F2.quest_subtitle: "感谢阿玛德隆!"
-	quest.7040CA41C0A3C2F2.title: "&9&a印刷电路板蓝图&f"
+	quest.7040CA41C0A3C2F2.quest_subtitle: "感谢阿玛德隆!&7[Thanks Amadron!]&f"
+	quest.7040CA41C0A3C2F2.title: "&9&a印刷电路板蓝图&f&7[PCB Blueprint]&f"
 	quest.715B86DC82EA636B.quest_desc: [
-		"&3&a液体压缩机&f&r使用特定液体产生压力.你可以通过右键将桶放在机器上、泵入流体或在GUI的顶部槽位放置桶来加入燃料."
+		"&3&a液体压缩机&f&r使用特定液体产生压力.你可以通过右键将桶放在机器上、泵入流体或在GUI顶部槽位放置桶来加入燃料.\\n&7[The Liquid Compressor creates pressure using certain liquids. You can put the fuel in by right-clicking the bucket onto the machine, pumping in the fluid, or by putting a bucket in the top slot in the GUI.]&f"
 		""
 		"{image:pneumaticcraft:textures/gui/gui_liquid_compressor.png width:200 height:200 align:center fit:true}"
 	]
-	quest.715B86DC82EA636B.title: "来自液体的压力"
+	quest.715B86DC82EA636B.title: "液体产生的压力&7[Pressure from Liquids]&f"
 	quest.7177E49BF9ECA5CF.quest_desc: [
-		"&3&a热力压缩器&f&r利用热量产生压力!在一侧放置热物,另一侧放置冷物以产生压力."
+		"&3&a热力压缩器&f&r利用热量产生压力!在一侧放置热物,另一侧放置冷物以产生压力.\\n&7[The Thermal Compressor creates pressure using heat! Place somthing hot on one side and something cold on the other to create pressure.]&f"
 		""
 		"{image:pneumaticcraft:textures/patchouli/thermal_compressor.png width:100 height:100 align:left fit:true}"
 	]
-	quest.7177E49BF9ECA5CF.title: "来自热量的压力"
-	quest.718DABA6C9E5982A.quest_desc: ["穿戴时赋予玩家&a夜视&f能力."]
-	quest.718DABA6C9E5982A.quest_subtitle: "最大:1"
+	quest.7177E49BF9ECA5CF.title: "热量产生的压力&7[Pressure from Heat]&f"
+	quest.718DABA6C9E5982A.quest_desc: ["穿戴时赋予玩家&a夜视&f能力.\\n&7[Grants the player Night Vision when worn.]&f"]
+	quest.718DABA6C9E5982A.quest_subtitle: "最大:1&7[Max: 1]&f"
 	quest.72C09FD89C28B1EC.quest_desc: [
-		"我们将要制作的&3&a炼油厂&f&r是一个1x1x5的多方块结构,由1个&3&a精炼厂控制器&f&r(在底部)和四个&3精炼厂输出&r(在上方)组成.你需要输入石油和热量才能使其工作.这将生产柴油、煤油、汽油和液化石油气.在侧面放置&3&a隔热板&f&r有助于保温."
+		"我们将制作的&3&a炼油厂&f&r是一个1x1x5的多方块结构,由1个&3&a精炼厂控制器&f&r(在底部)和四个&3精炼厂输出&r(在上方)组成.你需要输入石油和热量才能使其工作.这将生产柴油、煤油、汽油和液化石油气.在侧面放置&3&a隔热板&f&r有助于保温.\\n&7[The Oil Refinery we'll be making is a 1x1x5 multiblock made up of 1 Refinery Controller (at the bottom) and four Refinery Outputs (on top). You will need to input Oil and heat for this to work. This will produce Diesel, Kerosene, Gasoline and LPG. Putting Thermal Laggings on the sides helps keep it warm.]&f"
 		""
 		"{image:atm:textures/questpics/pneumaticcraft/oil_refinery.png width:300 height:150 align:center}"
 	]
-	quest.72C09FD89C28B1EC.quest_subtitle: "现在我们有所进展了"
-	quest.72C09FD89C28B1EC.title: "&a炼油厂&f"
+	quest.72C09FD89C28B1EC.quest_subtitle: "现在我们有所进展了&7[Now we're getting somewhere]&f"
+	quest.72C09FD89C28B1EC.title: "&a炼油厂&f&7[Oil Refinery]&f"
 	quest.7386A8433698946C.quest_desc: [
-		"选择一个物品,此升级将在附近的箱子或地面上搜索它.要在箱子中找到它,需要区块追踪器升级；要在地面上找到它,需要&a实体追踪器&f升级.\\n"
+		"选择一个物品,此升级将在附近的箱子或地面上搜索它.要在箱子中找到它,需要区块追踪器升级；要在地面上找到它,需要&a实体追踪器&f升级.\\n\\n&7[Select an item an this upgrade will search fo it nearby in chests or on the floor. To find it in chests it will need the Block Tracker Upgrade and to find it on the floor it will need the Entity Tracker Upgrade.\\n]&f"
 		"{image:atm:textures/questpics/pneumaticcraft/item_search_upgrade.png width:200 height:200 align:center}"
 	]
-	quest.7386A8433698946C.quest_subtitle: "最大:1"
-	quest.7395B41685F4BC1A.quest_desc: ["&3&a通量压缩机&f&r 能够利用能量产生大量压力.只需注入FE(能量单位),它便会开始生成压力.若您有充足的FE储备,这可能是最便捷的压力生成方式."]
-	quest.7395B41685F4BC1A.quest_subtitle: "能量=压力"
-	quest.7395B41685F4BC1A.title: "能量转化压力"
-	quest.74015945716FD10A.quest_desc: ["&3&a全方向漏斗&f&r 可从任意面输入物品,且经升级后速度远超普通漏斗!在不需要管道的情况下非常实用."]
-	quest.74015945716FD10A.quest_subtitle: "可配置漏斗"
-	quest.74AE214747A3DB1A.quest_desc: ["提升物体承压能力"]
-	quest.74AE214747A3DB1A.quest_subtitle: "增压!"
-	quest.75D3F3C1D4A3EAA2.quest_desc: ["要转移&a涡流管&f产生的热量,可制作&3&a热管&f&r."]
-	quest.75D3F3C1D4A3EAA2.quest_subtitle: "我们有需要转移的热量:)"
-	quest.75D3F3C1D4A3EAA2.title: "热量转移"
-	quest.762B8309E1A31B99.quest_desc: ["每次升级增加0.5点护甲防御值和1点&a盔甲韧性&f."]
-	quest.762B8309E1A31B99.quest_subtitle: "最大:4"
-	quest.7770F0D62457096D.quest_desc: ["虽然任务不涉及无人机,但它们非常神奇!如需使用可自行探索."]
-	quest.7770F0D62457096D.title: "无人机编程"
-	quest.795143471F31A64A.quest_subtitle: "激光配方必备"
-	quest.7953C87C488A2AF7.quest_desc: ["使您能像钢铁侠般飞行.\\n\\n靴子每次仅能安装一级该升级.每级消耗压力较前级更多.\\n\\n请使用这些升级,而非仅制作收藏."]
-	quest.7953C87C488A2AF7.quest_subtitle: "最大:1"
-	quest.7B2008977702D0C8.quest_desc: ["在&a空气压缩机&f中制造压力时,若无压力输出路径,压力将消散.确保先建立压力传输路径再开始制造."]
-	quest.7B2008977702D0C8.quest_subtitle: "RF或FE怎么了？"
-	quest.7BFC24607189B6D0.quest_desc: ["提升游泳速度"]
-	quest.7BFC24607189B6D0.quest_subtitle: "最大:1"
-	quest.7BFE7DAF18981843.quest_subtitle: "钻头配方必备"
-	quest.7D6B4AEF806AF62E.quest_desc: ["100%过快!注意避免意外!"]
-	quest.7D6B4AEF806AF62E.quest_subtitle: "最大:1"
-	quest.7D81F2381516204D.quest_subtitle: "成品PCB必备"
-	quest.7D81F2381516204D.title: "晶体管"
-	quest.7FB12EC3A5888123.quest_desc: ["&3&a管道跨接点&f&r 通过允许&a压力管道&f多向延伸,增强压力传输的操控性."]
-	quest.7FB12EC3A5888123.quest_subtitle: "不,请朝这个方向!"
-	task.0B54EDC9E21F2E77.title: "物流框架"
-	task.13266875BDB5077D.title: "版权所有"
-	task.1EEC7B67E037F766.title: "压力原理"
-	task.25FF884779D98BAD.title: "建筑砖块™"
-	task.28A1D25CDDBF5163.title: "箱子"
-	task.2C268116DA162155.title: "版权所有"
-	task.49A8320F9EA7F4BD.title: "&a压缩铁&f自动化"
+	quest.7386A8433698946C.quest_subtitle: "最大:1&7[Max: 1]&f"
+	quest.7395B41685F4BC1A.quest_desc: ["&3&a通量压缩机&f&r 能够利用能量产生大量压力.只需输入FE能量,它就会开始生成压力.若您有充足的FE能源储备,这可能是最便捷的压力生成方式.\\n&7[The Flux Compressor can create a ton of pressure using power. Simply pump some FE in and it will start generating some. If you have enough FE to spare, this is probably the easiest way to generate pressure.]&f"]
+	quest.7395B41685F4BC1A.quest_subtitle: "能量=压力&7[Power = Pressure]&f"
+	quest.7395B41685F4BC1A.title: "能量转化压力&7[Pressure from Power]&f"
+	quest.74015945716FD10A.quest_desc: ["&3&a全方向漏斗&f&r 可从任意面输入物品,且经升级后速度远超普通漏斗!在不需要管道系统的场合尤为实用.\\n&7[Thie Omnidirectional Hopper can input items from any side, plus it can be upgraded to be way faster than a regular Hopper! Nice for when Pipes aren't needed.]&f"]
+	quest.74015945716FD10A.quest_subtitle: "可配置型漏斗&7[A configurable hopper]&f"
+	quest.74AE214747A3DB1A.quest_desc: ["提升设备承压能力上限.\\n&7[Increases how much pressure things can hold.]&f"]
+	quest.74AE214747A3DB1A.quest_subtitle: "增压进行时!&7[Turn it up!]&f"
+	quest.75D3F3C1D4A3EAA2.quest_desc: ["若要转移&a涡流管&f产生的热量,请制作&3&a热管&f&r.\\n&7[To move the heat being made by the Vortex Tube, make some Heat Pipes.]&f"]
+	quest.75D3F3C1D4A3EAA2.quest_subtitle: "热传导准备就绪:)&7[We have the heat to move :)]&f"
+	quest.75D3F3C1D4A3EAA2.title: "热能传导&7[Moving Heat]&f"
+	quest.762B8309E1A31B99.quest_desc: ["每级升级提供+0.5护甲防御值与+1&a盔甲韧性&f.\\n&7[Each upgrade adds +0.5 Armor Defence and +1 Armor Toughness.]&f"]
+	quest.762B8309E1A31B99.quest_subtitle: "上限:4级&7[Max: 4]&f"
+	quest.7770F0D62457096D.quest_desc: ["虽然任务线不涉及无人机系统,但它们非常强大!如有需要可自行探索使用方式.\\n&7[Although these quests won't go over Drones, they are amazing! Look into using them if you want to.]&f"]
+	quest.7770F0D62457096D.title: "无人机编程&7[Programming Drones]&f"
+	quest.795143471F31A64A.quest_subtitle: "激光配方必备组件&7[Required for Laser recipes]&f"
+	quest.7953C87C488A2AF7.quest_desc: ["令您获得钢铁侠般的飞行能力.\\n\\n靴子每次仅能安装一级该升级.每级升级会比前级消耗更多压力值.\\n\\n请实际使用这些升级组件,而非仅作合成.\\n&7[Allows you to fly like Iron Man.\\n\\nYou can only have one level of these Upgrades in the Boots at a time. Each level will use more pressure than the previous.\\n\\nUse these upgrades, don't just craft them.]&f"]
+	quest.7953C87C488A2AF7.quest_subtitle: "上限:1级&7[Max: 1]&f"
+	quest.7B2008977702D0C8.quest_desc: ["当使用&a空气压缩机&f制造压力时,若未配置压力输出路径,产生的压力将会消散.确保先建立压力传输通道再开始制造压力.\\n&7[When making pressure in an Air Compressor, if you don't have anywhere for the pressure to go. it will just disappear. Make sure you have somewhere for the pressure to go before making some.]&f"]
+	quest.7B2008977702D0C8.quest_subtitle: "RF与FE能量去哪了？&7[What happened to RF or FE?]&f"
+	quest.7BFC24607189B6D0.quest_desc: ["提升游泳速度.\\n&7[Makes you swim faster.]&f"]
+	quest.7BFC24607189B6D0.quest_subtitle: "上限:1级&7[Max: 1]&f"
+	quest.7BFE7DAF18981843.quest_subtitle: "钻头配方必备组件&7[Required for Drill recipes]&f"
+	quest.7D6B4AEF806AF62E.quest_desc: ["速度提升100%!注意规避危险!\\n&7[100% way too fast! Try not to die!]&f"]
+	quest.7D6B4AEF806AF62E.quest_subtitle: "上限:1级&7[Max: 1]&f"
+	quest.7D81F2381516204D.quest_subtitle: "成品PCB基板必需材料&7[Needed for Finished PCBs]&f"
+	quest.7D81F2381516204D.title: "晶体管&7[Transistors]&f"
+	quest.7FB12EC3A5888123.quest_desc: ["&3&a管道跨接点&f&r 通过允许&a压力管道&f多向延伸,为您提供更精准的压力传输控制.\\n&7[The Tube Junction gives you more control over the transportation of your pressure by allowing you to move your Pressure Tubes in more directions.]&f"]
+	quest.7FB12EC3A5888123.quest_subtitle: "不,请朝这个方向!&7[No, go this way!]&f"
+	task.0B54EDC9E21F2E77.title: "物流框架&7[Logistics Frames]&f"
+	task.13266875BDB5077D.title: "版权所有&7[AllRightsReserved]&f"
+	task.1EEC7B67E037F766.title: "压力系统详解&7[Understanding Pressure]&f"
+	task.25FF884779D98BAD.title: "建筑砖块™&7[Construction Bricks™]&f"
+	task.28A1D25CDDBF5163.title: "箱子&7[Chests]&f"
+	task.2C268116DA162155.title: "版权所有&7[AllRightsReserved]&f"
+	task.49A8320F9EA7F4BD.title: "&a压缩铁&f 自动化生产&7[Compressed Iron Automation]&f"
 }

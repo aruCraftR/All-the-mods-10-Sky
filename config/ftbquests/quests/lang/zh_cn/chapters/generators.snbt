@@ -1,85 +1,85 @@
 {
-	quest.062AA943A1629A86.quest_desc: ["你炸毁了&c彩&6虹&e熔&2岩&3炉&9？&5!&r 就在旁边点燃了TNT？你疯了吗？那花费了多少熔炉和资源,你竟然就这么炸了它!!!至少你从中得到了什么好东西吗？&c彩&6虹&e煤&2？&3永&9久&5燃&c煤&r？说真的,那还挺值得的."]
-	quest.062AA943A1629A86.title: "&c彩&6虹&e煤&2"
+	quest.062AA943A1629A86.quest_desc: ["你炸掉了&c彩&6虹&r &c熔&6炉&r？!？!就在旁边点燃了TNT？你疯了吗？那花了那么多熔炉和资源,你就这样炸了它!!!你至少从中得到了什么好东西吗？&c彩&6虹&r &c煤&r？永远用不完的煤？实际上那还挺值得的.\\n&7[You blew up the Rainbow Furnaco?!?! Just lit TNT right next to it? Are you mad? That took so many Furnaces and resources and you just blew it up!!! Did you atleast get something good from it? Rainbow Coal? Coal that lasts forever? Actually that's pretty worth it.]&f"]
+	quest.062AA943A1629A86.title: "&c彩&6虹 &c煤&7[Rainbow Coal]&f"
 	quest.07753C5D94312A50.quest_desc: [
-		"&3增强组件&r:发电机与&3增强组件&r:工厂相反,它不是用能量来冶炼,而是通过冶炼产生能量.你将不再在其中冶炼物品,所有使用的燃料都会转化为能量!"
+		"&3增强&r:发电机与&3增强&r:工厂相反,它不是使用能量来熔炼,而是通过熔炼产生能量.你将不再在其中熔炼物品,每个使用的燃料都会转化为能量!\\n&7[Augment: Generator is the opposite of the Augment: Factory, instead of using Energy to Smelt, it Smelts for Energy. You will no longer smelt items in it, every Fuel used will be made into Energy!]&f"
 		""
-		"(我在想,连接一个发电机和工厂熔炉是否比只在一个熔炉里使用燃料更好)"
+		"(我在想连接一个发电机和工厂熔炉是否比只在一个中使用燃料更好)\\n&7[(I wonder if it's better to connect a Generator and Factory Furnaces instead of just using Fuel in one)]&f"
 	]
-	quest.07753C5D94312A50.title: "&3增强组件&r:发电机"
-	quest.0AD2B11565B484E7.quest_desc: ["在达到&5下界合金&r之前,你需要每一个熔炉.是的,所有,甚至是&6铜&r的!甚至是&7银&r的!甚至是&3水晶&r的!"]
-	quest.0AD2B11565B484E7.title: "&c彩&6虹&e镀&2层&3"
-	quest.0ADBE90B33ACC9FB.quest_desc: ["&c彩&6虹&e发&2电&3机&9是&5对&c彩&6虹&e熔&2岩&3炉&9的&5增&c强&6,&r当使用&3增强组件&r:发电机时.如果其他所有9个熔炉(不包括AllTheModium熔炉及更高级的)围绕在&c彩&6虹&e熔&2岩&3炉&9周围,&5并且&r都装有&3增强组件&r:发电机,并且正在 actively 产生能量(有燃料且未满),它们将会增强一个装有&3增强组件&r:发电机且正在工作的&c彩&6虹&e熔&2岩&3炉&9.每tick将额外产生2kFE!"]
-	quest.0ADBE90B33ACC9FB.title: "&c彩&6虹&e发&2电&3机&9"
-	quest.20EC8001A05CE2C8.quest_desc: ["无线热能是一种有趣且简单的方式来为熔炉供能.首先放置无线热能发射器并向其中注入能量.然后将接收器放入发射器中进行绑定.最后将接收器放入熔炉燃料槽开始供能!"]
-	quest.21EA29A8C7F950CE.quest_desc: ["&b钻石&r是&2我的世界&r的基石,显然也是升级熔炉的必备材料...\\n \\n这些熔炉工作速度更快,仅需80刻或4&a秒&f来冶炼物品.这甚至比&a爆裂熔炉&f还要快!\\n \\n这些只能由&e&a金熔炉&f&r制作,并且可以制作成&3水晶&r或&a绿宝石熔炉&r."]
-	quest.21EA29A8C7F950CE.title: "&b&a钻石熔炉&f"
-	quest.2354BC5330350DF6.quest_desc: ["如果&a绿宝石&r不是你的菜,&3&a水晶熔炉&f&r可能正是你想要的!\\n \\n工作速度与&a绿宝石熔炉&r相同,为40刻.\\n \\n由&b&a钻石熔炉&f&r制作,并且可以制作成&d&a黑曜石熔炉&f&r.\\n \\n(不,你看不到里面正在冶炼的物品,它只是透明的)"]
-	quest.2354BC5330350DF6.title: "&3&a水晶熔炉&f"
-	quest.25080E3295B1DF01.quest_desc: ["&5&a难得素熔炉&f&r冶炼物品的速度比整合包中任何其他熔炉都要快!"]
-	quest.25080E3295B1DF01.title: "&5&a难得素熔炉&f"
-	quest.2748ACEAB96A5F60.quest_desc: ["&d更多熔炉&f(请注意区分:&l&d更多熔炉&f&r既是模组名称也是物品名称)的运作速度比普通熔炉和&a铜熔炉&f更快,每160刻(8秒)完成一次冶炼.\\n\\n可使用普通熔炉或&6&a铜熔炉&f&r合成,并能升级为&7&a银熔炉&f&r或&e&a金熔炉&f&r."]
-	quest.2748ACEAB96A5F60.title: "&f&a铁熔炉&f"
-	quest.2E85D6E2CFCC356E.quest_desc: ["&3&a振金熔炉&f&r的性能甚至优于&6&aATM熔炉&f&r!"]
-	quest.2E85D6E2CFCC356E.title: "&3&a振金熔炉&f"
+	quest.07753C5D94312A50.title: "&3增强&r:发电机&7[Augment: Generator]&f"
+	quest.0AD2B11565B484E7.quest_desc: ["你需要所有&5下界合金&r之前的熔炉才能制作这些.没错是所有,包括&6铜熔炉&r!包括&7银熔炉&r!甚至&3水晶熔炉&r!\\n&7[You'll need every Furnace before Netherite for these. Yes all, even the Copper! Even the Silver! Even the Crystal!]&f"]
+	quest.0AD2B11565B484E7.title: "&c彩&6虹&e镀&2层&3&9&5&7[Rainbow Plating]&f"
+	quest.0ADBE90B33ACC9FB.quest_desc: ["&c彩&6虹&e生&2成&3器&9&5&c&6&r在使用&3增强组件&r:发电机时能提升&c彩&6虹&e熔&2炉&3&9&5&c&6&r的效率.若其他9种熔炉(不计入难得素熔炉及更高级熔炉)环绕&c彩&6虹&e熔&2炉&3&9&5&c&6&r放置,且全部配备&3增强组件&r:发电机并处于产能状态(燃料充足且未达能量上限),则可为正在运作且配备发电增强的&c彩&6虹&e熔&2炉&3&9&5&c&6&r提供增益——每刻额外产出2千FE能量!\\n&7[The Rainbow Generator is a boost to the Rainbow Furnaco while using Augment: Generator. If all other 9 Furnaces (not counting AllTheModium Furnaces and above) are around the Rainbow Furnace, have Augment: Generator, and are actively making Energy (fueled up and not full) they will give a boost to a Rainbow Furnace that has Augment: Generator and is working. It will make 2kFE a tick more!]&f"]
+	quest.0ADBE90B33ACC9FB.title: "&c彩&6虹&e生&2成&3器&9&5&7[Rainbow Generator]&f"
+	quest.20EC8001A05CE2C8.quest_desc: ["无线热能是驱动熔炉的趣味便捷方式.先放置无线热能发射器并注入能量,再将接收器放入发射器进行绑定,最后将接收器置入熔炉燃料槽即可供能!\\n&7[Wireless Heat is a fun and easy way of powering Furnaces. First place the Wireless Heat Transmitter and put Energy into it. Then put the Receiver into the Transmitter to bind it. Finally put the Receiver into the Furnace Fuel section to start powering it!]&f"]
+	quest.21EA29A8C7F950CE.quest_desc: ["&b钻石&r是&2我的世界&r的核心资源,显然也是熔炉升级的关键...\\n \\n钻石熔炉仅需80刻(即4&a秒&f)即可熔炼物品,比&a爆裂熔炉&f更高效!\\n \\n仅能通过&e&a金熔炉&f&r合成,并可升级为&3水晶熔炉&r或&a绿宝石熔炉&r.\\n&7[Diamonds the staple of Minecraft, and of upgraded Furnaces apparently...\\n \\nThese work even faster only taking 80 Ticks or 4 Seconds to smelt items. That's even faster than a Blast Furnace! \\n \\nThese are only crafted by Gold Furnaces and can be crafted into Crystal or Emerald Furnaces.]&f"]
+	quest.21EA29A8C7F950CE.title: "&b&a钻石熔炉&f&7[Diamond Furnace]&f"
+	quest.2354BC5330350DF6.quest_desc: ["若对&a绿宝石&r不感兴趣,&3&a水晶熔炉&f&r或许适合您!\\n \\n性能同&a绿宝石熔炉&r(40刻熔炼).\\n \\n由&b&a钻石熔炉&f&r制作,可升级为&d&a黑曜石熔炉&f&r.\\n \\n(注:无法透视内部熔炼物,仅材质透明)\\n&7[If Emeralds aren't your thing the Crystal Furnace might be what you want! \\n \\nWorks the same as an Emerald Furnace at 40 Tick. \\n \\nMade with a Diamond Furnace and can be made into an Obsidian Furnace. \\n \\n(No you can't see the Items smelting inside it, it's just transparent)]&f"]
+	quest.2354BC5330350DF6.title: "&3&a水晶熔炉&f&7[Crystal Furnace]&f"
+	quest.25080E3295B1DF01.quest_desc: ["&5&a难得素熔炉&f&r的熔炼速度冠绝本模组所有熔炉!\\n&7[The Unobtainium Furnace smelts items faster than any other Furnace in the pack!]&f"]
+	quest.25080E3295B1DF01.title: "&5&a难得素熔炉&f&7[Unobtainium Furnace]&f"
+	quest.2748ACEAB96A5F60.quest_desc: ["&d更多熔炉&f(请注意区分:模组名称与物品名称均标注&l&d更多熔炉&f&r)效能超越普通熔炉和&a铜熔炉&f,仅需160刻(8秒)完成熔炼.\\n\\n可由普通熔炉或&6&a铜熔炉&f&r制作,并能升级为&7&a银熔炉&f&r或&e&a金熔炉&f&r.\\n&7[Iron Furnaces (Don't be confused with each of the titles with lIron Furnaces being the mod name and an Item name) work even faster than Normal and Copper Furnaces. They take 160 Ticks to work, or 8 seconds.\\n\\nThese can be crafted from either a normal Furnace or Copper Furnace! And they can be made into either a Silver Furnace or Gold Furnace.]&f"]
+	quest.2748ACEAB96A5F60.title: "&f&a铁熔炉&f&7[Iron Furnace]&f"
+	quest.2E85D6E2CFCC356E.quest_desc: ["&3&a振金熔炉&f&r性能优于&6&aATM熔炉&f&r!\\n&7[The Vibranium Furnace is even better than the Allthemodium Furnace!]&f"]
+	quest.2E85D6E2CFCC356E.title: "&3&a振金熔炉&f&7[Vibranium Furnace]&f"
 	quest.2EE8FCB63A338BC4.quest_desc: [
-		"合成&c彩&6虹&e熔&2炉&3&9&5&r需要集齐所有其他类型的熔炉.8个&c彩&6虹&e镀&2层&3&9&5&r加1个&c彩&6虹&e核&3心&5&r即可打造出梦寐以求的终极熔炉!"
+		"制作&c彩&6虹&e熔&2炉&3&9&5&c&6&r literally需要所有其他熔炉.8个&c彩&6虹&e镀&2层&3&9&5&c&6&r与1个&c彩&6虹&e核&2心&3&9&5&c&6&r合成为我们梦寐以求的终极熔炉!\\n&7[The Rainbow Furnace needs quite literally every other Furnace to Craft. 8 Rainbow Plating and 1 Rainbow Core gives us the best Furnace we could imagine!]&f"
 		""
-		"虽然每20刻(1秒)完成冶炼,但每次可处理不止1件物品.具体数量？想想一组物品有多少个吧!"
+		"虽然每20刻(1秒)完成一次熔炼,但并非处理单件物品.处理数量？一组物品有多少个？\\n&7[Yes it takes 20 Ticks to smelt or 1 Second to smelt, but it doesn't smelt 1 item. How many items you ask? How many are in a stack of items?]&f"
 	]
-	quest.2EE8FCB63A338BC4.title: "&c彩&6虹&e熔&2炉&3&9&5"
+	quest.2EE8FCB63A338BC4.title: "&c彩&6虹&e熔&2炉&3&9&5&7[Rainbow Furnace]&f"
 	quest.32C7D8AE859BF89E.quest_desc: [
-		"虽然是&d黑曜石&r材质,但无需&b&a钻石镐&f&r采集,仅合成时需要."
+		"虽是&d黑曜石&r材质,但请注意:仅合成时需要&b&a钻石镐&f&r,拾取时无需.\\n&7[It may be Obsidian but don't worry you don't need a Diamond Pickaxe to pick it up, just to craft it.]&f"
 		""
-		"每20刻(每秒)运作一次,注意是秒而非&a秒&f."
+		"每20刻(每秒)运作一次.注:此处秒指游戏时间单位.\\n&7[It works every 20 Ticks or every Second. Yeah not Seconds just Second.]&f"
 		""
-		"可用&3&a水晶熔炉&f&r或&a绿宝石熔炉&r合成,并能升级为&5&a下界合金熔炉&f&r!"
+		"可由&3&a水晶熔炉&f&r或&a绿宝石熔炉&r制作,并能升级为&5&a下界合金熔炉&f&r!\\n&7[It can be crafted with a Crystal Furnace or Emerald Furnace, and can be crafted into a Netherite Furnace!]&f"
 	]
-	quest.32C7D8AE859BF89E.title: "&d&a黑曜石熔炉&f"
-	quest.33436ED0D9F128BD.quest_desc: ["&4改造组件&r:烟熏可将&a铁熔炉&f变为铁制烟熏炉,专用于食物加工且速度翻倍!与&4改造组件&r:爆破类似,可与其他升级叠加使用!"]
-	quest.33436ED0D9F128BD.title: "&4改造组件&r:烟熏"
-	quest.39605F1FEB1A5A1C.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n基于&e保留所有权利&r的许可协议,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若可见说明处于编辑模式."]
-	quest.39605F1FEB1A5A1C.title: "版权所有"
-	quest.3A4C17878FC8315B.quest_desc: ["&6&aATM熔炉&f&r与&a下界合金熔炉&f性能基本相当,是合成&3&a振金熔炉&f&r的必要材料."]
-	quest.3A4C17878FC8315B.title: "&6&aATM熔炉&f"
-	quest.420FE84DEE12CCE0.quest_desc: ["&e&a金熔炉&f&r优于铁质熔炉,烹饪时长仅120刻.\\n\\n可用&7银&r或&a铁熔炉&f合成,并能升级为&b钻石熔炉&r!"]
-	quest.420FE84DEE12CCE0.title: "&e&a金熔炉&f"
-	quest.49F08DE190AAD0D8.quest_desc: ["&3改造组件&r:工厂化使熔炉运作模式类似&d通用机械&f的冶炼工厂,改用能量驱动而非燃料!输入能量即可开始冶炼."]
-	quest.49F08DE190AAD0D8.title: "&3改造组件&r:工厂化"
-	quest.538821E23E39BE97.quest_desc: ["&2改造组件&r:&a燃料效率&f专为环保主义者设计——&a熔炉&f燃料消耗减半,但耗时增加一倍.原本每块煤可冶炼8件物品,现在能处理16件!"]
-	quest.538821E23E39BE97.title: "&2改造组件&r:&a燃料效率&f"
-	quest.553220A2CD7CAFE4.quest_desc: ["圣诞节期间所有箱子都像礼物一样...但熔炉却显得格格不入!现在可以用&a包装纸&f改变这一点!对着任意&l&a铁熔炉&f&r&a右击&f即可将其装扮成节日风格!节日结束后可通过Shift&a右击&f拆开包装!"]
-	quest.553220A2CD7CAFE4.quest_subtitle: "完美包装"
-	quest.61847F47CCA225D9.quest_desc: ["遵循相同模式,这些熔炉的冶炼速度为140刻(7&a秒&f).\\n\\n可用&6铜&r或&d更多熔炉&f合成,并能用于制作&e&a金熔炉&f&r."]
-	quest.61847F47CCA225D9.title: "&a银熔炉&f"
+	quest.32C7D8AE859BF89E.title: "&d&a黑曜石熔炉&f&7[Obsidian Furnace]&f"
+	quest.33436ED0D9F128BD.quest_desc: ["&4强化装置&r:熏制将你的&a铁熔炉&f转变为铁制熏制炉.现在它仅能熏制食物类物品,但速度提升一倍!与&4强化装置&r:爆破类似,此升级也可与其他强化叠加使用!\\n&7[Augment: Smoking transforms your Iron Furnace into an Iron Smoker. Now it will only smoke Food items but twice as fast! Like Augment: Blasting this one also stacks with other upgrades!]&f"]
+	quest.33436ED0D9F128BD.title: "&4强化装置&r:熏制&7[Augment: Smoking]&f"
+	quest.39605F1FEB1A5A1C.quest_desc: ["本任务由&6AllTheMods官方团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r系列整合包均采用&e保留所有权利&r许可协议,未经&6AllTheMods团队&r明确授权,此任务禁止用于任何非官方发布的公开整合包.\\n\\n此任务为隐藏内容,若您能看到此说明,表明您正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.39605F1FEB1A5A1C.title: "版权所有&7[AllRightsReserved]&f"
+	quest.3A4C17878FC8315B.quest_desc: ["&6&aATM熔炉&f&r的功能与&a下界合金熔炉&f基本一致.制作&3&a振金熔炉&f&r时需要此设备.\\n&7[The Allthemodium Furnace is pretty much the same as the Netherite Furnace. You will need this to craft the Vibranium Furnace.]&f"]
+	quest.3A4C17878FC8315B.title: "&6&aATM熔炉&f&7[Allthemodium Furnace]&f"
+	quest.420FE84DEE12CCE0.quest_desc: ["&e&a金熔炉&f&r性能优于铁熔炉,熔炼耗时仅120游戏刻(6秒).\\n\\n可使用&7银锭&r或&a铁熔炉&f合成,并能升级为&b钻石熔炉&r!\\n&7[The Gold Furnace is better than the Iron ones with a Cooktime of 120 Ticks.\\n\\nIt can be crafted with Silver or Iron Furnace and is crafted into a Diamond one!]&f"]
+	quest.420FE84DEE12CCE0.title: "&e&a金熔炉&f&7[Golden Furnace]&f"
+	quest.49F08DE190AAD0D8.quest_desc: ["&3强化装置&r:工厂模式使熔炉运作方式类似&d通用机械&f模组中的冶炼工厂.不再消耗燃料,改为使用能源!输入能源即可开始熔炼.\\n&7[Augment: Factory makes your Furnace more like the Smelting Factory from Mekanism. Instead of using Fuel it will now use Energy! Pipe in some Energy and it will start Smelting.]&f"]
+	quest.49F08DE190AAD0D8.title: "&3强化装置&r:工厂模式&7[Augment: Factory]&f"
+	quest.538821E23E39BE97.quest_desc: ["&2强化装置&r:&a燃料效率&f专为热爱地球、拥抱树木、支持环保的玩家设计.&a熔炉&f燃料消耗量减半(耗时相应增加50%).单块煤炭可熔炼物品从8件提升至16件!\\n&7[Augment: Fuel Efficiency is for all you Earth-Loving, Tree-Hugging, Captain Planet Embracing, Hippies. The Furnace consumes half of the amount of Fuel at the cost of half the time. Coal will not Smelt 8 items but rather 16!]&f"]
+	quest.538821E23E39BE97.title: "&2强化装置&r:&a燃料效率&f&7[Augment: Fuel Efficiency]&f"
+	quest.553220A2CD7CAFE4.quest_desc: ["圣诞节期间所有箱子都会变成礼物外观...唯独熔炉显得格格不入!现在使用&a包装纸&f即可改变此状况!对任意&l&a铁熔炉&f&r&a右键点击&f即可获得节日造型!节日结束后可通过Shift+&a右键点击&f拆除包装!\\n&7[During Christmas all the Chests look like Presents... but the Furnaces just stick out like a sore thumb! Now that can be changed with the Wrapping Paper! You can Right Click it onto any lIron Furnace and it'll be all set for the holiday season! And after the season is over you can Shift Right Click it to unwrap it!]&f"]
+	quest.553220A2CD7CAFE4.quest_subtitle: "全面包装&7[All Wrapped up]&f"
+	quest.61847F47CCA225D9.quest_desc: ["遵循相同规则,这类熔炉熔炼耗时140游戏刻(7&a秒&f).\\n\\n可使用&6铜锭&r或&d更多熔炉&f模组材料合成,并能用于制作&e&a金熔炉&f&r.\\n&7[Following the same pattern, these ones smelt at 140 Ticks or 7 Seconds.\\n\\nThey can be crafted with Copper or Iron Furnaces and can be used to craft a Gold Furnace.]&f"]
+	quest.61847F47CCA225D9.title: "&a银熔炉&f&7[Silver Furnace]&f"
 	quest.661C072E48F8D41F.quest_desc: [
-		"&6铜&r是最常见的矿石之一,何不用多余&6铜&r升级你的熔炉呢!"
+		"&6铜矿&r是最常见的矿石之一,何不利用多余&6铜锭&r来升级熔炉呢!\\n&7[Copper is one if not the most common Ore you can find, so why not use a bunch of spare Copper to upgrade your furnace!]&f"
 		""
-		"普通熔炉冶炼1件物品需200刻(20刻=1秒),而&6&a铜熔炉&f&r仅需180刻."
+		"普通熔炉熔炼1件物品需200游戏刻(10秒),而&6&a铜熔炉&f&r仅需180游戏刻(9秒).\\n&7[Normal Furnaces take 200 Ticks to smelt 1 Item, (20 Ticks = 1 Second) while Copper Furnaces take 180 Ticks.]&f"
 		""
-		"可合成为&7银熔炉&r或&f&d更多熔炉&f&r."
+		"可升级为&7银熔炉&r或&f&d更多熔炉&f&r系列设备.\\n&7[They can be crafted into either Silver or Iron Furnaces.]&f"
 	]
-	quest.661C072E48F8D41F.title: "&6&a铜熔炉&f"
-	quest.686B25F2E9D8CC97.quest_desc: ["撰写本文时正值七月底,距离万圣节还有三个月.但提前营造恐怖氛围永远不嫌早!就像Spirit Halloween商店那样,我们可以提前三个月进入恐怖主题.这次只需用惊魂仪&a右击&f熔炉即可!等到感恩节筹备期时,Shift&a右击&f即可解除恐怖装饰!"]
-	quest.686B25F2E9D8CC97.quest_subtitle: "《这就是万圣节》"
-	quest.711DDD55CEC439E5.quest_desc: ["&a绿宝石熔炉&r,不知道村民会不会用它交易？\\n \\n冶炼速度仅40刻(2&a秒&f)!眨眼之间就能完成.\\n \\n由&b&a钻石熔炉&f&r合成,可升级为&d&a黑曜石熔炉&f&r."]
-	quest.711DDD55CEC439E5.title: "&a绿宝石熔炉"
-	quest.73FF01D830A669AA.quest_desc: ["&4强化组件&r:爆裂强化可将&a铁熔炉&f升级为铁制&a爆裂熔炉&f!此后仅能冶炼矿石,但速度翻倍!此效果可与其他强化组件及不同等级熔炉叠加."]
-	quest.73FF01D830A669AA.title: "&4强化组件&r:爆裂强化"
-	quest.757B14D08A9A03C4.quest_desc: ["与多数模组机器相同,&d更多熔炉&f具备配置系统.点击&a左上角&f可见输入槽、输出槽和红石激活设置.&a红石&f激活模式决定熔炉工作条件.&a顶部&f按钮控制自动输入/输出功能,可自动对接相连容器.六个面方框分别设定该侧功能:输入、输出、双向传输、燃料输入或禁用.这对管道传输至关重要.&a熔炉配置链接器&f可将所有设置复制到其他熔炉!"]
-	quest.757B14D08A9A03C4.title: "配置系统"
+	quest.661C072E48F8D41F.title: "&6&a铜熔炉&f&7[Copper Furnace]&f"
+	quest.686B25F2E9D8CC97.quest_desc: ["撰写本文时正值七月底,距万圣节尚有三个月.但营造恐怖氛围永远不嫌早!如同Spirit万圣节商店,我们可以提前三个月进入惊悚模式——通过用惊悚转化器对熔炉&a右键点击&f实现!感恩节筹备期开始时,Shift+&a右键点击&f即可解除惊悚效果!\\n&7[At the time of writing this it's the end of July so I've got about 3 months until Halloween. But it's never to early to start getting Spooky! Just like Spirit Halloween we can get Spooky 3 months before it actually starts. This time by Right Clicking a Furnace with the Spook-alator! Once it's time to start getting ready for Thanksgiving Shift Right Click them to Un-Spook-Alate!]&f"]
+	quest.686B25F2E9D8CC97.quest_subtitle: "《这就是万圣节》&7[\"This is Halloween\"]&f"
+	quest.711DDD55CEC439E5.quest_desc: ["&a绿宝石熔炉&r,不知道村民会不会交易这个？\\n \\n它仅需40刻(即2&a秒&f)就能完成熔炼!眨眼之间就可能错过.\\n \\n由&b&a钻石熔炉&f&r合成,并能升级为&d&a黑曜石熔炉&f&r.\\n&7[The Emerald Furnace, I wonder if Villagers will trade for it? \\n \\nIt works at 40 Ticks or only 2 Seconds to smelt! Blink and you might miss it. \\n \\nThese are crafted by Diamond Furnace and can be made into an Obsidian Furnace.]&f"]
+	quest.711DDD55CEC439E5.title: "&a绿宝石熔炉&7[Emerald Furnace]&f"
+	quest.73FF01D830A669AA.quest_desc: ["&4强化装置&r:爆破强化可将你的&a铁熔炉&f升级为铁质&a爆裂熔炉&f!此后仅能熔炼矿石,但速度翻倍!是的,此效果可与其他强化装置及不同等级的熔炉效果叠加.\\n&7[Augment: Blasting transforms your Iron Furnace to an Iron Blast Furnace! It will now only smelt Ores but at twice the speed! Yes this stacks with the effects of other Augments and different Tiers of Furnace.]&f"]
+	quest.73FF01D830A669AA.title: "&4强化装置&r:爆破&7[Augment: Blasting]&f"
+	quest.757B14D08A9A03C4.quest_desc: ["与多数模组机器相同,&d更多熔炉&f具备配置功能.点击&a左上角&f即可查看配置选项,包括输入输出设置与红石激活方式.&a红石&f激活模式决定熔炉的工作时机.&a顶部&f按钮控制是否自动输入/输出,即自动与连接的容器进行物品交换.六个面的设置框分别决定该面执行输入、输出、双向传输、燃料输入或禁用——这对管道传输尤为重要.使用&a熔炉配置链接器&f可一键复制所有设置到其他熔炉!\\n&7[ Like most Modded machines, Iron Furnaces has Configurations. Configs can be found by clicking the Top Left. There will be the Inputs, Outputs, and Redstone activation. The Redstone activation changes when the Furnace will smelt. The top buttons determine if it auto Inputs or Outputs, which means it will automatically move to and from connected Inventories. The boxes are each side of the Furnace and determine whether it Inputs, Outputs, does both, Inputs Fuel, or does nothing. This matters for Items being Piped in or out. The Furnace Settings Linker will copy all of these settings to other Furnaces!]&f"]
+	quest.757B14D08A9A03C4.title: "配置系统&7[Configurations]&f"
 	quest.78D1C97A542133D8.quest_desc: [
-		"强化组件是&a铁熔炉&f的升级模块!"
+		"强化装置是&a铁熔炉&f的升级组件!\\n&7[Augments are Upgrades to Iron Furnace Furnaces!]&f"
 		""
-		"熔炉GUI的&a右上角&f按钮可进入强化界面.设有红、绿、蓝三个插槽,分别对应同色强化组件."
+		"熔炉界面&a右上角&f的按钮可开启强化面板,内含红、绿、蓝三个插槽,分别可安装对应颜色的强化装置.\\n&7[In the Top Right of the Furnace GUI will be the button to look at the Augment Section. There will be a Red, Green, and Blue spot, each can hold 1 of their colored Augments. ]&f"
 	]
-	quest.78D1C97A542133D8.title: "&l强化组件"
-	quest.79C4CF8D7312FC28.quest_desc: ["原版最强材料!&5下界合金&r!别担心不需要&a锻造模板&f,只需要大量&5下界合金&r.\\n \\n每5游戏刻熔炼一件物品,即每秒可熔炼4件物品.是的,现在不再是S.P.S.(每熔炼所需秒数),而是S.P.S.(每秒熔炼&a次数&f).\\n \\n由&d&a黑曜石熔炉&f&r合成...等等,这还不是最终熔炉？"]
-	quest.79C4CF8D7312FC28.title: "&5&a下界合金熔炉&f&r"
-	quest.7A615E2A152917AD.quest_desc: ["合成需要2个&5&a下界合金熔炉&f&r和7片彩虹色的玻璃:&c红&r、&6橙&r、&e黄&r、&2绿&r、&3蓝&r、&9靛&r-&5紫&r,以及&5紫&r-&d品红&r.没错!正是罗伊·G·比姆光谱全色系!"]
-	quest.7A615E2A152917AD.title: "&c彩&6虹&e核&2心&3&9&5"
-	quest.7F67849DE9F700D8.quest_desc: ["&2强化组件&r:速度提升可使熔炉工作效率翻倍!&b&a钻石熔炉&f&r的熔炼间隔将从80游戏刻缩短至40游戏刻,但燃料消耗会变为两倍."]
-	quest.7F67849DE9F700D8.title: "&2强化组件&r:速度"
-	task.38B6F45109CB033A.title: "版权所有"
-	task.5DB7A437BEC3E2D4.title: "版权所有"
+	quest.78D1C97A542133D8.title: "&l强化装置&7[lAugments]&f"
+	quest.79C4CF8D7312FC28.quest_desc: ["原版最强熔炉!&5下界合金熔炉&r!无需&a锻造模板&f,但需要大量&5下界合金&r.\\n \\n每5刻熔炼一件物品,即每秒熔炼4件.计量单位已从S.P.S(每熔炼所需秒数)变为S.P.S(每秒熔炼数).\\n \\n由&d&a黑曜石熔炉&f&r合成……等等,这还不是终极熔炉？\\n&7[The best Vanilla gets! Netherite! Don't worry you won't need Smithing Template for it, just a lotta Netherite. \\n \\nIt smelts an item every 5 Ticks which means 4 Items Smelted every Second. Yes it's no longer S.P.S. (Seconds per Smelt) it's now S.P.S. (Smelts per Seconds). \\n \\nCrafted from Obsidian Furnace... wait this isn't the final Furnace?]&f"]
+	quest.79C4CF8D7312FC28.title: "&5&a下界合金熔炉&f&r&7[Netherite Furnace]&f"
+	quest.7A615E2A152917AD.quest_desc: ["合成需要2个&5&a下界合金熔炉&f&r和7片彩虹色玻璃:&c红&r、&6橙&r、&e黄&r、&2绿&r、&3蓝&r、&9靛&r-&5紫&r、&5紫&r-&d品红&r.没错!正是罗伊·G·比姆光谱全系!\\n&7[For this you need 2 Netherite Furnaces and 7 pieces of glass which are each the color of the Rainbow. Red, Orange, Yellow, Green, Blue, Indig- Purple, and Vi-Magenta. Yep! The whole Roy G. Bpm!]&f"]
+	quest.7A615E2A152917AD.title: "&c彩&6虹&e核&2心&3熔&9炉&5&7[Rainbow Core]&f"
+	quest.7F67849DE9F700D8.quest_desc: ["&2强化装置&r:速度提升使熔炉工作效率翻倍!&b&a钻石熔炉&f&r的熔炼周期将从80刻缩短至40刻,但燃料消耗会加倍.\\n&7[Augment: Speed makes it so your Furnace is faster! Diamond Furnace will instead smelt every 40 Ticks instead of 80 Ticks. At the cost of twice the Fuel usage.]&f"]
+	quest.7F67849DE9F700D8.title: "&2强化装置&r:速度&7[Augment: Speed]&f"
+	task.38B6F45109CB033A.title: "版权所有&7[AllRightsReserved]&f"
+	task.5DB7A437BEC3E2D4.title: "版权所有&7[AllRightsReserved]&f"
 }

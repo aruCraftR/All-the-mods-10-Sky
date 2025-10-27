@@ -549,7 +549,7 @@
 					item: {
 						components: {
 							"minecraft:custom_name": "{\"italic\":false,\"text\":\"阿尔弗雷德GG之剑\"}"
-							"minecraft:lore": ["{\"italic\":false,\"text\":\"献给那些勇于斩杀强大又恼人的商人的勇士\"}"]
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"献给那些敢于斩杀强大而恼人的商人的勇者\"}"]
 						}
 						count: 1
 						id: "minecraft:iron_sword"

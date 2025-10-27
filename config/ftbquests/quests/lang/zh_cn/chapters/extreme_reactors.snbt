@@ -1,110 +1,110 @@
 {
-	quest.0B1DF8A040826D87.quest_desc: ["现在你拥有&c罗森石&r,可以将其与&a蓝锥矿&r混合制作&d疯狂矿&r锭.\\n\\n&a&a蓝锥矿&f&r可在&a下界&f中找到."]
-	quest.0B1DF8A040826D87.title: "疯狂矿"
+	quest.0B1DF8A040826D87.quest_desc: ["现已获得&c罗森石&r,可将其与&a蓝锥矿&f&r合成制作&d因萨奈特&r锭.\\n\\n&a蓝锥矿&f&r生成于&a下界&f维度.\\n&7[Now that you have Rossinite, you can mix it with Benitoite to create Insanite ingots.\\n\\nBenitoite Ore can be found in the Nether.]&f"]
+	quest.0B1DF8A040826D87.title: "因萨奈特&7[Insanite]&f"
 	quest.14E5349DD740D026.quest_desc: [
-		"向反应堆添加燃料时,需要选择带有&9反应堆&a固体访问端口&f&r的面,从容器中泵入&e铀矿&r.\\n\\n最简便的方法是使用&a&a存储抽屉&f&r或普通&a箱子&r,在其顶部连接&9物品管道&r,如下图所示.\\n"
+		"To insert fuel into the reactor, you'll need to pick one of the sides that has a Reactor Solid Access Port and pump in Uranium from an inventory.\\n\\nThe easiest way to do this is to use something like a Storage Drawer or even just a Chest with an Item Pipe connected at the top, like the image shown below.\\n"
 		"{image:atm:textures/questpics/extremereactors/importexample.png width:150 height:150 align:1}"
 	]
-	quest.14E5349DD740D026.title: "为被动反应堆添加燃料"
-	quest.186731580B14F9D2.quest_desc: ["与涡轮机交互需要多个&6端口&r.\\n\\n&9&a流体端口&f&r用于注入&b蒸汽&r等气体,或排出&9水&r等废气,因此涡轮机需要配置两个该端口.\\n\\n&c能源接口&r用于输出能源,是完成多方块结构的必要组件."]
-	quest.186731580B14F9D2.title: "涡轮机端口"
-	quest.19DE6EBEA8219E8E.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,适用于ATM整合包.\\n\\n所有&6ATM&r系列均采用&e版权所有&r许可,未经&6ATM团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务为隐藏内容,若你看到此提示,说明正处于编辑模式."]
-	quest.2598273041353196.quest_desc: ["建造&a再处理器&r时,至少需要&e收集器&r和&9废料注入器&r各一个.\\n\\n&e再处理器收集器&r必须放置在结构底面的中心位置.\\n\\n&9废料注入器&r需位于顶面中心,用于注入&9&a蓝晶锭&f&r等废料."]
-	quest.2598273041353196.title: "导入废料"
-	quest.25D4406CB86C8CBB.quest_desc: ["既然反应堆已开始产生&9废料&r,进度要求你将部分获取的金属锭进行”流体化”处理.知道这意味着什么吗？\\n\\n我们需要制作&a流体化装置&r!其核心组件是&a流体化控制器&r.建造完成后右键点击即可打开操作界面,可在此处启停设备、查看内部状态及当前能量等级."]
-	quest.25D4406CB86C8CBB.title: "&a流体&f化装置"
-	quest.2A20000FAEC2E16A.quest_desc: ["要实现反应堆的能量输出、物品提取或燃料注入,这些&c必备&r方块不可或缺.\\n\\n&c能源接口&r能让你截取&9被动式&r反应堆产生的能量,可通过连接管道和电缆导出能量.\\n\\n&a访问端口&r是每个反应堆的必需组件,既可注入燃料也可排出废料.建议每个反应堆配置2个端口各司其职."]
-	quest.2A20000FAEC2E16A.title: "与反应堆交互"
+	quest.14E5349DD740D026.title: "为被动式反应堆添加燃料&7[Fueling our Passive Reactor]&f"
+	quest.186731580B14F9D2.quest_desc: ["要与我们的涡轮机交互,我们需要几个&6端口&r.\\n\\n&9&a流体端口&f&r用于注入如&b蒸汽&r等蒸气,或排出如&9水&r等废气.因此,你的涡轮机需要两个这样的端口.\\n\\n&c能量输出端&r用于提取能量,并且是完成多方块结构所必需的.\\n&7[To interact with our Turbine, we'll need several Ports.\\n\\nThe Fluid Port is used to insert vapors like Steam, or extract exhaust, like water. Because of this, you'll need two for your Turbine.\\n\\nThe Power Tap extracts power, and is required to complete the multiblock.]&f"]
+	quest.186731580B14F9D2.title: "涡轮机端口&7[Turbine Ports]&f"
+	quest.19DE6EBEA8219E8E.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r编写,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你能看到此内容,说明你正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.2598273041353196.quest_desc: ["建造&a再处理器&r时,你至少需要一个&e收集器&r和一个&9废料注入器&r.\\n\\n&e再处理器收集器&r必须放置在结构底面的中心.\\n\\n&9废料注入器&r必须位于顶面的中心,这是你输入或注入如&9&a蓝晶锭&f&r等废料的地方.\\n&7[When building the Reprocessor, you will need at least one Collector and Waste Injector.\\n\\nThe Reprocessor Collector must be placed in the center of the bottom face of the structure.\\n\\nThe Waste Injector must go in the center of the top face, which is where you'll pipe in or insert waste like Cyanite Ingots.]&f"]
+	quest.2598273041353196.title: "导入废料&7[Importing Waste]&f"
+	quest.25D4406CB86C8CBB.quest_desc: ["既然我们现在从反应堆中收集了一些&9废料&r,部分进程要求你将获得的锭”流体化”.你知道这意味着什么吗？\\n\\n我们需要制作一个&a流体化器&r!其主要组件是&a流体化器控制器&r.建造完成后,你可以右键点击它打开界面.在这里,你可以开启或关闭它,查看内部内容以及当前能量等级.\\n&7[Now that we are collecting some waste from our reactor, part of the progression requires you to \"Fluidize\" some of the ingots you get. You know what that means?\\n\\nWe need to make a Fluidizer! The main component is the Fluidizer Controller. Once built, you can right-click on this to open up the interface. Here, you can turn it on or off, see what's inside, and the current power level.]&f"]
+	quest.25D4406CB86C8CBB.title: "&a流体&f化器&7[The Fluidizer]&f"
+	quest.2A20000FAEC2E16A.quest_desc: ["要从反应堆中提取能量或物品,甚至输入燃料,你需要这些&c必需&r的方块.\\n\\n&c能量输出端&r提供了一种方式,让你”接入”&9被动&r反应堆产生的能量.你可以连接管道和电缆从中提取能量.\\n\\n&a接入端口&r是每个反应堆所必需的,允许你输入燃料到反应堆或提取废料.通常建议每个反应堆配备2个,各司其职.\\n&7[To extract power or items from your reactor, or even input fuel, you'll need these required blocks.\\n\\nThe Power Tap provides a way for you to \"tap\" into the power that a passive reactor makes. You can attach pipes and cables to extract the power from it.\\n\\nThe Access Ports are required for every reactor, and allows you to both input fuel from the reactor, or extract waste. It's usually a good idea to have 2 per reactor, one for each job.]&f"]
+	quest.2A20000FAEC2E16A.title: "与反应堆交互&7[Interacting with the Reactor]&f"
 	quest.2AF31F1769085641.quest_desc: [
-		"&a再处理器&r是占地3x3x7的多方块结构,需遵循特定规则完成组装."
+		"&a再处理器&r是一个3x3x7的多方块结构,有特定的规则来完成多方块结构的建造.\\n&7[The Reprocessor is a 3x3x7 multiblock structure that has specific rules to complete the construction of the multiblock.]&f"
 		""
-		"该结构的核心&a控制器&r可放置于任意垂直面(框架除外)."
+		"此多方块结构的核心是&a控制器&r,可以放置在任何垂直面上,只要不在框架上即可.\\n&7[The heart of this multiblock is the Controller, and can be placed on any vertical face as long as it isn't on the frame.]&f"
 	]
-	quest.2D592669F4D41793.quest_desc: ["与反应堆类似,框架需采用&d加固外壳&r构筑,但墙面可替换为&9&a涡轮玻璃&f&r!"]
-	quest.2D592669F4D41793.title: "涡轮机组装"
+	quest.2D592669F4D41793.quest_desc: ["就像反应堆一样,框架必须由&d外壳&r建造,但墙壁可以用&9&a涡轮机玻璃&f&r替代!\\n&7[Just like the Reactor, the frame must be built out of Casings, but the walls can be Turbine Glass instead!]&f"]
+	quest.2D592669F4D41793.title: "涡轮机构造&7[Turbine Construction]&f"
 	quest.354086C858E10154.quest_desc: [
-		"当前小型反应堆已产出蓝素矿,接下来需将废料转化为有用物资."
+		"既然我们现在从小型反应堆中获得了一些蓝晶矿,我们需要一种方法将这些废料再处理成有用的东西.\\n&7[Now that we have some Cyanite from our baby reactor, we'll want a way to reprocess that waste into something useful.]&f"
 		""
-		"为此我们需要建造&a再处理器&r多方块结构."
+		"为此,我们需要建造另一个多方块结构:&a再处理器&r.\\n&7[To do this, we'll need to build another multiblock: the Reprocessor.]&f"
 		""
-		"该过程消耗大量蓝素矿,请提前储备!建议同步升级更大规格的反应堆."
+		"这需要大量的蓝晶矿,所以开始储备吧!你可能还想升级到更大的反应堆.\\n&7[This takes a lot of Cyanite, so start stocking up! You might want to upgrade to a bigger reactor as well. ]&f"
 	]
-	quest.354086C858E10154.title: "废料再处理"
-	quest.3C3FE45CEF5E242B.quest_desc: ["虽然其他&a再处理器部件&r有固定安装位,但这三个部件可置于任意垂直面(框架除外)!\\n\\n&c&a能量端口&f&r为多方块机器提供处理废料所需的能量.\\n\\n&9&a流体注入器&f端口&r用于注入处理液(类型取决于废料种类),处理蓝素矿需用水!\\n\\n&a输出端口&r用于排出再处理后的材料,可&a右键&f手动提取或连接管道实现自动化."]
-	quest.3F9D553C9FA64F2A.quest_desc: ["反应堆属多方块结构,可自定义尺寸!\\n\\n使用&a基础反应堆部件&r时最大建造规格为5x5x5.\\n\\n采用&e强化反应堆部件&r可建造&l最大&r32x32x48规格的反应堆.影响反应堆输出的变量众多,请务必多次实验!\\n\\n通用技巧:\\n\\n反应堆越高容纳的燃料棒越多,燃烧产能越大,但&c燃烧速率&r也会同步提升.\\n\\n增加宽度(不额外添加燃料棒)可提升能效,降低总体消耗."]
-	quest.3F9D553C9FA64F2A.title: "反应堆扩容计划"
-	quest.4415C9F8DA2D7E68.quest_desc: ["利用蓝晶石可制造涡轮机的核心——&9涡轮控制器&r.\\n\\n涡轮机与反应堆一样属于多方块结构!它们通过输入&7蒸汽&r等由&d主动冷却反应堆&r产生的气态物质来产生海量能源!我们还需要其他几个组件来建造第一台涡轮机.\\n\\n注意:&a基本型涡轮机&f组件最多只能建造5x5x10规格的涡轮机.若要建造更大规格的涡轮机,必须使用&a&a加强型涡轮机&f组件&r."]
-	quest.4415C9F8DA2D7E68.title: "涡轮机制造指南"
-	quest.4745152F6FF242B3.quest_desc: ["反应堆燃烧燃料时会产生&9核废料&r或&d反应副产物&r,这些也需要通过另一个&a固体访问端口&f进行提取!请确保将其设置为输出模式,并通过管道输送到存储设备中."]
-	quest.4745152F6FF242B3.quest_subtitle: "&a物尽其用&f 杜绝浪费之道..."
-	quest.4745152F6FF242B3.title: "核废料处理方案"
-	quest.476755275B948A5F.quest_desc: ["反应堆还可用于加热&b冷却剂&r(例如水)来产生&b气态物质&r,比如&b蒸汽&r.\\n\\n为此需要建造强化反应堆.其建造方式与3x3x3反应堆相同,但所有组件必须替换为&a强化反应堆部件&r,建议建造比3x3x3更大的规格.\\n\\n输入冷却剂需使用&9锻造&a流体端口&f&r,该端口可将水等流体输入反应堆,同时也可导出反应堆内产生的蒸汽.\\n\\n可选配&a&d通用机械&f &a流体端口&f&r将流体形态的蒸汽转化为&d通用机械&f气态蒸汽."]
-	quest.476755275B948A5F.quest_subtitle: "蒸汽制造指南"
-	quest.476755275B948A5F.title: "主动冷却反应堆建造教程"
+	quest.354086C858E10154.title: "再处理我们的废料&7[Reprocessing our Waste]&f"
+	quest.3C3FE45CEF5E242B.quest_desc: ["其他&a再处理部件&r在建造时有固定安装位,但这三个部件可置于任意垂直面(框架除外)!\\n\\n&c&a能量端口&f&r用于为多方块机器供电以处理废料.\\n\\n&9&a流体注入器&f端口&r用于注入所需液体(根据废料类型而定).处理蓝铍矿时需注入水!\\n\\n&a输出端口&r用于输出再处理材料.可&a右键点击&f手动提取,或通过管道实现自动化输出.\\n&7[While the other Reprocessor Parts have a mandatory spot when building, these three parts can be placed on any vertical face as long as they aren't on the frame!\\n\\nThe Power Port is used to give power to the multiblock machine to process waste.\\n\\nThe Fluid Injector Port is used to inject the liquid needed, which will depend on the type of waste injected. For Cyanite, that means water!\\n\\nThe Output Port is used to output the reprocessed material. You can right click it to grab the material out by hand, or pipe it out for automation.]&f"]
+	quest.3F9D553C9FA64F2A.quest_desc: ["反应堆是多方块结构,意味着可自定义尺寸!\\n\\n使用&a基础反应堆部件&r时,最大可建造5x5x5的反应堆.\\n\\n使用&e强化反应堆部件&r可建造&l最大&r32x32x48的反应堆.影响反应堆输出的变量众多,请务必进行实验!\\n\\n通用建议:\\n\\n反应堆越高,燃料棒越多,容纳燃烧的燃料越多,总功率越大.但&c燃烧率&r也会更高.\\n\\n反应堆越宽(不增加燃料棒时)效率越高,总体消耗越低.\\n&7[Reactors are multi-block structures, meaning you can create your own custom size!\\n\\nIf you're using Basic Reactor Parts, the largest size reactor you can build is 5x5x5.\\n\\nThe lBiggest Reactor that you can make using Reinforced Reactor Parts is 32x32x48. There are a lot of variables that contribute to the overall output of a reactor, so make sure to experiment!\\n\\nSome overall tips:\\n\\nThe taller the reactor, the more fuel it can hold and burn because there are more fuel rods, meaning more overall power. This also means a higher burn rate.\\n\\nThe wider the reactor, the more efficient it is, as long as you don't add more fuel rods to the design. This means less consumption overall.]&f"]
+	quest.3F9D553C9FA64F2A.title: "反应堆扩容指南&7[Expanding Our Reactors]&f"
+	quest.4415C9F8DA2D7E68.quest_desc: ["利用蓝铍矿可制造涡轮核心——&9涡轮控制器&r.\\n\\n涡轮与反应堆同为多方块结构!通过输入&d主动冷却&r反应堆产生的&7蒸汽&r等气态物质,可产生巨量能源!还需其他组件才能建造首台涡轮机.\\n\\n注:&a基本型涡轮机&f部件仅能建造最大5x5x10的涡轮机.建造更大涡轮需使用&a&a加强型涡轮机&f部件&r.\\n&7[With Cyanite, we can create the heart of the Turbine, the Turbine Controller.\\n\\nTurbines are multi-block structures, just like Reactors! They input vapors like Steam made by Actively Cooled Reactors to create TONS of power! We'll need a few other pieces to be able to build our first one.\\n\\nNote: Basic Turbine parts can only be used to build a max size Turbine of 5x5x10. To build a bigger Turbine, you must use Reinforced Turbine Parts.]&f"]
+	quest.4415C9F8DA2D7E68.title: "涡轮机制造&7[Making Turbines]&f"
+	quest.4745152F6FF242B3.quest_desc: ["反应堆燃烧燃料时会产生需提取的&9废料&r或&d反应物&r,此功能需通过另一个&a固体访问端口&f实现!请设置为输出模式并通过管道导入存储装置.\\n&7[When the reactor burns up fuel, it creates waste or a Reactant that you'll also want to extract. That is what the other Solid Access Port is for! Make sure to set it to output, then pipe it into some type of storage.]&f"]
+	quest.4745152F6FF242B3.quest_subtitle: "&a物尽其用&f 杜绝浪费...&7[Waste Not Want Not or something....]&f"
+	quest.4745152F6FF242B3.title: "废料处理方案&7[Dealing with Waste]&f"
+	quest.476755275B948A5F.quest_desc: ["反应堆还可加热&b冷却剂&r(例如水)生成&b蒸汽&r等气态物质.\\n\\n需使用&a强化反应堆部件&r建造强化反应堆(建造方式同3x3x3反应堆,建议更大尺寸).\\n\\n注入冷却剂需&9锻造&a流体端口&f&r,该端口同时可导出反应堆内产生的蒸汽.\\n\\n可选用&a&d通用机械&f &a流体端口&f&r将流体蒸汽转化为&d通用机械&f气态蒸汽.\\n&7[Reactors can also be used to heat up coolants like water to create vapor, like Steam.\\n\\nTo do this, you'll need to build a reinforced reactor. This is built in the same way that you built your 3x3x3 reactor, but all of the parts will need to be Reinforced Reactor Parts instead. I'd also suggest on it being bigger than a 3x3x3.\\n\\nTo input a coolant, you'll need a Forge Fluid Port. This will port in any fluids like Water into the reactor. This will also be used to export the vapor created in the reactor.\\n\\nIf you want, you can create a Mekanism Fluid Port to convert the fluid Steam into the Mekanism gas Steam instead.]&f"]
+	quest.476755275B948A5F.quest_subtitle: "蒸汽制造指南&7[To Make Steam!!]&f"
+	quest.476755275B948A5F.title: "主动冷却反应堆建造教程&7[Building An Actively Cooled Reactor]&f"
 	quest.4AD8363D7359A072.quest_desc: [
-		"我们将建造最小规格的被动反应堆——&93x3x3&r.任务要求的材料数量正是建造所需的确切用量.\\n\\n首先用反应堆外壳搭建3x3x3框架,底层中心可直接使用&a反应堆外壳&f.每个外壁需要安装&9反应堆组件&r,例如主动能源接口或&a固体访问端口&f."
+		"我们将建造最小型的被动反应堆——&93x3x3&r规格.任务要求提供的材料正是建造所需的确切数量.\\n\\n建造时首先用反应堆外壳搭建3x3x3的框架,底层中心可以直接使用&a反应堆外壳&f.每个外壁需要安装&9反应堆组件&r,例如主动能量接口或&a固体访问端口&f.\\n&7[We're going to build the smallest passive reactor possible, the 3x3x3. The requirements for the quest are the exact amounts for what you'll need to build one.\\n\\nTo build this, you start by building a 3x3x3 frame made out of Casings. In the middle of the bottom face, you can just use another Reactor Casing. You'll want each outer wall to have a reactor component, like an Active Power Tap or Solid Access Port.]&f"
 		"{@pagebreak}"
-		"每座反应堆必须配备1个&6&a反应堆控制器&f&r(通常置于前壁中央),在多方块结构中心放置1个&a&a燃料棒&f&r,并在顶面正上方安装1个&e&a控制杆&f&r.\\n\\n核废料输入输出需使用&9反应堆&a固体访问端口&f&r,本建造方案要求在左右两侧各安装一个.\\n\\n能源输出通过在背壁中央安装&c主动能源接口&r实现.安装完成后反应堆即告建成!现在可以&a右击&f&a控制器&f打开界面启动反应堆!\\n\\n注:使用&a基本反应堆部件&r最多可建造5x5x5规格的反应堆,更大规格需使用&e强化反应堆部件&r."
+		"每个反应堆需精确配置1个&6&a反应堆控制器&f&r,通常置于前壁中央.接着在多方块结构中心放置1个&a&a燃料棒&f&r,并在顶面正上方安装1个&e&a控制杆&f&r.\\n\\n需要配置废料输入输出接口,使用&9反应堆&a固体访问端口&f&r实现.本次建造需在左右两侧各放置一个.\\n\\n能量输出通过在后壁中心安装&c主动能量接口&r实现.完成后反应堆即可激活!现在可以&a右击&f&a控制器&f打开界面启动反应堆.\\n\\n注:使用&a基础反应堆部件&r最大可建造5x5x5规格.更大反应堆需使用&e强化反应堆部件&r.\\n&7[Every reactor you build will require exactly 1 Reactor Controller, which is usually put in the middle of the front wall. Next, we'll place 1 Fuel Rod in the center of the multiblock, and 1 Control Rod above it on the top face.\\n\\nYou will need a way to input and output waste, which is done by using Reactor Solid Access Ports. For this build, place one on the left side and one on the right.\\n\\nTo extract power, we'll place the Active Power Tap on the middle of the back wall. Once placed, the reactor should complete! You can now right click the Controller to open up the interface and turn it on!\\n\\nNote: The biggest reactor you can make using Basic Reactor Parts is 5x5x5. To build a larger reactor, you will need Reinforced Reactor Parts.]&f"
 		"{@pagebreak}"
-		"3x3x3反应堆建成效果示意图:\\n"
+		"3x3x3反应堆建成效果如下:\\n\\n&7[This is what a 3x3x3 reactor will look like:\\n]&f"
 		"{image:atm:textures/questpics/extremereactors/3x3sample.png width:150 height:150 align:1}"
 	]
-	quest.4AD8363D7359A072.quest_subtitle: "基础原理学习"
-	quest.4AD8363D7359A072.title: "&d我们的第一座反应堆"
-	quest.4B9E9497E44D0096.quest_desc: ["要建造反应堆,首先需要制作&6&a反应堆外壳&f&r.\\n\\n这些构成反应堆的框架和墙体,不过若想观察反应堆内部,墙体可以用&9&a反应堆玻璃&f&r替代.\\n\\n请注意:当部件标注'基础'时,意味着它只能与其他基础部件配合使用,且受尺寸限制仅能建造小型反应堆.请牢记这一点!"]
-	quest.4B9E9497E44D0096.title: "反应堆建造组件"
-	quest.4ED36AA3766E842B.quest_desc: ["与其现在建造最小型的涡轮,不如根据&9反应堆&r的设计来构建涡轮.\\n\\n首先需要建造能匹配反应堆&9蒸汽产出率&r的涡轮.为获得最大功率输出,涡轮需维持900RPM或1800RPM的转速,这需要大量实验来调整线圈类型、叶片数量和整体尺寸!\\n\\n注:完成本任务需制作任意尺寸的&d&a目标显示器&f&r.放置后右键屏幕选择此任务要求,并向任务屏幕方块输送能量直至填满即可完成任务."]
-	quest.4ED36AA3766E842B.title: "&d&a涡轮机&f"
-	quest.4FA6BEA4E646B742.quest_desc: ["建造反应堆前,需先熔炼煤炭或木炭制作&9&a石墨锭&f&r.\\n\\n石墨与铁是制造反应堆的核心材料."]
-	quest.4FA6BEA4E646B742.quest_subtitle: "硬化碳"
-	quest.4FA6BEA4E646B742.title: "外壳用石墨"
-	quest.501C6B7580453410.quest_desc: ["&a流体化装置&r是可自定义的多方块结构,最小尺寸为3x3x3.与其他多方块结构相同,其框架需使用外壳方块,而表面可用玻璃构成."]
-	quest.501C6B7580453410.title: "流体化装置建造"
-	quest.55DCA040C84DCEF3.quest_desc: ["若要获取&a流体化装置&r的产物,需在其任意表面安装&a输出端口&r.\\n\\n该装置需要能源驱动,因此还需安装&c&a能量端口&f&r来完成结构建造."]
-	quest.55DCA040C84DCEF3.title: "必备端口"
-	quest.5914D015D8543875.quest_desc: ["&a流体化装置&r有三种运作模式:固体转流体、双固体合成流体、双流体合成新流体,具体取决于多方块结构中使用的&a注入器&r类型.\\n\\n例如:要将&d钚铀合金&r转化为流体,可使用1个&a固体注入器&r.\\n\\n若想合成两种固体为新物质,需配备2个&a固体注入器&r.\\n\\n若要混合两种流体,则需使用2个&9&a流体注入器&f&r.\\n\\n虽然复杂但这对进程至关重要.例如:需先将磁铁矿在流体化装置中转化为流体,再与鲁迪克石送入&a再处理机&r合成荒诞石."]
-	quest.5914D015D8543875.title: "运作模式"
-	quest.5A615BB74A5CD332.quest_desc: ["通过&a再处理机&r,可将现有材料合成若干新型锭材.\\n\\n注:此步骤可能需要&9流体化装置&r配合完成!"]
-	quest.5A615BB74A5CD332.title: "鲁迪克石 \\ 荒诞石"
-	quest.5AD80D3242DD3F60.quest_desc: ["这是模组中最难获取的材料之一!\\n\\n同时这也是最强大的涡轮线圈!"]
-	quest.5AD80D3242DD3F60.title: "&d insanity 方块"
+	quest.4AD8363D7359A072.quest_subtitle: "基础入门&7[Learning the Basics]&f"
+	quest.4AD8363D7359A072.title: "&d我们的首座反应堆&7[Our First Reactor]&f"
+	quest.4B9E9497E44D0096.quest_desc: ["建造反应堆需先制作&6&a反应堆外壳&f&r.\\n\\n这些外壳构成反应堆框架与壁面,若需观察内部可替换为&9&a反应堆玻璃&f&r.\\n\\n特别注意:标有”基础”的部件仅能与其他基础部件搭配使用,且受尺寸限制只能建造小型反应堆.请牢记这一点!\\n&7[To build a reactor, you'll need to start by making Reactor Casings.\\n\\nThese make up the frame and walls of your reactor, although the walls can be replaced by Reactor Glass if you'd like to see inside of your reactor.\\n\\nFor future reference, when a part says \"Basic\", this means that it can only be used with other basic parts. The Basic parts can also only be used to build smaller reactors, as it has a certain size limit. Keep this in mind!]&f"]
+	quest.4B9E9497E44D0096.title: "反应堆构建组件&7[Reactor Building Components]&f"
+	quest.4ED36AA3766E842B.quest_desc: ["现阶段不建议建造最小涡轮,应根据&9反应堆&r的设计匹配涡轮规格.\\n\\n初学者需建造能处理反应堆&9蒸汽产出率&r的涡轮,为最大化输出需维持900RPM或1800RPM转速.这需要大量实验调整线圈类型、叶片数量和整体尺寸!\\n\\n注:完成本任务需制作任意尺寸的&d&a目标显示器&f&r.放置后右击屏幕选择此任务要求,向任务屏幕方块输送能量填充满即可完成.\\n&7[Instead of building the smallest Turbine at this point, it's better to build a Turbine based off of the design of your Reactor.\\n\\nFor starters, you want to build a Turbine that can handle the Vapor Production Rate of your reactor. To get the most power out of it, it'll need to maintain either 900RPM or 1800RPM as well. This takes a lot of experimenting with different coils, # of blades, and overall size of the Turbine!\\n\\nNote: To complete this quest, you'll need to create a Task Screen of any size. Once placed, you can right-click the screen and select this quest as the requirement, then output power into the task screen block to fill it up and complete the quest.]&f"]
+	quest.4ED36AA3766E842B.title: "&d&a涡轮机&f&7[The Turbine]&f"
+	quest.4FA6BEA4E646B742.quest_desc: ["建造反应堆前需熔炼煤炭或木炭制作&9&a石墨锭&f&r.\\n\\n石墨与铁是制造反应堆的核心材料.\\n&7[Before we can start building our reactor, we'll need to smelt some Coal or Charcoal to create Graphite Ingots.\\n\\nGraphite, coupled with Iron, is one of the main materials when making a Reactor.]&f"]
+	quest.4FA6BEA4E646B742.quest_subtitle: "硬化碳材&7[Hardened Carbon]&f"
+	quest.4FA6BEA4E646B742.title: "外壳用石墨&7[Graphite for Casings]&f"
+	quest.501C6B7580453410.quest_desc: ["&a流体化装置&r是可定制的多方块结构,最小尺寸为3x3x3.与其他多方块类似,框架需使用外壳建造,而面层可使用玻璃.\\n&7[The Fluidizer is a customizable multiblock that has a minimum size of 3x3x3. Just like the other multiblocks, the frame will need to be made out of Casings, while the faces can be made out of Glass.]&f"]
+	quest.501C6B7580453410.title: "流体化装置构建&7[Fluidizer Construction]&f"
+	quest.55DCA040C84DCEF3.quest_desc: ["若想获取&a流体化装置&r的产物,需在其任意表面安装&a输出端口&r.\\n\\n该装置需&c能量端口&r供电方可运行.\\n&7[If you want to get your hands on the product the Fluidizer makes, you'll need an Output Port on one of the faces.\\n\\nThe Fluidizer will need power to operate, so a Power Port is required to complete the structure.]&f"]
+	quest.55DCA040C84DCEF3.title: "必备端口&7[Required Ports]&f"
+	quest.5914D015D8543875.quest_desc: ["&a流体化装置&r有三种模式:固态转流体、双固态合成流体、双流体合成新流体,具体取决于多方块结构中使用的&a注入器&r类型.\\n\\n例如:将&d钚铀矿&r流体化需1个&a固态注入器&r；\\n\\n双固态合成需2个&a固态注入器&r；\\n\\n双流体合成则需2个&a流体注入器&r.\\n\\n此机制虽复杂却至关重要:例如需先将磁铁矿流体化,再通过&a再处理器&r与卢德克里特合成瑞迪克里特.\\n&7[The Fluidizer can operate in one of 3 modes: Solid to Fluid, Combining 2 Solids into a Fluid, or combining 2 Fluids into a new Fluid. This all depends on the type of Injectors you use for the multiblock.\\n\\nFor example, if you want to convert Blutonium into a fluid, you can use 1 Solid Injector.\\n\\nIf you want to combine two solids together into something new, you'll build the multiblock with 2 Solid Injectors.\\n\\nIf you want to combine two fluids, you'll use 2 Fluid Injectors.\\n\\nThis might seem confusing, but is important for progression. For example, you'll want to convert Magentite into a fluid in the Fluidizer first, then send it to a Reprocessor with Ludicrite to create Ridiculite.]&f"]
+	quest.5914D015D8543875.title: "运作模式&7[Operational Modes]&f"
+	quest.5A615BB74A5CD332.quest_desc: ["通过&a再处理器&r可将既有材料合成新型锭材.\\n\\n注:此步骤或需&9流体化装置&r配合完成!\\n&7[Using the Reprocessor, we can combine everything we've made so far to make a few new ingots.\\n\\nNote: You might need a Fluidizer to complete this step!]&f"]
+	quest.5A615BB74A5CD332.title: "卢德克里特 → 瑞迪克里特&7[Ludicrite \\\\ Ridiculite]&f"
+	quest.5AD80D3242DD3F60.quest_desc: ["此为模组内最难获取的材料之一!\\n\\n亦是当前最强涡轮线圈!\\n&7[One of the hardest materials to get in the mod!\\n\\nThis is also the most powerful Turbine Coil available!]&f"]
+	quest.5AD80D3242DD3F60.title: "&d疯狂合金块&7[Insanite Block]&f"
 	quest.67AFCBCE7AAC3089.quest_desc: [
-		"要使涡轮机旋转,我们需要以下&c必需&r组件:\\n\\n- &9转子轴承&r安装在涡轮机轴的一端.可放置于任意面,但会决定主轴延伸方向.通常安装在底面的中心位置.\\n\\n- &e转子轴&r从转子轴承延伸至涡轮机另一端,直达单个涡轮机外壳方块,构成涡轮机的主轴.\\n\\n- &9转子叶片&r驱动转子旋转.这些叶片安装在转子轴上,可多方块延长.每个叶片能处理特定量的蒸汽,具体数量需根据反应堆的产率决定.\\n\\n这是一个垂直主轴涡轮机的示例,顶部装有铅制涡轮线圈.\\n"
+		"构建涡轮机需以下&c核心&r组件:\\n\\n- &9转子轴承&r置于涡轮轴末端(通常位于底面中心),决定主轴延伸方向；\\n\\n- &e转子轴&r从轴承延伸至涡轮机壳,构成完整主轴；\\n\\n- &9转子叶片&r驱动旋转,安装于主轴且可多段延伸.叶片蒸汽承载力决定所需数量,需根据反应堆产出率配置.\\n\\n图示为铅制涡轮线圈的立轴装配范例.\\n\\n&7[To get a Turbine spinning, we'll need these required components:\\n\\n- Rotor Bearings are placed at one end of the shaft of the turbine. This can be on any face, but dictates where the shaft extrude from. This is typically placed in the center of the bottom face.\\n\\n- Rotor Shafts extend from one Rotor Bearing to the opposite side of the turbine, all the way to a single Turbine Housing block, creating the shaft for the Turbine.\\n\\n- Rotor Blades make the rotor spin. These are placed onto the Rotor Shafts and can be multiple blocks in length. Each Blade can handle a certain amount of vapor, and determines how many are needed based on your reactor's production rates.\\n\\nHere is an example of a Vertical Shaft setup for a Turbine, with the Turbine Coil of Lead on the top.\\n]&f"
 		"{image:atm:textures/questpics/extremereactors/maxbasicturbine.png width:100 height:150 align:1}"
 	]
-	quest.67AFCBCE7AAC3089.title: "制造&a涡轮机&f主轴"
+	quest.67AFCBCE7AAC3089.title: "构建&a涡轮机&f主轴&7[Creating The Turbine Shaft]&f"
 	quest.69642A3618E86DED.quest_desc: [
-		"建造&a再处理器&r框架需要大量外壳方块,这也意味着需要大量蓝氰石.\\n\\n首先搭建一个3格宽、3格深、7格高的空心结构作为框架.\\n\\n正确建造后,底面和顶面的中心会留空.垂直面可使用&a再处理器玻璃&r或必需组件,例如&a能量端口&f、控制器等.\\n\\n若需查看框架示意图,请翻阅下一页!"
+		"To build the frame for the Reprocessor, you'll need a lot of Casings. This also means a lot of Cyanite.\\n\\nStart by building a hollow 3 block wide, 3 block deep, and 7 block tall structure. This is the frame.\\n\\nIf done right, you'll have an empty spot in the middle of the bottom and top face. For the vertical faces, you can either use Reprocessor Glass or one of the required Reprocessor parts like the Power Port, Controller, etc.\\n\\nIf you'd like to see an image of what the frame will look like, check out the next page!"
 		"{@pagebreak}"
-		"再处理器多方块结构的框架.\\n"
+		"再处理器多方块框架结构.\\n\\n&7[The frame of the Reprocessor multiblock.\\n]&f"
 		"{image:atm:textures/questpics/extremereactors/reprocessorframe.png width:100 height:175 align:1}"
 		"{@pagebreak}"
-		"完整建造的再处理器:\\n"
+		"完整再处理器示例:\\n\\n&7[A fully built Reprocessor:\\n]&f"
 		"{image:atm:textures/questpics/extremereactors/reprocessorfull.png width:100 height:150 align:1}"
 	]
-	quest.69642A3618E86DED.title: "建造&a框架&f"
-	quest.6ADDFD55AD0DF7D4.quest_desc: ["在&a再处理器&r中将&9荒谬锭&r与&c罗斯石&r结合可制成&d虚无锭&r.\\n\\n现在我们可以用这些锭制作&d虚无&r方块."]
-	quest.6ADDFD55AD0DF7D4.title: "虚无"
-	quest.75AD0CEBC1335915.quest_desc: ["&d&a反应堆控制器&f&r是反应堆的核心.当反应堆形成后,右键点击终端可打开操作界面.\\n\\n根据&9被动冷却&r或&e主动冷却&r类型,界面会有所不同.被动冷却反应堆直接燃烧燃料发电,主动冷却反应堆利用热量汽化冷却剂,再将蒸汽输送至涡轮机发电.\\n\\n在被动反应堆界面中,可查看和切换状态与废料喷射设置,还能实时显示温度、FE/t产能以及燃料&a每刻&f消耗量."]
-	quest.75AD0CEBC1335915.quest_subtitle: "反应堆的&a心脏&f"
+	quest.69642A3618E86DED.title: "建造&a框架&f&7[Building The Frame]&f"
+	quest.6ADDFD55AD0DF7D4.quest_desc: ["在&a再处理器&r中将&9瑞迪库莱特锭&r与&c罗西尼特&r结合,可制成&d伊南尼特锭&r.\\n\\n现在我们可以用这些来制作&d伊南尼特&r方块.\\n&7[Combining Ridiculite Ingots with Rossinite in a Reprocessor will create Inanite Ingots.\\n\\nWe can now use these to make a block of Inanite.]&f"]
+	quest.6ADDFD55AD0DF7D4.title: "伊南尼特&7[Inanite]&f"
+	quest.75AD0CEBC1335915.quest_desc: ["&d&a反应堆控制器&f&r是反应堆的核心.当反应堆形成后,右键点击终端可打开反应堆界面.\\n\\n根据&9被动冷却&r或&e主动冷却&r反应堆的类型,界面会有所不同.被动冷却反应堆通过直接燃烧燃料产生能量,主动冷却反应堆则利用产生的热量汽化冷却剂,随后送入涡轮机发电.\\n\\n在被动反应堆界面中,可查看并切换状态与废料排放功能,同时显示温度、反应堆产生的FE/t能量值以及燃料燃烧速率&a每刻&f.\\n&7[The Reactor Controller is the heart of the reactor. When a reactor is formed, you can right-click the terminal to open up the reactor interface.\\n\\nDepending on if it is a Passively Cooled or an Actively Cooled reactor, the interface will change. Passively Cooled reactors are used to produce power directly by burning fuel. Actively Cooled Reactors use the heat created to vaporize the coolant, which is then sent into a Turbine to create power.\\n\\nIn the interface of a passive reactor, you can see and toggle the status and waste ejection. You'll also see the temps, how much FE/t the reactor is producing, and how much fuel the reactor is burning per tick.]&f"]
+	quest.75AD0CEBC1335915.quest_subtitle: "反应堆的&a心脏&f&7[The Heart of the Reactor]&f"
 	quest.775D176081DD75F5.quest_desc: [
-		"在涡轮机完全建成后右键点击&a控制器&f将显示操作界面.\\n\\n此处可查看涡轮机的所有状态数据,悬停在各指标上会显示详细信息.\\n\\n左下角有两个箭头用于控制&9流量速率&r,决定输入涡轮机的热蒸汽量.设置时可参考反应堆的&d蒸汽产率&r作为基准值."
+		"在涡轮机&a控制器&f完全建成后右键点击,将显示涡轮机界面.\\n\\n此处可查看涡轮机的所有状态参数,将鼠标悬停在各项目上可获取详细信息.\\n\\n左下角有两个箭头用于控制&9流量速率&r,该设置决定泵入涡轮机的加热蒸汽量.初始设定值请参照反应堆的&d蒸汽产生率&r.\\n&7[Right-clicking on a Turbine Controller when it is fully built will show you the Turbine Interface.\\n\\nHere, you can see all of the stats for the Turbine. Hovering over each will tell you more info about each one.\\n\\nOn the bottom left, you'll have 2 arrows to control the Flow Rate. This controls how much heated vapor is pumped into the Turbine. To know how much you should set this to, check your reactor's Vapor Production Rate as a starting point. ]&f"
 		"{image:atm:textures/questpics/extremereactors/turbineui.png width:200 height:150 align:1}"
 	]
-	quest.7B4AAC741F0A6073.quest_desc: ["每个反应堆都需要&9&a反应堆控制棒&f&r和&9&a燃料棒&f&r.这些控制燃料如何被加入反应堆.\\n\\n&a控制杆&f放置在反应堆的顶面.每个反应堆可以有多于一个控制杆,但至少需要有一个.通常,控制杆越多,反应堆能使用和燃烧的燃料就越多.这可能意味着总功率更高,但代价是燃烧率更高,具体取决于反应堆的设置.\\n\\n每个&a控制杆&f都需要足够数量的&a燃料棒&f延伸至反应堆底部.例如,如果反应堆高5格,每个&a控制杆&f都需要3根&a燃料棒&f延伸.\\n\\n右键点击&a控制杆&f,可以通过插入或收回燃料棒来控制反应堆中燃烧的燃料量.棒伸得越远,燃烧的燃料就越少."]
-	quest.7B4AAC741F0A6073.title: "&a反应堆控制棒&f"
-	quest.7C4D8AA107780795.quest_desc: ["使用&a流体化器&r,我们可以将&d蓝托尼姆&r与&e耶洛里姆&r结合制成&2弗德尼姆&r.\\n\\n当在反应堆中作为燃料使用时,&2弗德尼姆&r会产生&c罗西尼特&r作为反应物.我们需要这个!\\n\\n要使用&2弗德尼姆&r作为燃料,你需要为反应堆制作&c燃料注入端口&r.\\n\\n注意:你可能需要清空反应堆中当前的燃料,或为此目的建造一个新的反应堆."]
-	quest.7C4D8AA107780795.title: "罗西尼特"
-	quest.7C4E4793DA887DE4.quest_desc: ["基于原版模组&e大型反应堆&r,&a&d极限反应堆&f&r允许你建造可定制的多方块反应堆!\\n\\n主要元素当然是铀.你需要这个以及大量的煤和铁来开始建造.\\n\\n如果你在过程中迷失方向,可以参考&a&a极端&f之书&r寻求帮助!"]
-	quest.7C4E4793DA887DE4.quest_subtitle: "这不能吃……相信我"
-	quest.7C4E4793DA887DE4.title: "欢迎来到&9&d极限反应堆&f&r!"
+	quest.7B4AAC741F0A6073.quest_desc: ["每个反应堆都需要&9&a反应堆控制棒&f&r和&9&a燃料棒&f&r,这些部件控制燃料注入反应堆的过程.\\n\\n&a控制杆&f安装在反应堆顶面,单个反应堆可配置多个(至少需要1个).通常控制杆数量越多,反应堆燃料消耗能力越强,可能产生更多能量,但燃烧速率也会相应提高(具体效果取决于反应堆配置).\\n\\n每根&a控制杆&f需要配备足够长度的&a燃料棒&f延伸至反应堆基底.例如5格高的反应堆,每根控制杆需连接3节&a燃料棒&f.\\n\\n右键点击&a控制杆&f可通过伸缩燃料棒调节反应堆燃料燃烧量——燃料棒延伸越长,燃料燃烧量越少.\\n&7[Every reactor needs Reactor Control Rods and Fuel Rods. These control how fuel is inserted into the reactor.\\n\\nThe Control Rods are placed on the top face of the reactor. You can also have more than one per reactor, but you must have at least 1. Typically, the more you have, the more fuel the reactor can use and burn. That can mean more overall power, but at the cost of higher burn rates, depending on the setup of your reactor.\\n\\nFor every Control Rod, you'll need enough Fuel Rods to extend to the base of the reactor. For example, if your reactor is 5 blocks tall, you'll need 3 Fuel Rods extending from each Control Rod.\\n\\nIf you right-click on a Control Rod, you can control how much fuel is burned in the reactor by inserting or retracting the fuel rods. The further that you extend the rods, the less fuel that will be burned.]&f"]
+	quest.7B4AAC741F0A6073.title: "&a反应堆控制棒&f&7[Reactor Control Rods]&f"
+	quest.7C4D8AA107780795.quest_desc: ["使用&a流体化器&r将&d钚铀合金&r与&e耶洛里姆&r结合可制成&2维尔德里姆&r.\\n\\n当&2维尔德里姆&r在反应堆中作为燃料时,会产生副产物&c罗西尼特&r,这正是我们所需的!\\n\\n使用&2维尔德里姆&r燃料需为反应堆配置&c燃料注入端口&r.\\n\\n注意:可能需要清空现有反应堆中的燃料,或为此专门建造新反应堆.\\n&7[By using the Fluidizer, we can combine Blutonium with Yellorium to make Verderium.\\n\\nWhen used as fuel in a reactor, Verderium produces Rossinite as a reactant. We need this!\\n\\nTo use Verderium as a fuel, you'll need to make Fuel Injection Ports for your reactor.\\n\\nNote: You might need to empty out the fuel currently in your reactor, or make a new reactor for this purpose. ]&f"]
+	quest.7C4D8AA107780795.title: "罗西尼特&7[Rossinite]&f"
+	quest.7C4E4793DA887DE4.quest_desc: ["基于原版模组&e大型反应堆&r开发的&a&d极限反应堆&f&r允许建造可定制的多方块反应堆!\\n\\n核心元素当然是铀,此外还需要大量煤炭和铁资源才能开始建造.\\n\\n若在过程中遇到困难,可查阅&a&a极端&f之书&r获取帮助!\\n&7[Based off of the original mod Big Reactors, Extreme Reactors allows you to build customizable multiblock Reactors!\\n\\nThe main element is of course, Uranium. You'll need this and a lot of coal and iron to get building.\\n\\nIf you're ever lost along the way, refer to The Extreme Book for help! ]&f"]
+	quest.7C4E4793DA887DE4.quest_subtitle: "这不能食用...相信我&7[It's not edible... trust me]&f"
+	quest.7C4E4793DA887DE4.title: "欢迎来到&9&d极限反应堆&f&r的世界!&7[Welcome to Extreme Reactors!]&f"
 	quest.7E07C5A6FA6B6B1F.quest_desc: [
-		"一旦你建造了一个功能齐全的&a再处理器&r,你就可以注入能量、水和&9蓝尼石&r来制造&d蓝托尼姆&r."
+		"当你建造好功能齐全的&a再处理器&r后,可注入能源、水和&9蓝荧石&r来生产&d钚-239&r.\\n&7[Once you've built a fully functional Reprocessor, you can pump in power, water, and Cyanite to create Blutonium.]&f"
 		""
-		"这可以用作反应堆的燃料,并产生自己的废物,称为&9马根尼特&r."
+		"该产物可作为反应堆燃料,并会产生名为&9品红矿&r的副产物.\\n&7[This can be used as a fuel for your reactor, and creates its own waste called Magentite. ]&f"
 	]
-	quest.7E07C5A6FA6B6B1F.title: "蓝托尼姆"
-	task.27D8027E1B88F02A.title: "版权所有"
-	task.2905C4386A407A1E.title: "&a涡轮机&f界面"
-	task.4851C74261B5FA25.title: "版权所有"
+	quest.7E07C5A6FA6B6B1F.title: "钚-239&7[Blutonium]&f"
+	task.27D8027E1B88F02A.title: "版权所有&7[AllRightsReserved]&f"
+	task.2905C4386A407A1E.title: "&a涡轮机&f 操作界面&7[The Turbine Interface]&f"
+	task.4851C74261B5FA25.title: "版权所有&7[AllRightsReserved]&f"
 }

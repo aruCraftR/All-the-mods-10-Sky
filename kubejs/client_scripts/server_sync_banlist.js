@@ -17,7 +17,7 @@ NetworkEvents.dataReceived("banned_items", (event) => {
 // When aiming at air
 ItemEvents.rightClicked((event) => {
   if (bannedItems.contains(event.item.id)) {
-    // event.entity.setStatusMessage(Text.gold("您无法使用此物品"))
+    // event.entity.setStatusMessage(Text.gold("禁止使用此物品"))
     event.cancel()
   }
 })
@@ -25,7 +25,7 @@ ItemEvents.rightClicked((event) => {
 // When aiming at any block
 BlockEvents.rightClicked((event) => {
   if (bannedItems.contains(event.item.id)) {
-    // event.entity.setStatusMessage(Text.gold("您无法使用此物品"))
+    // event.entity.setStatusMessage(Text.gold("禁止使用此物品"))
     event.cancel()
   }
 })

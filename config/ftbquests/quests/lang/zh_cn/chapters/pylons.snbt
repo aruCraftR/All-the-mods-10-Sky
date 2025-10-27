@@ -1,44 +1,44 @@
 {
-	quest.011F787E620DE9E8.quest_desc: ["设置&a封禁塔&f时,只需用该过滤器点击你希望永久清除的生物即可.\\n\\n每个过滤器仅能存储1种生物,若需禁止僵尸、骷髅、蜘蛛、苦力怕和末影人生成,则需要5个&a封禁塔&f.\\n\\n通过点击其他生物可随时更换过滤器中的存储对象."]
-	quest.011F787E620DE9E8.quest_subtitle: "他是不速之客!"
-	quest.034A9FBCA6D79BB6.quest_desc: ["&a收割机&f方尖碑需要锄具才能运作.\\n\\n(不可损坏的锄具可永久使用,可损坏的锄具需定期更换)."]
-	quest.09D18512037386C1.quest_desc: ["注入&a药水效果&f前需先填充药水过滤器.\\n\\n操作方式:身负药水效果时,持药水过滤器&a右键点击&f即可将效果吸收至过滤器中,重复操作直至填满激活.\\n\\n此法对模组&a药水效果&f及通常无法通过药水获取的效果(如急迫、抗性提升)同样有效."]
+	quest.011F787E620DE9E8.quest_desc: ["设置&a封禁塔&f时,只需用该过滤器点击你永远不想再见到的生物.\\n\\n每个过滤器只能存储1种生物,若想阻止僵尸、骷髅、蜘蛛、苦力怕和末影人生成,你需要5个&a封禁塔&f.\\n\\n通过点击其他生物即可更换已存储的生物类型.\\n&7[To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \\n\\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \\n\\nYou can exchange the Mob in it by simplying clicking a different Mob with it.]&f"]
+	quest.011F787E620DE9E8.quest_subtitle: "他是不速之客!&7[He's uninvited!]&f"
+	quest.034A9FBCA6D79BB6.quest_desc: ["&a收割机&f方尖碑需要锄头才能运作.\\n\\n(不可损坏的锄头可永久使用,会损坏的锄头需要更换).\\n&7[The Harvester Pylon needs a Hoe to work. \\n\\n(Hoes that can't break will work forever, Hoes that can will need to be replaced).]&f"]
+	quest.09D18512037386C1.quest_desc: ["注入&a药水效果&f需要先填充药水过滤器:\\n\\n使自己获得药水效果后,持药水过滤器&a右键点击&f自身即可将效果吸入过滤器,重复操作直至过滤器激活.\\n\\n此法对模组添加的&a药水效果&f或无法通过药水获取的效果(如急迫、抗性提升)同样有效.\\n&7[In order to put Potion Effects into you'll need to fill a Potion Filter. \\n\\nTo do so: have a Potion Effect on you, then right click with the Potion Filter to remove it from you and add it to the Filter, and repeat until it's filled and active. \\n\\nThis also works with modded Potion Effects or ones you can't usually get through Potions like Haste or Resistance.]&f"]
 	quest.12ED1EE85E146A4B.quest_desc: [
-		"收割方尖碑可实现简易自动化农场.将其置于水源中或上方,即可自动收割并重新种植周边设定区域内完全成熟的作物."
+		"收割方尖碑是简易自动化农场装置.将其置于水源中或上方,即可自动收割并补种范围内完全成熟的作物.\\n&7[Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. ]&f"
 		""
-		"可设置3x3、5x5、7x7或9x9格方尖碑作用范围."
+		"工作范围可设置为方尖碑周围3x3、5x5、7x7或9x9区域.\\n&7[The area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. ]&f"
 		""
-		"需配备锄具进行耕作,并需要上方容器(如箱子)储存作物.满足条件且启动后即可开始自动化耕作!"
+		"需配备锄头进行耕作,并在其上方放置容器(如箱子)存储作物.满足条件且启动后即可开始自动化耕作!\\n&7[It will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!]&f"
 	]
-	quest.18246A48C20B29D8.quest_desc: ["&a注魔&f方尖碑类似信标但效果更佳且成本更低!\\n通过药水过滤器注入效果后,无论身处何地都能持续获得该药水效果!\\n\\n没错,灌注塔已突破范围限制,可实现全域覆盖."]
-	quest.30B0240543253EFB.quest_desc: ["方尖碑是由&aMutant Gumdrop&r开发的精彩模组!\\n\\n切勿因模组体量小而轻视它!提供多种功能的方尖碑,能极大简化 Minecraft 游戏体验.\\n\\n起步需要&a磨制黑石&f作为制作材料."]
-	quest.30B0240543253EFB.title: "&l方尖碑"
-	quest.32E52AD6EF194A60.quest_desc: ["&a经验&f方尖碑能有效守护领地.\\n\\n放置后可阻止未白名单玩家进入设定区块范围.\\n\\n通过GUI界面可设置1x1、3x3或5x5&a区块&f的保护范围.\\n\\n注意:无法设置过于接近世界出生点.我们清楚捣乱者的意图,绝不妥协!\\n\\n玩家白名单设置请查看玩家过滤器任务!"]
-	quest.32E52AD6EF194A60.quest_subtitle: "离开我的领地!"
-	quest.403F76908A8A5661.quest_desc: ["&a经验&f融合塔会将玩家推出区域,但若你希望&l某些&r玩家留在附近!这时你需要玩家过滤器.\\n\\n&a右键点击&f玩家即可将其录入,随后放入塔内将其加入白名单!\\n\\n当其他人都被推开时,你的朋友仍可停留!\\n\\n默认情况下融合塔所有者不会被排斥."]
+	quest.18246A48C20B29D8.quest_desc: ["&a注魔&f方尖碑类似信标但效果更佳且成本更低!\\n通过药水过滤器注入效果后,无论身处何地都能持续获得该药水效果!\\n\\n没错——灌注塔现已突破范围限制,效果全域覆盖.\\n&7[The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect no matter where you are! \\n\\nYou heard me right, no longer is there a set radius for the Infusion Pylon, now it will reach you wherever.]&f"]
+	quest.30B0240543253EFB.quest_desc: ["方尖碑模组由本服&aMutant Gumdrop&r匠心制作!\\n\\n切勿因模组体积小而低估其功能!多种方尖碑装置能简化 Minecraft 游戏体验.\\n\\n制作起始材料需要&a磨制黑石&f.\\n&7[Pylons is a wonderful mod made by our very own Mutant Gumdrop!\\n\\nDon't let the size of the mod make you underestimate it! It provides many Pylons which can be used for many things to help make playing Minecraft easier.\\n\\nTo get started you'll need some Polished Blackstone to make them.]&f"]
+	quest.30B0240543253EFB.title: "&l方尖碑模组&7[lPylons]&f"
+	quest.32E52AD6EF194A60.quest_desc: ["&a经验&f充能塔的功能是防止他人闯入你的领地.\\n\\n放置后,它会阻止所有未加入白名单的玩家进入其周围设定的区块范围.\\n\\n可通过GUI界面左上角设置&a区块&f保护范围(1x1、3x3或5x5区块).\\n\\n注意:无法设置在出生点附近.我们知道捣蛋鬼们的想法,但绝不会让你们得逞!\\n\\n白名单设置请查看玩家筛选器任务!\\n&7[The Expulsion Pylon works as a way of keeping people off your lawn. \\n\\nWhen placed down it will keep any Players who aren't whitelisted from a set amount of Chunks around it. \\n\\nThe Chunks are set in it's GUI in the top left from 1x1, 3x3, or 5x5 Chunks. \\n\\nAlso no it can't be set too close to Spawn. We know what you trolls want and we ain't giving it! \\n\\nTo Whitelist players check the Player Filter Quest!]&f"]
+	quest.32E52AD6EF194A60.quest_subtitle: "别踩我的草坪!&7[Get off my lawn!]&f"
+	quest.403F76908A8A5661.quest_desc: ["&a经验&f充能塔会推开区域内玩家,但如果你希望&l特定&r玩家留下!这时就需要玩家筛选器.\\n\\n&a右键点击&f玩家即可将其录入,随后放入充能塔即可加入白名单!\\n\\n这样当其他人都被推开时,你的朋友仍可停留.\\n\\n默认情况下充能塔所有者不会被排斥.\\n&7[The Explusion Pylon pushes players out of the area, but what if you want lsome players nearby! Then you'll need a Player Filter. \\n\\nRight Click a Player with it to set them in it, and then put it into the Pylon to Whitelist them! \\n\\nSo when everyone else is pushed out, your friend won't be! \\n\\nAlso by default the Owner of the Pylon won't get expuled.]&f"]
 	quest.5B5FC539BD1F4A73.quest_desc: [
-		"此塔核心功能是阻止&a怪物生成&f."
+		"该充能塔专用于阻止&a怪物生成&f.\\n&7[This Pylon is all about blocking Mob Spawns. ]&f"
 		""
-		"可通过&a封禁塔&f仅阻止特定生物生成,或使用无生命过滤器阻止所有生物生成!"
+		"可使用&a封禁塔&f仅阻止特定生物生成,或使用无生命过滤器阻止所有生物生成!\\n&7[You can use Mob Filters to block spawns of only certain Mobs or use the Lifeless Filter to block all Mob spawns! ]&f"
 		""
-		"可叠加多个&a封禁塔&f以扩大阻止范围.还可调整工作区域范围来控制&a怪物生成&f的阻止距离."
+		"可叠加多个&a封禁塔&f以扩大阻止范围,还可调整工作区域以控制&a怪物生成&f的阻止距离.\\n&7[You can stack multiple Mob Filters to block off more spawns. Plus you can change the Working Area for how far it blocks those Mob Spawns. ]&f"
 		""
-		"若使用无生命过滤器,将忽略所有此类设置."
+		"若使用无生命过滤器,将忽略所有其他设置.\\n&7[If you use the Lifeless Filter it will ignore all those settings.]&f"
 	]
 	quest.5C2C29ECA67F9B49.quest_desc: [
-		"无生命过滤器可确保25x25区块范围内绝无生物生成."
+		"无生命过滤器可确保25x25区块范围内完全无需担心任何生物生成.\\n&7[With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. ]&f"
 		""
-		"但不包括强制生成,即刷怪笼甚至&a刷怪蛋&f生成的生物!"
+		"但不包括强制生成,如刷怪笼生成的生物或&a刷怪蛋&f生成的生物!\\n&7[This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!]&f"
 		""
-		"25x25范围将覆盖玩家附近所有敌对与被动生物的生成距离."
+		"25x25范围将覆盖玩家附近所有敌对与被动生物的生成距离.\\n&7[The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. ]&f"
 		""
-		"包含所有Y轴高度,塔顶与地下皆有效,无需再为洞穴照明担忧!"
+		"此范围包含所有Y轴高度(充能塔上方与下方),无需再为洞穴照明操心!\\n&7[This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! ]&f"
 		""
-		"此过滤器无白名单功能,将阻止一切生物生成."
+		"该过滤器不支持白名单,将阻止所有生物生成.\\n&7[There's no Whitelisting with this Filter, it will prevent every Mob Spawn.]&f"
 	]
-	quest.5C2C29ECA67F9B49.quest_subtitle: "终得宁静祥和."
-	quest.5E02AE661945306C.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n所有&6AllTheMods&r套件均采用&e保留所有权利&r许可,未经明确授权不得在任何非&6AllTheMods团队&r发布的公开包中使用.\\n\\n此任务已被隐藏,若你看到此提示,说明正处于编辑模式."]
-	task.35320BB07FB39D05.title: "版权所有"
-	task.59DD89698DBAA215.title: "版权所有"
-	task.616C07AFBAFA7AE4.title: "锄具"
+	quest.5C2C29ECA67F9B49.quest_subtitle: "终于迎来宁静时光.&7[Finally peace and quiet. ]&f"
+	quest.5E02AE661945306C.quest_desc: ["本任务由&6AllTheMods团队&r或&2社区贡献者&r创作,专用于AllTheMods整合包.\\n\\n所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经&6AllTheMods团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若可见说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	task.35320BB07FB39D05.title: "版权所有&7[AllRightsReserved]&f"
+	task.59DD89698DBAA215.title: "版权所有&7[AllRightsReserved]&f"
+	task.616C07AFBAFA7AE4.title: "锄头&7[Hoes]&f"
 }

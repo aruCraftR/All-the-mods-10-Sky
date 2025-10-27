@@ -1,77 +1,77 @@
 {
-	quest.00E1F1279F97557B.quest_desc: ["与MK1挤出机类似,但这一款更为先进!&a可用于&f配合图案,当放置方块时会按照设定图案排列!"]
-	quest.01C5D8357D8B0D62.quest_desc: ["若了解&a探测轨道&f的工作原理,此模块对您便不言自明.\\n\\n核心机制是:当路由器中存在特定物品时,会向外发出&a红石信号&f.\\n\\n可通过模块设置目标物品、信号输出方位及信号强度."]
+	quest.00E1F1279F97557B.quest_desc: ["类似MK1挤出机,但这一款更加先进!&a可用于&f配合图案模板,放置方块时将按预设图案排列!\\n&7[Similar to the Extruder MK1 but this one is more evolved! Can be used with Patterns so when Blocks are placed they will go in that pattern!]&f"]
+	quest.01C5D8357D8B0D62.quest_desc: ["若了解&a探测轨道&f原理,此模块将不言自明.\\n\\n当路由器中存在特定物品时,会向外发出&a红石信号&f.\\n\\n可通过模块设置目标物品、信号输出面及信号强度.\\n&7[If you know how a Detector Rail works then this Module will be explanatory for you. \\n\\nBasically if a certain Item is in the Router, it will emit a Redstone Signal out of the Router. \\n\\nIn the Module you can set the Item, where the Signal comes from, and how strong a Signal.]&f"]
 	quest.067AB3E4C4492F0D.quest_desc: [
-		"不想手动挖掘大量矿石？何不让路由器代劳？\\n\\n使用放置器布设矿石,再由附魔破碎机进行开采.注意:破碎机需使用预先附魔的镐具合成,模块本身不可附魔.\\n\\n可能需要另一台路由器收集掉落矿石."
+		"不想手动挖掘大量矿石？何不让路由器代劳？\\n\\n使用放置器布设矿石,再由附魔破碎机开采.注意:破碎机需使用附魔镐合成,模块本身不可附魔.\\n\\n可能需要另一台路由器收集掉落矿石.\\n&7[Don't feel like Mining a bunch of Ores you got? Why not let Routers do it for you? \\n\\nYou can use a Placer to place down the Ores, then let an Enchanted Breaker Mine the Ores. Breaker needs the Pickaxe used to craft it to be Enchanted first, the Module itself can't be Enchanted. \\n\\nYou might need another Router to pick up the dropped Ores.]&f"
 		"{image:atm:textures/questpics/router/router_break.png width:150 height:80 align:center}"
 	]
-	quest.067AB3E4C4492F0D.title: "采矿用路由器系统"
-	quest.09E25B1CD6CABD5A.quest_desc: ["此升级使路由器具备框架方块特性.\\n\\n潜行&a右击&f方块可将路由器外观变更为该方块.\\n\\n请注意保管以免遗失!"]
-	quest.0CE236731DF15DFF.quest_desc: ["何需等待？通常Minecraft中掉落物需触地方可拾取.\\n\\n但何必等待？\\n\\n此升级令&a真空模块&f无需延迟即刻拾取物品.\\n\\n有效降低游戏卡顿!"]
+	quest.067AB3E4C4492F0D.title: "采矿用路由器系统&7[Routers for Mining]&f"
+	quest.09E25B1CD6CABD5A.quest_desc: ["此升级使路由器具备镶框方块特性.\\n\\n潜行&a右键&f方块可将路由器外观变为该方块.\\n\\n当心别弄丢它!\\n&7[This upgrade makes the Router similar to a Framed Block. \\n\\nSneak Right Click a Block to change the Routers appearance to it. \\n\\nJust don't lose it!]&f"]
+	quest.0CE236731DF15DFF.quest_desc: ["何须等待？通常MC中掉落物需落地后方可拾取.\\n\\n但何必等待？\\n\\n此升级让&a真空模块&f即时吸取物品.\\n\\n有效降低卡顿!\\n&7[Why wait? Usually items dropped in Minecraft have a second they need to hit the ground to be picked up again. \\n\\nBut why wait?\\n\\nThis upgrade lets the Vacuum Module not wait and immediately pick up the items. \\n\\nVery good for less lag!]&f"]
 	quest.0D5691403AEC25A8.quest_desc: [
-		"路由器亦可用于农耕!\\n\\n先建立基础农场,配置&a执行模块&f指向作物,置入&a真空模块&f收集产物.最后接入路由器,红石供能即可自动化耕作!"
+		"路由器亦能务农!\\n\\n先建基础农场,配置&a执行模块&f指向作物,添加&a真空模块&f收集收成.\\n\\n最后装入路由器,红石供能即可自动化耕作!\\n&7[Routers can also be used for Farming!\\n\\nFirst start off with a simple Farm. Then you'll need an Activator Module and direct it toward the Crops. After that, put a Vacuum Module in your Router to collect the Crops. Finally put it all in the Router, Power it with Redstone, and let it farm!]&f"
 		"{image:atm:textures/questpics/router/router_farm.png width:60 height:150 align:center}"
 	]
-	quest.0D5691403AEC25A8.title: "农耕用路由器系统"
-	quest.0DC8B68CDF945348.quest_desc: ["&a路由器&f予取予求.\\n\\n此模块对建筑工与矿工尤其实用!可设置将缓存物品输送至背包,或从背包提取物品至缓存.\\n\\n鱼骨采矿时,自动收取所有圆石与深板岩至&a垃圾桶&f的理想选择."]
-	quest.10672B5991E5FC34.quest_desc: ["私人物品,请勿触碰.\\n\\n安装此升级后,仅您可操作该路由器."]
-	quest.1069244EB72F64CA.quest_desc: ["搭载&a能量模块&f时能耗更高!"]
-	quest.143AE6889BDA9EF5.quest_desc: ["普通模块筛选槽位有限,需扩展时请选用批量物品过滤器.\\n\\n可置入更多物品进行&a白名单或黑名单&f设置,安装方式与普通过滤器相同.\\n\\n合成特殊过滤器的必备组件!"]
-	quest.177396B9C4F9B3E2.quest_desc: ["为何等待？哦,您有正当理由？比如避免物品消失？这倒未曾考虑.\\n\\n搭载&a延迟拾取拓展&f后,&a真空模块&f将延迟&a10游戏刻&f(每安装一个增强单元)再拾取掉落物!"]
-	quest.185074907753AE77.quest_desc: ["若使用路由器,建议具备一定游戏知识.\\n\\n特别说明:”销毁物品”即永久删除.\\n\\n进入此路由器的所有物品将永久消失!\\n\\n强烈建议搭配过滤器使用..."]
-	quest.1A806C1A54B26EB5.quest_desc: ["您是否不希望所有操作都在大范围内执行？想要让您的真空装置在世界中留出掉落物品的空间？那么我猜您可以缩小作用范围."]
-	quest.1AA81C41431FD145.quest_desc: ["抽取..!抽取..!抽取..!\\n\\n&a提取器&f与发送器功能相反,它能从容器中将物品抽入路由器的缓冲区内.\\n\\n容器必须与路由器相邻才能操作."]
-	quest.20D4568857887D38.quest_desc: ["路由器有时会处于危险境地,比如生成凋灵时.\\n\\n您需要安装爆炸保护升级组件来保护它.\\n\\nTNT炸不坏,凋灵也毁不掉——能破坏它的只有您自己."]
-	quest.233C7CAA573D6045.quest_desc: ["模块决定路由器执行的操作.\\n\\n它们能让路由器从箱子抽取物品、向箱子存入物品,甚至同时执行两种操作!还有更多功能!\\n\\n模块需直接装入路由器,且可安装多个.\\n\\n过滤功能与升级组件需安装在模块内部."]
-	quest.233C7CAA573D6045.title: "&l模块系统"
-	quest.2405663C033CBDF1.quest_desc: ["MK3版本无需考虑XYZ坐标轴、视线或维度限制.\\n\\n只要容器位于同一个我的世界维度内,即可进行物品传输.\\n\\n说真的,我甚至不确定接收方是否必须处于我的世界游戏内!"]
-	quest.2447208F1DC74FFE.quest_desc: ["路由器运行会产生噪音,当数量达到上百个时噪音将叠加.\\n\\n这时投资消音升级组件会是不错的选择!"]
-	quest.247DAE5B4E1AC7F1.quest_desc: ["吸入液体.\\n排出液体.\\n\\n&a流体模块&f可从路由器附近获取液体源并存至缓冲罐,或将缓冲罐内的液体排放至前方区域.\\n\\n仅作用于路由器相邻方块,若需扩大范围则需要..."]
-	quest.2B60D123123A5E8E.quest_desc: ["何必限定能量传输范围？让它自由扩散吧!\\n\\n如同释放蜂群,能量会几乎瞬间遍布各处(且没有嗡嗡声).附近需要能量的方块将通过无线方式充能."]
-	quest.2BB5769119BA2472.quest_desc: ["本任务由&6ATM官方团队&r或&2社区贡献者&r创作,适用于ATM整合包.\\n\\n所有&6ATM&r系列作品均采用&e保留所有权利&r许可协议,未经明确授权,不得在任何非&6ATM团队&r发布的公开整合包中使用此任务.\\n\\n此任务已被刻意隐藏,若您能看到本提示,说明正处于编辑模式."]
-	quest.2DD5F0693780B10A.quest_desc: ["与MK2挤压机配合使用时,挤压出的方块将模拟真实方块特性:&a红石砖&f会发射红石信号,荧石块会发光,草方块呈透明状.但仅限使用此增强模块时生效!\\n对熔炉或&a富集仓&f等方块实体无效."]
-	quest.3025081DA6D2B398.quest_desc: ["通常路由器控制模块,但此增强模块会让模块自主运行!彻底失控!完全无政府状态!\\n\\n它将响应自身的红石激活信号而非路由器的指令."]
-	quest.309B6B8368E535A0.quest_desc: ["路由器每次触发时执行一次操作.\\n\\n默认间隔为20游戏刻(1秒).\\n\\n通过安装&a疾风&f升级可缩短触发间隔!"]
-	quest.326C63F7DC713E71.quest_desc: ["分发器是发送器模块的半同胞(具体而言,MK3版本对应MK2版本).\\n\\n它可同时向多个选定的容器发送物品,而非单一容器.\\n\\n支持多种传输模式:&a轮询&f、随机、最近优先或最远优先.&a轮询&f模式会像扑克发牌员般按顺序均匀分配,随机模式将随机选择目标容器,其他模式则根据与路由器的距离决定."]
-	quest.346B9339E3D66478.quest_desc: ["能量是绝大多数设备运行的必需资源,因此需要广泛传输.幸运的是,&a能量模块&f可协助实现!\\n\\n该模块能将输入的能量传输至任何指定位置!"]
-	quest.36DED7099E80ED51.quest_desc: ["顾名思义,此模块用于放置方块.\\n\\n设定方块放置方向,建议配置过滤器,随后将模块与方块放入路由器!接收到红石信号时即开始放置方块."]
-	quest.37F2BE3C2BAF7C2D.quest_desc: ["标签是Minecraft的核心系统.\\n\\n作为分类工具,它可协助筛选同类物品执行相同任务,例如用任意木板制作工作台,或用任意斧头高效砍树.\\n\\n使用标签过滤时,先放入样本物品,再从群组中选择标签(如用&a铁矿石&f筛选所有矿石类物品)."]
-	quest.38954551309F42A7.quest_desc: ["发送器模块MK2与MK1功能相似但限制更少.\\n\\nMK2无需直线视野或处于相同XYZ坐标轴.\\n\\n但仍需处于同维度,除非拥有..."]
-	quest.3C54C36CE97A48DC.quest_desc: ["投掷器投掷,\\n发射器发射,\\n而弹射模块弹射!\\n\\n与平稳放置缓冲区内物品不同,&a投掷模块&f会将物品抛射出去？射程多远？由您决定!"]
-	quest.40788326E791845D.quest_desc: ["挤压是个严谨的术语.\\n\\n当接收到&a红石信号&f时,&a金属挤压机&f会将路由器缓冲区内的方块呈直线排列于路由器前方.信号中断时所有已放置方块将被破坏.\\n\\n非常适合制作门结构!"]
-	quest.417B88FEB1B8F44E.quest_desc: ["顾名思义——吸取!字面意思的吸取!\\n\\n&a真空模块&f会吸取设定区域内的所有物品并转移至路由器缓冲区,功能类似&a吸收漏斗&f.\\n\\n还可与经验增强配件配合使用!"]
-	quest.475E1B94A61B9EB0.quest_desc: ["与MK1版本相同,此模块具备抽取功能!不仅限于相邻容器,可抽取范围内所有容器物品!"]
-	quest.4A03A671757B2EBF.quest_desc: ["耐久度、&a流体储量&f、&a能量储量&f、附魔等级与&a食物营养价值&f皆可通过&a检测过滤器&f进行筛选.\\n\\n可设置数值比较条件:大于、小于、等于或混合条件.\\n\\n输入具体数值后点击加号按钮添加至过滤器.\\n\\n适用于筛选高耐久工具或高&a食物营养价值&f的食物."]
-	quest.4CC963F5AECF285A.quest_desc: ["路由器默认每刻传输1个物品.通过堆叠升级可实现传输量翻倍叠加!\\n\\n1级堆叠传输2物品,2级传输4物品,6级可达每秒64物品."]
-	quest.4EAFE7B240AF0A4D.quest_desc: ["够不到所需物品？试试范围升级!\\n\\n安装后所有操作都将扩大作用范围:真空模块可吸取更远处的物品,能量传输距离更远,投掷器投射力度更强!"]
-	quest.4FA5192164E4A427.quest_desc: ["流体无法像物品那样堆叠,因此其升级机制略有不同.仍可提升传输量,但速率计算方式不同."]
+	quest.0D5691403AEC25A8.title: "农业用路由器系统&7[Routers for Farming]&f"
+	quest.0DC8B68CDF945348.quest_desc: ["&a路由器&f可存取物品.\\n\\n对建筑工与矿工极其实用!可设置将缓存物品传送至背包,或从背包提取物品至缓存.\\n\\n鱼骨采矿时,自动将圆石与深板岩转入&a垃圾桶&f.\\n&7[The Router giveth and the Router taketh. \\n\\nThis Module is helpful for Builders or even Miners! It can be set to send items from its Buffer to your Inventory or take items from your Inventory into its Buffer. \\n\\nPerfect for Strip-Mining, have it take all the Cobble and Deepslate from your Inventory and put it in a Trash Can.]&f"]
+	quest.10672B5991E5FC34.quest_desc: ["私人所有,请勿触碰.\\n\\n安装此升级后,仅您可操作该路由器.\\n&7[It's my stuff, no touchy. \\n\\nOnly you can use and mess with the Router after putting in the Upgrade.]&f"]
+	quest.1069244EB72F64CA.quest_desc: ["搭配&a能量模块&f时能耗更高!\\n&7[Takes more Energy with the Energy Modules!]&f"]
+	quest.143AE6889BDA9EF5.quest_desc: ["普通模块筛选槽位有限,此批量物品筛选器可突破限制.\\n\\n支持大量物品的&a白名单或黑名单&f设置,安装方式与普通筛选器相同.\\n\\n是合成特殊筛选器的必备组件!\\n&7[Modules only have so many slots for Filtered Items, if you need more than use this! Bulk Item Filter. \\n\\nYou can put many more Items in to Whitelist or Blacklist in it. Then throw it in where normal Filters go! \\n\\nWill be needed to craft more unique Filters!]&f"]
+	quest.177396B9C4F9B3E2.quest_desc: ["为何要等？哦...担心物品消失？这倒没考虑到.\\n\\n&a延迟拾取拓展&f可使&a真空模块&f每增加一个增强单元延迟&a10游戏刻&f吸取物品!\\n&7[Why wait? Oh you have valid reasons for waiting? Like items that might despawn. Huh wasn't thinking about those. \\n\\nWith Pickup Delay Augment the Vacuum Module will wait 10 ticks with every Augment in it to pick up dropped items! ]&f"]
+	quest.185074907753AE77.quest_desc: ["使用路由器需具备游戏知识.\\n\\n温馨提示:”销毁物品”指永久删除.\\n\\n进入此路由器的任何物品都将永远消失!\\n\\n强烈建议搭配筛选器使用...\\n&7[If you are using Routers I hope you have some game knowledge. \\n\\nJust incase, to void an Item means to delete it. \\n\\nAny items that come into the Router, will be deleted forever! \\n\\nRecommend using Filters with this one...]&f"]
+	quest.1A806C1A54B26EB5.quest_desc: ["你不想让所有装置都在大范围内运作？希望你的真空装置在世界中留出掉落物品的空间？那么我猜你可以缩小范围.\\n&7[You don't want everything to do their actions at a larger range? You want your Vacuum to leave some room for dropping items in your World? Then I guess you can range down.]&f"]
+	quest.1AA81C41431FD145.quest_desc: ["拉取..!拉取..!拉取..!\\n\\n&a提取器&f与发送器功能相反,它能从容器中将物品抽入路由器的缓冲区内.\\n\\n容器必须与路由器相邻放置.\\n&7[Pull..! Pull..! Pull..! \\n\\nThe Puller is the opposite of the Sender, it pulls items from Inventories into the Router's Buffer. \\n\\nThe Inventory has to be adjacent to the Router.]&f"]
+	quest.20D4568857887D38.quest_desc: ["有时路由器可能处于危险境地,比如生成凋灵时.\\n\\n你需要安装防爆升级组件来保护它.\\n\\nTNT炸不坏,凋灵也毁不掉,只有你能拆除它.\\n&7[Sometimes a Router might be in a dangerous situation, like spawning a Wither. \\n\\nIn order to protect it you'll need a Blast Upgrade. \\n\\nTNT won't break it, Wither won't break it, only you.]&f"]
+	quest.233C7CAA573D6045.quest_desc: ["模块决定了路由器执行的动作.\\n\\n它们能让路由器从箱子抽取物品、向箱子存入物品,甚至同时执行两种操作!还有更多功能!\\n\\n模块直接装入路由器内部,且可安装多个.\\n\\n过滤功能与升级组件则需嵌入模块本身.\\n&7[Modules determine the action the Router preforms.\\n\\nThey can make it so your Router pulls items from Chests, or put items into chests, or even both! And much more!\\n\\nModules go into the Router themselves and multiple can be installed.\\n\\nFiltering and Upgrades go into the Modules themselves.]&f"]
+	quest.233C7CAA573D6045.title: "&l模块系统&7[lModules]&f"
+	quest.2405663C033CBDF1.quest_desc: ["MK3版本无需考虑XYZ轴、视线或维度限制.\\n\\n只要容器位于同一个Minecraft世界,它就能传输物品.\\n\\n我甚至不确定接收容器是否必须存在于Minecraft游戏内!\\n&7[MK3 doesn't worry about XYZ axis, line of sight, or Dimension. \\n\\nAs long as the Inventory is in the same Minecraft World it can move items into it. \\n\\nHeck I'm not even sure if the Inventory has to be in the game of Minecraft to send to!]&f"]
+	quest.2447208F1DC74FFE.quest_desc: ["路由器可能产生噪音,当数量上百时噪音会叠加.\\n\\n这时投资消音升级组件会是个好主意!\\n&7[Routers can be noisy, and noise definitely stacks when you have hundreds of them.\\n\\nMight be nice to invest in Muffer Upgrades then!]&f"]
+	quest.247DAE5B4E1AC7F1.quest_desc: ["液体输入.\\n液体输出.\\n\\n&a流体模块&f会从路由器附近抽取液体源存入缓冲罐,或将缓冲罐内的液体放置到前方.\\n\\n仅作用于相邻区块,若需扩大范围则需要...\\n&7[Water in. \\nWater out. \\n\\nThe Fluid Module will either take Liquid Sources from near the Router and put it into a Tank in the Buffer or take Liquid from a Tank in it's Buffer and place it in front of it. \\n\\nOnly works for adjacent blocks to the Router, if you want bigger range you'll need...]&f"]
+	quest.2B60D123123A5E8E.quest_desc: ["何必限定能量传输方位？不如让其自由传播!\\n\\n如同释放蜂群,能量会几乎瞬间遍布各处(且没有嗡嗡声).附近需要能量的方块将通过无线方式充能.\\n&7[Why set a location to where the Energy can go? Why not let it go free! \\n\\nLike freeing a bunch of Bees, the Energy will go everywhere almost instantly (with less buzzing). Any blocks needing Energy nearby will be charged wirelessly.]&f"]
+	quest.2BB5769119BA2472.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,适用于ATM整合包.\\n\\n由于所有&6ATM&r系列均采用&e保留所有权利&r许可,未经明确授权,此任务禁止用于非&6ATM团队&r发布的公开整合包.\\n\\n此任务默认隐藏,若你看到此文本,说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.2DD5F0693780B10A.quest_desc: ["配合MK2挤压机使用时,挤压出的方块会模拟真实方块特性.&a红石砖&f会发射红石信号,荧石会发光,草方块会呈现透明特性.但仅限此增强模块!\\n对熔炉或&a富集仓&f等方块实体无效.\\n&7[Used with the Extruder MK2, blocks extruded will mimic the actual blocks. Redstone Blocks will emit Redstone, Glowstone will emit light, Grass will act transparent. But only with this Augment! \\nDoesn't work with Block Entities like Furnaces or Enrichment Chambers.]&f"]
+	quest.3025081DA6D2B398.quest_desc: ["通常路由器控制模块,但此增强模块会让模块自主行动!彻底失控!完全无政府状态!\\n\\n它将响应自身的红石激活信号而非路由器的指令.\\n&7[Usually the Router commands the Modules but with this Augment the Module goes rouge! AWOl! Pure anarchy! \\n\\nIt will listen to it's own Redstone activation rather than the Routers.]&f"]
+	quest.309B6B8368E535A0.quest_desc: ["路由器每次触发运算刻度时执行动作.\\n\\n默认20刻度(1秒)触发一次.\\n\\n通过&a风驰&f升级组件可减少触发间隔!\\n&7[A Router does it's action every time it has one of it's ticks. \\n\\nDefault is 20 Ticks or 1 Second. \\n\\nThis can be made to less Ticks with the Speed Upgrade!]&f"]
+	quest.326C63F7DC713E71.quest_desc: ["分发器是发送器模块的半同胞产品(具体指MK3版本,属于MK2系列).\\n\\n它可同时向多个选定的容器发送物品,而非单一目标.\\n\\n支持多种传输模式:&a轮询&f、随机、最近优先、最远优先.&a轮询&f会像扑克发牌员般按顺序平均分配；随机模式随机选择目标容器；其他模式则根据与路由器的距离决定优先级.\\n&7[The Distributer is the half siblings of the Sender Modules. (The MK3 to be exact, on the MK2 side). \\n\\nInstead of sending to 1 Inventory it will send to multiple that are selected. \\n\\nIt can send in multiple modes: Round Robin, Random, Nearest First, or Farthest First. Round Robin does an even amount to each in a row, like a dealer in Poker. Random will randomly choose an inventory to feed. The others are determined by the distance from the Router.]&f"]
+	quest.346B9339E3D66478.quest_desc: ["能量是绝大多数设备运行的必需资源,需要广泛传输.幸运的是,&a能量模块&f可协助实现!\\n\\n该模块能将输入的能量转移至任意指定位置!\\n&7[Energy is something used by practically everything so you need to send it almost everywhere. Thankfully the Energy Module will help with that! \\n\\nThe Energy Module will move any energy pushed into it, somewhere else! To wherever you set it to!]&f"]
+	quest.36DED7099E80ED51.quest_desc: ["顾名思义,此模块用于放置方块.\\n\\n设定方块放置方向(建议配置过滤器)后,将模块与方块放入路由器.收到&a红石信号&f时即可自动放置!\\n&7[This one does as the name suggests, it places Blocks. \\n\\nSet the Direction you want the Block placed, preferably set the Filter, then throw the Module and Blocks into the Router! Once the Redstone is set the Blocks will be placed!]&f"]
+	quest.37F2BE3C2BAF7C2D.quest_desc: ["标签系统是Minecraft的核心机制.\\n\\n作为分类工具,它能将同类物品归组处理,例如用任意木板制作工作台,或用任意斧头高效砍树.\\n\\n使用标签过滤时,先放入样本物品,再从群组中选择标签(如用&a铁矿石&f代表所有矿石).\\n&7[Tags are an essential part of Minecraft. \\n\\nFor all who don't know they work as an organization tool to help choose similar items for the same task. Like Crafting Table being made with any Planks or Trees being Chopped down fastest with any Axe. \\n\\nTo filter by Tag put an item in, then select the tag from the groups. Like Iron Ore for Ores.]&f"]
+	quest.38954551309F42A7.quest_desc: ["发送器模块MK2与MK1功能相似但限制更少.\\n\\nMK2无需直线视野或处于同一XYZ坐标轴,\\n\\n但仍需处于同维度——除非拥有...\\n&7[Sender Module MK2 works similar to MK1 but with less restrictions. \\n\\nMK2 doesn't need direct line of sight or to be on same XYZ axis. \\n\\nWill have to be in the same Dimension though, unless you have...]&f"]
+	quest.3C54C36CE97A48DC.quest_desc: ["投掷器投掷,\\n发射器发射,\\n而弹射模块猛甩!\\n\\n与平稳放置不同,&a投掷模块&f会将缓存区物品抛射出去？射程多远？由您决定!\\n&7[Droppers drop,\\nDispensers dispense, \\nAnd Flingers fling! \\n\\nInstead of nicely setting down items from the Buffer, the Flinger Module will throw them? How far? You determine that!]&f"]
+	quest.40788326E791845D.quest_desc: ["挤压是个严谨的术语.\\n\\n当收到&a红石信号&f时,&a金属挤压机&f会将路由器缓存区的方块呈直线排列放置；信号中断时则破坏所有已放置方块.\\n\\n非常适合制作自动门!\\n&7[Extrude is such a prude word. \\n\\nThe Extruder will place the blocks in the Router's Buffer in a line in front of the Router when given a Redstone Signal. When the Signal is disabled it will break all those blocks. \\n\\nUseful for Doors!]&f"]
+	quest.417B88FEB1B8F44E.quest_desc: ["顾名思义——吸取!字面意思!\\n\\n&a真空模块&f会吸取设定区域内的所有物品并转移至路由器缓存区,类似&a吸收漏斗&f的功能.\\n\\n还可搭配经验增强模块使用!\\n&7[Mean these Suck! Literally! \\n\\nVacuum Module will suck up any items in the set area and move them to the Routers Buffer. Similar to the Absorption Hopper. \\n\\nAlso can be used with Experience Augment!]&f"]
+	quest.475E1B94A61B9EB0.quest_desc: ["与MK1同样具有抽取功能,但不仅限于相邻容器,可覆盖周边所有容器!\\n&7[Like the MK1 this pulls! Just not only from adjacent Inventories, but any Inventory nearby!]&f"]
+	quest.4A03A671757B2EBF.quest_desc: ["耐久度、&a流体储量&f、&a能量储量&f、附魔等级与&a食物营养价值&f皆可通过&a检测过滤器&f进行筛选.\\n\\n可设定大于/小于/等于特定数值,或组合条件.\\n\\n输入数值后点击加号按钮添加至过滤器.\\n\\n适用于筛选高耐久工具或高&a食物营养价值&f的食品.\\n&7[Durability, Fluid Level, Energy Level, Enchantment Level, and Food Value are all categories we can use with Inspection Filter.\\n\\nThen we select if we want it Greater than, Lesser than, Equal to, or a mix of those with the Numbered Amount.\\n\\nNext we give it a Numbered Amount and hit the Plus Button to add it to the Filter.\\n\\nThis can be used to only keep Tools with high Durability or Food with high Food Value.]&f"]
+	quest.4CC963F5AECF285A.quest_desc: ["路由器默认每刻移动1个物品,但可通过堆叠升级实现倍增:\\n\\n1级堆叠每次2物品,2级4物品,6级可达每秒64物品.\\n&7[Normally the Router moves 1 item each of it's Ticks. This can be doubled and stacked! with the Stack Upgrade. \\n\\n1 Stack Upgrade is 2 Items, 2 Stacks 4 Items, and 6 Stacks is 64 Items a second.]&f"]
+	quest.4EAFE7B240AF0A4D.quest_desc: ["够不到所需物品？试试范围升级!\\n\\n安装后所有操作都将扩大作用范围:吸取模块可收取更远处的物品,能量传输距离增加,投掷模块的抛射力度更强!\\n&7[Just can't reach what you need to? Try Ranging Up! \\n\\nWith this everything will do their actions but farther. Vacuum has higher range for picking up items. Energy goes farther. Flinger flings with more strength!]&f"]
+	quest.4FA5192164E4A427.quest_desc: ["流体不像物品可堆叠,其升级机制略有不同,仍能提升传输量但速率变化方式不同.\\n&7[Fluid doesn't stack like Items do, so its upgrade is a little different. Still moves more just at a different rate.]&f"]
 	quest.53A5F5E49EA8D5AF.quest_desc: [
-		"以下是通过&d模块化路由器&f构建极简&a怪物农场&f的经典示例(不包含生物击杀方式).\\n\\n以&a凋灵骷髅&f农场为例:\\n\\n首先用&a真空模块&f将物品吸入缓冲槽,接着用&a销毁模块&f处理&a石剑&f.为确保不误删其他物品,请设置白名单过滤器仅匹配&a石剑&f且忽略&a耐久度&f差异.最后用发送模块将战利品传输至存储系统(推荐抽屉系统).\\n\\n只需这些即可运作!"
+		"以下是用&d模块化路由器&f构建超简易&a怪物农场&f的经典示例(不包含生物击杀方式)\\n\\n以&a凋灵骷髅&f农场为例:\\n\\n首先用&a真空模块&f将物品吸入缓冲槽,接着通过内含&a石剑&f且不匹配&a伤害&f值的白名单过滤器,配合&a销毁模块&f清除石剑.战利品建议存入抽屉系统,最终用发送模块将物品传输至存储系统.\\n\\n只需这些即可完成!\\n&7[Here's a good example of using Modular Routers to make a super easy organized Mob Farm. (Does not include way of killing mobs). \\n\\nFor it I'll use a Wither Skeleton Farm as example. \\n\\nFirst, you want to get Items into the Buffer with a Vacuum Module. Next, get rid of the Stone Swords with a Void Module. To make sure it doesn't delete everything use a Whitelist Filter with the Stone Sword in it and not matching Damage. After, that you'll need a place to put the Loot, I recommend a Drawer System. Then, use a Sender Module to send the Loot to the Storage System. \\n\\nThat's all you need!]&f"
 		"{image:atm:textures/questpics/router/router_mob.png width:200 height:65 align:center}"
 	]
-	quest.53A5F5E49EA8D5AF.title: "适用于&a怪物农场&f的路由器方案"
-	quest.53B58FC3958750E7.quest_desc: ["是否因过度使用放置器而需拆除方块？\\n\\n其等级与附魔效果取决于合成时使用的镐子.\\n\\n设置工作区域并添加过滤器后即可自动运行!\\n\\n&a可配合&f放置器实现矿物转物品等操作."]
-	quest.553C44F85E508DE3.quest_desc: ["此升级独特之处在于可同时作用于多个路由器.\\n\\n若需多台路由器协同工作,每台均需安装同步升级.\\n\\n需在独立GUI界面中进行调校."]
-	quest.5560F303C452E110.quest_desc: ["&a金属挤压机&f可推动方块与实体,何不让推力更强？\\n\\n(注:仅对实体生效)"]
-	quest.5FB29F3F4DF17765.quest_desc: ["若只需特定模块实现多堆叠传输而非全部模块,请使用强化组件!注意其不可与升级组件叠加效果,且会覆盖现有升级."]
-	quest.6063F4B7BE4D394C.quest_desc: ["&a发送&f模块可将路由器缓冲槽物品传输至其他容器.\\n\\nMK1型仅能向与路由器同坐标轴且无遮挡的容器传输,路径中存在方块阻隔时无法发送."]
-	quest.63E4529AF8894018.quest_desc: ["&l&d模块化路由器&f&r是物流类模组.\\n\\n一切从核心路由器开始!赶快制作吧!\\n\\n缓冲槽是路由器内物品进出的单物品栏,多数模块需红石信号触发."]
-	quest.63E4529AF8894018.title: "&l&d模块化路由器&f"
-	quest.6648BC7D14233006.quest_desc: ["强化组件类似于升级组件,但针对单个模块生效!"]
-	quest.6648BC7D14233006.title: "&l强化组件"
-	quest.674F28BCA2E4A3C8.quest_desc: ["路由器传输物品时可能过度贪婪,会吸取所有能触及的物品!\\n\\n使用&a调节拓展&f可限制传输数量."]
-	quest.6B747129A85AA768.quest_desc: ["现在功能更接近&a吸收漏斗&f!\\n\\n&a真空模块&f可同时吸取&a经验球&f与物品,经验值的处理方式由您决定!"]
-	quest.6E5954C257726F86.quest_desc: ["按模组分类过滤非常实用.\\n\\n使用方法:放入特定模组的物品→显示模组名称→点击加号按钮添加至过滤列表!"]
-	quest.71A1FD0772453B51.quest_desc: ["难道你不讨厌&a右键点击&f所有东西吗？从用剪刀剪羊毛到用桶装牛奶？这都21世纪了,我们该让机器人处理所有事情!至少让路由器全权代劳.\\n\\n使用&a执行模块&f后,它会模拟你&a右键点击&f的操作.\\n\\n你可以设置它要&a右键点击&f的对象,选择攻击或使用生物/方块,是否按住潜行键&a右键点击&f,以及在模块中设定有效操作距离."]
-	quest.71FDF8CD953E46FC.quest_desc: ["哈哈哈,我用任务里的创造模式物品吓到你了吧？\\n\\n别担心,完成这章不需要那个物品,我就是想吓唬你\\n\\n偶尔找点乐子嘛..."]
-	quest.72A71E1D6D8996FD.quest_desc: ["这是代码？我可不是程序员!？我只是想设计这些任务!\\n\\n你可以在&a搜索栏&f输入正则表达式,点击加号按钮添加到过滤器中.只要出现匹配该正则表达式的内容都会被过滤掉."]
-	quest.73D60868024FF907.quest_desc: ["&a流体&f MK2升级版!\\n\\n这个模块可以使用附近任何液体源,不仅限于相邻区块."]
-	quest.75FE0B514448865B.quest_desc: ["升级模块直接放入路由器,每个路由器最多容纳5个.升级会直接影响所有兼容的模块,且通常效果可叠加!"]
-	quest.75FE0B514448865B.title: "&l升级模块"
-	quest.76062D375E4CC8DD.quest_desc: ["我们见过过滤器也见过&a轮询&f,现在终于看到结合体!这对于保持物品特定顺序非常有用,比如制作&d神秘农业&f种子时!"]
-	quest.7F8DEDD0A54D1E11.quest_desc: ["你觉得投掷器是干嘛的？\\n我猜是扔东西的...\\n\\n缓冲区的所有物品都会被抛到地面上.\\n\\n配合&d植物魔法&f使用应该很棒!"]
-	task.3007461CFCC0A013.title: "版权所有"
-	task.41EEE559F6402D81.title: "&a创造模块&f"
-	task.631388151555159B.title: "发送模块"
-	task.76EEAE9313F68334.title: "版权所有"
+	quest.53A5F5E49EA8D5AF.title: "适用于&a怪物农场&f的路由器方案&7[Routers for Mob Farms]&f"
+	quest.53B58FC3958750E7.quest_desc: ["是否因过度使用放置器而需要拆除方块？\\n\\n其等级与附魔效果取决于合成时使用的镐子属性\\n\\n设置工作区域并添加过滤器后即可运行!\\n\\n&a可配合&f放置器实现矿物转物品等操作\\n&7[Did you play around with the Placer too much and need to Break those Blocks? \\n\\nIts Tier and Enchants are determined by the Pickaxe its Crafted with. \\n\\nNow set the area and hopefully put a Filter and let it run! \\n\\nCan be used with a Placer to do stuff like turning Ores into Items.]&f"]
+	quest.553C44F85E508DE3.quest_desc: ["此升级器独特之处在于可同时作用于多个路由器\\n\\n若需多台路由器协同工作,每台均需安装同步升级器\\n\\n需在独立GUI界面中进行调校\\n&7[This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI.]&f"]
+	quest.5560F303C452E110.quest_desc: ["&a金属挤压机&f可推动方块与实体,何不让它推得更远？\\n\\n(仅对实体生效)\\n&7[The Extruder pushes blocks and entities by why not push it some more! \\n\\nThe entities not the blocks.]&f"]
+	quest.5FB29F3F4DF17765.quest_desc: ["有时不需要所有模块同时移动多组物品,此时可用增容器指定单个模块实现!注意:不可与升级器叠加使用,实际会覆盖升级效果\\n&7[Sometimes you don't want every Module to move multiple stacks at a time, so when you just want 1 Modules to do so use an Augment! This does not stack with Upgrades though... infact it overrides them.]&f"]
+	quest.6063F4B7BE4D394C.quest_desc: ["&a发送&f模块可将路由器缓冲槽物品传输至其他容器\\n\\nMK1型仅能沿路由器XYZ轴向且视线无阻隔的容器传输,路径存在方块阻挡时无法发送\\n&7[The Sender Modules will move Items in the Router's Buffer Slot into another Inventory. \\n\\nMK1 will only move items into Inventories on the same XYZ axis as the Router and with direct line of sight. If there is a block in the way, the MK1 Sender will not send.]&f"]
+	quest.63E4529AF8894018.quest_desc: ["&l&d模块化路由器&f&r是物流类模组\\n\\n一切从核心路由器开始!赶快制作吧!\\n\\n缓冲槽是路由器内物品进出的单物品栏,多数模块需红石信号激活\\n&7[lModular Routers is a logistics mod. \\n\\nIt all starts with the Router! So make one! \\n\\nAlso the Buffer is the single item slot in the Router where items will come and go through. And it will need Redstone signal for most modules to work.]&f"]
+	quest.63E4529AF8894018.title: "&l&d模块化路由器&f&7[lModular Routers]&f"
+	quest.6648BC7D14233006.quest_desc: ["增容器类似升级器,但针对单个模块生效!\\n&7[Augments are similar to Upgrades but for the individual Modules!]&f"]
+	quest.6648BC7D14233006.title: "&l增容器&7[lAugments]&f"
+	quest.674F28BCA2E4A3C8.quest_desc: ["路由器传输物品时可能过度贪婪,会吸取所有能触及的物品!\\n\\n使用&a调节拓展&f可限制传输数量\\n&7[When moving items Routers can get pretty greedy, taking every single item they can get their grubby antennas on! \\n\\nWith Regulator Augment you can limit how much is moved.]&f"]
+	quest.6B747129A85AA768.quest_desc: ["现在更类似&a吸收漏斗&f!\\n\\n&a真空模块&f可同时吸取&a经验球&f与物品,经验值的处理方式由您决定!\\n&7[Now even more like the Absorption Hopper! \\n\\nVacuum Module will now pickup XP Orbs as well as Items. Whatever you do with the XP is up to you!]&f"]
+	quest.6E5954C257726F86.quest_desc: ["按模组分类过滤非常实用\\n\\n使用时放入特定模组物品,显示模组名称后点击加号即可添加\\n&7[Filtering per mod can be very helpful.\\n\\nTo use it, put an item in from a certain mod, then it will show the mod name, and hit the Plus button to add it!]&f"]
+	quest.71A1FD0772453B51.quest_desc: ["难道你不讨厌&a右键点击&f所有东西吗？从用剪刀剪羊毛到用桶装牛奶？这都21世纪了,我们该用机器人处理一切!至少让路由器全权代劳.\\n\\n通过&a执行模块&f,它能模拟你&a右键点击&f的操作.\\n\\n你可以设置点击目标类型(生物或方块),选择攻击或使用模式,设定是否潜行&a右键点击&f,以及在模块中设置操作距离.\\n&7[Don't you hate Right Clicking everything? From Sheeps with Shears to Cows with Buckets? It's the 21st Century we should have Robots to everything! Or atleast Routers do everything. \\n\\nWith Activator Module it will act as if it were you Right Clicking things. \\n\\nYou can set what it will Right Click, if it will Attack or Use the Mob or Block, if you Shift Right Click, and how close they need to be in the Module.]&f"]
+	quest.71FDF8CD953E46FC.quest_desc: ["哈哈哈,我用任务里的创造模式物品吓到你了吧？\\n\\n别担心,完成这章不需要那个道具,我就是想吓唬你\\n\\n偶尔找点乐子嘛...\\n&7[HAHAHA did I scare you with the Creative item in the quests?\\n\\nDon't worry you won't need the item to finish this chapter, I just wanted to scare you\\n\\nI can have fun sometimes...]&f"]
+	quest.72A71E1D6D8996FD.quest_desc: ["这些是代码？我可不懂编程!？我只是想设计任务!\\n\\n在&a搜索栏&f输入正则表达式,点击加号按钮添加到筛选器.匹配该规则的内容都会被过滤.\\n&7[Is this code? I'm not a coder!? I just wanted to make these quests! \\n\\nHere you can type in a Regex into the Search Bar and click the Plus Button to add it to the Filter. Whenever that Regex comes up it will be filtered out.]&f"]
+	quest.73D60868024FF907.quest_desc: ["&a流体&fMK2升级版!\\n\\n可调用范围内所有液体源,不仅限于相邻区块.\\n&7[The Fluid MK2! \\n\\nAny Liquid Source nearby can be used with this one, not just adjacent.]&f"]
+	quest.75FE0B514448865B.quest_desc: ["升级模块直接装入路由器,每个路由器最多容纳5个.升级会全局影响所有兼容模块,且效果可叠加!\\n&7[Upgrades go directly into the Router and the Router can hold 5 of them. Upgrades directly affect all Modules that they can and usually can stack!]&f"]
+	quest.75FE0B514448865B.title: "&l升级模块&7[lUpgrades]&f"
+	quest.76062D375E4CC8DD.quest_desc: ["既有筛选功能又支持&a轮询&f,现在强强联合!特别适合保持物品特定顺序,比如制作&d神秘农业&f种子!\\n&7[We've seen Filters and we've seen Round Robins, now we're seeing both! This is useful for keeping the Items in a select order like for when making Mystical Agriculture Seeds!]&f"]
+	quest.7F8DEDD0A54D1E11.quest_desc: ["你觉得投掷器有什么用？\\n我猜是扔东西...\\n\\n缓存区内的物品会被抛掷到地面.\\n\\n配合&d植物魔法&f使用效果更佳!\\n&7[I wonder what Droppers do? \\nI think they drop things... \\n\\nAny item in the Buffer will be dropped on the ground. \\n\\nCould be helpful with something like Botania!]&f"]
+	task.3007461CFCC0A013.title: "版权所有&7[AllRightsReserved]&f"
+	task.41EEE559F6402D81.title: "&a创造模块&f&7[Creative Module]&f"
+	task.631388151555159B.title: "发送模块&7[Sender Modules]&f"
+	task.76EEAE9313F68334.title: "版权所有&7[AllRightsReserved]&f"
 }

@@ -1,306 +1,306 @@
 {
-	quest.001DE8028CAF0A08.quest_desc: ["&5&l通用机械&r &5机械&r可能会很吵!\\n\\n让我们来解决这个问题!"]
-	quest.001DE8028CAF0A08.quest_subtitle: "嘘……太吵了……"
-	quest.001DE8028CAF0A08.title: "消音&8升级"
+	quest.001DE8028CAF0A08.quest_desc: ["&5&l&d通用机械&f&r &5机器&r可能相当吵闹!\\n\\n让我们来解决这个问题!\\n&7[lMekanism Machines can be pretty loud! \\n\\nLet's stop that!]&f"]
+	quest.001DE8028CAF0A08.quest_subtitle: "嘘...太吵了....&7[shhhhh... too loud....]&f"
+	quest.001DE8028CAF0A08.title: "消音 &8升级&7[Muffling Upgrade]&f"
 	quest.0095422BC87AA135.quest_desc: [
-		"又来了？伙计,我们要的是&7锭&f,不是&7矿簇&f,也不是&7碎片&r!&7锭&r!\\n\\n把那些&7矿石碎片&r扔进带有&b氧气&r(很可能来自我们之前的&9&l电解分离器&r)的&b&l净化器&r中,制成&7矿簇&r.\\n\\n现在我们只需重复上一阶段的步骤.&4粉碎&f&7矿簇&f得到&7粗矿粉&r.\\n\\n&d富集&f&7粗矿粉&r以提纯它.\\n\\n然后,&6熔炼&f&7矿粉&f得到我们的&7锭&r!"
+		"又来了？老兄,我们要的是&7锭&f,不是&7矿团&f,也不是&7碎片&r!&7锭&r!\\n\\n将那些&7矿石碎片&r放入带有&b氧气&r(很可能来自我们之前的&9&l&a电解分离器&f&r)的&b&l净化器&r中,制成&7矿团&r.\\n\\n现在只需重复上一阶段的步骤.&4粉碎&f&7矿团&f得到&7脏矿粉&r.\\n\\n&d富集&f&7脏矿粉&r以净化它.\\n\\n然后,&6熔炼&f&7矿粉&f得到我们的&7锭&r!\\n&7[Again? Dude, we want Ingots not Clumps and not Shards! INGOTS! \\n\\nThrow those Ore Shards into a lPurifier with Oxygen (most likely from our previous lElectrolytic Separator) to make Ore Clumps. \\n\\nNow we just repeat steps from previous Tier. Crush the Clumps to get Dirty Dust. \\n\\nEnrich the Dirty Dust to clean it. \\n\\nThen, Smelt the Dust to get our Ingots!]&f"
 		"{image:atm:textures/questpics/mek/mek_tier3_3.png width:250 height:100 align:center}"
 	]
-	quest.0095422BC87AA135.quest_subtitle: "第三阶段矿石处理"
-	quest.0095422BC87AA135.title: "&7碎片&f,到&7矿簇&f,到&7矿粉&f,到&7锭"
-	quest.01A90E2541C91DB2.quest_desc: ["大多数&5机械&r,至少是简单的那些,可以使用&8升级&r!\\n\\n&8升级&r位于GUI的&a右上角&f.这个界面可能有点让人困惑,但别担心,我会解释!\\n\\n首先,底部显示的是&8支持的升级&r.&a清除&f&8升级&r是&a支持的&r,而更透明的那些是&4不支持&r的!你也可以用鼠标悬停在它们上面,查看它们的名称以及是否&a支持&r.\\n\\n&8升级&r通过顶部槽位添加,然后它们会显示在右侧.在这里,你可以点击它们查看机械中有多少个升级以及它们的效果!\\n\\n如果你想取出我们的&8升级&r,点击你想要取出的那个,然后点击卸载按钮.这会将&8升级&r移到底部槽位."]
-	quest.01A90E2541C91DB2.title: "&8机械升级"
-	quest.041365A540BF5A03.quest_desc: ["&7词典&r对普通玩家来说没什么用:它不能挖掘、放置方块、合成、熔炼,真的不与任何东西互动.\\n\\n相反,它用于查找标签!\\n\\n我们可以手持&7词典&r&a右击&f一个方块,方块的标签会在聊天中显示.我们也可以对实体做同样的事情.\\n\\n这还不够？好吧,我们还可以Shift右键&a点击打开&f我们的&7词典&r!\\n\\n在这里,我们可以看到库存中的物品,并检查它们的所有不同标签.从物品标签、药水标签到附魔标签,没有什么能逃过&7词典&r的眼睛!"]
-	quest.041365A540BF5A03.title: "&7词典"
-	quest.0498A578D0EC3254.quest_desc: ["最后一个重要的灌注物品是&a基础&a电路板&f&r.\\n\\n这些是通过将20mB的&4红石&r与一个&7&a锇锭&f&r结合制成的.\\n\\n查看&c&a灌注合金&f任务&r,了解如何将&4红石&r添加到&9&l&a冶金灌注机&f&r中!"]
-	quest.0498A578D0EC3254.quest_subtitle: "基础&a电路板&f"
-	quest.06210B6FD0F9989B.quest_desc: ["&d&l终极层级&r是我们在&5&l通用机械&r中能获得的最佳等级!至少在生存模式中如此.\\n\\n它们将提供最多的插槽,容纳最多的&e物品&r,并传输最多的&e物品&r!\\n\\n每个&d&l终极层级&r都需要&d原子合金&f、&d终极控制电路&f和&b钻石&r.\\n\\n&d原子合金&r需要&5强化黑曜石&r来制作,跟随&7锇压缩机&r任务获取这些材料.基本上,我们需要将&b强化合金&r与20mb的&5强化黑曜石&r进行灌注.\\n\\n然后,将2个&d原子合金&r与1个&b精英控制电路&r结合,制作出&d终极控制电路&r!"]
-	quest.06210B6FD0F9989B.title: "&d&l终极层级"
-	quest.0650996C7818ADB5.quest_desc: ["&6&l热力发电机&r有两种模式来生成&a能量&r.\\n\\n被动模式:用&c熔岩源&r或流动方块包围&6发电机&r,通过产生&6热量&r来被动生成&a能量&r.\\n\\n在顶部放置一个&c熔岩源方块&r,并让其从侧面流下.\\n\\n确保先连接&b管道&r!\\n\\n主动模式:将可燃材料如&0煤炭&r或&6木材&r放入&6发电机&r中,燃烧燃料以产生&c能量&r.\\n\\n现在它每刻产生320FE."]
-	quest.0650996C7818ADB5.quest_subtitle: "基础发电"
-	quest.0650996C7818ADB5.title: "&6&l&a热力发电机&f"
-	quest.07084582F9562740.quest_desc: ["&5&l通用机械&r有几台专门用于染色的&5机器&r!\\n\\n我们需要使用3台&5机器&r,而且必须按顺序操作!\\n\\n&c&l颜料提取器&r会从&cD&ey&ae&bd&r方块中提取颜色,制成颜料!颜料是&c化学品&r,可以像其他&c化学品&r一样使用:通过&c管道&f传输并存储在&c化学品储罐&r中.\\n\\n&e&l颜料混合器&r会取两种颜料,将它们混合成新的颜色颜料.这甚至可以制作出专为&5&l通用机械&r&e物品&r设计的新颜色!\\n\\n&b&l喷涂机&r会使用这些颜料,将其应用到可以&cD&ey&ae&bd&r的方块和物品上,使其&cD&ey&be&r.这甚至对已经&cD&ey&ae&bd&r的物品也有效,这在&2&l原版&r中是做不到的!"]
-	quest.07084582F9562740.title: "&cD&ey&ae&bs&r与颜料"
-	quest.081DC030A0546549.quest_desc: ["&2生物燃料&r是通过&4粉碎&r一些&2植物&r制成的!各种不同的&2植物&r每种提供不同的量!\\n\\n&6南瓜派&r提供最多的&2生物燃料&r,但&a西瓜堆&r效率最高.\\n\\n&2生物燃料&r可以有多种用途!我们可以为&2&l生物发电机&r提供&a动力&r,用&2化学品生物燃料&r&9灌注&r物品,或者..."]
-	quest.081DC030A0546549.title: "&4粉碎&2植物&f获取&2生物燃料&f"
-	quest.08DDE018A804BFE7.quest_desc: ["&d&l富集仓&r会对通过的&e物品&r进行&d富集&r.只需将&e物品&r放入&4红色插槽&r,&d富集后的物品&r就会从&9蓝色插槽&r输出.\\n\\n什么是&d富集物品&r？或者当&e物品&r被&d富集&r时会发生什么？要么我们获得更多可以制成的&e物品&r,要么改变&e物品&r本身!\\n\\n我们可以从1个矿石中获得2个粉末.从一朵花中获得更多染料.我们甚至可以改变&6铜&r的阶段或从&7圆石&r上移除&2苔藓&r!\\n\\n随着&d&l富集仓&r层级的提升,我们会获得更多插槽,可以同时&d富集&f更多&e物品&r.\\n\\n我们还获得了自动排序的能力.按下这个按钮!我们可以设置让&e物品&r堆栈均匀分布到每个插槽,使&d&l机器&r更高效."]
-	quest.08DDE018A804BFE7.quest_subtitle: "将&a粗矿&f粉碎成矿粉"
-	quest.08DDE018A804BFE7.title: "&d&l&a富集仓&f"
-	quest.090B564935D7A8F5.quest_desc: ["不喜欢拆下&5机器&r来升级？何不直接使用&e物品&r!\\n\\n通过&7等级&r安装器,只需对&5机器&r使用&e物品&r即可升级!\\n\\n将&a&l基础等级&r&a安装器&r投掷到默认&5机器&r上,可将其升级至&a&l基础等级&r.\\n\\n注意:无法跳过升级阶段.不能用一个&d安装器&r将&a&l基础级&r直接变为&d&l终极级&r."]
-	quest.090B564935D7A8F5.title: "&l等级&r安装器"
-	quest.09830BB2A23E94B4.quest_desc: ["部分&5机器&r会专门使用&c化学品&r来强化&e物品&r,例如&9&l&a冶金灌注机&f&r、&c&l化学品注入器&r和&b&l净化器&r.\\n\\n这些升级能让相同任务消耗更少的&c化学品&r!\\n\\n无法保证适用于所有&e物品&r与&5机器&r的组合.另外,我不会为每台机器做测试!"]
-	quest.09830BB2A23E94B4.title: "&c化学品&8升级"
-	quest.0AA9EF3981E9BA37.quest_desc: ["&a&a能量板&f&r存储的&a能量&r不够用？你需要&a能量立方&r!\\n\\n&a能量立方&r可通过电缆输入输出&a能量&r,其存储容量由等级决定:\\n\\n立方体所有面均可接收或输出&a能量&r,具体由电缆的推送/拉取模式决定.\\n\\n&a&l基础级&r:存储160万FE.\\n\\n&c&l高级&r:存储640万FE.\\n\\n&b&l精英级&r:存储2560万FE.\\n\\n&d&l终极级&r:存储1.024亿FE."]
-	quest.0AA9EF3981E9BA37.title: "&a能量立方"
-	quest.0ACE573560A19309.quest_desc: ["几乎每台&5机器&r都消耗&a能量&r,当数量多达数十台时...电网压力可不小.\\n\\n加装&a能量&8升级&r后,&5机器&r完成相同任务所需的&a能量&r将减少!\\n要是能装在&d&lS.P.S.&r上该多好!"]
-	quest.0ACE573560A19309.title: "&a能量&8升级"
+	quest.0095422BC87AA135.quest_subtitle: "三级矿石处理&7[Tier 3 Ore Processing]&f"
+	quest.0095422BC87AA135.title: "从&7碎片&f到&7矿团&f,再到&7矿粉&f,最后到&7锭&f&7[Shard, to Clump, to Dust, to Ingot]&f"
+	quest.01A90E2541C91DB2.quest_desc: ["大多数&5机器&r,至少是简单的那种,都可以使用&8升级组件&r!\\n\\n&8升级组件&r位于图形用户界面的&a右上角&f.这个界面可能有些令人困惑,但别担心,我会解释清楚!\\n\\n首先,底部显示的是&8支持的升级组件&r.&a清除&f &8升级组件&r是&a支持的&r,而更透明的那些则是&4不支持&r!你也可以用鼠标悬停在它们上面,查看它们的名称以及是否&a支持&r.\\n\\n&8升级组件&r通过顶部的插槽添加,然后它们会出现在右侧.在这里,你可以点击它们查看机器中有多少个以及它们的效果!\\n\\n如果你想取出我们的&8升级组件&r,点击你想要取出的那个,然后点击卸载按钮.这会将&8升级组件&r移动到下方的插槽中.\\n&7[Most Machines, atleast the simple ones, can use Upgrades! \\n\\nUpgrades are in the Top Right of the GUI. This screen might be confusing but don't worry I'll explain it! \\n\\nFirst, the bottom shows the Supported Upgrades. The clear Upgrades are Supported while the more transperant ones are not! You can also hover over them with your Mouse to see their names and if they are Supported. \\n\\nUpgrades are added through the Top Slot, they'll then show up in the Right. Here you can Click them to see how many are in the Machine and see their Effect! \\n\\nIf you'd like to take our Upgrades out, Click the one you want out, then hit the Uninstall Button. This will move the Upgrade into the Bottom Slot.]&f"]
+	quest.01A90E2541C91DB2.title: "&8机器升级组件&7[Machine Upgrades]&f"
+	quest.041365A540BF5A03.quest_desc: ["&7词典&r对普通玩家来说并不实用:它不能挖掘、放置方块、合成、熔炼,几乎不与任何东西互动.\\n\\n相反,它用于查找标签!\\n\\n我们可以手持&7词典&r &a右击&f 一个方块,方块的标签就会在聊天中显示出来.对实体也可以做同样的事情.\\n\\n这还不够？好吧,我们还可以按住Shift并右击&a打开&f我们的&7词典&r!\\n\\n在这里,我们可以看到物品栏中的物品,并检查它们的所有不同标签.从物品标签、药水标签到附魔标签,没有什么能逃过&7词典&r的法眼!\\n&7[The Dictionary isn't helpful to the average Player: it doesn't Mine, Place Blocks, Craft, Smelt, really interact with anything. \\n\\nInstead it is used for finding Tags! \\n\\nWe can Right Click a Block with the Dictionary in Hand and the Blocks Tags will show up in Chat. We can do the same with Entities. \\n\\nIs that not enough? Well we can also Shift Right Click to open up our Dictionary! \\n\\nHere we can see the Items in our Inventory and check all the different Tags for them. From Item, to Potion, to Enchantment Tags, nothing can hide from the Dictionary!]&f"]
+	quest.041365A540BF5A03.title: "&7词典&7[Dictionary]&f"
+	quest.0498A578D0EC3254.quest_desc: ["最后一个重要的灌注物品是&a基础&a电路板&f&r.\\n\\n这些是通过将20mB的&4红石&r与一个&7&a锇锭&f&r结合制成的.\\n\\n查看&c&a灌注合金&f任务&r,了解如何将&4红石&r添加到&9&l&a冶金灌注机&f&r中!\\n&7[The last of the important Infused Items is the Basic Control Circuit. \\n\\nThese ones are made by combining 20mB of Redstone with an Osmium Ingot. \\n\\nCheck out the Infused Alloy Quest to learn how to add Redstone to the lMetallurgic Infuser!]&f"]
+	quest.0498A578D0EC3254.quest_subtitle: "基础&a电路板&f&7[The Basic Control Circuit]&f"
+	quest.06210B6FD0F9989B.quest_desc: ["&d&l终极等级&r是我们能从&5&l&d通用机械&f&r中获得的最好等级!至少在生存模式中是这样.\\n\\n这些将提供最多的插槽,容纳最多的&e物品&r,并移动最多的&e物品&r!\\n\\n每个&d&l终极等级&r都需要&d&a原子合金&f&f、&d&a终极控制电路&f&f和&b钻石&r.\\n\\n&d&a原子合金&f&r需要&5&a强化黑曜石&f&r来制造,遵循&7&a锇压缩机&f任务&r来获取这些.但基本上,我们需要将&b&a强化合金&f&r与20mb的&5&a强化黑曜石&f&r进行灌注.\\n\\n然后,将2个&d&a原子合金&f&r与1个&b&a精英控制电路&f&r结合,制成&d&a终极控制电路&f&r!\\n&7[lUltimate Tier is the best we can get from lMekanism! Well atleast in Survival. \\n\\nThese will give the most Slots, hold the most Items, and move the most Items! \\n\\nEach lUltimate Tier will need Atomic Alloys, Ultimate Control Circuits, and Diamonds. \\n\\nAtomic Alloys will need Refined Obsidian to create, follow the Osmium Compressor Quest to get those. But basically we'll need to Infuse a Reinforced Alloy with 20mb of Refined Obsidian. \\n\\nThen, combine 2 Atomic Alloys with 1 Elite Control Circuit to make the Ultimate Control Circuit!]&f"]
+	quest.06210B6FD0F9989B.title: "&d&l终极等级&7[lUltimate Tier]&f"
+	quest.0650996C7818ADB5.quest_desc: ["&6&l&a热力发电机&f&r有两种模式来产生&a能量&r.\\n\\n被动模式:用&c熔岩源&r或流动方块包围&6&l发电机&r,通过产生&6热量&r来被动生成&a能量&r.\\n\\n在顶部放置一个&c熔岩源方块&r,并让它从侧面流下.\\n\\n确保先连接好&b管道&r!\\n\\n主动模式:将可燃材料如&0煤炭&r或&6木头&r放入&6&l发电机&r中,燃烧燃料以产生&c能量&r.\\n\\n现在它产生320FE/t.\\n&7[The lHeat Generator has 2 modes to generate Energy. \\n\\nPassive: Surrounding the lGenerator with Lava Source or flowing blocks creates passive Energy by creating Heat. \\n\\nPlace one Lava Source Block on top, and let it flow over the sides. \\n\\nMake sure to connect Pipes first!\\n\\nActive: Placing combustible materials such as Coal or Wood into the lGenerator will burn the fuel to create Energy. \\n\\nIt now creates 320FE/t.]&f"]
+	quest.0650996C7818ADB5.quest_subtitle: "基础发电&7[Basic Power Gen]&f"
+	quest.0650996C7818ADB5.title: "&6&l&a热力发电机&f&7[lHeat Generator]&f"
+	quest.07084582F9562740.quest_desc: ["&5&l&d通用机械&f&r 配备了几台专门用于染色的 &5机器&r!\\n\\n我们需要按顺序使用三台 &5机器&r:\\n\\n&c&l&a颜料提取器&f&r 可从 &c彩&e色&a方&b块&r 中提取颜色并制成颜料!颜料属于 &c化学品&r,使用方法与其他 &c化学品&r 相同:通过 &c管道&f 输送并存储在 &c化学品罐&r 中.\\n\\n&e&l&a颜料混合器&f&r 可将两种颜料混合成新的彩色颜料,甚至能制作专为 &5&l&d通用机械&f&r &e物品&r 设计的新颜色!\\n\\n&b&l&a喷涂机&f&r 会将这些颜料喷涂到可 &c染&e色&a的&b&r 方块和物品上,实现 &c染&e色&b&r.即使是对已 &c染&e色&a的&b&r 物品也有效——这在 &2&l原版&r 游戏中可做不到!\\n&7[lMekanism has a couple of Machines just made for Coloring! \\n\\nThere is 3 Machines we'll need to use and yes, in order! \\n\\nThe lPigment Extractor will take the Color out of Dyed Blocks and make a Pigment! Pigments are Chemicals, and are used just like other Chemicals: moved through Tubes and held in Chemical Tanks. \\n\\nlPigment Mixer will take 2 Pigments and combine them into a new Color Pigment. This can even make some new Colors made for lMekanism Items! \\n\\nlPainting Machine will take those Pigments and apply them to Blocks and Items that can be Dyed, to Dye them. This even works on Items that are already Dyed, you can't do that in lVanilla!]&f"]
+	quest.07084582F9562740.title: "&c彩&e色&a与&b&r 颜料&7[Dyes and Pigments]&f"
+	quest.081DC030A0546549.quest_desc: ["&2&a生物燃料&f&r 通过 &4粉碎&r &2植物&r 制成!不同种类的 &2植物&r 产量各不相同!\\n\\n&6&a南瓜派&f&r 产量最高,但 &a&a西瓜片&f&r 效率最优.\\n\\n&2&a生物燃料&f&r 用途广泛:可为 &2&l生物发电机&r &a供能&r,用 &2化学品&a生物燃料&f&r &9&l灌注&r 物品,或...\\n&7[Bio Fuel is made by Crushing up some Plants! All types of different Plants each giving a different amount! \\n\\nPumpkin Pie gives the most Bio Fuel but Melon Slices are most efficient. \\n\\nBio Fuel can be used in a ton of different ways! We can Power a lBio-Generator, lInfuse Items with Chemical Bio Fuel, or...]&f"]
+	quest.081DC030A0546549.title: "&4粉碎 &2植物&f 获取 &2&a生物燃料&f&7[Crushing Plants to get Bio Fuel]&f"
+	quest.08DDE018A804BFE7.quest_desc: ["&d&l&a富集仓&f&r 会对通过的 &e物品&r 进行 &d富集&r.只需将 &e物品&r 放入 &4红色槽位&r,&d富集后的物品&r 就会从 &9蓝色槽位&r 输出.\\n\\n什么是 &d富集物品&r？当 &e物品&r 被 &d富集&r 时会发生什么？可能是产量增加,也可能是物品本身发生转变!\\n\\n从1个矿石获得2份粉末,从一朵花提取更多染料,甚至改变 &6铜块&r 的氧化阶段或清除 &7圆石&r 上的 &2苔藓&r!\\n\\n更高级的 &d&l&a富集仓&f&r 拥有更多槽位,可同时 &d富集&f 更多 &e物品&r.\\n\\n还支持自动分拣功能:按下此按钮!可设置物品堆均匀分配至各槽位,提升 &d&l机器&r 效率.\\n&7[The lEnrichment Chamber will Enrich Items that go through it. Just place the Items in the Red Slots and the Enriched Items will come out of the Blue Slots. \\n\\nWhat is an Enriched Item? Or what happens when an Item gets Enriched? Either we get more of it the Items it can be made into or change the Item themselves! \\n\\nWe can get 2 Dust from 1 Ore. We can get more Dyes from one Flower. We can even change Copper Stages or take Moss off Cobblestone! \\n\\nWith later Tiers of lEnrichment Chambers we get even more Slots to Enrich more Items at once. \\n\\nWe also get the ability to Auto-Sort. With the press of this Button! We can set it so the Stacks of Items will be evenly distributed to each Slot so the lMachine is more Efficient.]&f"]
+	quest.08DDE018A804BFE7.quest_subtitle: "将 &a粗矿&f 破碎成粉末&7[Breaks Raw Ores into Dusts]&f"
+	quest.08DDE018A804BFE7.title: "&d&l&a富集仓&f&7[lEnrichment Chamber]&f"
+	quest.090B564935D7A8F5.quest_desc: ["不想拆解 &5机器&r 来升级？试试直接用 &e物品&r 升级!\\n\\n使用 &7等级&r 安装器,对 &5机器&r 使用该 &e物品&r 即可升级!\\n\\n将 &a&l基础等级&r &a安装器&r 投掷到默认 &5机器&r 上可升级至 &a&l基础等级&r.\\n\\n注意:不可跳级升级,无法用单个 &d安装器&r 将 &a&l基础&r 级直接升为 &d&l终极&r 级.\\n&7[Don't like picking up your Machines to Upgrade them? Why not just use an Item! \\n\\nWith Tier Installers you can just use the Item on the Machine to Upgrade them! \\n\\nThrow the lBasic Tier Installer onto a Default Machine to upgrade them to lBasic Tier. \\n\\nNo, you can't skip upgrades. Can't turn a lBasic into lUltimate with one Installer.]&f"]
+	quest.090B564935D7A8F5.title: "&l等级&r 安装器&7[lTier Installers]&f"
+	quest.09830BB2A23E94B4.quest_desc: ["部分 &5机器&r 会专门使用 &c化学品&r 来处理 &e物品&r,例如 &9&l&a冶金灌注机&f&r、&c&l化学品注入器&r 和 &b&l净化器&r.\\n\\n这些机器能用更少的 &c化学品&r 完成相同任务!\\n\\n不保证适用于所有 &e物品&r 与 &5机器&r 的组合,且不会为每台机器进行测试.\\n&7[Some Machines will use Chemicals especially to add to Items. Think, lMetallurgic Infuser, lChemical Injector, and lPurifiers. \\n\\nThese will basically use less Chemicals for the same Tasks! \\n\\nI can't promise it'll work with every Item and Machine. And no, I am not testing with every Machine!]&f"]
+	quest.09830BB2A23E94B4.title: "&c化学品 &8升级&7[Chemical Upgrade]&f"
+	quest.0AA9EF3981E9BA37.quest_desc: ["&a&a能量板&f&r 存储的 &a能量&r 不足？那么你需要一些 &a能量立方体&r!\\n\\n&a能量立方体&r 可以接入和输出 &a能量&r.每个立方体根据其等级拥有不同的 &a能量&r 存储容量.\\n\\n&a能量立方体&r 的所有面都可以接收或输出 &a能量&r,具体取决于电缆是推送还是拉取能量.\\n\\n&a&l基础&r:存储 1.6mFE.\\n\\n&c&l高级&r:存储 6.4mFE.\\n\\n&b&l精英&r:存储 25.6mFE.\\n\\n&d&l终极&r:存储 102.4mFE.\\n&7[Energy Tablets not holding enough Energy? Then, you'll need some Energy Cubes! \\n\\nEnergy Cubes can have Energy Cabled in and out of it. Each has a set amount of storage for Energy that is determined by their Tier. \\n\\nAll sides of an Energy Cube can take or place Energy, that is determined by whether Cables are Pushing or Pulling. \\n\\nlBasic: will hold 1.6mFE. \\n\\nlAdvanced: will hold 6.4mFE. \\n\\nlElite: will hold 25.6mFE. \\n\\nlUltimate: will hold 102.4mFE.]&f"]
+	quest.0AA9EF3981E9BA37.title: "&a能量立方体&7[Energy Cubes]&f"
+	quest.0ACE573560A19309.quest_desc: ["几乎每台 &5机器&r 都会消耗 &a能量&r,而当机器数量达到几十台时... 对电网的压力可不小.\\n\\n如果安装 &a能量 &8升级组件&r,&5机器&r 完成相同任务时所需的 &a能量&r 就会减少!\\n要是能把这些升级装到 &d&lS.P.S.&r 上该多好!\\n&7[Almost every Machine will use Energy, and when we got dozens of them... it's definitely not easy on our Grids. \\n\\nIf we add Energy Upgrades, the Machines will do the same Task, just now requiring less Energy to complete! \\nIf only we can put these on the lS.P.S.!]&f"]
+	quest.0ACE573560A19309.title: "&a能量 &8升级组件&7[Energy Upgrade]&f"
 	quest.0E175356D43E6A10.quest_desc: [
-		"很好,我们已获得&e氯气&r.制作&3&a氯化氢&f&r还需要什么？没错,是氢气!\\n\\n像第一阶段那样,将&9水&r输入&9&l&a电解分离器&f&r获取氢气和&b氧气&r,这次需要保留氢气.\\n\\n通过&a&l&a化学灌注器&f&r混合氢气和&e氯气&r制取&3&a氯化氢&f&r.\\n\\n将&3&a氯化氢&f&r导入&c&l&a化学压射室&f&r对&7矿石&r进行&c注入&r获得&7碎片&r.\\n\\n&7矿石方块&r可产出4个&7矿石碎片&r,而3个&7&a粗矿&f&f能产出8个&7矿石碎片&r."
+		"很好很好,现在我们有 &e氯气&r 了.制作 &3&a氯化氢&f&r 还需要什么？哦对,氢气!\\n\\n像第一阶段那样,将 &9水&r 输入 &9&l&a电解分离器&f&r 就能获得氢气和 &b氧气&r.这次我们需要保留氢气.\\n\\n通过 &a&l&a化学灌注器&f&r 将氢气与 &e氯气&r 结合即可制成 &3&a氯化氢&f&r.\\n\\n将 &3&a氯化氢&f&r 导入 &c&l&a化学压射室&f&r 对 &7矿石&r 进行 &c压射&r 可获得 &7碎片&r.\\n\\n&7矿石方块&r 可产出4个 &7矿石碎片&r,而3个 &7&a粗矿&f&f 能产出8个 &7矿石碎片&r.\\n&7[Good good, now we got Chlorine. What else do we need for Hydrogen Chloride? Oh yeah, Hydrogen! \\n\\nFeed some Water to an lElectrolytic Separator, like in Tier 1, to get Hydrogen and Oxygen. Just this time we need to keep the Hydrogen. \\n\\nWith our lChemical Infuser we can combine Hydrogen and Chlorine to make Hydrogen Chloride. \\n\\nPipe that Hydrogen Chloride into a lChemical Injection Chamber to Inject Ores to get Shards. \\n\\nOre Blocks will get 4 Ore Shards while 3 Raw Ores will get 8 Ore Shards.]&f"
 		"{image:atm:textures/questpics/mek/mek_tier3_2.png width:150 height:100 align:center}"
 	]
-	quest.0E175356D43E6A10.quest_subtitle: "三级矿石处理"
-	quest.0E175356D43E6A10.title: "&c注入&3&a氯化氢&f"
+	quest.0E175356D43E6A10.quest_subtitle: "第三阶段矿石处理&7[Tier 3 Ore Processing]&f"
+	quest.0E175356D43E6A10.title: "&c压射 &3&a氯化氢&f&7[Injecting Hydrogen Chloride]&f"
 	quest.0F326EEEC2EBE4E5.quest_desc: [
-		"使用&d&l&a富集仓&f&r可对&e物品&r进行&d富集&r,将其转化为&d富集&r变体."
+		"使用 &d&l&a富集仓&f&r 可将 &e物品&r &d富集&r 转化为其 &d富集&r 变体.\\n&7[Using the lEnrichment Chamber, you can Enrich Items to convert them into Enriched variants.]&f"
 		""
-		"这些&d富集物品&r在&9&l&a冶金灌注机&f&r中能提供8倍于原材料的mb量."
+		"这些 &d富集物品&r 在 &9&l&a冶金灌注机&f&r 中能产生8倍于原材料的mb量.\\n&7[These Enriched Items give 8x the amount of mb in a lMetallurgic Infuser.]&f"
 		""
-		"&d富集&0煤炭&r有助于增产&8钢&r；&d富集&4红石&r用于制作&c&a灌注合金&f&r和&a基础&a电路板&f&r；&d富集&5精炼黑曜石&r则用于制作&d终极&r物品!"
+		"&d富集 &0煤炭&r 可增产 &8钢&r；&d富集 &4红石&r 有助于制作 &c&a灌注合金&f&r 和 &a基础 &a电路板&f&r；而 &d富集 &5精炼黑曜石&r 能制造 &d终极&r 物品!\\n&7[Enriched Coal will help make more Steel. Enriched Redstone will help with Infused Alloys and Basic Control Circuits. And Enriched Refined Obisidian will help make Ultimate Items!]&f"
 	]
-	quest.0F326EEEC2EBE4E5.quest_subtitle: "先富集你的物品!"
-	quest.0F326EEEC2EBE4E5.title: "&d富集物品"
-	quest.109310AF19AAC482.quest_desc: ["&4火焰喷射器&r是&a远程武器&f &5&l&d通用机械&f&r提供的装备之一.\\n\\n与&c喷气背包&r相同,它使用氢气作为燃料,装填方式也与&c喷气背包&r完全一致.\\n\\n按(N)键可切换模式:\\n\\n&e战斗模式&r:使生物&6燃烧&r并造成&a伤害&f,但不会点燃方块或物品.\\n&6加热模式&r:目前测试效果与战斗模式相同.\\n\\n&4地狱火模式&r:焚毁一切!"]
-	quest.109310AF19AAC482.title: "&4火焰喷射器"
+	quest.0F326EEEC2EBE4E5.quest_subtitle: "先富集你的物品!&7[Enrich your items first!]&f"
+	quest.0F326EEEC2EBE4E5.title: "&d富集物品&7[Enriched Items]&f"
+	quest.109310AF19AAC482.quest_desc: ["&4火焰喷射器&r 是 &a远程武器&f &5&l&d通用机械&f&r 提供的装备之一.\\n\\n与 &c喷气背包&r 相同,它使用氢气作为燃料且装填方式完全一致.\\n\\n按(N)键可切换模式:\\n\\n&e战斗模式&r:使生物 &6着火&r 并造成 &a伤害&f,但不会点燃方块或物品\\n&6加热模式&r:目前测试功能与战斗模式相同\\n\\n&4地狱火模式&r:焚烧一切!\\n&7[The Flamethrower is one of the Ranged Weapons lMekanism offers. \\n\\nLike the Jetpack it uses Hydrogen as Fuel and is loaded just the same way as the Jetpack. \\n\\nWe can press (N) to change its modes. \\n\\nCombat: will set Mobs on Fire and do Damage, but won't Burn Blocks or Items. \\nHeat: from what I can tell can only do the same. \\n\\nInferno: Burns everything!]&f"]
+	quest.109310AF19AAC482.title: "&4火焰喷射器&7[Flamethrower]&f"
 	quest.119BED334E331C25.quest_desc: [
-		"最基础简单的&l矿石处理&r只需2台&5机器&r:&d&l富化机&r与&6&l熔炼炉&r!\\n\\n使用&7矿石方块&f可获得双倍&7矿粉&r,或使用&7原矿&r可多获得1/3产量——即3个&7原矿&f可产出4份&7矿粉&r.\\n\\n将&7矿石&r投入&d&l富化机&r即可获得&7矿粉&r!再通过&6熔炼&r这些&7矿粉&r即可得到&7金属锭&r!\\n\\n恭喜,你已完成&l矿石处理&r!"
+		"最基础简单的 &l矿石处理&r 只需2台 &5机器&r:&d&l富集机&r 和 &6&l熔炼炉&r!\\n\\n使用 &7矿石方块&f 可获得双倍 &7矿粉&r,用 &7粗矿&f 则可多获1/3产量——即3个 &7粗矿&f 产出4个 &7矿粉&r.\\n\\n将 &7矿石&r 投入 &d&l富集机&r 获得 &7矿粉&r,再通过 &6熔炼&r 得到 &7金属锭&r!\\n\\n恭喜你完成了 &l矿石处理&r!\\n&7[The very first and simplest lOre Processing is just 2 Machines! lEnrichers and lSmelters! \\n\\nWe can use Ore Blocks to get twice the Dust or Raw Ore to get 1/3 more. So 3 Raw Ore to get 4 Dust. \\n\\nThrow the Ore into the lEnricher and you'll get Dust! Then, Smelt that Dust to get Ingots! \\n\\nCongrats, you just lOre Processed!]&f"
 		"{image:atm:textures/questpics/mek/mek_tier1_1.png width:150 height:50 align:center}"
 	]
-	quest.119BED334E331C25.quest_subtitle: "一级矿石处理"
-	quest.119BED334E331C25.title: "&d富化&f后&6熔炼"
+	quest.119BED334E331C25.quest_subtitle: "第一阶段矿石处理&7[Tier 1 Ore Processing]&f"
+	quest.119BED334E331C25.title: "&d富集&f 再 &6熔炼&7[Enrich then Smelt]&f"
 	quest.120572510F525930.quest_desc: [
-		"&6&l&a热力蒸馏塔&f&r是多方块结构,可摄入&9水&r并通过&6热能&r将其转化为&e盐水&r,还能进一步利用&6热能&r将&e盐水&r制成&6&a液态锂&f&r!\\n\\n首先需要大量&6热蒸发方块&r构建4x4基底(必须严格保持4x4规格).\\n\\n&a墙体&f高度至少3格,最高18格.内部与顶部必须保持中空(符合多数多方块结构特性),用于容纳&9水&f与&e盐水&r.\\n\\n在墙体内部(非角落)可安装&6阀门&f与&6控制器&r!通过&6控制器&r可访问&6&l&a热力蒸馏塔&f&r的图形界面,查看当前&6热值&r.整个结构仅需1个&6控制器&r.\\n\\n&6阀门&r负责传输:输入&9水&f与&e盐水&f,输出&e盐水&f与&6&a液态锂&f&r,还可选配导入&6热能&r!无需配置阀门本身,仅需设置&b管道&f与&6导能器&r.\\n\\n结构&a顶层&f的四个角位不可用&6热蒸发方块&r填充,但可安装&e&l&o高级&a太阳能发电模块&f&r以提升&6热值&r产量!"
+		"&6&l&a热力蒸馏塔&f&r是一种多方块结构,它吸收&9水&r,并利用&6热量&r将其转化为&e盐水&r.它还会使用&6热量&r将&e盐水&r制成&6&a液态锂&f&r!\\n\\n首先,你需要大量的&6热力蒸发块&r.底座为4x4,且必须完全由&6热力蒸发块&r构成.\\n\\n&a墙壁&f至少需要3格高,最多18格高.内部和顶部必须像大多数多方块结构一样中空.&9水&f和&e盐水&r需要被容纳在某个地方.\\n\\n在墙壁内(不包括角落),我们可以放置&6阀门&f和&6控制器&r!&6控制器&r是我们访问&6&l&a热力蒸馏塔&f&r图形用户界面的方式.在那里,我们可以看到它所拥有的&6热量&r.我们只需要1个&6控制器&r.\\n\\n&6阀门&r用于输入&9水&f和&e盐水&f,输出&e盐水&f和&6&a液态锂&f&r,并可选择输入&6热量&r!你不需要配置&6阀门&r,只需要配置&b管道&f和&6导线&r.\\n\\n&6&l设备&f的&a顶部&f层不能将角落用&6热力蒸发块&r填满.但如果你需要更多&6热量&r,可以在顶层的角落添加&e&l&o高级&a太阳能发电模块&f&r!\\n&7[The lThermal Evaporation Plant is a Multiblock that takes Water, and uses Heat to make it into Brine. It will also use Heat to make Brine into Liquid Lithium! \\n\\nTo start you'll need a lotta Thermal Evaporation Blocks. The base is 4x4 and only ever 4x4 of Thermal Evaporation Blocks. \\n\\nThe Walls need to be atleast 3 Blocks tall and a max of 18. The inside and top must be hollow like most Multiblocks. The Water and Brine needs to be held somewhere. \\n\\nWithin the Walls (not the corners) we can put our Valves and Controller! The Controller is how we access the lThermal Evaporation Plant's GUI. There we can see the Heat that is has. We'll only need 1 Controller. \\n\\nValves are how we move Water and Brine in, Brine and Liquid Lithium out, and optionally Heat in! You won't need to configure the Valves, only the Pipes and Conductors need to be configured. \\n\\nThe top layer of the lPlant can't have the corners filled in with Thermal Evaporation Blocks. You can add lAdvanced Solar Generators on the corners of the top layer though if you want more Heat!]&f"
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/mek/mek_thermal1.png width:125 height:100 align:center}"
-		"用&6热蒸发方块&r搭建4x4基底."
+		"用&6热力块&r制作一个4x4的底座.\\n&7[Make a 4x4 of Thermal Blocks for the Base.]&f"
 		"{image:atm:textures/questpics/mek/mek_thermal2.png width:125 height:100 align:center}"
-		"此部分高度需在3-18格之间,是安装&6阀门&f与&6控制器&r的区域."
+		"这一部分可以是任意大小,只要&6&l&a热力蒸馏塔&f&r的高度在3格到18格之间.这里也是我们放置&6阀门&f和&6控制器&r的地方.\\n&7[This part can be any size as long as the lThermal Evaporation Plant is between 3 Blocks and 18 Blocks Tall. It is also where we place our Valves and Controllers.]&f"
 		"{image:atm:textures/questpics/mek/mek_thermal3.png width:110 height:100 align:center}"
-		"顶层&a角位&f必须留空或安装&l&e&o高级&a太阳能发电模块&f&r."
+		"&a角落&f必须为空,或在顶层填充&l&e&o高级&a太阳能发电模块&f&r.\\n&7[The Corners must be Empty or filled with lAdvanced Solar Generators on the Top Level.]&f"
 		"{image:atm:textures/questpics/mek/mek_thermal4.png width:110 height:100 align:center}"
-		"当&6控制器&r亮起即表示结构搭建成功!"
+		"当&6控制器&r亮起时,你就知道它已经设置好了!\\n&7[You'll know it is set when the Controller lights up!]&f"
 	]
-	quest.120572510F525930.title: "&6&l&a热力蒸馏塔&f"
-	quest.162CE44400A63575.quest_desc: ["最核心的&5基础设备&r是&9&l&a冶金灌注机&f&r!\\n\\n该机器可将&e物品&r与&c化学物质&r结合,合成新&e物品&r及合金.\\n\\n&c化学物质&f(即&a灌注类型&f)需放入&e黄色方格&r,并显示在左侧&e进度条&r中.\\n\\n&a&4红色&f方格&r存放待灌注的物品.\\n\\n&9&a深蓝&f方格&r为成品输出位.\\n\\n右侧&a&a淡绿色&f槽位&r与&a进度条&r用于存储&a能量&r!\\n\\n若需清空&e化学物质进度条&r,可使用&l排空&r按钮排出所有&a化学物质&r!"]
-	quest.162CE44400A63575.quest_subtitle: "初始机器"
-	quest.162CE44400A63575.title: "&9&l&a冶金灌注机&f"
-	quest.166971866A9234C7.quest_desc: ["三大核心灌注物品之一是&c&a灌注合金&f&r.\\n\\n制作需要将&6&a铜锭&f&r与10mB&4红石&r进行灌注.\\n\\n如何获取10mB&4红石&r？将&4红石物品&r放入&9&l&a冶金灌注机&f&r的&e黄色方格&r即可!\\n\\n&4红石物品&r会被消耗,不同&4物品&r产出量不同:&a&4红石粉&r&f提供10mB,&4&a富集红石&f&r提供80mB,&4&a红石块&f&r提供90mB."]
-	quest.166971866A9234C7.quest_subtitle: "基础合成合金"
-	quest.166971866A9234C7.title: "&c&a灌注合金&f"
-	quest.1796E08BBDC09B84.quest_desc: ["&b&l动态&c储罐&r为可自定义尺寸的多方块结构,最小规模3x3x3!\\n\\n可储存大量单一&b流体&r或&c化学品&r,具体容量取决于结构尺寸.\\n\\n由&b动态&c储罐&f方块&r构成,内部需保持中空.&a墙体&f可使用结构方块或&a反应堆玻璃&f,但框架必须使用&b动态&c储罐&r方块.\\n\\n需在墙体安装&b动态&c储罐&r端口以实现流体/化学品输入输出,推送/拉取模式决定传输方向."]
-	quest.1796E08BBDC09B84.title: "&b&l动态&c储罐&r多方块结构"
-	quest.18783C62009934DB.quest_desc: ["&9&l&a电解分离器&f&r可将1种&b流体&r分解为2种&c化学品&r!\\n\\n&b流体&r通过&4红色进度条&r输入,&c化学品&r从&9蓝色&f与&3青色进度条&r输出.\\n\\nGUI底部两侧设有功能切换按钮,用于控制两个输出槽的工作模式.\\n\\n空闲模式达到容量上限即停止生产(如氢气满额时停止消耗&9水&r).\\n\\n&a排出过量&f模式会保持最大产量并自动清除冗余产物,适用于需大量&b氧气&r但不需要氢气的场景.\\n\\n清除模式将删除所有生成的&c化学品&r."]
-	quest.18783C62009934DB.title: "&9&l&a电解分离器&f"
-	quest.1922623A26E08078.quest_desc: ["类似&b&a流体储罐&f&r,但我们要存储的是更高级的内容!\\n\\n所有&c压力管道&r可传输的物质,&c化学品储罐&r皆可存储.\\n\\n&a&l基础型&r:容量64桶.\\n\\n&c&l进阶型&r:容量256桶.\\n\\n&b&l精英型&r:容量1,024桶.\\n\\n&d&l终极型&r:容量8,19&a2桶&f."]
-	quest.1922623A26E08078.title: "&c化学品储罐"
-	quest.19341B01E048ACAB.quest_desc: ["&a&l基础层级&r是&5机器&r与方块中最简易、最廉价且性能最低的&l层级&r!\\n\\n(若将默认&5机器&r视为独立层级则另当别论,此处将其归入&a&l基础&r层级)\\n\\n&5机器&r从默认级开始可&a增强&f至&a&l基础&r级,而&b管道&f或&a能量立方&r等方块初始即为&a&l基础&r级.\\n\\n这些皆由&4红石&f、&a基础&a电路板&f&f及&7铁锭&r制成."]
-	quest.19341B01E048ACAB.title: "&a&l基础层级"
-	quest.195729280394ABFB.quest_desc: ["该&7&l机械&r可生产两种高强度锭材:&e&a强化荧石&f&f与&5&a强化黑曜石&f&r.\\n\\n通过将&e物品&r与&7锇&r进行&7灌注&r,可合成更强效的锭材.\\n\\n需向&l&7压缩机&r供给&7锇&r,可通过放入&7&a锇锭&f&f、&7&a锇块&f&f或装有&7锇化学品&r的&c化学品储罐&f&r实现."]
-	quest.195729280394ABFB.quest_subtitle: "仅适用于两种用途"
-	quest.195729280394ABFB.title: "&7&l&a锇压缩机&f"
-	quest.1ABD22AA58E093A6.quest_desc: ["唯有顶尖的&5机械&r才配得上顶级材料.\\n\\n使用&d&l终极&r级&e物品&r打造这些&5机械&r及更多设备!\\n\\n这些&5机械&r绝对值得投入时间与材料——您会渴望拥有它们!"]
-	quest.1ABD22AA58E093A6.title: "部分顶级&5机械&r展示"
-	quest.1AEFF93A398B8BBF.quest_desc: ["&b&l精英阶&r紧随&c&l进阶阶&r之后,保留全部进阶增益效果并更加强大.\\n\\n&b&l精英&r设备需由&b&a强化合金&f&f、&b&a精英控制电路&f&f及多数情况下搭配&e&a金锭堆&f&r合成.\\n\\n将&c&a灌注合金&f&r与20m&b钻石&r(即2份&b&a钻石粉&f&r或1/4个&b&a富集钻石&f&r)灌注可得&b&a强化合金&f&r.\\n\\n随后可用两份&b&a强化合金&f&r与&c进阶&a电路板&f&r合成&b&a精英控制电路&f&r."]
-	quest.1AEFF93A398B8BBF.title: "&b&l精英阶"
-	quest.1F8B4F648EB5A0DC.quest_desc: ["不喜收纳抽屉？更爱背包系统？那么您需要&a私人箱子&f/储桶!\\n\\n两者功能完全一致.合成后&a右键点击&f将其绑定为个人专属.\\n\\n此后仅您可开启此箱子/储桶(可通过物品栏直接访问或像普通容器一样放置使用).\\n\\n内含54格存储空间但不支持升级..."]
+	quest.120572510F525930.title: "&6&l&a热力蒸馏塔&f&7[lThermal Evaporation Plant]&f"
+	quest.162CE44400A63575.quest_desc: ["第一个也是最重要的&5机器&r是&9&l&a冶金灌注机&f&r!\\n\\n&9&l&a冶金灌注机&f&r会将一个&e物品&r和一种&c化学品&r结合,以制作新的&e物品&r和合金.\\n\\n&c化学品&f或&a&a灌注类型&f&r将进入&e黄色方格&r,并显示在其左侧的&e条&r中.\\n\\n&a&4红色&f方格&r将容纳被灌注的物品.\\n\\n&9&a深蓝&f方格&r将是产品放置的地方!\\n\\n右侧的&a&a淡绿色&f槽&r和&a条&r用于&a能量&r!\\n\\n如果你需要清理&e化学品条&r中的空间,请使用&l清除&r按钮.这将弹出其中所有的&a化学品&r!\\n&7[The first and most important Machine is the lMetallurgic Infuser! \\n\\nThe lMetallurgic Infuser will combine an Item and a Chemicals to Craft new Items and Alloys. \\n\\nChemicals or Infuse Types will go into the Yellow Square and will show up in the Bar to the Left of it. \\n\\nThe Red Square will hold the Item that gets Infused. \\n\\nThe Dark Blue Square will be where the product goes to! \\n\\nTo the Right, the Light Green Slot and Bar are for Energy! \\n\\nIf you need to make room in the Chemical Bar, use the lDUMP Button. This will eject all Chemicals in it!]&f"]
+	quest.162CE44400A63575.quest_subtitle: "起始机器&7[The Starting Machine]&f"
+	quest.162CE44400A63575.title: "&9&l&a冶金灌注机&f&7[lMetallurgic Infuser]&f"
+	quest.166971866A9234C7.quest_desc: ["三种最重要的灌注物品之一是&c&a灌注合金&f&r.\\n\\n要制作它,我们需要将&6&a铜锭&f&r与10mB的&4红石&r进行灌注.\\n\\n你问如何获得10mB的&4红石&r？通过将&4红石物品&r放入&9&l&a冶金灌注机&f&r的&e黄色方格&r中!\\n\\n我们会失去&4红石物品&r,不同的&4物品&r提供不同的量.&a&4红石粉&r&f提供10mB,&4&a富集红石&f&r提供80mB,而&4&a块&f红石&r提供90mB.\\n&7[One of the 3 most important Infused Items is the Infused Alloy. \\n\\nTo make it we'll need to Infuse a Copper Ingot with 10mB of Redstone. \\n\\nHow do we get 10mB of Redstone you ask? By placing a Redstone Item into the Yellow Square of the lMetallurgic Infuser! \\n\\nWe'll lose the Redstone Item and different Items give different amounts. Redstone Dust gives 10mB, Enriched Redstone gives 80mB, and a Block of Redstone gives 90mB.]&f"]
+	quest.166971866A9234C7.quest_subtitle: "用于制作物品的基础合金&7[The Basic Alloy for Crafting Items]&f"
+	quest.166971866A9234C7.title: "&c&a灌注合金&f&7[Infused Alloy]&f"
+	quest.1796E08BBDC09B84.quest_desc: ["&b&l动态 &c储罐&r 是多方块结构,最小尺寸为3x3x3,且可任意扩展!\\n\\n&b&l动态 &c储罐&r 可储存大量单一类型的&b流体&r或&c化学品&r.具体能容纳多少桶取决于结构的规模.\\n\\n该结构由&b动态 &c储罐 &f方块&r构成,内部为空心设计.&a墙体&f可使用结构方块或&a反应堆玻璃&f制作,但框架必须使用&b动态 &c储罐&r方块.\\n\\n需在墙体安装&b动态 &c储罐&r端口以实现流体/化学品的输入输出,传输方向由推拉模式决定.\\n&7[lDynamic Tanks are Multiblocks which can be made at any size that is atleast 3x3x3! \\n\\nlDynamic Tanks will hold a ton of one Fluid or Chemical. How many Buckets of that Fluid or Chemical can the lTank hold? That matters on the size. \\n\\nlDynamic Tanks are made out of Dynamic Tank Blocks with the inside of the Structure being hollow. The Walls can be made with Structure or Reactor Glass but the frame will need to be made of Dynamic Tank Blocks. \\n\\nYou'll also need Dynamic Tank Ports in the Walls to actually take and place Fluids and Chemicals. Whether it takes or places is determined by whether they Push or Pull.]&f"]
+	quest.1796E08BBDC09B84.title: "&b&l动态 &c储罐&r 多方块结构&7[lDynamic Tank Multiblock]&f"
+	quest.18783C62009934DB.quest_desc: ["&9&l&a电解分离器&f&r 可将1种&b流体&r分解为2种&c化学品&r!\\n\\n&b流体&r通过&4红色进度条&r输入,&c化学品&r则出现在&9蓝色&r与&3青色进度条&r.\\n\\nGUI界面底部两侧设有功能切换按钮,用于控制两个输出槽的工作模式.\\n\\n空闲模式达到容量上限后停止生产(例如氢气满额时将停止消耗&9水&r).\\n\\n&a排出过量&f模式会持续生产并自动排出过剩产物,适用于需大量&b氧气&r但不需要氢气的场景.\\n\\n清空模式将删除所有已生成的&c化学品&r.\\n&7[lElectrolytic Separator will take 1 Fluid and split it into 2 Chemicals! \\n\\nThe Fluid will go in the Red Bar and the Chemicals will appear in the Blue and Cyan Bars. \\n\\nWe also get two Buttons on each of the bottom sides of the GUI. These will switch between functions of the two Output Bars. \\n\\nIdle will just reach the limit it can and won't take anymore. So if it is full on Hydrogen it will no longer use Water. \\n\\nDumping Excess will reach the top but will dump enough to keep producing each Chemical. This is helpful for those who need lots of Oxygen but not Hydrogen. \\n\\nDumping will delete all of that Chemical that is made.]&f"]
+	quest.18783C62009934DB.title: "&9&l&a电解分离器&f&7[lElectrolytic Separator]&f"
+	quest.1922623A26E08078.quest_desc: ["类似&b&a流体储罐&f&r,但我们要的是除流体外的万物!\\n\\n所有能被&c加压管道&r运输的物质,皆可存入&c化学品储罐&r.\\n\\n&a&l基础型&r:容量64桶化学品.\\n\\n&c&l进阶型&r:容量256桶化学品.\\n\\n&b&l精英型&r:容量1,024桶化学品.\\n\\n&d&l终极型&r:容量8,192桶.\\n&7[Like Fluid Tanks but screw Fluids we want everything else! \\n\\nEverything Pressurized Tubes can move, the Chemical Tank can hold. \\n\\nlBasic: will hold 64 Buckets of Chemicals. \\n\\nlAdvanced: will hold 256 Buckets of Chemicals. \\n\\nlElite: will hold 1,024 Buckets of Chemicals. \\n\\nlUltimate: will hold 8,192 Buckets.]&f"]
+	quest.1922623A26E08078.title: "&c化学品储罐&7[Chemical Tanks]&f"
+	quest.19341B01E048ACAB.quest_desc: ["&a&l基础等级&r是&5机器&r与方块中最简易、最廉价且性能最弱的&l层级&r!\\n\\n(若将默认&5机器&r视为独立层级则另当别论,此处将其归入&a&l基础级&r)\\n\\n&5机器&r可从默认状态&a增强&f至&a&l基础级&r,而&b管道&f或&a能量立方&r等方块初始即为&a&l基础级&r.\\n\\n所有该等级物品均需&4红石&f、&a基础&a电路板&f&f及&7铁锭&r合成.\\n&7[lBasic Tier is the simplest, cheapest, and worst lTier of Machines and Blocks! \\n\\nWell unless you count Default Machines as a whole new lTier but I don't. I just count it with lBasic. \\n\\nMachines will start at default and can be Upgraded to lBasic. While other Blocks like Pipes or Energy Cubes will start at lBasic. \\n\\nAll of these are made from Redstone, Basic Control Circuits, and sometimes Iron!]&f"]
+	quest.19341B01E048ACAB.title: "&a&l基础等级&7[lBasic Tier]&f"
+	quest.195729280394ABFB.quest_desc: ["该&7&l机器&r可合成两种高强度锭:&e&a强化荧石&f&f与&5&a强化黑曜石&f&r.\\n\\n通过将&7锇&r注入&e材料&r中来制造强化锭.\\n\\n需向&l&7压缩机&r供给&7&a锇锭&f&f、&7&a锇块&f&f或装有&7锇化学品&r的&c化学品储罐&f.\\n&7[The lMachine creates two really strong ingots: Refined Glowstone and Refined Obsidian.\\n\\nIt Infuses an Item with Osmium to create a more powerful Ingot. \\n\\nWe'll need to place Osmium Ingots, Osmium Blocks, or a Chemical Tank with Osmium Chemical in it to feed the lCompressor Osmium!]&f"]
+	quest.195729280394ABFB.quest_subtitle: "仅限两种用途&7[Really Only Good For 2 Things]&f"
+	quest.195729280394ABFB.title: "&7&l&a锇压缩机&f&7[lOsmium Compressor]&f"
+	quest.1ABD22AA58E093A6.quest_desc: ["唯有顶尖&5机器&r才需匹配顶级材料.\\n\\n使用&d&l终极&r级&e物品&r打造这些&5机器&r及更多设备!\\n\\n这些&5机器&r绝对值得投入时间与材料!\\n&7[Only the best of the best Machines, will need the best Materials. \\n\\nUse lUltimate Items to make these Machines and more! \\n\\nYes, you'll want these Machines, they are worth the time and Materials!]&f"]
+	quest.1ABD22AA58E093A6.title: "顶级&5机器&r精选!&7[Some of the best Machines!]&f"
+	quest.1AEFF93A398B8BBF.quest_desc: ["&b&l精英层级&r紧接在&c&l进阶层级&r之后.它们拥有与&c&l进阶层级&r相同的增益效果……只是更多!\\n\\n&b&l精英层级&r由&b&a强化合金&f&f、&b&a精英控制电路&f&f以及大多数情况下需要&e&a金锭堆&f&r制成.\\n\\n您可以通过将&c&a灌注合金&f&r与20mb的&b钻石&r进行灌注来获得&b&a强化合金&f&r.这相当于2个&b&a钻石粉&f&r或1/4个&b&a富集钻石&f&r!\\n\\n然后,您可以使用这些&b&a强化合金&f&r(需要2个)与一个&c进阶&a电路板&f&r来制作&b&a精英控制电路&f&r.\\n&7[lElite Tier comes right after lAdvanced. These have the same buffs as lAdvanced... just more! \\n\\nlElite are made with Reinforced Alloys, Elite Control Circuits, and most times Gold Ingots. \\n\\nYou can get Reinforced Alloys from Infusing an Infused Alloy with 20mb of Diamond. That is 2 Diamond Dust or 1/4 Enriched Diamond! \\n\\nYou can then use those Reinforced Alloys (2 of them) with an Advanced Control Circuit to make the Elite Control Circuit. ]&f"]
+	quest.1AEFF93A398B8BBF.title: "&b&l精英层级&7[lElite Tier]&f"
+	quest.1F8B4F648EB5A0DC.quest_desc: ["抽屉不合您的口味？您更喜欢背包？那么您将需要一个&a私人箱子&f/桶!\\n\\n这两者的功能完全相同.制作完成后,通过&a右击&f将它们设置为您自己的用户.\\n\\n然后,只有您可以打开这个箱子/桶.哦,对了,您可以从您的物品栏中打开它,或者像普通的箱子/桶一样放置后打开.\\n\\n它有54个槽位,但无法升级……\\n&7[Drawers not your style? You like Backpacks better? Then you'll need a Personal Chest/Barrel! \\n\\nBoth of these will act the exact same. After Crafting, Right Click with them to set yourself as their User. \\n\\nThen, only you can open this Chest/Barrel. Oh yeah by the way you can open it from your Inventory or by placing it down like a normal Chest/Barrel. \\n\\nIt has 54 Slots but no upgrades...]&f"]
 	quest.21D8B88155648EA6.quest_desc: [
-		"众所周知您是为&5&l机械&r而来!\\n\\n&5机械&r如同微型工厂,每台都通过独特方式产出更多&e物品&r.请遵循具体任务指引了解各机械功能.\\n\\n本节将重点讲解配置选项与&8升级&r系统!"
+		"来吧,我们都知道您来这里是为了什么……&5&l机器&r!\\n\\n&5机器&r是我们的小型工厂,每个机器都会通过某种独特的方式为我们获取更多&e物品&r.请跟随具体的任务来了解每个机器的功能.\\n\\n在这里,我将更多地讨论配置和&8升级&r!\\n&7[Come on we all know what you are here for... lMACHINES! \\n\\nMachines are our little Factories, each will do something unique in gaining us more Items. Follow the individual Quests to find out what each does. \\n\\nHere I will talk more on the Configs and Upgrades! ]&f"
 		"{@pagebreak}"
-		"所有&5机械&r虽功能各异,但槽位颜色标识其用途:&a&a淡绿色&f&f对应&a能量&r,&4红色&f对应&4原料/流体/化学品&f,&9蓝色&f对应&9产物&f,&3青色&f对应&3副产物&f,&e黄色&f对应&e&a灌注类型&f&r.\\n\\n每台&5机械&r均有默认侧面配置,决定&e物品&r的输入输出方位.可通过机械GUI中的&a侧面配置&f修改.\\n\\n该设置适用于&e物品&f、&b流体&f、&c化学品&f及&a能量&r,各类别均有相似的可调方位:&4红色&f为&5输入&f,&6橙色&f为&6次要输入&f,&9蓝色&f为&9输出&f,&3青色&f为&3次要输出&f,&5紫色&f为&5双向传输&f,&a&a淡绿色&f&f为&a能量&f,&e黄色&f为&e特殊功能&f(如&c&a灌注类型&f&r).\\n需在GUI中启用自动弹出功能方可实现&e物品&r的自动输入输出!"
+		"所有&5机器&r都不同,但槽位和进度条的颜色会告诉您它们的用途!&a&a淡绿色&f&f:&a能量&r.&4红色&f:&4初始物品/流体/化学品&f.&9蓝色&f:&9产物&f.&3青色&f:&3次要产物&f.&e黄色&f:&e&a灌注类型&f&r.\\n\\n每个&5机器&r都有默认的配置面.这些是&e物品&r输入和输出的位置.您可以在&5机器&r的图形用户界面中的&a侧面配置&f中更改这些设置.\\n\\n这将针对&e物品&f、&b流体&f、&c化学品&f和&a能量&r进行更改,但每个都有类似的可以更改的配置面.&4红色&f:&5输入&f.&6橙色&f:&6次要输入&f.&9蓝色&f:&9输出&f.&3青色&f:&3次要输出&f.&5紫色&f:&5输入和输出&f.&a&a淡绿色&f&f:&a能量&f.&e黄色&f:&e额外&f,例如&c&a灌注类型&f&r.\\n如果您希望&e物品&r自动输入和输出,您需要将图形用户界面设置为自动弹出!\\n&7[All Machines are different but the Colors of Slots and Bars will tell what they are for! Light Green: Energy. Red: Initial Item/Fluid/Chemical. Blue: Product. Cyan: Second Product. Yellow: Infuse Types. \\n\\nEach Machine has default Config Sides. These are where Items will be Input and Output. You can change these in the GUI of the Machine in Side Configs. \\n\\nIt will change for Items, Fluids, Chemicals, and Energy but each has similar Sides that can be changed. Red: Input. Orange: Second Input. Blue: Output. Cyan: Second Output. Purple: Both Input and Output. Light Green: Energy. Yellow: Extra like Infuse Types. \\nYou'll need to set the GUI to Auto-Eject if you want Items to be Input and Output! ]&f"
 		"{@pagebreak}"
-		"部分&5机械&r支持&8升级&r模块!插槽位于GUI的&a右上角&f.\\n\\n此处可查看机械兼容的&8升级&r类型及最大装载量.&e速度升级&8&r可多层叠加,而消音升级无需堆叠!"
+		"一些&5机器&r还可以使用&8升级&r!这些位于图形用户界面的&a右上角&f.\\n\\n在这里,您可以看到&5机器&r可以使用哪些&8升级&r.当您放入它们时,它会告诉您可以容纳多少个.&e速度&8升级&r可以容纳更多,而消音升级则不需要更多!\\n&7[Some Machines can also use Upgrades! These are in the Top Right of the GUI. \\n\\nHere you can see which Upgrades the Machine can use. When you put them in it'll tell you how many it can hold. Speed Upgrades can hold more while Muffling doesn't need more!]&f"
 	]
-	quest.21D8B88155648EA6.title: "&l&5机械系统"
-	quest.21F3379C904BFD50.quest_desc: ["&6&a电阻型加热器&f&r 同样会产生&6热量&r,但它不使用熔炉燃料,而是消耗&a能量&r!\\n\\n通过输入&a能量&r,我们可以自由控制其产生的&6热量&r数值.\\n\\n产生的&6热量&f越多,消耗的&a能量&r就越大!\\n\\n最高可产生9,999,999单位的&6热量&r."]
-	quest.21F3379C904BFD50.title: "&6&a电阻型加热器&f"
-	quest.227E9783382527CA.quest_desc: ["&c&a自由助跑器&f&r 与其他护甲不同,它使用&a能量&r而非&c化学燃料&r.\\n\\n当装备于脚部且充能时,按下(B)键启动,再次按压可&a切换模式&f.\\n\\n&2常规模式&r:防&a摔落伤害&f并自动跨越方块.\\n\\n&6安全模式&r:仅防&a摔落伤害&f(推荐模式).\\n\\n&4停用模式&r:无防护功能,仅外观装饰.\\n\\n可像&c喷气背包&r一样升级获得护甲值."]
-	quest.227E9783382527CA.title: "&c&a自由助跑器&f"
-	quest.24BA664B60E49461.quest_desc: ["这是模组&2&l我的世界&r中最强大的工具之一——&6&a纸板箱&f&r!\\n\\n仅需4个&6锯末&r即可合成(通过&7木棍&r在&e&l&a精密锯木机&f&r制作).\\n\\n&a右击&f方块可将其收纳,破坏箱子即可搬运.放置后Shift+&a右击&f&a移除&f箱子.\\n\\n不可收纳&8基岩&r或&d&a末地传送门框架&f&r,但能收纳&5黑曜石&f、&3&a强化深板岩&f&r及刷怪笼等方块."]
-	quest.24BA664B60E49461.title: "&6&a纸板箱&f"
-	quest.27512B0434531195.quest_desc: ["&c&l&a化学压射室&f&r是将&e物品&f与&c化学品&r结合的设备,以1:1比例合成新&e物品&r!\\n\\n&9水&r经&c&l旋转&b冷凝器&f&r生成&b&a水蒸气&f&r,可复活死亡珊瑚.\\n\\n通过&9&l&a电解分离器&f&r获取&b氧气&r,注入&6铜块&r使其氧化.\\n\\n最关键的是用&3&a氯化氢&f&r处理矿石获取矿屑!"]
-	quest.27512B0434531195.title: "&c&l&a化学压射室&f"
-	quest.2A793B35FE25003C.quest_desc: ["&c&l旋转&b冷凝器&f&r能将&b液体&r转为&c气体&r,而&c&l化学&e氧化器&f&r可将物品气化!\\n\\n例如将&0煤炭&f转化为&0碳&r.\\n\\n还能将废蜂巢和&a锂&f蜂巢分解为&c化学品&r!\\n\\n&e物品&r放入&4红色槽位&r,生成的&c气体&r会出现在&9蓝色计量槽&r."]
-	quest.2A793B35FE25003C.title: "&c&l化学&e氧化器"
-	quest.2D1CBCEC82F1B37D.quest_desc: ["&6&a木料加热器&f&r通过熔炉燃料产生&6热量&r.\\n\\n原木、&0煤炭&f、&0木炭&r甚至&a木剑&f皆可作为燃料.\\n\\n虽无法量化&6热量&r数值,但&6加热器&f&r的颜色变化会直观显示工作状态!"]
-	quest.2D1CBCEC82F1B37D.title: "&6&a木料加热器&f"
-	quest.2EA0C74AE7366656.quest_desc: ["&a&a便携式传送器&f&r 可让您传送到任何(已供电的)&a&l传送器&r.\\n\\n当然它也需要&a能量&r,因此您需要为其充电.出于安全考虑,请&a右键点击&f将其设置为个人使用.\\n\\n充电并绑定后,可右键&a点击打开&f其图形界面.在此可选择任意网络并点击传送按钮,即可传送到对应的&a&l传送器&r.\\n\\n注意:不可传送到&a&a便携式传送器&f&r本身,因为它是一个物品..."]
-	quest.2EA0C74AE7366656.title: "&a&a便携式传送器&f"
-	quest.31B73D16C0199785.quest_desc: ["将&5&a强化黑曜石粉&f&r投入&7&l&a锇压缩机&f&r,对&7锇&r进行&7压缩&r处理!\\n\\n这应该是&7&l&a锇压缩机&f&r的工作原理...\\n\\n现在我们将得到&5&a强化黑曜石锭&f&r,这些锭可制成其他&5机械&r甚至工具和盔甲!"]
-	quest.31B73D16C0199785.title: "&5&a强化黑曜石&f"
-	quest.33415CB421F7620A.quest_desc: ["&b&l&a提纯仓&f&r 在技术上是&d&l&a富集仓&f&r的升级版.虽然失去了许多功能,但确实提升了&l矿石处理&r效率!\\n\\n其主要功能是将&7矿石&r与&b氧气&r结合,从而产出更多金属锭!\\n\\n严格来说它产出的是&7矿团&r而非&7金属锭&r...具体细节请查阅&l矿石处理&r任务说明!"]
-	quest.33415CB421F7620A.title: "&b&l&a提纯仓&f"
-	quest.33C69B5934BE4D64.quest_desc: ["&b机械管道&r用于输送&b流体&r.没错!不仅仅是&9水&r!\\n\\n&b机械管道&r由2个&8&a钢锭&f&r和1个&7空桶&r制成.其升级方式与&e物流运输器&r相同.\\n\\n&a&l基础级&r:可容纳&a2桶&f流体,每刻输送250mB流体.\\n\\n&c&l高级&r:可容纳8桶流体,每刻输送1桶流体.\\n\\n&b&l精英级&r:可容纳3&a2桶&f流体,每刻输送8桶流体.\\n\\n&d&l终极&r:可容纳128桶流体,每刻输送3&a2桶&f流体."]
-	quest.33C69B5934BE4D64.quest_subtitle: "流体"
-	quest.33C69B5934BE4D64.title: "&b机械管道"
-	quest.376532CD98D39781.quest_desc: ["&c&l&a化学灌注器&f&r可将两种不同的&c化学品&r进行混合.\\n\\n前期作用有限,但后期至关重要!\\n\\n第一种&c化学品&r注入左侧&4红色槽&r,第二种注入右侧&6橙色槽&r.\\n\\n注料顺序会影响结果——这是在&6&l9TTS&r里付出惨痛代价学到的!"]
-	quest.376532CD98D39781.title: "&c&l&a化学灌注器&f"
-	quest.37D4E5ACB35D8BF1.quest_desc: ["&5&l&d通用机械&f&r &c喷气背包&r 操作方式类似&l&7&d&a铁质飞行背包&f&f&r,但具有不同模式且需以氢气为燃料而非&a能量&r!\\n\\n只需将背包放入含氢气的&5机械&r中充注.有趣的是,当&9&l&a电解分离器&f&r产生&b氧气&r时也会产生氢气!\\n\\n装备后背按(G)键&a切换模式&f.\\n\\n&4常规模式&r:长按跳跃键上升,WASD控制移动方向,松开即坠落.\\n\\n&b悬浮模式&r:操作同默认模式但移动更慢,松开跳跃键不会坠落,按Shift键下降.\\n\\n&6矢量模式&r:无视WASD,沿玩家视角方向移动.\\n\\n&4禁用模式&r:停止工作!\\n\\n注:可通过添加方块和物品升级喷气背包的护甲防护值!"]
-	quest.37D4E5ACB35D8BF1.quest_subtitle: "需要氢气才能运作!"
-	quest.37D4E5ACB35D8BF1.title: "&c喷气背包"
-	quest.3AF1DC02E9A0010C.quest_desc: ["&c加压管道&r几乎能输送其他管道无法运输的所有物质!&c化学品&f、&c颜料&f以及&c&a灌注类型&f&r均可通过&c加压管道&r传输.\\n\\n若要将&c化学品&r输入&5机器&r,需调整机器内部的配置选项.这些选项位于机器图形界面的&a左上角&f,即&a侧面配置&f区域.需要将其设置为自动输出至出口!\\n\\n可用2个&8&a钢锭&f&r和任意玻璃合成基础管道,再通过8个&c管道&f和&a电路板&f进行升级.\\n\\n&a&l基础型&r:可容纳4桶化学品,每刻传输750毫桶.\\n&c&l高级型&r:可容纳16桶化学品,每刻传输&a2桶&f.\\n\\n&b&l精英型&r:可容纳256桶化学品,每刻传输64桶.\\n\\n&d&l终极型&r:可容纳1024桶,每刻传输256桶."]
-	quest.3AF1DC02E9A0010C.quest_subtitle: "化学品、颜料、&a灌注类型&f"
-	quest.3AF1DC02E9A0010C.title: "&c加压管道"
-	quest.3C8D9278B81BB37A.quest_desc: ["我们没有无限时间,用&e速度升级&r加速进程吧!\\n\\n&2&l反应堆&r可不会永远等待!"]
-	quest.3C8D9278B81BB37A.title: "&e速度 &8升级器"
-	quest.424B3E3B299D3999.quest_desc: ["计量&8滴管&r是清空&c化学品库存&r的实用工具.\\n\\n在&5机器&r界面中,选取计量&8滴管&r并拖拽至机器内的&c化学品&r上方,随后&a右键点击&f即可将化学品转移至滴管.\\n需要说明的是,无法从计量&8滴管&r中取回化学品,只能通过Shift+&a右键点击&f清空该物品."]
-	quest.424B3E3B299D3999.title: "计量&8滴管"
-	quest.4274E777FB60BA28.quest_desc: ["&a&l充电板&r会在玩家站上时为其携带的所有&e可充电物品&r充电!\\n\\n显然需要内置&a能量&r才能运作,可通过&a&l充电板&r背面或底部注入能量.\\n\\n充能后会自动为库存中所有可充电的&e物品&r补充能量(不限模组来源).\\n\\n会按物品栏顺序优先充能,充满一件后自动切换至下一件.\\n所有&e物品&r的充电速度似乎保持一致."]
-	quest.4274E777FB60BA28.title: "&a&l充电板"
+	quest.21D8B88155648EA6.title: "&l&5机器&7[lMachines]&f"
+	quest.21F3379C904BFD50.quest_desc: ["&6&a电阻型加热器&f&r也会产生&6热量&r,但它不使用熔炉燃料,而是使用&a能量&r!\\n\\n通过向其提供&a能量&r,我们可以选择它产生多少&6热量&r.\\n\\n产生的&6热量&r&a越多&f,消耗的&a能量&r就越多!\\n\\n最大&6热量&r为9,999,999左右.\\n&7[The Resistive Heater will also generate Heat, but instead of using Furnace Fuel, it will use Energy! \\n\\nBy feeding it Energy, we can choose however much Heat it will make. \\n\\nThe more Heat it makes, the more Energy it takes! \\n\\nThe max Heat is 9,999,999 something.]&f"]
+	quest.21F3379C904BFD50.title: "&6&a电阻型加热器&f&7[Resistive Heater]&f"
+	quest.227E9783382527CA.quest_desc: ["&c&a自由助跑器&f&r 与其他护甲不同,它们使用 &a能量&r 而非 &c化学燃料&r.\\n\\n当充能并装备于脚部时,按下(B)键即可启动,再次按压可 &a切换模式&f.\\n\\n&2常规模式&r:&c&a自由助跑器&f&r 可防止 &a摔落伤害&f 并自动跨越方块.\\n\\n&6安全模式&r:预防 &a摔落伤害&f 但不会自动跳跃(推荐方式).\\n\\n&4禁用模式&r:&a自由助跑器&f 仅保留外观,不提供保护或自动跳跃功能.\\n\\n还可升级 &c&a自由助跑器&f&r 以增加护甲保护,类似 &c喷气背包&r.\\n&7[Free Runners are different from the other Armors, these will use Energy instead of a Chemical Fuel. \\n\\nWhen Powered and tied onto your Feet, you can press (B) they will start working and you can press it again to switch it's modes. \\n\\nRegular: the Free Runners will protect you from Fall Damage and Auto-Jump over Blocks for you. \\n\\nSafety: will prevent Fall Damage but won't Auto-Jump. (The preferred Method). \\n\\nDisabled: Free Runners won't protect or Auto-Jump, just look stylish! \\n\\nYou can also Upgrade Free Runners to give them Armor Protection, just like the Jetpack.]&f"]
+	quest.227E9783382527CA.title: "&c&a自由助跑器&f&7[Free Runners]&f"
+	quest.24BA664B60E49461.quest_desc: ["这是模组化 &2&l我的世界&r 中最强大的工具之一——&6&a纸板箱&f&r!\\n\\n制作材料简单,仅需4个 &6锯末&r.将 &7木棍&r 放入 &e&l&a精密锯木机&f&r 即可获得 &6锯末&r.\\n\\n获得后,对方块 &a右键点击&f 即可将其收入 &6&a纸板箱&f&r.破坏箱子后放置,Shift+&a右键点击&f 即可 &a取出&f 方块.\\n\\n部分方块如 &8基岩&r 或 &d&a末地传送门框架&f&r 无法收纳,但多数可行,例如 &5黑曜石&f、&3&a强化深板岩&f&r 及刷怪笼!\\n&7[Only one of the most powerful Tools in all of Modded lMinecraft! The Cardboard Box! \\n\\nThese are made with very simple ingrediants, just 4 Sawdust. Sawdust is made from putting Sticks into a lPrecision Sawmill. \\n\\nNow that we hopefully have one, just Right Click a Block with it and the Block will be placed into the Cardboard Box. Now we can break the Cardboard Box and move the Block by placing it again and Shift Right Clicking it to remove the Box. \\n\\nSome Blocks won't work like Bedrock or End Portal Frames... but there's so many more that will! Like Obsidian, Reinforced Deepslate, and Spawners! ]&f"]
+	quest.24BA664B60E49461.title: "&6&a纸板箱&f&7[Cardboard Box]&f"
+	quest.27512B0434531195.quest_desc: ["&c&l&a化学压射室&f&r 是另一种将 &e物品&f 与 &c化学品&r 结合的 &5机器&r,仅需1个 &e物品&r 加1种 &c化学品&r 即可合成新 &e物品&r!\\n\\n将 &9水&r 放入 &c&l旋转冷凝器&r 可得 &b&a水蒸气&f&r,注入死亡珊瑚可使其复活.\\n\\n通过 &9&l&a电解分离器&f&r 获取 &b氧气&r,注入 &6铜块&r 可使其氧化.\\n\\n最重要的是,用 &3&a氯化氢&f&r 处理矿石方块可获得矿碎用于加工!\\n&7[The lChemical Injection Chamber is another Machine that works with combining Items and Chemicals, but this time it is just 1 Item plus 1 Chemical to make 1 new Item! \\n\\nYou can get Water Vapor from putting Water into a lRotary Condensator, then Inject that Water Vapor into Dead Coral to revive it. \\n\\nYou can get Oxygen from an lElectrolytic Separator and Inject that Oxygen into Copper to Oxidize it. \\n\\nAnd most important, using Hydrogen Chloride into Ore Blocks to get Ore Shards for Processing!]&f"]
+	quest.27512B0434531195.title: "&c&l&a化学压射室&f&7[lChemical Injection Chamber]&f"
+	quest.2A793B35FE25003C.quest_desc: ["&l&c旋转冷凝器&r 可将 &b液体&r 转化为 &c气体&f,而 &c&l化学氧化器&r 能将(部分)物品转化为气体!\\n\\n例如将 &0煤炭&f 转化为 &0碳&r.\\n\\n还可处理废蜂巢和 &a锂&f 蜂巢,提取其 &c化学品&r!\\n\\n&e物品&r 放入 &4红色槽位&r 后,新生成的 &c气体&r 将显示于 &9蓝色条&r.\\n&7[The lRotary Condensator might make Gas from Liquids, but the lChemical Oxidizer can turn (some) Items into Gas! \\n\\nThis includes Infuse Types like Coal to Carbon. \\n\\nThis will also be needed for taking Wasted Combs and Lithium Combs into their Chemicals! \\n\\nItems will go in the Red Slot and their new Gas forms will appear in the Blue Bar.]&f"]
+	quest.2A793B35FE25003C.title: "&c&l化学氧化器&r&7[lChemical Oxidizer]&f"
+	quest.2D1CBCEC82F1B37D.quest_desc: ["&6&a木料加热器&f&r 通过熔炉燃料产生 &6热量&r.\\n\\n原木、&0煤炭&f、&0木炭&r 甚至 &a木剑&f 皆可作为燃料!\\n\\n热量强度无法量化,但 &6加热器&r 颜色变化会提示加热状态.\\n&7[The Fuelwood Heater will generate Heat by using Furnace Fuels. \\n\\nLogs, Coals, Charcoals, even Wooden Swords! \\n\\nI can't tell you how Hot it can get, but you'll know it is Heated by the Color of the Heater changing!]&f"]
+	quest.2D1CBCEC82F1B37D.title: "&6&a木料加热器&f&7[Fuelwood Heater]&f"
+	quest.2EA0C74AE7366656.quest_desc: ["&a&a便携式传送器&f&r 可传送至任何(已供能)&a&l传送器&r.\\n\\n需消耗 &a能量&r,故须提前充电.为安全起见,需 &a右键点击&f 绑定使用者.\\n\\n充电并绑定后,右键 &a打开&f 操作界面,选择网络并点击传送按钮即可抵达目标 &a&l传送器&r.\\n\\n注意:不可传送至 &a&a便携式传送器&f&r 本身(其为物品).\\n&7[The Portable Teleporter will allow you to Teleport to any (Powered) lTeleporter. \\n\\nOf course it does need Energy as well, so you'll need to Charge it. And Right Click it to set it to you for Security reasons. \\n\\nAfter it is Charged and yours, you can Right Click to open its GUI. Here you can Click any Network and hit the Teleport Button to Teleport to that lTeleporter. \\n\\nNo, you can't Teleport to the Portable Teleporter, it's an Item...  ]&f"]
+	quest.2EA0C74AE7366656.title: "&a&a便携式传送器&f&7[Portable Teleporter]&f"
+	quest.31B73D16C0199785.quest_desc: ["将 &5&a强化黑曜石粉&f&r 投入 &7&l&a锇压缩机&f&r,即可 &7压缩&f &7锇&r 与之合成!\\n\\n此即 &7&l&a锇压缩机&f&r 的工作原理...\\n\\n制成 &5&a强化黑曜石锭&f&r 后,可用于制造其他 &5机器&r 或工具与护甲!\\n&7[Throw the Refined Obsidian Dust into an lOsmium Compressor and Compress some Osmium into it! \\n\\nI think that's how the lOsmium Compressor works... \\n\\nNow we'll have Refined Obsidian Ingots, these can be made into other Machines or even Tools and Armor!]&f"]
+	quest.31B73D16C0199785.title: "&5&a强化黑曜石&f&7[Refined Obsidian]&f"
+	quest.33415CB421F7620A.quest_desc: ["&b&l&a提纯仓&f&r 在技术上是 &d&l&a富集仓&f&r 的升级版.虽然它失去了许多功能,但确实升级了 &l矿石处理&r 功能!\\n\\n它的主要作用是将 &7矿石&r 与 &b氧气&r 结合,从而产出更多的金属锭!\\n\\n不过...它并不直接生成 &7金属锭&r,而是生成 &7矿簇&r...具体细节请查阅 &l矿石处理&r 任务说明以了解更多信息!\\n&7[The lPurification Chamber is technically an Upgrade to the lEnrichment Chamber. Well... it loses a lot of functions but it does Upgrade the lOre Processing! \\n\\nThat is pretty much all it does, it combines Ores with Oxygen to get more Ingots out of them! \\n\\nWell... it doesn't make Ingots it makes Clumps... whatever just read the lOre Processing Quest to find out more about that then!]&f"]
+	quest.33415CB421F7620A.title: "&b&l&a提纯仓&f&7[lPurification Chamber]&f"
+	quest.33C69B5934BE4D64.quest_desc: ["&b机械管道&r 用于输送 &b流体&r.没错!不仅仅是 &9水&r!\\n\\n&b机械管道&r 由 2 个 &8&a钢锭&f&r 和 1 个 &7空桶&r 制成.它们的升级方式与 &e物流运输器&r 相同.\\n\\n&a&l基础级&r:可容纳 &a2桶&f 流体,每刻输送 250mB 流体.\\n\\n&c&l高级&r:可容纳 8 桶流体,每刻输送 1 桶流体.\\n\\n&b&l精英级&r:可容纳 3&a2桶&f 流体,每刻输送 8 桶流体.\\n\\n&d&l终极级&r:可容纳 128 桶流体,每刻输送 3&a2桶&f 流体.\\n&7[Mechanical Pipes will move Fluids. That is right! Not just Water! \\n\\nMechanical Pipes are made with 2 Steel Ingots and 1 Empty Bucket. They are also upgraded in the same way as the Logistical Transporters. \\n\\nlBasic: will hold 2 Buckets of Fluids and move 250mB of Fluid each Tick. \\n\\nlAdvanced: will hold 8 Buckets of Fluids and move a Bucket of Fluid each Tick. \\n\\nlElite: will hold 32 Buckets of Fluid and will move 8 Buckets each Tick. \\n\\nlUltimate: will hold 128 Buckets and will move 32 Buckets each Tick.]&f"]
+	quest.33C69B5934BE4D64.quest_subtitle: "流体&7[Fluids]&f"
+	quest.33C69B5934BE4D64.title: "&b机械管道&7[Mechanical Pipes]&f"
+	quest.376532CD98D39781.quest_desc: ["&c&l&a化学灌注器&f&r 可将两种不同的 &c化学品&r 进行混合.\\n\\n这在游戏初期作用不大,但后期非常重要!\\n\\n第一种 &c化学品&r 注入左侧的 &4红色槽&r,第二种 &c化学品&r 注入右侧的 &6橙色槽&r.\\n\\n注意:注入顺序会影响结果.这可是我在 &6&l9TTS&r 中吃了亏才学到的!\\n&7[lChemical Infuser will take 2 different Chemicals and... combine them. \\n\\nThis isn't helpful early game, but later on it'll be very important! \\n\\nFirst Chemical goes in the Red Bar on the Left and the Second Chemical goes in the Orange Bar on the Right. \\n\\nYes the pattern they are in matters. That I learned the hard way in l9TTS!]&f"]
+	quest.376532CD98D39781.title: "&c&l&a化学灌注器&f&7[lChemical Infuser]&f"
+	quest.37D4E5ACB35D8BF1.quest_desc: ["&5&l&d通用机械&f&r 的 &c喷气背包&r 功能类似于 &l&7&d&a铁质飞行背包&f&f&r,但具有不同模式,且需要以氢气为燃料而非 &a能量&r!\\n\\n只需将 &c喷气背包&r 放入含有氢气的 &5机器&r 中即可补充燃料.有趣的是,&9&l&a电解分离器&f&r 在产生 &b氧气&r 时也会生成氢气!\\n\\n装备背部后按 (G) 键 &a切换模式&f.\\n\\n&4常规模式&r:按住跳跃键上升,WASD 控制移动方向,不按方向键时仅垂直上升,松开跳跃键会下落.\\n\\n&b悬浮模式&r:操作同默认模式但移动速度更慢,松开跳跃键不会下落,按 Shift 键可下降.\\n\\n&6矢量模式&r:不响应 WASD 键,按住跳跃键时会朝玩家视角方向移动.\\n\\n&4禁用模式&r:停止工作!\\n\\n注:可通过添加方块和物品升级 &c喷气背包&r 以获得护甲保护功能!\\n&7[The lMekanism Jetpack works similar to lIron Jetpacks just with different Modes and it requires Hydrogen as Fuel instead of Energy! \\n\\nJust place some Hydrogen in the Jetpack by putting it in a Machine that has Hydrogen. Funny enough the lElectrolytic Separator also has Hydrogen when it has Oxygen! \\n\\nOnce you strap it on your Back you can press (G) to switch between the Modes. \\n\\nRegular: hold Jump to go up, you will move in any direction you hit with WASD and if you don't you will only go up. When you release Jump Button you will Fall. \\n\\nHover: same controls as Default but with slower movement and you won't Fall when you release Jump. You can lower by hitting (Shift). \\n\\nVector: won't respond to WASD and instead will move to where the Player is looking when holding Jump to go up. \\n\\nDisabled: doesn't work! \\n\\nBy the way, you can upgrade the Jetpack with a few Blocks and Items to make it have Armor Protection!]&f"]
+	quest.37D4E5ACB35D8BF1.quest_subtitle: "需要氢气才能运作!&7[Requires Hydrogen to Work!]&f"
+	quest.37D4E5ACB35D8BF1.title: "&c喷气背包&7[Jetpack]&f"
+	quest.3AF1DC02E9A0010C.quest_desc: ["&c加压管道&r几乎能输送所有其他管道无法运输的物质!&c化学品&f、&c颜料&f以及&c&a灌注类型&f&r均可通过&c加压管道&r传输.\\n\\n若要将&c化学品&r输入&5机器&r,需调整机器内部的配置选项.这些设置位于机器图形界面的&a左上角&f——&a侧面配置&f栏,需将其设置为”自动输出至出口”!\\n\\n合成配方:2个&8&a钢锭&f&r加任意玻璃.升级配方:8根&c管道&r加&a电路板&f.\\n\\n&a&l基础级&r:容量4桶化学品,每刻传输750mB.\\n&c&l进阶级&r:容量16桶化学品,每刻传输&a2桶&f.\\n\\n&b&l精英级&r:容量256桶化学品,每刻传输64桶.\\n\\n&d&l终极级&r:容量1024桶,每刻传输256桶.\\n&7[Pressurized Tubes will pretty much anything the other Pipes can't move! Chemicals, Pigments, and Infuse Types are all moved with Pressurized Tubes. \\n\\nIn order to move Chemicals in to Machines though, we'll need to change the Configs within the Machine. Those are in the Top Left of the Machine's GUI, Side Configs. They'll need to bet set to Auto-Eject to Output! \\n\\nYou can Craft them with 2 Steel Ingots and a piece of Glass, any Glass! Then upgrade them with 8 Tubes and a Control Circuit. \\n\\nlBasic: will hold 4 Buckets of Chemicals and move 750mB of Chemicals each Tick. \\nlAdvanced: will hold 16 Buckets of Chemicals and move 2 Buckets of Chemicals each Tick. \\n\\nlElite: will hold 256 Buckets of Chemicals and will move 64 Buckets each Tick. \\n\\nlUltimate: will hold 1,024 Buckets and will move 256 Buckets each Tick.]&f"]
+	quest.3AF1DC02E9A0010C.quest_subtitle: "化学品、颜料、&a灌注类型&f&7[Chemicals, Pigments, Infuse Types]&f"
+	quest.3AF1DC02E9A0010C.title: "&c加压管道&7[Pressurized Tubes]&f"
+	quest.3C8D9278B81BB37A.quest_desc: ["时间不等人,让我们&e加速&r进程!\\n\\n&2&l反应堆&r可不会永远等待!\\n&7[We don't have all the time in the World, let's Speed it up a bit! \\n\\nThe lReactors won't wait forever!]&f"]
+	quest.3C8D9278B81BB37A.title: "&e速度 &8升级组件&7[Speed Upgrade]&f"
+	quest.424B3E3B299D3999.quest_desc: ["计量&8清空器&r是清理&c化学品库存&r的实用工具.\\n\\n在&5机器&r界面中,选取计量&8清空器&r并拖拽至机器内的&c化学品&r上方,&a右键点击&f即可将化学品转移至清空器.\\n需要说明:转移后的&c化学品&r无法从清空器中取回,只能通过Shift+&a右键点击&f彻底清空该物品.\\n&7[The Gauge Dropper is a useful Tool for clearing out Chemical Inventories. \\n\\nIn a Machine's GUI, pick up the Gauge Dropper and drag it over the Chemicals in the Machine. Then, just Right Click and it'll remove the Chemicals and add them to the Dropper. \\nI should have specified, we can't get those Chemicals back from the Gauge Dropper. We can only Empty it through Shift Right Clicking the Item.]&f"]
+	quest.424B3E3B299D3999.title: "计量&8清空器&7[Gauge Dropper]&f"
+	quest.4274E777FB60BA28.quest_desc: ["&a&l充电基座&r会在玩家站上基座时为玩家携带的所有&e可充电物品&r充电!\\n\\n当然基座内部需要储存&a能量&r才能运作,可通过基座底部或背面进行能量输入.\\n\\n充能后,它会依次为库存中所有可充电的&e物品&r补充能量!\\n\\n兼容所有模组的可充电物品!\\n系统会按物品栏顺序优先充能前列物品,充满后自动切换至下一件.\\n\\n所有&e物品&r的充电速率似乎保持一致.\\n&7[lChargepads will Charge any Items on the Player when the Player steps onto the lPad! \\n\\nObviously it will need Energy within it to work. We can add that in on the Back or Bottom of the lChargepad. \\n\\nOnce it has Energy within it, it will Charge each Item in your Inventory that can hold a Charge! \\n\\nDoesn't matter the Mod it is from either! \\nIt will prioritize the first Items in your Inventory and once it is full it will Charge the next. \\n\\nHow quickly it fills the Items seems to be the same for every Item.]&f"]
+	quest.4274E777FB60BA28.title: "&a&l充电基座&7[lChargepad]&f"
 	quest.445CC9AAA6F8AAB6.quest_desc: [
-		"下一阶&l矿物处理&r需要&l&b净化器&r及&b氧气&r供应.现在开始制备&b氧气&r!\\n\\n使用&9&l电动泵&r或自动化&9输水系统&r将&9水&r导入&9&l&a电解分离器&f&r.\\n\\n通入&a能量&f和&9水&r后,电解分离器会将H₂O分解为H(氢气)和O(&b氧气&r)!\\n\\n可排放&b氢气&r,同时将氧气通过管道输入&b&l净化器&r.\\n\\n净化器获得氧气后,放入&7矿石&r可产出:&7矿石块&f转化为3个&7矿簇&f,&7粗矿&r转化为2个&7矿簇&f."
+		"进阶&l矿物处理&r需要&l&b净化机&r配合&b氧气&r运作,现在开始制备&b氧气&r!\\n\\n使用&9&l电动泵&r或自动化&9输水系统&r将&9水&r输入&9&l&a电解分离器&f&r.\\n\\n通入&a能量&f与&9水&r后,电解分离器会将H₂O分解为H(氢气)和O(&b氧气&r)!\\n\\n可排放&b氢气&r,并将氧气通过管道输入&b&l净化机&r.\\n\\n当&b&l净化机&r获得&b氧气&r后,放入&7矿石&r可产出:&7矿石方块&f转化为3个&7矿簇&f,&7粗矿&r转化为2个&7矿簇&f.\\n&7[For the next Tier of lOre Processing we'll need lPurifiers and they'll need Oxygen. So, let's make some Oxygen! \\n\\nUse an lElectric Pump or any Automated Water to feed Water into an lElectrolytic Separator. \\n\\nOnce fed Energy and Water, the lElectrolytic Separator will turn that H2O into H (Hydrogen) and O (Oxygen)! \\n\\nWe can dump the Hydrogen, and Pipe the Oxygen into the lPurifier. \\n\\nNow that the lPurifier has Oxygen, we can place our Ores into it to get 3 Ore Clumps from Ore Blocks or 2 Ore Clumps from Raw Ore.]&f"
 		"{image:atm:textures/questpics/mek/mek_tier2_1.png width:100 height:100 align:center}"
 	]
-	quest.445CC9AAA6F8AAB6.quest_subtitle: "二阶矿物处理"
-	quest.445CC9AAA6F8AAB6.title: "为&b&l净化器&r制备&b氧气&f"
-	quest.47E79DFD123BF617.quest_desc: ["&e潜水套装&r既是头盔也是胸甲,穿戴时可提供&a&9水下呼吸&f&r效果!\\n\\n但若要激活&9水下呼吸&r功能,我们需要为&e潜水气罐&r充入&b氧气&r.只需将其放入含有氧气的&5机器&r(例如&9&l&a电解分离器&f&r)中,即可缓慢充能!\\n\\n随后同时佩戴&e潜水面罩&f与&e潜水气罐&r,按下(G)键启动.当&e潜水装备&r激活后,将消耗&b氧气&r使您获得&9水下呼吸&r能力!"]
-	quest.47E79DFD123BF617.title: "&e潜水套装"
-	quest.47F38E606AD3FF53.quest_desc: ["部分合成配方需要&7&a矿石粉&f&r!\\n\\n借助&6&l全矿物&r模组,我们可以通过无数种方式制作&7&a矿石粉&f&r!\\n\\n&5&l&d通用机械&f&r模组中的方式是使用&4&l粉碎机&r和&d&l&a富集仓&f&r.\\n\\n我们可以将&7金属锭&f&4粉碎&r为&7矿粉&r,或通过&d富集处理&r&7矿石块&r获得2份&7矿粉&r."]
-	quest.47F38E606AD3FF53.title: "&4粉碎&f成粉!"
-	quest.488DBE69595F38F8.quest_desc: ["不,不,不,不要再使用&0煤炭&r为熔炉供能了——&0煤炭&r要用于炼制&8钢&r!\\n\\n请改用&6&l&a电力熔炼炉&f&r!它消耗&a电能&r来&6熔炼&e物品&r!\\n\\n还可通过&a增强升级&f获得更多处理槽位,实现更大规模&6熔炼&r,类似&a巨型熔炉&f.\\n\\n&a增强&f&l层级&r会配备自动分拣按钮,使&6&l机器&r能自动将&e物品&r均匀分配至各槽位以提高效率!"]
-	quest.488DBE69595F38F8.quest_subtitle: "&d通用机械&f's &a动力炉&f"
-	quest.488DBE69595F38F8.title: "&6&l&a电力熔炼炉&f"
-	quest.4935209D870E25F2.quest_desc: ["&5&l&d通用机械&f&r模组中90%的&5机器&r需要&a电能&r驱动.该模组采用FE作为&5机器&r的能量单位!\\n\\n1kFE=1000FE,1mFE=1,000,000FE!\\n\\n&a&a能量板&f&r是此模组版本的蓄电池,也是制作多数&a发电机&r的必要组件.\\n\\n没错,&5&l&d通用机械&f&r模组包含&a发电机&r且性能卓越!"]
-	quest.4935209D870E25F2.title: "&a&l能源!"
-	quest.4A1C8125896F7F1A.quest_desc: ["本任务由&6ATM团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n依据&e保留所有权利&r的许可协议,未经&6ATM团队&r明确授权,此任务禁止用于非官方发布的公开整合包.\\n\\n此任务默认隐藏,若您能看到本文,说明正处于编辑模式."]
-	quest.4B35C01F5D0AAC58.quest_desc: ["现已掌握&9&l冶金灌注&r技术并具备&c能源&r供应,可以开始炼制&8钢&r!\\n\\n需在&e化学品槽&r中放置&0碳元素&r(可使用&0煤炭&f、&0木炭&r或其变种物品添加).\\n\\n随后将&7&a铁锭&f&f/&7铁粉&r放入&4物品槽&r,灌注10mB碳元素即可制成&a富集铁&f.\\n\\n重复灌注10mB&0碳元素&r的步骤,即可将&7&a富集铁&f&r转化为&8&a钢粉&f&r!熔炼&8钢粉&r可获得&8&a钢锭&f&r.\\n\\n&8钢&r用途极其广泛:机械、工具、升级组件、反应堆、&a能量单元&f均需大量使用."]
-	quest.4B35C01F5D0AAC58.title: "&8钢"
-	quest.4E7823C2FCEBE4DC.quest_desc: ["普通弓械,消耗&a电能&r替代耐久度损耗."]
-	quest.4E7823C2FCEBE4DC.title: "&3&a电力弓&f"
-	quest.4EDD96EB60EF5814.quest_desc: ["若您犹豫是否值得进行此项升级,答案绝对是肯定的.\\n\\n&e&l&o高级 &a太阳能发电单元&f&r 虽会占用更多空间且合成成本较高,但其&a能量&r 产出将大幅提升.\\n\\n其运作原理与普通 &e&l&a太阳能发电单元&f&r 相同,需在 &e白昼&f 环境下且暴露于 &b天空&r 之下工作.\\n\\n储能容量高达10万FE!\\n\\n还可将其置于 &6&l&a热力蒸馏塔&f&r 顶部以提升 &6热力&r 产量."]
-	quest.4EDD96EB60EF5814.quest_subtitle: "约产生480FE/t能量"
-	quest.4EDD96EB60EF5814.title: "&l&e&o高级 &a太阳能发电单元&f"
-	quest.515A60B89ED5440D.quest_desc: ["&7&a石材发生器&f&r 专为 &7&l&a数字型采矿机&f&r 设计.\\n\\n装配后可持续生成 &7圆石&r,无需手动补充.\\n\\n将自动使用这些 &7圆石&r 替换采集到的矿石!"]
-	quest.515A60B89ED5440D.title: "&7&a石材发生器&f &8升级组件"
-	quest.566C1DBA9829E328.quest_desc: ["&e&l合成协调器&r 可自动化处理双 &e物品&r 配方!\\n\\n例如混合两种染料,或用泥土与小麦制作&a泥坯&f.\\n\\n还能执行特殊配方:将 &7圆石&f 与 &0燧石&r 合成 &7沙砾&r,或用4份 &5&a黑曜石粉&f &f加 &8深板岩&f 制作 &5黑曜石&r!"]
-	quest.566C1DBA9829E328.title: "&e&l合成协调器"
-	quest.58B125BD4876054C.quest_desc: ["&5&l&d通用机械&f&r 作为科技模组将彻底改变您游玩 &2&l我的世界&r 的方式.\\n\\n其&a化工系统&f 专注于分解物质的化学成分,最大化利用每种材料.\\n\\n包含氢动力 &c喷气背包&r、微型机器人伙伴、&2&l反应堆&r、自动化采矿的 &7&l&a数字型采矿机&f&r 等丰富内容.\\n\\n相信您会明白为何它被广泛应用于 &6&lATM整合包&r!"]
-	quest.58B125BD4876054C.quest_subtitle: "打造专属工厂的起点"
-	quest.58B125BD4876054C.title: "&5&l&d通用机械&f&r"
-	quest.5B556192F060F3F1.quest_desc: ["&5&a强化黑曜石&f&r 在 &5&l&d通用机械&f&r 的 &e物品&f 与 &5机械&r 制造中至关重要,尤其对于 &d&l终极阶&r 设备.\\n首先需用 &4&l粉碎机&r &3粉碎 &5黑曜石&f 获取 &5&a黑曜石粉&f&r.\\n\\n随后通过 &9&l&a冶金灌注机&f&r 将 &5&a黑曜石粉&f&r 与 &b化工钻石&r &9灌注&f.推荐使用 &b&a富集钻石&f&r 实现最高性价比!\\n\\n后续可选择 &d富集&r 以获得更多 &5化工 &a强化黑曜石&f&r,或进行其他处理..."]
-	quest.5B556192F060F3F1.title: "&5&a强化黑曜石粉&f"
-	quest.5E116409DC7D30BB.quest_desc: ["您应已熟悉物流系统!本任务将重点讲解 &3配置器&r 的使用.\\n\\n按住Shift键滚动鼠标可切换 &3配置器&r 模式.\\n\\n&d扳手模式&r:对 &5&l&d通用机械&f&r 的 &5机械&r 与方块使用时会使其脱落.\\n&e旋转模式&r:调整方块的朝向.\\n&4汲取模式&r:使其功能类似 &a滴管&f.\\n其余模式用于调整 &5机械&r 的工作配置!\\n\\n对管道使用可切换推送/拉取/双向模式,对端口设置输入输出,甚至可让存储箱实现底部自动导出."]
-	quest.5E116409DC7D30BB.quest_subtitle: "&a配置器&f"
-	quest.5E116409DC7D30BB.title: "&5&l&d通用机械&f&r 物流系统"
-	quest.602A6CF9D5B66AD3.quest_desc: ["&5&l&a化学结晶器&f&r 其实是个相当简单的机器!我们只需要 &c化学品&f 和 &a能量&r!\\n\\n没错,它不仅能用于 &l矿石处理&r!虽然部分功能确实如此...但并非全部.\\n\\n只需将 &7纯净矿浆&r 投入 &5&l结晶器&r 即可转化为 &7矿石晶体&r.\\n\\n也可注入 &d反物质&r 制作 &d&a反物质靶丸&f&r,或加入 &6锂&r 制成 &6&a锂粉&f&r!"]
-	quest.602A6CF9D5B66AD3.title: "&5&l&a化学结晶器&f"
-	quest.603BEDD49070ECAD.quest_desc: ["&b冷凝&r 是将 &b液体&f 转化为 &c气体&r,&c蒸发&r 则是将 &c气体&f 转为 &b液体&r.\\n\\n&c&l旋转式 &b冷凝蒸发器&r 可同时处理两种转换!\\n\\n&c气体&r 会进入左侧槽位,可通过接入左侧插槽的 &c管道&f 或 &c化学品储罐&r 添加.\\n\\n&b液体&r 会进入右侧槽位,同样可通过 &b管道&f 或置于右侧插槽的 &b&a流体储罐&f&r 添加.\\n\\n通电后,&c气体&r 将变为 &b液体&r,而 &b液体&r 会转化为 &c气体&r.它们会交换槽位,随后可通过 &c管道&f/&b管道&r 或 &c化学品&f/&b&a流体储罐&f&r 取出."]
-	quest.603BEDD49070ECAD.title: "&c&l旋转式 &b冷凝蒸发器"
-	quest.60B52705049D1BA5.quest_desc: ["&a&l&a化学清洗机&f&r 专用于 &7矿石处理&r.\\n\\n与 &9&l&a电解分离器&f&r 类似,此设备仅处理 &c化学品&f/&b流体&r!\\n\\n&9水&r(或替代液体)注入左侧槽位!矿浆则注入相邻槽位.\\n\\n提供 &a能量&r 后,&a&l&a化学清洗机&f&r 会将污浊矿浆净化!\\n\\n就像 &a洗衣机&f 一样!"]
-	quest.60B52705049D1BA5.title: "&a&l&a化学清洗机&f"
-	quest.60ECCCAB66AAC05D.quest_desc: ["&e物流运输器&r 可将 &e物品&f 与 &e方块&r 在容器间转移!\\n\\n若要将 &e物品&r 传输至 &5机器&r,需调整 &5机器&r 内部配置.在其图形界面 &a左上角&f 的 &a侧面配置&f 中设置为自动弹出输出 &e物品&r.\\n\\n&e物流运输器&r 由 2 个 &8&a钢锭&f&r 和 1 个 &a基础 &a电路板&f&r 合成.可用 8 个 &e物流运输器&r 搭配更高级 &a电路板&f 升级.\\n\\n&a&l基础版&r:每秒传输 2 个方块/物品,距离 1 格.\\n\\n&c&l高级版&r:每秒传输 32 个方块/物品,距离 2 格.\\n\\n&b&l精英版&r:每秒传输整组物品或方块,距离 4 格.\\n\\n&d&l终极版&r:每秒传输 2 组物品或方块,距离 10 格."]
-	quest.60ECCCAB66AAC05D.quest_subtitle: "物品"
-	quest.60ECCCAB66AAC05D.title: "&e物流运输器"
-	quest.6263A27182B2CE3D.quest_desc: ["部分 &5机器&r 需要更高级的制造技术,这意味着需使用 &c高级材料&r 来合成!\\n\\n说到 &c&l高级&r 级别,它们所需材料与 &c&l高级层级&r 的 &5机器&r 相同."]
-	quest.6263A27182B2CE3D.title: "进阶 &5机器"
-	quest.62827AA1AD29A222.quest_desc: ["&a通用线缆&r用于在&5机器&f间传输&a能量&r!\\n\\n多数&5机器&r默认通过&a绿色方框&r标记能量接收面,可在机器GUI的&a侧面配置&f中修改.\\n\\n若配置允许,相邻的&5机器&r会共享内部&a能量&r!\\n\\n&a通用线缆&r由2个&8钢锭&r和&4红石粉&r合成,将8个同级线缆与&a电路板&r合成可升级!\\n\\n&a&l基础级&r:每刻传输3.2千FE.\\n\\n&c&l进阶级&r:每刻传输51.2千FE.\\n\\n&b&l精英级&r:每刻传输409.6千FE.\\n\\n&d&l终极级&r:每刻传输3.27百万FE."]
-	quest.62827AA1AD29A222.title: "&a通用线缆"
-	quest.66A450CAC07232E1.quest_desc: ["&6热力学导体&r用于传输&6热量&r——部分&5&l通用机械&r的&5机器&r需使用&6热量&r,例如&6&l热力蒸发设备&r.\\n\\n多数&6加热器&r设有固定热量输出面!\\n\\n数值含义虽不明确,但遵循规律:造价越高,性能越优!"]
-	quest.66A450CAC07232E1.quest_subtitle: "热量"
-	quest.66A450CAC07232E1.title: "&6热力学导体"
+	quest.445CC9AAA6F8AAB6.quest_subtitle: "二级矿物处理&7[Tier 2 Ore Processing]&f"
+	quest.445CC9AAA6F8AAB6.title: "为&b&l净化机&r制备&b氧气&f&7[Making Oxygen for lPurifier]&f"
+	quest.47E79DFD123BF617.quest_desc: ["&e水下呼吸套装&r既是头盔也是胸甲,穿戴时可提供&a&9水下呼吸&f&r效果!\\n\\n但若要获得&9呼吸&r功能,我们需要为&e水下呼吸气罐&r充入&b氧气&r.只需将其放入含有氧气的&5机器&r(例如&9&l&a电解分离器&f&r)中,就会缓慢充能!\\n\\n随后同时佩戴&e水下呼吸面罩&f和&e水下呼吸气罐&r,按下(G)键启动.当&e水下呼吸装备&r激活后,将消耗&b氧气&r使您获得&9水下呼吸&r能力!\\n&7[The Scube Set is both a Helmet and Chestplate that will give you Water Breathing when worn! \\n\\nIn order to get Breathing though, we'll need to give our Scube Tank some Oxygen. Just place it within a Machine that has some, like an lElectrolytic Separator and it will slowly fill up! \\n\\nThen, put on both the Scube Mask and Scube Tank and press (G) to turn it on. Once the Scube Gear is on, it will use up the Oxygen allowing you to Breath Underwater!]&f"]
+	quest.47E79DFD123BF617.title: "&e水下呼吸套装&7[Scuba Set]&f"
+	quest.47F38E606AD3FF53.quest_desc: ["部分合成配方需要&7&a矿石粉&f&r!\\n\\n借助&6&l全矿物&r模组,我们可以通过无数方式制作&7&a矿石粉&f&r!\\n\\n&5&l&d通用机械&f&r模组中的&4&l粉碎机&r和&d&l&a富集仓&f&r均可实现.\\n\\n我们可以将&7金属锭&f&4粉碎&r成&7矿粉&r,或通过&d富集&r处理&7矿石块&r获得2份&7矿粉&r.\\n&7[Some Recipes will require Ore Dusts! \\n\\nThanks to lAllTheOres, we can make Ore Dusts in a million different ways! \\n\\nThe lMekanism ways are with the lCrusher and lEnrichment Chamber. \\n\\nWe can Crush Ingots into Dust. Or Enrich Ore Blocks to get 2 Dusts.]&f"]
+	quest.47F38E606AD3FF53.title: "&4粉碎&f成粉!&7[Crushed to Dust!]&f"
+	quest.488DBE69595F38F8.quest_desc: ["不,不,不,不要再使用&0煤炭&r为熔炉供能了——&0煤炭&f要用于炼制&8钢&r!\\n\\n请改用&6&l&a电力熔炼炉&f&r!它消耗&a电能&r来&6熔炼&e物品&r!\\n\\n还可通过&a增强&f扩展槽位提升&6熔炼&r效率,类似&a巨型熔炉&f.\\n\\n&a增强&f&l等级&r会配备自动分拣按钮,使&6&l机器&r能均匀分配&e物品&r到各槽位以提高效率!\\n&7[No, no, no, no, no more using Coal to power our Furnaces, we need Coal for Steel! \\n\\nHere use the lEnergized Smelter instead! It uses Energy to Smelt Items! \\n\\nIt can also be Upgraded to contain more Slots for more Smelting, kinda like a Jumbo Furnace. \\n\\nUpgraded lTiers will also have an Auto-Sort button. This allows the lMachine to automatically distribute the Items evenly among the Slots to be more efficient!]&f"]
+	quest.488DBE69595F38F8.quest_subtitle: "&d通用机械&f's &a动力炉&f&7[Mekanism's Powered Furnace]&f"
+	quest.488DBE69595F38F8.title: "&6&l&a电力熔炼炉&f&7[lEnergized Smelter]&f"
+	quest.4935209D870E25F2.quest_desc: ["90%的&5&l&d通用机械&f&r&5机器&r需要&a电能&r运作.该模组采用FE作为能量单位!\\n\\n1kFE=1000 FE,1mFE=1,000,000 FE!\\n\\n&a&a能量板&f&r是此模组的电池单元,也是合成多数&a发电机&r的必要组件.\\n\\n没错,&5&l&d通用机械&f&r包含&a发电机&r且性能卓越!\\n&7[90% of lMekanism Machines will need Energy to run. lMekanism uses FE to run Machines! \\n\\n1kFE is 1000 FE, and 1mFE is 1,000,000 FE! \\n\\nThe Energy Tablet is lMekanism's version of the Battery. It will also be needed to Craft most Generators. \\n\\nYes, lMekanism has Generators and yes, they are awesome! ]&f"]
+	quest.4935209D870E25F2.title: "&a&l能源!&7[lPower!]&f"
+	quest.4A1C8125896F7F1A.quest_desc: ["本任务由&6ATM管理员&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n基于&e版权所有&r许可,未经&6ATM团队&r明确授权,不得在任何公开整合包中使用此任务.\\n\\n此任务默认隐藏,若您看到本提示,说明正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks.\\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.4B35C01F5D0AAC58.quest_desc: ["现已掌握&9&l冶金灌注&r技术并具备&c能源&r,可开始炼制&8钢&r!\\n\\n需在&e化学品栏&r中添加&0碳元素&r.可使用&0煤炭&f、&0木炭&r或其变体放入&e化学品槽&f补充碳元素.\\n\\n随后将&7&a铁锭&f&f/&7矿粉&r放入&4物品槽&r,灌注10mB碳元素制成&a富集铁&f.\\n\\n重复灌注10mB&0碳元素&r的步骤,将&7&a富集铁&f&r转化为&8&a钢粉&f&r!熔炼&8钢粉&r即可获得&8&a钢锭&f&r.\\n\\n&8钢&r用途极其广泛:机械、工具、升级组件、反应堆、&a能量单元&f!请大量储备.\\n&7[Now that we have our lMetallurgic Infusion and hopefully some Energy, we can start making Steel! \\n\\nWe'll need Carbon in our Chemical Bar. We can use Coal, Charcoal, or any varients of those in the Chemical Slot to add Carbon. \\n\\nThen, if we add an Iron Ingot/Dust into the Item Slot, it will Infuse it with 10mB of Carbon to make Enriched Iron. \\n\\nWe'll need to repeat that step just now with adding 10mB of Carbon to turn our Enriched Iron into Steel Dust! Smelt the Dust to get a Steel Ingot. \\n\\nSteel is used for pretty much everything! Machines, Tools, Upgrades, Reactors, Energy Cells! You'll need a lot of it.]&f"]
+	quest.4B35C01F5D0AAC58.title: "&8钢&7[Steel ]&f"
+	quest.4E7823C2FCEBE4DC.quest_desc: ["普通弓械,消耗&a电能&r替代耐久度损耗.\\n&7[Just a normal Bow that takes Energy instead of Durability.]&f"]
+	quest.4E7823C2FCEBE4DC.title: "&3&a电力弓&f&7[Electric Bow]&f"
+	quest.4EDD96EB60EF5814.quest_desc: ["若您犹豫是否值得进行此项升级,答案是肯定的.\\n\\n&e&l&o高级&a太阳能发电模块&f&r虽占用更多空间且合成成本高昂,但能产生远超普通模块的&a能量&r.\\n\\n其运作原理与普通&e&l&a太阳能发电模块&f&r相同,需在&e白日&f条件下且暴露于&b天空&r环境下工作.\\n\\n储能容量高达10万FE!\\n\\n还可将其置于&6&l&a热力蒸馏塔&f&r顶部以提升&6热能&r产量.\\n&7[If you're wondering if it is worth making this upgrade, the answer is yes.\\n\\nlAdvanced Solar Generators will take up more Space and are expensive to Craft but will Generate so much more Energy. \\n\\nThey work the same as normal lSolar Generators, Daytime and need Sky Exposure. \\n\\nThese can hold 100kFE! \\n\\nYou can also add them on top of lThermal Evaporation Plants to produce more Heat.]&f"]
+	quest.4EDD96EB60EF5814.quest_subtitle: "约产生480FE/刻&7[Generates about 480FE/t]&f"
+	quest.4EDD96EB60EF5814.title: "&l&e&o高级&a太阳能发电模块&f&7[lAdvanced Solar Generator]&f"
+	quest.515A60B89ED5440D.quest_desc: ["&7&a石制发电机&f&r专为&7&l&a数字型采矿机&f&r设计.\\n\\n装配后可自动生成&7圆石&r,无需手动投放.\\n\\n将自动使用这些&7圆石&r替换采集到的矿石!\\n&7[Stone Generator is only for the lDigital Miner. \\n\\nWhen used in it, they will automatically make Stone, instead of needing handouts. \\n\\nIt will use these Stones to replace the Ores it picks up!]&f"]
+	quest.515A60B89ED5440D.title: "&7&a石制发电机&f &8升级组件&7[Stone Generator Upgrade]&f"
+	quest.566C1DBA9829E328.quest_desc: ["&e&l合成器&r可自动化处理双&e物品&r配方!\\n\\n例如混合两种染料,或用泥土与小麦制作&a泥坯&f.\\n\\n还能执行特殊配方:将&7圆石&f与&0燧石&r合成&7沙砾&r,或以4份&5&a黑曜石粉&f&f与&8深板岩&f制作&5黑曜石&r!\\n&7[The lCombiner can automate simple 2 Item Recipes! \\n\\nLike 2 different Dyes, or Mud and Wheat to get Packed Mud. \\n\\nIt can even do some new unique Recipes like Cobble and Flint to make Gravel, or 4 Obsidian Dust and Deepslate to make Obsidian!]&f"]
+	quest.566C1DBA9829E328.title: "&e&l合成器&7[lCombiner]&f"
+	quest.58B125BD4876054C.quest_desc: ["&5&l&d通用机械&f&r作为科技模组将彻底改变&2&l我的世界&r玩法.\\n\\n&a化工强化&f致力于将材料分解为化学成分,最大化利用每种材料的潜能.\\n\\n包含氢动力&c喷气背包&r、微型机器人伙伴、&2&l反应堆&r、自动化采矿的&7&l&a数字型采矿机&f&r等丰富内容.\\n\\n您将明白为何其被广泛应用于&6&lATM整合包&r!\\n&7[lMekanism is a tech mod that will change the way you play lMinecraft. \\n\\nThe mod focuses on breaking down materials to their chemical makeup, and getting the best out of every material you come across.\\n\\nThis mod features Hydrogen-Powered Jetpacks, a mini-robotic friend, lReactors, a lDigital Miner to automate mining, and much, much more. \\n\\nTrust me, you'll see why it is used in almost every lATM Modpack!]&f"]
+	quest.58B125BD4876054C.quest_subtitle: "工厂体系的起点&7[The Start of Your Own Factory]&f"
+	quest.58B125BD4876054C.title: "&5&l&d通用机械&f&r&7[lMekanism]&f"
+	quest.5B556192F060F3F1.quest_desc: ["&5&a强化黑曜石&f&r对&5&l&d通用机械&f&r内诸多&e物品&f与&5机械&r至关重要,尤其在&d&l终极层级&r阶段.\\n首先需用&4&l粉碎机&r将&5黑曜石&f粉碎为&5&a黑曜石粉&f&r.\\n\\n随后通过&9&l&a冶金灌注机&f&r将&b化学钻石&r注入&5&a黑曜石粉&f&r.推荐使用&b&a富集钻石&f&r实现最高效转化!\\n\\n可选择&d富集处理&r获取更多&5化学性&a强化黑曜石&f&r,或进行其他操作...\\n&7[Refined Obsidian will be important for many Items and Machines within lMekanism especially at lUltimate Tier. \\nFirst, we'll need to Crush Obsidian to get Obsidian Dust. Obviously you need to use a lCrusher for that. \\n\\nThen, we can use the lMetallurgic Infuser to Infuse the Obsidian Dust with Chemical Diamond. I'd recommend using Enriched Diamonds to get the most bang for your buck! \\n\\nNow we get a few choices of what to do with it, either Enrich it to get more Chemical Refined Obsidian or...]&f"]
+	quest.5B556192F060F3F1.title: "&5&a强化黑曜石粉&f&7[Refined Obsidian Dust]&f"
+	quest.5E116409DC7D30BB.quest_desc: ["您应已掌握物流系统!本任务将详解&3配置器&r!\\n\\n按住Shift键滚动鼠标可切换&3配置器&r模式.\\n\\n&d扳手模式&r:对&5&l&d通用机械&f&r的&5机械&r与方块使用时会使其掉落.\\n&e旋转模式&r:调整方块朝向.\\n&4抽吸模式&r:使其发挥&a滴管&f功能.\\n其余模式用于调整&5机械&r的参数配置!\\n\\n对管道使用可切换推送/抽取/双向模式；对端口设置输入输出；甚至可让容器实现自动向下输出.\\n&7[You should know Logistics by know! This Quest will now be reserved to explaining the Configurator! \\n\\nBy Holding Shift and Scrolling you can change the Mode of the Configurator. \\n\\nWrench: will Drop lMekanism Machines and Blocks when used on them. \\nRotate: will simply Rotate the direction of the Block. \\nEmpty: will make it work like a Gauge Dropper. \\nThe rest of them will make the Configurator interact with Machines to change their Configs! \\n\\nIf you use it on Pipes it will change if they Push, Pull, or Both. You can use it on Ports to set Inputs and Outputs. And even on Bins to set them to Auto-Export below them.]&f"]
+	quest.5E116409DC7D30BB.quest_subtitle: "&a配置器&f&7[The Configurator]&f"
+	quest.5E116409DC7D30BB.title: "&5&l&d通用机械&f&r物流系统&7[lMekanism Logistics]&f"
+	quest.602A6CF9D5B66AD3.quest_desc: ["&5&l&a化学结晶器&f&r 实际上是个相当简单的机器!我们只需要 &c化学品&f 和 &a能量&r!\\n\\n没错,它不仅能用于 &l矿石处理&r!虽然部分功能确实如此...但并非全部.\\n\\n只需将 &7纯净矿浆&r 投入 &5&l结晶器&r 即可转化为 &7矿石晶体&r.\\n\\n还可注入 &d反物质&r 制作 &d&a反物质靶丸&f&r,或加入 &6锂&r 制作 &6&a锂粉&f&r!\\n&7[The lChemical Crystallizer is actually a pretty simple Machine! We just need a Chemical and Energy! \\n\\nAnd yes this one isn't only used for lOre Processing! Well some of it is... but not all. \\n\\nJust throw some Clean Ore Slurry into the lCrystallizer and it will turn it into Ore Crystals. \\n\\nYou can also feed it Antimatter to make Antimatter Pellets, or Lithium to make Lithium Dust!]&f"]
+	quest.602A6CF9D5B66AD3.title: "&5&l&a化学结晶器&f&7[lChemical Crystallizer]&f"
+	quest.603BEDD49070ECAD.quest_desc: ["&b冷凝&r 是将 &b液体&f 转化为 &c气体&r,&c蒸发&r 则是将 &c气体&f 转化为 &b液体&r.\\n\\n&c&l旋转式 &b冷凝蒸发器&r 可同时执行两种操作!\\n\\n&c气体&r 会进入左侧槽位,可通过放置在左槽的 &c管道&f 或 &c化学品储罐&r 输入.\\n\\n&b液体&r 会进入右侧槽位,也可通过右槽放置的 &b管道&f 或 &b&a流体储罐&f&r 输入.\\n\\n通电后,&c气体&r 将变为 &b液体&r,&b液体&r 则转化为 &c气体&r.它们会交换槽位,随后可通过 &c管道&f/&b管道&r 或 &c化学品&f/&b&a流体储罐&f&r 取出.\\n&7[Condensating is to make from Liquid to Gas. Decondensating is turning Gas to Liquid. \\n\\nThe lRotary Condenstrator does both! \\n\\nGas will go in the Bar on the Left. They can be added from Tubes or Chemical Tanks that you place in the Left Slots. \\n\\nLiquids will go in the Right Bar. They can also be added with Pipes or Fluid Tanks placed in the Right Slots. \\n\\nWhen powered, Gas will become Liquid, and Liquid turned into Gas. They will switch Bars and can then be taken out with Tubes/Pipes or Chemical/Fluid Tanks.]&f"]
+	quest.603BEDD49070ECAD.title: "&c&l旋转式 &b冷凝蒸发器&7[lRotary Condensentrator]&f"
+	quest.60B52705049D1BA5.quest_desc: ["&a&l&a化学清洗机&f&r 专用于 &7矿石处理&r.\\n\\n与 &9&l&a电解分离器&f&r 类似,此设备仅处理 &c化学品&f/&b流体&r!\\n\\n&9水&r(或替代液体)注入左侧槽位!矿浆则注入相邻槽位.\\n\\n提供 &a能量&r 后,&a&l&a化学清洗机&f&r 会将污浊矿浆净化!\\n\\n就像 &a洗衣机&f 一样!\\n&7[The lChemical Washer is only for Ore Processing. \\n\\nLike the lElectrolytic Separator, this one only works with Chemicals/Fluids! \\n\\nWater (or Water replacement) will go in the Left Bar! And the Ore Slurry will go in the Bar next to it. \\n\\nWhen given Energy, the lChemical Washer will make the Dirty Slurry, Clean! \\n\\nLike a Washing Machine!]&f"]
+	quest.60B52705049D1BA5.title: "&a&l&a化学清洗机&f&7[lChemical Washer]&f"
+	quest.60ECCCAB66AAC05D.quest_desc: ["&e物流运输器&r 可将 &e物品&f 与 &e方块&r 在容器间转移!\\n\\n若要将 &e物品&r 传输至 &5机器&r,需调整机器内部配置.在 &5机器&r 图形界面的 &a左上角&f 找到 &a侧面配置&f,设置为自动弹出输出 &e物品&r.\\n\\n&e物流运输器&r 由 2 个 &8&a钢锭&f&r 和 1 个 &a基础 &a电路板&f&r 合成.可用 8 个 &e物流运输器&r 搭配更高级 &a电路板&f 升级.\\n\\n&a&l基础版&r:每秒传输 2 个方块/物品,距离 1 格.\\n\\n&c&l进阶版&r:每秒传输 32 个方块/物品,距离 2 格.\\n\\n&b&l精英版&r:每秒传输 1 组物品或方块,距离 4 格.\\n\\n&d&l终极版&r:每秒传输 2 组物品或方块,距离 10 格.\\n&7[Logistical Transporters will move Items and Blocks from one Inventory to another! \\n\\nIn order to move Items to Machines though, we'll need to change the Configs within the Machine. Those are in the Top Left of the Machine's GUI, Side Configs. They'll need to be set to Auto-Eject to Output Items. \\n\\nLogistical Transporters are Crafted with 2 Steel Ingots and 1 Basic Control Circuit. You can then combine 8 Logistical Transporters with the next Control Circuit to upgrade them. \\n\\nlBasic: will move 2 Blocks/Items across 1 Block each Second. \\n\\nlAdvanced: will move 32 Blocks/Items across 2 Blocks each Second. \\n\\nlElite: will move a stack of Items or Blocks across 4 Blocks each Second. \\n\\nlUltimate: will move 2 stacks of Items or Blocks across 10 Blocks each Second.]&f"]
+	quest.60ECCCAB66AAC05D.quest_subtitle: "物品&7[Items]&f"
+	quest.60ECCCAB66AAC05D.title: "&e物流运输器&7[Logistical Transporters]&f"
+	quest.6263A27182B2CE3D.quest_desc: ["部分 &5机器&r 更为先进,这意味着需要更多 &c高级材料&r 来制作!\\n\\n说到 &c&l进阶设备&r,它们与 &c&l进阶层级&r 的 &5机器&r 使用相同材料.\\n&7[Some Machines are a little more advanced, so that means we'll need more Advanced Items to Craft them! \\n\\nTalking about lAdvanced, they take the same Materials as lAdvanced Tier Machines.]&f"]
+	quest.6263A27182B2CE3D.title: "更先进的 &5机器&7[Better Machines]&f"
+	quest.62827AA1AD29A222.quest_desc: ["&a通用线缆&r用于在&5机器&f间传输&a能量&r!\\n\\n多数&5机器&r默认的&a能量&r接收面会以&a绿色方框&r标识,可通过机器GUI中的&a侧面配置&f修改.\\n\\n若配置允许,相邻的&5机器&r会相互共享内部&a能量&r!\\n\\n&a通用线缆&r由2个&8钢锭&r和1个&4红石粉&r合成,将8个同级线缆与&a电路板&r合成可升级!\\n\\n&a&l基础级&r:每刻传输3.2千FE.\\n\\n&c&l高级&r:每刻传输51.2千FE.\\n\\n&b&l精英级&r:每刻传输409.6千FE.\\n\\n&d&l终极级&r:每刻传输3.27兆FE.\\n&7[Universal Cables are used to move Energy from Machine to Machine! \\n\\nMost Machines will have a default Energy taking Side notified by the Green Square on them. These can be changed within the GUI of the Machine in Side Configs. \\n\\nMachines will also share the Energy they have in them with other Machines next to them, if their Configs are set to it!\\n\\nUniversal Cables are made with 2 Steel Ingots and a Redstone Dust. They can be upgraded by combining 8 of the same Tier with a Control Circuit! \\n\\nlBasic: will hold and move 3.2kFE per Tick. \\n\\nlAdvanced: will hold and move 51.2kFE per Tick. \\n\\nlElite: will hold and move 409.6kFE per Tick. \\n\\nlUltimate: will hold and move 3.27mFE per Tick.]&f"]
+	quest.62827AA1AD29A222.title: "&a通用线缆&7[Universal Cables]&f"
+	quest.66A450CAC07232E1.quest_desc: ["&6热力学导体&r用于传输&6热量&r——部分&5&l通用机械&r确实需要&6热量&r,例如&6&l热力蒸发机&r.\\n\\n多数&6加热器&r会预设热量输出面!\\n\\n数值含义虽不明确,但遵循规律:造价越高,性能越强!\\n&7[Thermodynamic Conductors will move Heat. Yeah, some lMekanism Machines use Heat! Like the lThermal Evaporation Machine. \\n\\nMost of the Heaters will have set Sides for Outputting Heat! \\n\\nI'm not sure what these numbers mean but following the pattern: more expensive, more good!]&f"]
+	quest.66A450CAC07232E1.quest_subtitle: "热量&7[Heat]&f"
+	quest.66A450CAC07232E1.title: "&6热力学导体&7[Thermodynamic Conductors]&f"
 	quest.67E7A9A65B14C933.quest_desc: [
-		"获得&7矿石团块&r后如何炼制&7金属锭&r？\\n\\n首先&4破碎&f每个&7团块&f获得2份&7粗制矿石粉&r.\\n\\n不可直接&6熔炼&7粗制矿粉&r(会损坏熔炉),需先&d富集&r为常规&7矿粉&r.\\n\\n最后按常规流程&6熔炼&f&7矿粉&f获得&7金属锭&r."
+		"获得&7矿石块&r后如何冶炼为&7锭&r？\\n\\n首先&4破碎&f每个&7矿石块&f获得2份&7粗制矿石粉&r.\\n\\n不可直接&6熔炼&7粗制矿粉&r(会损坏熔炉),需先通过&d富集&r转为普通&7矿粉&r.\\n\\n最后按常规流程&6熔炼&f&7矿粉&f获得&7金属锭&r.\\n&7[We got Ore Clumps? What do we do with a Clump, we wanted Ingots! \\n\\nTo start, Crush each Clump to get 2 Dirty Ore Dust. \\n\\nWe can't Smelt Dirty Dust, it'll ruin the Furnace! So we'll need to Enrich them to get our regular Dust. \\n\\nAnd like usual, Smelt the Dust to get Ingots.]&f"
 		"{image:atm:textures/questpics/mek/mek_tier2_2.png width:250 height:50 align:center}"
 	]
-	quest.67E7A9A65B14C933.quest_subtitle: "二级矿石处理"
-	quest.67E7A9A65B14C933.title: "&4破碎&f并&d富集&f&7团块"
-	quest.6B8040401B512E50.quest_desc: ["&3&l化学溶解室&r(非疾病控制中心)是专用于&l矿石处理&r的&5机器&r.\\n\\n需向其中注入&a硫酸&r和&7矿石&r.\\n\\n&7矿石&r置于&4红色槽位&r,&a硫酸&r注入&4红色计量条&r.\\n\\n制成的&7粗制矿浆&r将出现在&9蓝色计量条&r!"]
-	quest.6B8040401B512E50.title: "&3&l&a化学溶解室&f"
-	quest.6CD1720B76F47806.quest_desc: ["&2&l生物发电机&r通过将&2生物燃料&r转化为&2生物乙醇&r来产生&a能量&r!\\n\\n该&2&l发电机&r已被大幅削弱,不建议使用!\\n\\n因某些玩家建造巨型&a西瓜农场&r导致服务器TPS骤降!"]
-	quest.6CD1720B76F47806.title: "&2&l生物发电机"
+	quest.67E7A9A65B14C933.quest_subtitle: "二级矿石处理&7[Tier 2 Ore Processing]&f"
+	quest.67E7A9A65B14C933.title: "&4破碎&f并&d富集&f&7矿石块&7[Crush and Enrich our Clumps]&f"
+	quest.6B8040401B512E50.quest_desc: ["&3&lC.D.C.&r(&3&l化学溶解室&r,非疾病控制中心)是专用于&l矿石处理&r的&5机械&r.\\n\\n需向&3&lC.D.C.&r注入&a硫酸&r和&7矿石&r.\\n\\n&7矿石&r置于&4红色槽位&r,&a硫酸&r填入&4红色计量槽&r.\\n\\n完成后&7粗制矿浆&r将出现在&9蓝色计量槽&r!\\n&7[The lC.D.C. (lChemical Dissolution Chamber not Center for Disease Control and Prevention) is another Machine only used for lOre Processing. \\n\\nThe lC.D.C. will need Sulfuric Acid and Ore. \\n\\nThe Ore will go in the Red Slot while the Sulfuric Acid will go in the Red Bar. \\n\\nThe finished Dirty Slurry will spawn in the Blue Bar!]&f"]
+	quest.6B8040401B512E50.title: "&3&l&a化学溶解室&f&7[lChemical Dissolution Chamber]&f"
+	quest.6CD1720B76F47806.quest_desc: ["&2&l生物发电机&r通过将&2生物燃料&r转化为&2生物乙醇&r来发电!\\n\\n该&2&l发电机&r已被大幅削弱,不建议使用!\\n\\n因某些玩家建造的&a西瓜农场&r严重消耗服务器TPS!\\n&7[The lBio-Generator works by taking Bio Fuel, making Bioethanol, and using that for Energy! \\n\\nThis lGenerator has been heavily nerfed though, so it is recommened to not use it! \\n\\nThat is because you buttheads keep making massive Melon Farms that eat Servers TPS!]&f"]
+	quest.6CD1720B76F47806.title: "&2&l生物发电机&7[lBio-Generator]&f"
 	quest.6DC1E08D019FD543.quest_desc: [
-		"&7晶体&r需进一步&l加工&r!\\n\\n重复建造&6&l热力蒸馏塔&r的步骤制取&e盐水&r.\\n\\n用&9&l电解分离器&r从&e盐水&r中分离&e氯气&r.\\n\\n将&9水&f注入&9&l电解分离器&r获取&7氢气&r.\\n\\n在&a&l化学灌注器&r中混合&e氯气&f与&7氢气&f制取&3氯化氢&r!\\n\\n通过&c&l化学注入机&r将&3氯化氢&r&c注入&f&7晶体&f,使每个&7矿石晶体&r产出2个&7矿石碎片&r."
+		"&7晶体矿石&r需进一步&l加工&r!\\n\\n先依前法建造&6&l热力蒸馏塔&r制取&e盐水&r.\\n\\n用&9&l电解分离器&r从&e盐水&r中分离&e氯气&r.\\n\\n将&9水&f注入&9&l电解分离器&r获取&7氢气&r.\\n\\n在&a&l化学灌注器&r中混合&e氯气&f与&7氢气&f制取&3氯化氢&r!\\n\\n通过&c&l化学灌注机&r将&3氯化氢&r&c注入&f&7晶体矿石&f,使每个&7矿石晶体&r产出2个&7矿石碎片&r.\\n&7[Our Crystals will need even more lProcessing! \\n\\nRepeat the previous steps of making a lThermal Evaporation Plant to create Brine. \\n\\nUse an lElectrolytic Separator to Separate the Chlorine from the Brine. \\n\\nThen get Hydrogen from putting Water into an lElectrolytic Separator. \\n\\nCombine the Chlorine and Hydrogen in a lChemical Infuser to get Hydrogen Chloride! \\n\\nWith our lChemical Injector, we can Inject the Crystals with Hydrogen Chloride to get 2 Ore Shards from each Ore Crystal.]&f"
 		"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
 	]
-	quest.6DC1E08D019FD543.quest_subtitle: "四级矿石处理"
-	quest.6DC1E08D019FD543.title: "制备更多&3氯化氢&r"
-	quest.6F62B5510FA881CD.quest_desc: ["&7锇&r是一种生成于Y=56以下的矿石,其矿脉形态类似&a绿宝石&r,颜色呈&b偏蓝的&7灰色&r!\\n\\n它将用于制作&5&l&d通用机械&f&r中的多种&5机器&r,因此你需要大量采集!\\n\\n你还可以用它合成&7护甲&f与&7工具&r!其中&7护甲&f和&7剑&r的属性与&c下界合金&r同级,而&7镐&r的性能等同于&7&a铁镐&f&r."]
-	quest.6F62B5510FA881CD.quest_subtitle: "基础合成锭"
-	quest.6F62B5510FA881CD.title: "&7锇"
-	quest.71869B1D81D6A7EF.quest_desc: ["&2&l加压反应室(P.R.C.)&r通过将多种&b流体&f、&c化学品&r与&e物品&f结合,生成新的&e物品&f与&c化学品&r!\\n\\n&b流体&r(最常见为&9水&r)需注入最左侧槽位,&c化学品&r放入相邻槽位,初始&e物品&r置于&4红色插槽&r.\\n\\n成品&e物品&r将出现在&9蓝色插槽&r,而制成的&c化学品&r会输出至&9蓝色槽位&r.\\n\\n&2&l加压反应室&r可生产HDPE制品、&7火药&r、&a硫磺&r,甚至&2核工业组件&r!"]
-	quest.71869B1D81D6A7EF.title: "&2&l&a加压反应室&f"
-	quest.71CF9E59F8F0B4A6.quest_desc: ["这些&5机器&r的性能甚至超越&c&l进阶级&r设备!\\n\\n使用&b&l精英层级&r的&e材料&r来制作这些&5机器&r!"]
-	quest.71CF9E59F8F0B4A6.title: "更先进的&5机器&r!"
-	quest.7276892E129A739B.quest_desc: ["你以为这就是&5&l&d通用机械&f&r的全部？还差得远呢!\\n\\n在深入探索之前,先准备好&5机器&f与&a硫磺&r!\\n\\n我们还有很长的路要走."]
-	quest.7276892E129A739B.title: "&5&l&d通用机械&f:反应堆"
-	quest.73E6878553BA6908.quest_desc: ["喜欢储物抽屉？&5&l&d通用机械&f&r提供了&e收纳箱&r!\\n\\n&e收纳箱&r仅能存储单一物品类型,但可容纳数十组该&e物品&r!\\n\\n使用&3配置器&r调整&e收纳箱&r可使其自动向下方的容器输出.\\n\\n若箱内存有&e物品&r,按住Shift键&a右键点击&f可锁定该&e物品&r类型.\\n\\n&a&l基础型&r:容量64组.\\n\\n&c&l进阶型&r:容量128组.\\n\\n&b&l精英型&r:容量512组.\\n\\n&d&l终极型&r:容量4,096组."]
-	quest.73E6878553BA6908.quest_subtitle: "储物抽屉"
-	quest.73E6878553BA6908.title: "&e收纳箱"
-	quest.74200A48498DD7F8.quest_desc: ["&e&l&a太阳能发电模块&f&r通过在&e白天&r暴露于&b天空&r环境下产生&a能量&r.\\n\\n这是操作简便的自动&e&l发电机&r,仅合成过程较为繁琐!\\n\\n其发电量虽不及&b&l&a风力发电机&f&r(仅限白天),但具有爆发性输出特性且占用空间更小!\\n\\n经强化后现可储存约40,000FE能量!"]
-	quest.74200A48498DD7F8.quest_subtitle: "发电量约60FE/t"
-	quest.74200A48498DD7F8.title: "&e&l&a太阳能发电模块&f"
+	quest.6DC1E08D019FD543.quest_subtitle: "四级矿石处理&7[Tier 4 Ore Processing]&f"
+	quest.6DC1E08D019FD543.title: "制备更多&3氯化氢&r&7[Making more Hydrogen Chloride]&f"
+	quest.6F62B5510FA881CD.quest_desc: ["&7锇&r是一种生成于Y=56以下的矿石,其矿石形态与&a绿宝石&r相似,颜色呈&b偏蓝的&7灰色&r!\\n\\n它将用于制作&5&l&d通用机械&f&r中的多种&5机器&r,因此你会需要大量锇矿!\\n\\n你还可以用它合成&7护甲&f和&7工具&r!其中&7护甲&f和&7剑&r的属性与&c下界合金&r相当,而&7镐&r的属性等同于&7&a铁镐&f&r.\\n&7[Osmium is an Ore that spawns below Y Level 56. It's Ore is in similar shape to Emerald with the Color being a Blue-ish Grey! \\n\\nIt will be useful for many of the Machines used in lMekanism! So you'll need a lot of it! \\n\\nYou can also Craft Armor and Tools from it! The Armor and Sword are same Points as Netherite! While the Pickaxe is the same as an Iron Pickaxe.]&f"]
+	quest.6F62B5510FA881CD.quest_subtitle: "基础合成锭材&7[The Base Crafting Ingot]&f"
+	quest.6F62B5510FA881CD.title: "&7锇锭&7[Osmium]&f"
+	quest.71869B1D81D6A7EF.quest_desc: ["&2&l加压反应室(P.R.C.)&r(&2&l&a加压反应室&f&r)可将多种&b流体&f、&c化学品&r与&e物品&f结合,生成新的&e物品&f和&c化学品&r!\\n\\n&b流体&r(最常见的是&9水&r)注入最左侧槽位,&c化学品&r注入相邻槽位,初始&e物品&r放入&4红色格位&r.\\n\\n成品&e物品&r将出现在&9蓝色格位&r,而成品&c化学品&r会输出至&9蓝色槽位&r.\\n\\n&2&l加压反应室&r可生产多种物品,包括HDPE制品、&7火药&r、&a硫磺&r,甚至能制造&2核工业组件&r!\\n&7[The lP.R.C. (lPressurized Reaction Chamber) combines multiple Fluids and Chemicals with an Item to make new Items and Chemicals! \\n\\nFluids, most likely Water, go in the farthest Left Bar. Chemicals go in the Bar next to it, and initial Items in the Red Slot. \\n\\nThe finished Item will spawn in the Blue Slot and the finished Chemical will be in the Blue Bar. \\n\\nThe lP.R.C. can make a few Items like HDPE Items, Gunpowder and Sulfur, and even Nuclear Items!]&f"]
+	quest.71869B1D81D6A7EF.title: "&2&l&a加压反应室&f&7[lPressurized Reaction Chamber]&f"
+	quest.71CF9E59F8F0B4A6.quest_desc: ["这些&5机器&r的性能甚至优于&c&l进阶级&r设备!\\n\\n使用&b&l精英级&r材料来制作这些&5机器&r!\\n&7[These Machines are even better than lAdvanced! \\n\\nUse Items from the lElite Tier to make these Machines!]&f"]
+	quest.71CF9E59F8F0B4A6.title: "更先进的&5机器&r!&7[Even better Machines!]&f"
+	quest.7276892E129A739B.quest_desc: ["你以为这就是&5&l&d通用机械&f&r的全部？还差得远呢!\\n\\n在深入探索之前,先准备好&5机器&f和&a硫磺&r吧!\\n\\n我们还有很长的路要走.\\n&7[You think this is all lMekanism has? You don't even have a clue! \\n\\nBefore we get there though, let's get some Machines and Sulfur ready! \\n\\nWe're going to have a long road ahead of us.]&f"]
+	quest.7276892E129A739B.title: "&5&l&d通用机械&f:反应堆系列&7[lMekanism: Reactors]&f"
+	quest.73E6878553BA6908.quest_desc: ["喜欢储物抽屉？&5&l&d通用机械&f&r提供了&e收纳箱&r!\\n\\n&e收纳箱&r仅能存储单一物品类型,但可容纳该&e物品&r的巨量堆叠!\\n\\n使用&3配置器&r对&e收纳箱&r设置可使其自动向下输出物品.\\n\\n若&e收纳箱&r内存有&e物品&f,按住Shift键&a右击&f可锁定该&e物品&r.\\n\\n&a&l基础型&r:64组容量\\n\\n&c&l进阶型&r:128组容量\\n\\n&b&l精英型&r:512组容量\\n\\n&d&l终极型&r:4,096组容量\\n&7[You like Drawers? lMekanism gives us some! Just these are called Bins. \\n\\nBins can hold only one type of Item but will hold tons of Stacks of that Item! \\n\\nYou can use a Configurator on the Bin to set it to automatically Output to the Inventory below it. \\n\\nIf there is an Item in the Bin, you can Shift Right Click it to Lock that Item. \\n\\nlBasic: holds 64 Stacks. \\n\\nlAdvanced: holds 128 Stacks. \\n\\nlElite: holds 512 Stacks. \\n\\nlUltimate: holds 4,096 Stacks.]&f"]
+	quest.73E6878553BA6908.quest_subtitle: "储物抽屉&7[Drawers]&f"
+	quest.73E6878553BA6908.title: "&e收纳箱&7[Bins]&f"
+	quest.74200A48498DD7F8.quest_desc: ["&e&l&a太阳能发电模块&f&r通过在&e白天&r暴露于&b天空&r环境下产生&a能量&r.\\n\\n这是操作简便的自动&e&l发电设备&r,只是合成过程较为繁琐!\\n\\n其发电量虽不及&b&l&a风力发电机&f&r(仅限白天工作),但具有爆发性输出特性且占用空间更小!\\n\\n经过强化后,现可储存约40,000FE能量!\\n&7[The lSolar Generator will Generate Energy based on being exposed to the Sky during Daytime. \\n\\nIt is a very simple to use automatic lGenerator, just Crafting them is annoying! \\n\\nThey won't generate Energy as much as lWind Generators do (only Daytime) but produce more in Bursts and take up less Space! \\n\\nThey have been buffed and can now hold around 40kFE!]&f"]
+	quest.74200A48498DD7F8.quest_subtitle: "约产生60FE/t能量&7[Generates about 60FE/t]&f"
+	quest.74200A48498DD7F8.title: "&e&l&a太阳能发电模块&f&7[lSolar Generator]&f"
 	quest.7485BCBE366501DF.quest_desc: [
-		"若想获取更多&7矿石&r!我们需要更好的&l处理&r&7矿石&r的方法.氢气行不通,试试&3&a氯化氢&f&r.\\n\\n显然这需要&e氯气&r!\\n\\n查看&6&l&a热力蒸馏塔&f&r任务学习多方块结构的合成细节,但本质上我们需要建造一个.\\n\\n将&9水&f输入&6&l&a热力蒸馏塔&f&r可(缓慢)制取&e盐水&r.\\n\\n把&e盐水&r投入&9&l&a电解分离器&f&r可获得&7钠&r与&e氯气&r!&7钠&r可用于&2&l&a裂变反应堆&f&r...但不属于&l矿石处理&r环节!"
+		"若想获取更多&7矿石&r!我们需要更好的&l处理&r&7矿石&r的方法.氢气行不通,试试&3&a氯化氢&f&r吧.\\n\\n显然这需要&e氯气&r!\\n\\n查看&6&l&a热力蒸馏塔&f&r任务学习多方块结构的合成细节,但基本上我们都需要建造一个.\\n\\n将&9水&f输入&6&l&a热力蒸馏塔&f&r可(缓慢)制取&e盐水&r.\\n\\n把&e盐水&r投入&9&l&a电解分离器&f&r可获得&7钠&r与&e氯气&r!&7钠&r可用于&2&l&a裂变反应堆&f&r...但&l矿石处理&r用不上!\\n&7[If we want even more Ores! We'll need a better way of lProcessing our Ores. Hydrogen won't work, let's try Hydrogen Chloride. \\n\\nObviously for that we'll need Chlorine! \\n\\nLook at the lThermal Evaporation Plant Quest to learn in better detail how to Craft the Mutliblock, but basically we'll need one. \\n\\nFeed Water into a lThermal Evaporation Plant to (slowly) make Brine. \\n\\nThrow that Brine into an lElectrolytic Separator to get Sodium and Chlorine! Sodium is helpful for lFission Reactor... but not lOre Processing!]&f"
 		"{image:atm:textures/questpics/mek/mek_tier3_1.png width:200 height:100 align:center}"
 	]
-	quest.7485BCBE366501DF.quest_subtitle: "三级矿石处理"
-	quest.7485BCBE366501DF.title: "制取&e氯气"
+	quest.7485BCBE366501DF.quest_subtitle: "三级矿石处理&7[Tier 3 Ore Processing]&f"
+	quest.7485BCBE366501DF.title: "制取&e氯气&7[Making Chlorine ]&f"
 	quest.75E4751F7A802A44.quest_desc: [
-		"真有趣!一份&c化学品&r采购清单!我们是沃尔特·怀特吗？\\n\\n首先最重要的是制作&a&a硫酸&f所需的&e硫磺&r!开采后通过&b氧化&r获得&e&a二氧化硫&f&r.\\n\\n我们还需要少量&b氧气&r,可通过向&9&l&a电解分离器&f&r输入&9水&r获取.\\n接着在&c&l&a化学灌注器&f&r中将新制的&b氧气&r与&e&a二氧化硫&f&r结合,得到&c&a三氧化硫&f&r.\\n\\n暂时搁置&e硫磺&r,先获取&a水蒸气&f!将&9水&r通过&c&l旋转&b冷凝机&r即可得&a水蒸气&f."
+		"太有趣了!&c化学品&r采购清单!我们是沃尔特·怀特吗？\\n\\n首先最重要的是制取&a&a硫酸&f所需的&e硫磺&r!开采后通过&b氧化&r获得&e&a二氧化硫&f&r.\\n\\n还需要更多&b氧气&r,用&9&l&a电解分离器&f&r电解&9水&r来获取.\\n接着在&c&l&a化学灌注器&f&r中将新制的&b氧气&r与&e&a二氧化硫&f&r结合,得到&c&a三氧化硫&f&r.\\n\\n暂时搁置&e硫磺&r,先获取&a水蒸气&f!将&9水&r通过&c&l旋转冷凝机&r即可获得&a水蒸气&f.\\n&7[How fun! A shopping List of Chemicals! What are we Walter White? \\n\\nFirst, and most important, for Sulfuric Acid, is Sulfur! Mine some then Oxidize it to get Sulfur Dioxide. \\n\\nWe'll need a little more Oxygen though, so let's get some more with an lElectrolytic Separator being fed Water. \\nThen, combine that new-found Oxygen with the Sulfur Dioxide in a lChemical Infuser to get Sulfur Trioxide. \\n\\nLeave that Sulfur whatever for a moment until we get Water Vapor! To get Water Vapor, put Water through a lRotary Condensator. ]&f"
 		"{image:atm:textures/questpics/mek/mek_tier4_1.png width:200 height:100 align:center}"
 	]
-	quest.75E4751F7A802A44.quest_subtitle: "四级矿石处理"
-	quest.75E4751F7A802A44.title: "制备&a&a硫酸&f"
-	quest.763FB27929E053BE.quest_desc: ["&9过滤&8升级件&r仅适用于&b&l电动泵&r.\\n\\n&b&l泵&r运作方式不变,但会采集&9&a重水&f&r而非普通&9水&r.\\n\\n&9&a重水&f&r是&2&l&a裂变反应堆&f&r的必需燃料!"]
-	quest.763FB27929E053BE.title: "&9过滤&8升级件"
+	quest.75E4751F7A802A44.quest_subtitle: "四级矿石处理&7[Tier 4 Ore Processing]&f"
+	quest.75E4751F7A802A44.title: "制备&a&a硫酸&f&7[Creating Sulfuric Acid]&f"
+	quest.763FB27929E053BE.quest_desc: ["&9过滤&8升级件&r仅适用于&b&l电动泵&r.\\n\\n&b&l泵&r运作方式不变,但会抽取&9&a重水&f&r而非普通&9水&r.\\n\\n&9&a重水&f&r是&2&l&a裂变反应堆&f&r的必需燃料!\\n&7[Filter Upgrades are used only in lElectric Pumps. \\n\\nThe lPumps will work the same, but instead of picking up Water, they will pick up Heavy Water. \\n\\nHeavy Water will be needed for Fuel for the lFission Reactor!]&f"]
+	quest.763FB27929E053BE.title: "&9过滤&8升级件&7[Filter Upgrade]&f"
 	quest.7778937DF377C1B4.quest_desc: [
-		"这是自动生成&a能量&r的优质选择."
+		"这是自动生成&a能量&r的绝佳选择.\\n&7[This is a great option for automatically generating Energy.]&f"
 		""
-		"&b&l&a风力发电机&f&r的&a能量&r产量取决于其Y轴高度."
+		"&b&l&a风力发电机&f&r的&a能量&r产量取决于其Y轴高度.\\n&7[The amount of Energy the lWind Generator creates is based on its Y Level.]&f"
 		""
-		"&a与海平面持平&f时约产生90FE/t,最大产能可达360FE/t!"
+		"海平面&a持平高度&f约产生90FE/t,最大可达360FE/t!\\n&7[This generates around 90FE/t at sea level and the most it can produce is 360FE/t!]&f"
 		""
-		"&b&l&a风力发电机&f&r需像信标一样拥有上方&b开阔空间&r才能运作."
+		"&b&l&a风力发电机&f&r需如信标般头顶有&b天空&r方可运作!\\n&7[The lWind Generator will also need Sky above it to work, like a Beacon!]&f"
 	]
-	quest.7778937DF377C1B4.quest_subtitle: "通过风能发电"
-	quest.7778937DF377C1B4.title: "&b&l&a风力发电机&f"
+	quest.7778937DF377C1B4.quest_subtitle: "利用风力发电&7[Generates Power from the Wind]&f"
+	quest.7778937DF377C1B4.title: "&b&l&a风力发电机&f&7[lWind Generator]&f"
 	quest.77FB313845779AED.quest_desc: [
-		"现在使用另一个&a&l&a化学灌注器&f&r将&a水蒸气&f与&c&a三氧化硫&f&r进行&a&l灌注&r,即可得到&a&a硫酸&f&r!\\n\\n将&a&a硫酸&f&r导入&3&l化学溶解槽&r,用&a酸液&r溶解&7矿石&f.这会产出&7污浊矿浆&r——&7矿石&r的&c化学&r形态.\\n\\n3个&7原矿&r可制成&a2桶&f&7矿浆&r,1个&7矿石方块&r可制成&a1桶&f&7矿浆&r.\\n\\n我们不能直接使用&7污浊矿浆&r,这太糟糕了!需要净化它!启动&a&l&a化学清洗机&f&r并注入&9水&r(及洗涤剂).\\n\\n每5mb&7污浊矿浆&r可转化为3mb&7纯净矿浆&r.\\n\\n矿浆净化后,可将其放入&5&l&a化学结晶器&f&r.这将产出&7矿石晶体&r!注意区别于&7碎片&f和&7矿簇&r.每200mb&7矿浆&r可生成1个&7晶体&r."
+		"现在用另一个&a&l&a化学灌注器&f&r将&a水蒸气&f与&c&a三氧化硫&f&r进行&a&l灌注&r,即可得到&a&a硫酸&f&r!\\n\\n将&a&a硫酸&f&r导入&3&l化学溶解槽&r,用&a酸液&r溶解&7矿石&f,得到&7污浊矿浆&r(&7矿石&r的&c化学&r形态).\\n\\n3个&7原矿&r可制&a2桶&f&7矿浆&r,1个&7矿石方块&r可制&a1桶&f&7矿浆&r.\\n\\n可不能带着&7污浊矿浆&r到处走——太丢人了!需要净化它!启动&a&l&a化学清洗机&f&r,注入&9水&r(和洗衣粉).\\n\\n每5mb&7污浊矿浆&r可转化为3mb&7纯净矿浆&r.\\n\\n矿浆净化后放入&5&l&a化学结晶器&f&r,就能得到&7矿石晶体&r!没错,这与&7碎片&f、&7矿簇&r都不同.每200mb&7矿浆&r可生成1个&7晶体&r.\\n&7[Now use another lChemical Infuser to lInfuse our Water Vapor and Sulfur Trioxide. Now we have our Sulfuric Acid! \\n\\nPipe the Sulfuric Acid into a lC.D.C. to Melt down our Ores with Acid. This will give us Dirty Ore Slurry, a Chemical form of Ores. \\n\\n3 Raw Ore will give 2 Buckets of Ore Slurry and 1 Ore Block will give 1 Bucket of Ore Slurry. \\n\\nWe can't go around with Dirty Ore Slurry, it's embarrassing! We'll need to clean it! Start up a lChemical Washer and put some Water (and laundry detergent) into it. \\n\\nEvery 5mb of Dirty Slurry will be turned into 3mb of Ore Slurry. \\n\\nNow that our Slurry is all clean, we can put it into a lChemical Crystallizer. This will give us Ore Crystals! Yes, different from Shards and Clumps. Each 200mb of Ore Slurry is equal to 1 Crystal.]&f"
 		"{image:atm:textures/questpics/mek/mek_tier4_2.png width:300 height:50 align:center}"
 	]
-	quest.77FB313845779AED.quest_subtitle: "四级矿石处理"
-	quest.77FB313845779AED.title: "用&a酸液&f溶解&7矿石&f并&5结晶化&r"
-	quest.78DD2A3DFF6D1613.quest_desc: ["用2个&2&a生物燃料&f&r,我们可以通过&2&l聚合反应室&r制作1个&a基质&r.\\n\\n嗯...我们还需要在&2&l聚合反应室&r中加入&9水&r和氢气,之后就能得到&a基质&r和&d化学乙烯&r.\\n\\n要制作&a高密度聚乙烯丸&f,我们需要&a基质&r,同时将&d化学乙烯&r转化为&d液态乙烯&r.我们可以使用&c&l旋转&b冷凝器&r将其&b液化&r!\\n\\n现在将&d液态乙烯&f和&a基质&r都放入&2&l聚合反应室&r中,制作&a高密度聚乙烯丸&f!\\n\\n然后我们可以将4个丸粒合成一个&a高密度聚乙烯棒&f,或者&d富集&r3个丸粒制作一个&a高密度聚乙烯片&f."]
-	quest.78DD2A3DFF6D1613.title: "利用一切将&2&a生物燃料&f&r转化为高密度聚乙烯"
+	quest.77FB313845779AED.quest_subtitle: "四级矿石处理&7[Tier 4 Ore Processing]&f"
+	quest.77FB313845779AED.title: "用&a酸液&f溶解&7矿石&f并&5结晶化&r&7[Melting Ores with Acid and Crystallizing them]&f"
+	quest.78DD2A3DFF6D1613.quest_desc: ["用2个&2&a生物燃料&f&r可通过&2&l聚合反应室&r制成1个&a基质&r.\\n\\n当然...还需要在&2&l聚合反应室&r中加入&9水&r和氢气,这样我们就能得到&a基质&r和&d化工乙烯&r.\\n\\n要制作&a高密度聚乙烯丸&f,我们既需要&a基质&r,也需要将&d化工乙烯&r转化为&d液态乙烯&r.使用&c&l旋转&b冷凝器&r即可将其&b液化&r!\\n\\n现在将&d液态乙烯&f和&a基质&r一同放入&2&l聚合反应室&r来制作&a高密度聚乙烯丸&f!\\n\\n随后可将4个丸粒合成制作&a高密度聚乙烯棒&f,或将3个丸粒进行&d富集&r制作&a高密度聚乙烯片&f.\\n&7[With 2 Bio Fuel we can make 1 Substrate through the lP.R.C.. \\n\\nWell... we'll also need Water and Hydrogen in the lP.R.C. but then we'll get our Substrate and also Chemical Ethene. \\n\\nIn order to make HDPE Pellets we'll need our Substrate as well as turning our Chemical Ethene into Liquid Ethene. We can use a lRotary Condensator to turn it Liquid! \\n\\nNow throw both of our Liquid Ethene and Substrates into the lP.R.C. to make HDPE Pellets! \\n\\nWe can then Craft 4 Pellets together to make a HDPE Rod or Enrich 3 of them to make a HDPE Sheet.]&f"]
+	quest.78DD2A3DFF6D1613.title: "将&2&a生物燃料&f&r转化为高密度聚乙烯的全流程&7[Using everything to turn Bio Fuel into HDPE]&f"
 	quest.7934873E784C4B3C.quest_desc: [
-		"这看起来熟悉吗？\\n\\n现在我们又有了&7碎片&r.但在处理它们之前,我们需要&b氧气&r.\\n\\n将&9水&f放入&9&l&a电解分离器&f&r中获得&b氧气&r.然后,用&c管道&r将&b氧气&f从&9&l分离器&r输送到&b&l净化器&r.\\n\\n有了&b氧气&f,&b&l净化器&r就能将你的&7碎片&f转化为&7矿石团块&r.\\n\\n现在,&c粉碎&r那些&7团块&f得到&7脏污粉尘&r.然后,&d富集&f那些&7脏污粉尘&f得到&7&a矿石粉&f&r.\\n\\n最后&6熔炼&r那些&7粉尘&r,得到我们精美的&l加工矿石&r!"
+		"这个流程是否似曾相识？\\n\\n现在我们又获得了&7碎片&r.但在处理前需要先准备&b氧气&r.\\n\\n将&9水&f倒入&9&l&a电解分离器&f&r获取&b氧气&r,然后用&c管道&r将氧气从&9&l分离器&r输送至&b&l纯化器&r.\\n\\n配合&b氧气&f,&b&l纯化器&r可将&7碎片&f转化为&7矿团聚体&r.\\n\\n接着用&c破碎机&r处理&7团聚体&f获得&7粗矿粉&r,再通过&d富集&f处理得到&7&a矿石粉&f&r.\\n\\n最后&6熔炼&r这些&7矿粉&r,就能获得精美的&l加工矿石&r!\\n&7[This seems familiar? \\n\\nNow we have Shards again. Before we do anything with them though, we'll need Oxygen. \\n\\nThrow Water into an lElectrolytic Separator to get Oxygen. Then, Tube that Oxygen from the lSeparator to the lPurifier. \\n\\nWith that Oxygen, the lPurifier can turn your Shards into Ore Clumps. \\n\\nNow, Crush those Clumps to get Dirty Dust. Then, Enrich those Dirty Dust to get Ore Dust. \\n\\nAnd finally Smelt that Dust, to get our beautifully lProcessed Ore!]&f"
 		"{image:atm:textures/questpics/mek/mek_tier3_3.png width:250 height:100 align:center}"
 	]
-	quest.7934873E784C4B3C.quest_subtitle: "四级矿石处理"
-	quest.7934873E784C4B3C.title: "&7晶体&f、&7碎片&f、&7团块&f等"
-	quest.7952DA35B4F5C598.quest_desc: ["一个&7桶&r不够？一堆&7桶&r也不够？那么朋友,你需要一些&b&a流体储罐&f&r!\\n\\n&b&a流体储罐&f&r可以容纳多个&7桶&r的同种&b流体&r,并且可以像&7桶&r一样移动.但遗憾的是,它们不能放置源方块.\\n\\n要添加或取出&b流体&r,你需要配置&b机械管道&r来实现任一操作.\\n\\n&a&l基础型&r:可容纳32&a桶&f的流体.\\n\\n&c&l高级型&r:可容纳64桶流体.\\n\\n&b&l精英型&r:可容纳128桶流体.\\n\\n&d&l终极型&r:可容纳256桶."]
-	quest.7952DA35B4F5C598.title: "&b&a流体储罐&f"
-	quest.7AE502EDB73BD57A.quest_desc: ["&4&l粉碎机&r如其名所示!就像其他模组的&4粉碎机&r一样...\\n\\n我们可以从锭中得到粉尘,从&7石头&r中得到&7圆石&r,从&2植物&r中得到&2&a生物燃料&f&r!\\n\\n粉尘在许多配方中都是必需的,所以你肯定需要这个.尤其是制作&8升级件&r时!"]
-	quest.7AE502EDB73BD57A.quest_subtitle: "它能粉碎东西."
-	quest.7AE502EDB73BD57A.title: "&4&l粉碎机"
+	quest.7934873E784C4B3C.quest_subtitle: "四级矿石处理&7[Tier 4 Ore Processing]&f"
+	quest.7934873E784C4B3C.title: "&7晶体&f、&7碎片&f、&7团聚体&f等&7[Crystal, Shard, Clump, ETC]&f"
+	quest.7952DA35B4F5C598.quest_desc: ["觉得&7桶&r不够用？连一组&7桶&r也无法满足需求？朋友,你需要&b&a流体储罐&f&r!\\n\\n&b&a流体储罐&f&r可容纳多桶同类&b流体&r,并能像&7桶&r一样随身携带(注:无法放置源流体块).\\n\\n存取流体需配置具有相应功能的&b机械管道&r.\\n\\n&a&l基础型&r:容量32桶\\n\\n&c&l高级型&r:容量64桶\\n\\n&b&l精英型&r:容量128桶\\n\\n&d&l终极型&r:容量256桶\\n&7[What a Bucket isn't enough? A Stack of Buckets isn't enough either? Then friend, you'll need some Fluid Tanks! \\n\\nFluid Tanks can hold multiple Buckets of one Fluid within them and can then be moved around like a Bucket. These unfortunately can not place Source Blocks though. \\n\\nTo add or take out Fluid, you'll need Mechanical Pipes configured to do either or. \\n\\nlBasic: will hold 32 Buckets of Fluids. \\n\\nlAdvanced: will hold 64 Buckets of Fluids. \\n\\nlElite: will hold 128 Buckets of Fluid. \\n\\nlUltimate: will hold 256 Buckets.]&f"]
+	quest.7952DA35B4F5C598.title: "&b&a流体储罐&f&7[Fluid Tanks]&f"
+	quest.7AE502EDB73BD57A.quest_desc: ["&4&l破碎机&r名副其实!与其他模组的&4破碎机&r一样...\\n\\n可将锭粉碎成矿粉,&7石头&r碾成&7圆石&r,还能从&2植物&r中提取&2&a生物燃料&f&r!\\n\\n许多配方都需要矿粉,特别是制作&8升级组件&r时必不可少!\\n&7[The lCrusher does as the name suggests! Just like every other Mod's Crushers... \\n\\nWe can get Dust from Ingots, Cobble from Stone, and Bio Fuel from Plants! \\n\\nDust will be needed for lots of Recipes so you'll definitely need this. Especially for making Upgrades!]&f"]
+	quest.7AE502EDB73BD57A.quest_subtitle: "专精物体破碎&7[It Crushes Things.]&f"
+	quest.7AE502EDB73BD57A.title: "&4&l破碎机&7[lCrusher]&f"
 	quest.7B0DFA55B4D8B16D.quest_desc: [
-		"&a&l传送装置&r能让我们跨维度传送到任何地点,只需建造&5机器&r并确保&a供能&r!\\n\\n如何建造并供能？\\n\\n首先,制作&a&l传送装置&r需要1个&a传送装置方块&f和9个&a传送框架&f.\\n\\n&a传送装置方块&r是&a&l传送装置&r的核心&a控制器&r.这个方块需要接收&a能量&r,一旦&a供能&r即可打开界面.在此可创建类似&5量子传送装置&f的网络,输入名称后点击对勾即可建立网络!\\n\\n当其他&a&l传送装置结构&r或&a传送装置方块&r通过界面点击该命名网络接入同一网络时,就能使用&a&l传送装置&r传送到网络中的其他传送点.\\n\\n建造&a&l传送装置结构&r时,在&a传送装置方块&r的每个侧面放置&a传送框架&f,上方叠加三层至四格高度.在&a传送装置方块&r上方留两格空间,最后放置顶层&a传送框架&f.\\n\\n当供能并设置完成后,&a&l传送装置&r将激活,您即可穿过生成的彩色传送门!\\n\\n(可在&a&l传送装置&r界面中自定义每个传送门的颜色!)"
+		"&a&l传送装置&r能让我们跨维度传送到任意地点,只需建造&5机器&r并确保&a通电&r!\\n\\n如何建造并供电？\\n\\n首先需要1个&a传送装置方块&f和9个&a传送框架&f制作&a&l传送装置&r.\\n\\n&a传送装置方块&r是核心&a控制器&r,需要为其注入&a能量&r,&a通电&r后即可打开界面.在此可创建类似&5量子传送装置&f的网络,输入名称点击对勾即可创建!\\n\\n当其他&a&l传送装置结构&r或&a传送装置方块&r通过GUI选择该网络后,即可在相同网络的&a&l传送装置&r间进行传送.\\n\\n建造&a&l传送装置结构&r时,在&a传送装置方块&r每侧放置&a传送框架&f,上方叠加三层使总高度达4格.距顶部留2格空间放置最后1个&a传送框架&f.\\n\\n通电设置完成后,走入生成的彩色传送门即可传送!\\n\\n(可通过&a&l传送装置&r的GUI自定义颜色!)\\n&7[lTeleporters will allow us to Teleport anywhere in any Dimension as long as the Machine is made and Powered! \\n\\nNow how do we make it and Power it? \\n\\nFirst, to make the lTeleporter we'll need 1 Teleporter Block and 9 Teleporter Frames. \\n\\nThe Teleporter Block is the main Controller of the lTeleporter. It is the Block that will need Energy, and once Powered we can open it. Here we can set a Network similar to the Quantum Entangloporter, type in a name and click the Checkmark to make the Network! \\n\\nNow when other lTeleporter Structures or Teleporter Blocks, are set to that Network (by clicking the named Network in their GUI) you can use the lTeleporter to obviously Teleport to the other lTeleporters at the same Network. \\n\\nNow about making the lTeleporter Structure. Place a Teleporter Frame on each side of the Teleporter Block. Above those place 3 more to make it 4 Blocks high. With 2 Blocks space above the Teleporter Block, you can place our last Teleporter Frames. \\n\\nNow when Powered and set, the lTeleporter will be ready and you can walk through whatever colored Portal spawned! \\n\\n(You can change the Color for each in the lTeleporter GUI!)]&f"
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/mek/meka_portal1.png width:200 height:75 align:center}"
-		"放置&a传送装置方块&r并在其两侧各放置2个&a传送框架&f."
+		"放置&a传送装置方块&r并在相邻位置摆放2个&a传送框架&f\\n&7[Place the Teleporter Block with 2 Teleporter Frames next to it.]&f"
 		"{image:atm:textures/questpics/mek/meka_portal2.png width:150 height:125 align:center}"
-		"在底层框架上继续叠加&a传送框架&f."
+		"在现有框架上方继续放置&a传送框架&f\\n&7[Now place Teleporter Frames on the previous ones.]&f"
 		"{image:atm:textures/questpics/mek/meka_portal3.png width:100 height:125 align:center}"
-		"重复此操作."
+		"重复上述操作\\n&7[Repeat.]&f"
 		"{image:atm:textures/questpics/mek/meka_portal4.png width:100 height:140 align:center}"
-		"最后在顶部铺设整排&a传送框架&f."
+		"顶层需要完整铺设一排&a传送框架&f\\n&7[Now, we'll need a whole row of Teleporter Frames for the top.]&f"
 		"{image:atm:textures/questpics/mek/meka_portal5.png width:110 height:150 align:center}"
-		"全部完成后,您选择的传送门将如下所示!"
+		"全部完成后,自选颜色的传送门将如下显现!\\n&7[Once everything is set, the Portal of your choosing should appear like so!]&f"
 	]
-	quest.7B0DFA55B4D8B16D.quest_subtitle: "极致传送体验"
-	quest.7B0DFA55B4D8B16D.title: "&a自定义传送门&f!"
-	quest.7C687DCF71D77761.quest_desc: ["&c&l进阶级&r是&a&l基础级&r的升级版.\\n\\n&c&l进阶级&r机器比&a&l基础级&r拥有更多&e物品&f存储量、更高&e物品&r传输效率及更多功能槽位.\\n\\n&c&l进阶级&r由&c灌注合金&f、&c进阶电路板&f及通常所需的&7锇&r制成!\\n\\n&c进阶电路板&r需用2个&c灌注合金&f和1个&a基础电路板&f合成."]
-	quest.7C687DCF71D77761.title: "&c&l进阶等级"
-	quest.7CC49360D07086B8.quest_desc: ["&o”通过高精度原子机械,我们可以将物质分解至分子级,并通过特定波长传输分子...”&r 得了吧,这根本就是魔法!\\n使用2个&5量子传送装置&f即可无线传输&e物品&f、&b流体&f、&c化学品&f、&6热能&f与&a能量&r!\\n\\n首先进入其中一个&5量子传送装置&f的文本栏,输入网络名称.\\n\\n支持数字、字母、符号任意组合,输入后点击确认键!接着在第二个&5量子传送装置&f界面点击已设置的&a网络名称&f即可建立连接.\\n\\n将&b管道&f、&c导流管&f、&a线缆&r等连接至一个&5量子传送装置&f,另一侧连接更多设备或&5机器&r.\\n\\n完成后通过调整&a侧面配置&f实现物资传输,别忘了设置自动弹出功能!"]
-	quest.7CC49360D07086B8.quest_subtitle: "无线传输能源、气体、流体及万物."
-	quest.7CC49360D07086B8.title: "&5&a量子传送装置&f"
-	quest.7ECA0633AF1AEC19.quest_desc: ["&e&l&a精密锯木机&f&r可将&6木质物品&r进行”回收”处理.\\n\\n只需提供&a能量&r并投入&6木质物品&r即可等待处理!\\n\\n可将床分解为3个&6&a木板&f&r和3份羊毛,将&6门&r分解为&6&a木板&f&r,而将&2原木&f&r分解为6个&6木板&r(而非4个)!\\n\\n还能将&7木棍&r转化为&6锯屑&r,这是制作&6&a纸板箱&f&r的必备材料!"]
-	quest.7ECA0633AF1AEC19.title: "&e&l&a精密锯木机&f"
-	task.03C590DB786810FB.title: "能量立方"
-	task.09788D3638E59F3B.title: "等级安装器"
-	task.11EF7663818B6CC6.title: "收纳箱"
-	task.16E5E87F1CAC042A.title: "化学品储罐"
-	task.2C1B1D314E190B80.title: "个人存储"
-	task.36B9FB74D9BF26E4.title: "热力学导体"
-	task.4558919345C3BE5D.title: "富化机"
-	task.4632192573FD8501.title: "机械管道"
-	task.4B60ACBCC3B46D1D.title: "富化物品"
-	task.4B6C5B2099B18AB7.title: "熔炼炉"
-	task.50795B2B2A320D16.title: "加压管道"
-	task.564D0E533237E951.title: "净化器"
-	task.62F11A588B293CA6.title: "版权所有"
-	task.6877D91D6603E4FD.title: "通用电缆"
-	task.68C11540A9010775.title: "&a流体储罐&f"
-	task.6B24D8667BC856A3.title: "物流运输器"
-	task.6DCF32EB40B8E9C6.title: "&a矿石粉&f"
-	task.729C1974AE346ECA.title: "净化器"
-	task.770B8B984F85AB73.title: "版权所有"
+	quest.7B0DFA55B4D8B16D.quest_subtitle: "极致传送体验&7[Teleportation at its Finest]&f"
+	quest.7B0DFA55B4D8B16D.title: "&a自定义传送门&f!&7[Custom Portals!]&f"
+	quest.7C687DCF71D77761.quest_desc: ["&c&l进阶&r是&a&l基础&r的升级版.\\n\\n&c&l进阶&r机器拥有更多&e物品&f存储量、更高传输效率及更多插槽.\\n\\n由&c灌注合金&f、&c进阶电路板&f和&7锇&r制成!\\n\\n&c进阶电路板&f需用2个&c灌注合金&f和1个&a基础电路板&f合成\\n&7[lAdvanced is the Upgrade to lBasic. \\n\\nlAdvanced Machines will hold more Items, move more Items, and have more Slots than lBasic Tier. \\n\\nlAdvanced are made from Infused Alloys, Advanced Control Circuit, and usually Osmium! \\n\\nAdvanced Control Circuits are made from 2 Infused Alloys and a Basic Control Circuit.]&f"]
+	quest.7C687DCF71D77761.title: "&c&l进阶等级&7[lAdvanced Tier]&f"
+	quest.7CC49360D07086B8.quest_desc: ["&o”通过高精度原子机械将物质分解至分子级,通过特定波长传输分子...”&r 这根本就是魔法!\\n用2个&5量子传送装置&f可无线传输&e物品&f、&b流体&f、&c化学品&f、&6热能&f及&a能量&r!\\n\\n首先在其中一个装置的文本栏输入网络名称\\n\\n支持数字/字母/符号,输入后点击确认按钮,再到第二个装置选择已设置的&a网络名称&f即可联通\\n\\n将&b管道&f、&c导管&f、&a线缆&r等连接至装置,另一侧对接其他&5机器&r\\n\\n最后通过&a侧面配置&f调整传输方向,记得开启自动弹出功能!\\n&7[\"Through using highly detailed Atomic Machinery we can take all Matter apart to the molecular level and move those molecules through specific wave lengths...\" Oh come on this is just Magic! \\nWith 2 Quantum Entangloporters we can Wirelessly move Items, Fluids, Chemicals, Heat, and Energy! \\n\\nFirst, we need to connect the Quantum Entangloporters. We do this by going into the Text Bar of one, and typing out a Network name. \\n\\nIt can be Numbers, Letters, Symbols, whatever just Type it and hit the Checkmark Button! Then, go into the second Quantum Entangloporter and Click the name of the Set Network Name. Now they are connected. \\n\\nAfter that, Connect your Pipes, Tubes, Cables whatever, to a Quantum Entangloporter and place more or even a Machine to the other one. \\n\\nOnce that is all ready, change the Side Configs in order to actually move our things around. Don't forget to set Auto-Eject!]&f"]
+	quest.7CC49360D07086B8.quest_subtitle: "无线传输能源、气体、流体及万物&7[Wireless Power, Gases, Fluids, Everything.]&f"
+	quest.7CC49360D07086B8.title: "&5&a量子传送装置&f&7[Quantum Entangloporters]&f"
+	quest.7ECA0633AF1AEC19.quest_desc: ["&e&l&a精密锯木机&f&r可将&6木质物品&r进行”回收”处理.\\n\\n只需提供&a能量&r并投入&6木质物品&r即可等待处理!\\n\\n它能将床分解为3个&6&a木板&f&r和3份羊毛,将&6门&r分解为&6&a木板&f&r,还能将&2原木&f&r转化为6个&6木板&r(而非4个)!\\n\\n同时可将&7木棍&r转化为&6锯屑&r,这是制作&6&a纸板箱&f&r的必要材料!\\n&7[The lPrecision Sawmill will work to \"recycle\" Wood Items. \\n\\nJust give it some Energy and throw a Wood Item in and wait! \\n\\nIt will turn Beds into 3 Wood Planks and 3 Wool. Doors into Wood Planks. And Logs into 6 Planks instead of 4! \\n\\nIt will also turn Sticks into Sawdust which is needed for the Cardboard Box!]&f"]
+	quest.7ECA0633AF1AEC19.title: "&e&l&a精密锯木机&f&7[lPrecision Sawmill]&f"
+	task.03C590DB786810FB.title: "能量立方&7[Energy Cubes]&f"
+	task.09788D3638E59F3B.title: "层级安装器&7[Tier Installers]&f"
+	task.11EF7663818B6CC6.title: "物料箱&7[Bins]&f"
+	task.16E5E87F1CAC042A.title: "化学品储罐&7[Chemical Tanks]&f"
+	task.2C1B1D314E190B80.title: "个人存储设备&7[Personal Storage]&f"
+	task.36B9FB74D9BF26E4.title: "热力学导体&7[Thermodynamic Conductors]&f"
+	task.4558919345C3BE5D.title: "富集机&7[Enrichers]&f"
+	task.4632192573FD8501.title: "机械管道&7[Mechanial Pipes]&f"
+	task.4B60ACBCC3B46D1D.title: "富集物品&7[Enriched Items]&f"
+	task.4B6C5B2099B18AB7.title: "熔炼炉&7[Smelters]&f"
+	task.50795B2B2A320D16.title: "加压管道&7[Pressurized Tubes]&f"
+	task.564D0E533237E951.title: "净化器&7[Purifiers]&f"
+	task.62F11A588B293CA6.title: "版权所有&7[AllRightsReserved]&f"
+	task.6877D91D6603E4FD.title: "通用电缆&7[Universal Cables]&f"
+	task.68C11540A9010775.title: "&a流体储罐&f&7[Fluid Tanks]&f"
+	task.6B24D8667BC856A3.title: "物流运输器&7[Logistical Transporters]&f"
+	task.6DCF32EB40B8E9C6.title: "&a矿石粉&f&7[Ore Dusts]&f"
+	task.729C1974AE346ECA.title: "净化器&7[Purifiers]&f"
+	task.770B8B984F85AB73.title: "版权所有&7[AllRightsReserved]&f"
 }

@@ -1,473 +1,473 @@
 {
-	quest.007A11C49E06F15F.quest_desc: ["这些物品可合成制作.\\n\\n&9合成组件蓝图&r是最重要的&9蓝图&r之一.\\n\\n可协助&6工程师装配台&r以比工作台更低成本制作小型机械组件.\\n\\n还能用于合成特殊物品,如&a灯泡草&f和电路!"]
-	quest.007A11C49E06F15F.title: "&9&a转轮&f蓝图"
+	quest.007A11C49E06F15F.quest_desc: ["这些可以通过合成获得.\\n\\n&9合成组件蓝图&r是最重要的&9蓝图&r之一.\\n\\n它用于帮助&6工程师装配台&r以比合成台更便宜的成本制作小型机械组件.\\n\\n它还可以用于合成独特物品,如&a灯泡草&f和电路!\\n&7[These can be Crafted. \\n\\nThe Crafting Component Blueprint is one of the most important Blueprints. \\n\\nIt is used to help the Engineer's Workbench make small Mechanical Components for cheaper than Crafting Tables. \\n\\nIt also can be used for Crafting unique Items like Light Bulbs and Circuits!]&f"]
+	quest.007A11C49E06F15F.title: "&9&a转轮&f蓝图&7[Crafting Components Blueprints ]&f"
 	quest.04DD3F761C210822.quest_desc: [
-		"&c&l&a粗制高炉&f&r是生产&8钢&r的简易(粗糙)装置.\\n\\n需投入&7&a铁锭&f&r与&0木炭&r或&0焦炭&r.\\n\\n每块&8&a钢锭&f&r需烘炼60秒.&0木炭&r提供15秒效率,&0焦炭&r提供完整60秒效率,方块形态可叠加效果.\\n\\n同时会产生矿渣...基本无用."
+		"&c&l&a粗制高炉&f&r是我们生产&8钢&r的非常简单(且粗糙)的方式.\\n\\n你需要投入一个&7&a铁锭&f&r和&0木炭&r或&0焦炭&r.\\n\\n每个&8&a钢锭&f&r需要60秒烘烤.&0木炭&r提供15秒,而&0焦炭&r提供完整的60秒.这些也可以通过它们的方块形式进行倍增.\\n\\n我们还会得到矿渣...它几乎没用.\\n&7[The lCrude Blast Furnace is our very simple (and crude) way of producing Steel. \\n\\nYou'll need to feed it an Iron Ingot and either Charcoal or Coke. \\n\\nEach Steel Ingot takes 60 seconds to bake. Charcoal gives us 15 seconds while Coke gives us the whole 60 seconds. These can also be multiplied with their Block forms. \\n\\nWe also get Slag... it's pretty useless.]&f"
 		"{@pagebreak}"
-		"这是另一个3x3x3结构,本次使用&c&a高炉砖&f&r建造."
+		"这是另一个3x3x3结构,这次使用&c&a高炉砖&f&r.\\n&7[This one is another 3x3x3, just now with Blast Bricks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crude1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_crude3.png width:100 height:100 align:center}"
-		"再次用可靠的&6锤子&f&a右键点击&f前侧中间方块!"
+		"再次用我们可靠的&6锤子&f&r&a右击&f前中方块!\\n&7[Another time where we Right Click the Front Middle Block with our trusty Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crude.png width:100 height:100 align:center}"
 	]
-	quest.04DD3F761C210822.title: "&l&c&a粗制高炉&f"
-	quest.063241B72BB3403E.quest_desc: ["&0&l&a重型盾牌&f&r 的使用方式与普通盾牌相同,置于副手即可用于防御.\\n该盾牌具有更高的耐久度,并能抵挡更多类型的&a伤害&f.\\n\\n此外它还支持升级!这些升级可通过&6工程师装配台&r添加.\\n\\n&a盾牌&f最多可容纳2个升级模块."]
-	quest.063241B72BB3403E.title: "&8&l&a重型盾牌&f"
+	quest.04DD3F761C210822.title: "&l&c&a粗制高炉&f&7[lCrude Blast Furnace]&f"
+	quest.063241B72BB3403E.quest_desc: ["&0&l&a重型盾牌&f&r的使用方式与普通盾牌相同,将其持于副手并用于自卫.\\n&0&l&a重型盾牌&f&r确实拥有更高的耐久度,并能抵挡更多&a伤害&f.\\n\\n哦对了,它还有升级!这些升级可以通过&6工程师装配台&f&r添加.\\n\\n&a盾牌&f可以容纳2个升级.\\n&7[The lHeavy Plated Shield is used just like a normal Shield, hold it in your Offhand and use it to defend yourself. \\nThe lHeavy Plated Shield does have much more Durability and protects from more Damage. \\n\\nOh yeah it also has Upgrades! These upgrades can be added on with the Engineer's Workbench. \\n\\nThe Shield can hold 2 Upgrades.]&f"]
+	quest.063241B72BB3403E.title: "&8&l&a重型盾牌&f&7[lHeavy Plated Shield]&f"
 	quest.066B8A75B299AED8.quest_desc: [
-		"&9&l榨汁机&r 是一种通过挤压&e物品&r来生成新&e物品&r或&b流体&r的简易机器.\\n\\n背部的2个接口用于&9输入&e物品&r,需通过桶&a右侧&f的接口&6取出&e物品&r,其下方的&a端口&f则用于&6输出&b流体&r.\\n\\n主要功能是从&a作物种子&f(如&a小麦种子&f或&a大麻种子&f)中榨取&a植物燃油&f.\\n\\n不同种子的出油率各异,具体数值请查阅&6指南&r.\\n\\n还可通过&9&l榨汁机&r将8份&0&a焦煤粉&f&r加工为&0&a高定向热解石墨粉&f&r."
+		"&9&l挤压机&r是一种简单的机器,通过挤压&e物品&r来制作其他&e物品&r或&b流体&r.\\n\\n我们可以使用后面的2个端口来&9输入&e物品&r.然后需要使用桶&a右侧&f的端口来&6取出&e物品&r.其下方的&a端口&f将&6输出&b流体&r.\\n\\n这主要用于从&a作物种子&f(如&a小麦种子&f或&a大麻种子&f)中挤压出&a植物燃油&f!\\n\\n有些种子产油更多,查看&6指南&r了解每种种子的产量.\\n\\n我们还需要使用&9&l挤压机&r从8个&0&a焦煤粉&f&r中获取&0&a高定向热解石墨粉&f&r.\\n&7[The lSqueezer is a simple Machine that squeezes Items to make other Items or Fluids. \\n\\nWe can use the 2 Ports in the Back to Input Items. We'll then need to use the Port on the Right Side of the Barrels to take Items out. The Port below that one will Output Fluids. \\n\\nThis will mainly be used to squeeze Plant Oil out of Crop Seeds like Wheat Seeds or Hemp Seeds! \\n\\nSome Seeds give more Oil, check the Guide to see what each gives. \\n\\nWe'll also need to use the lSqueezer to get HOP Graphite Dust from 8 Coke Dust.]&f"
 		"{@pagebreak}"
-		"初始搭建步骤与&2&l发酵罐&r完全一致."
+		"与&2&l发酵罐&r的起始步骤完全相同.\\n&7[Literally the exact same start as the lFermenter.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer1.png width:100 height:100 align:center}"
-		"类似&2&l发酵罐&r的配置,但需将炼药锅替换为木桶!"
+		"也和&2&l发酵罐&r一样,只是用桶代替锅!\\n&7[Just like the lFermenter as well, just instead of Cauldrons use Barrels!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer2.png width:100 height:100 align:center}"
-		"在&e&a轻型工程块&f&r与&4&a红石工程块&f&r之间的木桶上方安装活塞,另外三个木桶顶部放置&8&a钢栅栏&f&r!"
+		"在&e&a轻型工程块&f&r和&4&a红石工程块&f&r之间的桶上方放置一个活塞.在其他3个桶上方放置&8&a钢栅栏&f&r!\\n&7[Above the Barrel between the Light Engineering Block and Redstone Engineering Block place a Piston. On top of the other 3 Barrels place Steel Fence!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer3.png width:100 height:100 align:center}"
-		"使用&6锤子&a右击&f活塞下方的木桶即可轻松完成."
+		"非常简单,用&6锤子&f&r&a右击&f活塞下方的桶.\\n&7[Very easy Hammer Right Click on the Barrel beneath the Piston.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_squeezer.png width:100 height:100 align:center}"
 	]
-	quest.066B8A75B299AED8.title: "&9&l榨汁机"
-	quest.0A7B0D0B81E138DE.quest_desc: ["&e&l工程师工具箱&r相当于分类潜影盒.\\n\\n内含四个分区:食物区(仅限食物)、工具区(可存放&8&lIE&r工具及其他工具,但禁止&b桶装流体&r)、&c线缆&r区(存放&c线缆&r、&c连接器&r或&c继电器&r)以及万能区(无限制).建议多学学万能区的包容性!\\n\\n但某些物品无法存放,例如&b盛有流体的桶&f或&a蓄电池背包&f.\\n\\n按住潜行键&a右击&f可放置工具箱作为储物箱,再次相同操作可收回."]
-	quest.0A7B0D0B81E138DE.title: "&e&l工程师工具箱"
-	quest.0ACC0092A8F722C6.quest_desc: ["多数&8&lIE&r机器需要&c能源&r驱动,而&c线缆&r是传输能源的媒介!\\n\\n连接方法:持&c线卷&r&a右击&f第一个连接点,再用同一线卷&a右击&f第二个连接点.传输路径不可有遮挡.\\n\\n拆除方式:破坏连接块或使用可靠的&6线缆剪&r!\\n\\n不同等级的&c线缆&r传输效率不同,&5高压线缆&r传输量最大."]
-	quest.0ACC0092A8F722C6.title: "&c线卷"
-	quest.0AE6AD813928DE4F.quest_desc: ["&a外置加热器&f适用于熔炉(仅限&2&l原版&r熔炉,不包含&c&l&a粗制高炉&f&r!).\\n\\n底部接入&c能源&r转化为热量.\\n\\n&a热量&f会从其他面向相邻方块辐射.\\n\\n虽然技术上也用于&4&l&a强化高炉&f&r的预热器制造,但本人不采纳这种用法!"]
-	quest.0D212038C0A45E0B.quest_desc: ["&a卡苏尔弹&f是默认子弹,造成5颗心的&a伤害&f.\\n\\n&a穿甲弹&f有更高几率无视&a护甲值&f,非常适合应对Bulwark这类生物.\\n\\n&a霰弹&f会发射多个弹丸而非单个弹丸,近战使用时效果最佳!\\n\\n&a银弹&f效果类似&a卡苏尔弹&f,但对亡灵生物(僵尸与骷髅)会造成更高&a伤害&f."]
-	quest.0D212038C0A45E0B.title: "&a普通子弹&f"
-	quest.0D2D1F99945BA209.quest_desc: ["双击S键时应装备&8&l&a重型盾牌&f&r——注意是「应该」.\\n\\n提醒:&8&lIE&r仍处于测试阶段!模组开发需耗费大量时间精力,请保持尊重!"]
-	quest.0F14270F0A718C01.quest_desc: ["&c岩浆&r- 1300开尔文 \\n&c熔岩&r- 1300开尔文 \\n&a铀&r- 2000开尔文"]
-	quest.0F14270F0A718C01.title: "&c保暖物品"
+	quest.066B8A75B299AED8.title: "&9&l挤压机&7[lSqueezer]&f"
+	quest.0A7B0D0B81E138DE.quest_desc: ["&e&l工程师工具箱&r相当于分类潜影盒.\\n\\n内含分区:食物栏仅可存放食物；工具栏可容纳&8&l沉浸工程&r工具或其他工具(&b桶类物品&r除外)；&c线缆栏&r可存放&c导线&r、&c连接器&r或&c继电器&r；万能栏则不设限制.试着像万能栏一样包容万物吧!\\n\\n但某些物品无法放入,例如&b盛装流体的桶&r或&a蓄电池背包&f.\\n\\n可通过Shift+&a右键&f放置&e&l工具箱&r使其像箱子一样使用,再次相同操作即可收回.\\n&7[The lEngineer's Toolbox works as a segregated Shulker. \\n\\nIt has sections: Food, which you can only put Food in. Tools, which can hold lIE Tools or other Tools just not Buckets. Wiring, which can have Wires, Connectors, or Relays. And Anything, which doesn't discriminate. Try to be more like the Anything section! \\n\\nSome Items can't be held within it though, like Buckets full of Fluids or Accumulator Backpacks. \\n\\nYou can Shift Right Click to place down the lToolbox to make it act like a Chest, then you can do the same to pick it up.]&f"]
+	quest.0A7B0D0B81E138DE.title: "&e&l工程师工具箱&7[lEngineer's Toolbox]&f"
+	quest.0ACC0092A8F722C6.quest_desc: ["&8&l沉浸工程&r中多数机器需要&c能源&r驱动,而&c导线&r是传输能源的途径!\\n\\n使用&c线卷&r对第一个部件&a右键&r连接,再对第二个部件执行相同操作即可连接&c导线&r.传输路径不可受阻,否则无法连接.\\n\\n拆除连接部件或使用可靠的&6钢丝钳&r均可回收&c导线&r.\\n\\n不同等级的&c导线&r影响传输量,&5高压&r级传输效率最高.\\n&7[Most Machines in lIE will need Energy to work, and Wires are how we move it! \\n\\nWires are attached by Right Clicking one part with the Wire Coil, then Right Clicking the second part with the same Coil. Their way can't be obstructed or else it won't connect. \\n\\nTo pick up Wires we can break what they are connected to, or use our trusty Wire Cutters! \\n\\nThe different Tiers of Wires effect how much they transfer, HV moving the most.]&f"]
+	quest.0ACC0092A8F722C6.title: "&c线卷&7[Wire Coils]&f"
+	quest.0AE6AD813928DE4F.quest_desc: ["&a外置加热器&f可与熔炉配合使用(仅限&2&l原版&r熔炉,不兼容&c&l&a粗制高炉&f&r!).\\n\\n从底部输入&c能源&r转化为热能.\\n\\n&a热量&f从其侧面散发至相邻方块.\\n\\n技术上可通过制作预热器用于&4&l&a强化高炉&f&r,但本人不予认可!\\n&7[The External Heater can be used with Furnaces, like the lVanilla ones, not lCrude Blast Furnace! \\n\\nIt takes in Energy from the Bottom and uses it for Heat. \\n\\nThe Heat comes out of the other sides of it, to adjacent Blocks. \\n\\nIt is technically used for the lImproved Blast Furnace, by Crafting the Preheaters but I don't count that!]&f"]
+	quest.0D212038C0A45E0B.quest_desc: ["&a卡苏尔弹&f是基础子弹,造成5颗心的&a伤害&f.\\n\\n&a穿甲弹&f有更高几率无视&a护甲值&f,尤其适合应对卫兵类生物.\\n\\n霰弹会发射多个弹丸而非单个,近战效果最佳!\\n\\n&a银弹&f效果类似&a卡苏尔弹&f,但对亡灵生物(僵尸与骷髅)造成额外&a伤害&f.\\n&7[Casull Cartridges are the default Bullets. They deal 5 Hearts of Damage, and that's it! \\n\\nArmor Piercing Cartridges will have a higher chance of ignoring Armor Points. This is perfect against Mobs like the Bulwark. \\n\\nBuckshot Shells will instead of shooting 1 Projectile, it will shoot multiple Projectiles. Use in close range for best effects! \\n\\nSilver Cartridges will act like Casull Cartridges but with higher Damage to the Undead Mobs: Zombies and Skeletons!]&f"]
+	quest.0D212038C0A45E0B.title: "&a普通子弹&f&7[Common Projectiles]&f"
+	quest.0D2D1F99945BA209.quest_desc: ["理论上双击S键可装备&8&l&a重型盾牌&f&r——注意是理论上.\\n\\n请记住&8&l沉浸工程&r仍处于测试阶段!模组开发需投入大量时间精力,请保持尊重!\\n&7[It is supposed to Equip your lHeavy Plated Shield when you Double Tap S... emphasis on supposed to. \\n\\nReminder that lIE is in Beta still! Mod Development takes a lot of time and effort, be respectful of such!]&f"]
+	quest.0F14270F0A718C01.quest_desc: ["&c岩浆&r- 1300开尔文 \\n&c熔岩&r- 1300开尔文 \\n&a铀&r- 2000开尔文\\n&7[Magma- 1300 K \\nLava- 1300 K \\nUranium- 2000 K]&f"]
+	quest.0F14270F0A718C01.title: "&c发热物品&7[Warm Items]&f"
 	quest.13471E64CDE49D27.quest_desc: [
-		"&a&l精炼厂&r可将两种&b流体&r混合精炼成更优质的&b流体&r!\\n\\n两种&b流体&r可通过左右两侧的&9输入口&r注入,成品&a流体&f将从正面出口输出.\\n\\n也可使用&b桶&r将&b流体&r注入储罐!别忘了&a右键点击&f&a&l精炼厂&f打开操作界面,需放入催化剂才能启动机器.\\n除催化剂外,还需通过后方接口注入&c能量&r!"
+		"&a&l精炼厂&r可将2种&b流体&r混合精炼成1种更优质的&b流体&r!\\n\\n两种&b流体&r可通过端口及左右两侧进行&9输入&r,&a流体&f输出将从正面端口排出.\\n\\n也可使用&b桶&r将&b流体&r注入储罐!别忘了&a右键点击&f&a&l精炼厂&r打开其操作界面,需放入催化剂才能启动机器.\\n除催化剂外,还需通过后方端口注入&c能量&r!\\n&7[The lRefinery will take 2 Fluids and combine and refine them into 1 better Fluid! \\n\\nThe 2 Fluids can be Input from the Ports and the Left and Right sides. The Fluid Output will come out the Front Port. \\n\\nYou can use Buckets to deposit Fluids into the Tanks as well! Don't forget to Right Click the lRefinery to open its GUI. There we will need to place in a Catalyst, in order to start the Machine. \\nAlong with a Catalyst, it'll need Energy which can be added via the Port in the Back!]&f"
 		"{@pagebreak}"
-		"先铺设5格&b&a流体传输管道&f&r,中间段一侧放&e&a轻型工程块&f&r,另一侧放&7&a重型工程块&f&r,其余管道旁放置&8&a钢脚手架&f&r."
+		"首先铺设5格&b&a流体传输管道&f&r,中间段一侧放置&e&a轻型工程块&f&r,另一侧放置&7&a重型工程块&f&r,剩余管道旁搭设&8&a钢脚手架&f&r.\\n&7[To start make a line of 5 Fluid Pipes. In the middle place Light Engineering Block on one side, and a Heavy Engineering Block on the other. Next to the rest of the Fluid Pipes place Steel Scaffolding.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_refinery1.png width:150 height:100 align:center}"
-		"在原有工程块上方叠加新模块.&7&a重型工程块&f&r右侧隔一格放置&4&a红石工程块&f&r,&e&a轻型工程块&f&r旁放置2组2x2的&7&a铁板&f金属&r."
+		"在先前放置的工程方块上继续叠加.在&7&a重型工程块&f&r右侧空一格,放置&4&a红石工程块&f&r.紧邻&e&a轻型工程块&f&r放置2组2x2的&7&a铁板&f金属&r.\\n&7[Place more Engineering Blocks on the previous ones. To the right of the Heavy Engineering Block, skip 1 Block and place a Redstone Engineering Block. Next to the Light Engineering Block place 2 2x2 of Iron Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_refinery2.png width:150 height:100 align:center}"
-		"最后补少量&7&a铁板&f金属&r即可!"
+		"现在只需再添加少量&7&a铁板&f金属&r!\\n&7[Now just a few more Iron Sheetmetals!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_refinery3.png width:150 height:100 align:center}"
-		"本次需用&6工程师锤&f&a右击&f顶部的&7&a重型工程块&f&r."
+		"本次操作需用&6工程师锤&f&a右击&f顶部的&7&a重型工程块&f&r.\\n&7[For this one we'll need to Right Click the top Heavy Engineering Block with our Hammer.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_refinery.png width:100 height:100 align:center}"
 	]
-	quest.13471E64CDE49D27.title: "&l&a精炼厂"
-	quest.135A16EDEEE27FA9.quest_desc: ["&8&lIE&r中所有&c线缆&f与&c能源&f系统均支持分级:&6&a低压&f&r(&6LV&r)、&e&a中压&f&r(&eMV&r)和&5&a高压&f&r(&5HV&r).\\n\\n电压&a越高&f,可传输使用的&c能量&f越多,部分机器需要更高电压驱动.\\n\\n不同电压转换需使用&c变压器&f,详见相关任务!"]
-	quest.135A16EDEEE27FA9.title: "电压分级"
-	quest.13AF35A3108B02AF.quest_desc: ["&a得以更快&f!"]
-	quest.1759A4E2AF0D2C88.quest_desc: ["以&e&a轻型工程块&f&r为基础,将其所有组件升级为更难制作的版本!\\n\\n首先需要&e银金锭&f(由&e金&f与&7银&f在&6&l&a合金窑&f&r中熔炼的合金).\\n\\n其次需要4个&8&a钢板金属块&f&r(类似&7&a铁板&f金属&r,由4块&8钢板&f合成).\\n\\n最后是&8&a钢质机械零件&f&r:在工作台用1个&6&a铜锭&f&r加4块&8&a钢板&f&r合成,或在&6工程师装配台&f制作更节省材料."]
-	quest.1759A4E2AF0D2C88.title: "&7&a重型工程块&f"
-	quest.18A9392BBCF5A871.quest_desc: ["与所有机械模组相同,&8&l&d沉浸工程&f&r需要传输&e物品&f、&b流体&f等内容的系统!\\n\\n多数机器设有默认&6输出&f/&9输入&f接口(可用&6工程师螺丝刀&f调整配置),有时还需使用&6工程师锤&f(功能不同)."]
-	quest.18A9392BBCF5A871.title: "&8&l&d沉浸工程&f&r 物流系统"
-	quest.1A13039D6302ADA5.quest_desc: ["你可以查看先前任务了解如何建造这些部件:在&e&a轻型工程块&f&r中制作&7&a铁质机械零件&f&r,在&7&a重型工程块&f&r中制作&8&a钢板金属块&f&r.\\n不过&e银合金线圈&r会有些不同...\\n\\n&e银合金线圈&r需要&a铁锭&f和8个中压线圈.获取中压线圈需用工程师钢丝钳切割&e银合金&r."]
-	quest.1A13039D6302ADA5.title: "&6&a发电机模块&f"
-	quest.1A3F053E0F693002.quest_desc: ["高级润滑系统可为&8&a钻头&f&r和&8锯刃&f&r提供类似耐久附魔的效果.\\n\\n使用时耐久损耗将降低."]
-	quest.1A3F053E0F693002.quest_subtitle: "不许嘲笑这个名字!"
-	quest.1A6A383B4EF26B20.quest_desc: ["&4&l&a采矿钻头&f&r选择有限:&7&a铁质钻头&f&r或&8&a钢质钻头&f&r.\\n\\n&7&a铁质钻头&f&r开采范围为2x2区域,等效&7&a铁镐&f&r,造成6点&a伤害&f,但耐久度低于...\\n\\n&8&a钢质钻头&f&r开采范围为3x3区域,等效&b&a钻石镐&f&r,造成7点&a伤害&f,且耐久更高!"]
-	quest.1A6A383B4EF26B20.title: "&8&a钻头&f"
-	quest.1A8F2408970BFCCF.quest_desc: ["&e银合金&r是由&e金&f&r与&7银&f&r熔炼而成的合金.\\n\\n顾名思义,它被大量应用于电力相关设备:导线、连接器、变压器等!"]
-	quest.1A8F2408970BFCCF.title: "&e&a琥珀金锭&f&r"
-	quest.1BF02D43986ABB03.quest_desc: ["&e传送带&f&r拥有多种形态、尺寸和用途!\\n\\n首先所有&e&a传送带&f&r均可与&8&a钢脚手架&f&r合成获得覆盖版本.&e覆盖式传送带&f可防止玩家拾取其上&e物品&f.\\n\\n最基础的&e传送带&f是&e垂直传送带&f,能直接将&e物品&f向上运输!\\n\\n&e分流传送带&f可改变&e物品&f行进方向,按顺序交替分流:1个左转、1个右转、循环往复.\\n\\n&e抛投传送带&f会将&e物品&f投入下方容器,若无容器则直接掉落.可用&4红石&f信号禁用抛投功能.\\n\\n最后是&e提取传送带&f,能自动从容器抽取&e物品&f并部署到传送带上,还可与某些机器联动使用!"]
-	quest.1BF02D43986ABB03.title: "&e传送带&f类型"
+	quest.13471E64CDE49D27.title: "&l&a精炼厂&7[lRefinery]&f"
+	quest.135A16EDEEE27FA9.quest_desc: ["&8&l沉浸工程&f&r中所有涉及&c导线&r与&c能源&r的系统均支持分级电压:&6&a低压&f&r(&6LV&r)、&e&a中压&f&r(&eMV&r)及&5&a高压&f&r(&5HV&r).\\n\\n电压等级越高,可传输使用的&c能量&r越强.部分机器需更高电压驱动.\\n\\n传输不同电压需借助&c变压器&r,请查阅相关任务说明!\\n&7[Everything related to Wires and power in lIE can be Tiered. Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV). \\n\\nThe higher the Voltage the more Energy can be moved and used. Some Machines will need higher Voltage to be used. \\n\\nIn order to transfer different Voltages you'll need Transformers, check out their Quest!]&f"]
+	quest.135A16EDEEE27FA9.title: "分级电压系统&7[Tiered Voltage]&f"
+	quest.13AF35A3108B02AF.quest_desc: ["&a得以更快&f!\\n&7[Gotta go fast!]&f"]
+	quest.1759A4E2AF0D2C88.quest_desc: ["以&e&a轻型工程块&f&r为基础,将其所有组件升级为更难制作的版本!\\n\\n首先需要&e琥珀金&r,这是在&6&l&a合金窑&f&r中用&e黄金&r与&7白银&r熔合的合金.\\n\\n其次需要4个&8&a钢板金属块&f&r,类似&7&a铁板&f金属&r,由4块&8钢板&r组合而成.\\n\\n第三是&8&a钢质机械零件&f&r,可通过工作台用1个&6&a铜锭&f&r加4块&8&a钢板&f&r合成,或在&6工程师装配台&f&r以更低成本制作.\\n&7[Think of the Light Engineering Block, now just make all its components much harder to make! \\n\\n1st we need Electrum, which is an Alloy of Gold and Silver made in the lAlloy Kiln. \\n\\n2nd we need 4 Steel Sheetmetal, which like the Iron Sheetmetal, needs 4 Plates combined together. \\n\\n3rd is our Steel Mechanical Components which are either one Copper Ingot and 4 Steel Plates in a Crafting Table. or made cheaper in the Engineer's Workbench.]&f"]
+	quest.1759A4E2AF0D2C88.title: "&7&a重型工程块&f&7[Heavy Engineering Block]&f"
+	quest.18A9392BBCF5A871.quest_desc: ["与所有机械模组相同,&8&l&d沉浸工程&f&r需要配套的&e物品&r传输、&b流体&r输送等物流系统!\\n\\n多数机器预设&6输出&r与&9输入&r端口,但这些配置可通过&6工程师螺丝刀&f&r调整!有时还需使用&6工程师锤&f&r(功能不同).\\n&7[Like every Machine Mod, lImmersive Engineering needs a way of moving Items, Fluids, and more! \\n\\nMost Machines will have default set Outputs and Inputs but these can be configured, like with the Engineer's Screwdriver! You also might need to use an Engineer's Hammer but that's different.]&f"]
+	quest.18A9392BBCF5A871.title: "&8&l&d沉浸工程&f&r物流系统&7[lImmersive Engineering Logistics]&f"
+	quest.1A13039D6302ADA5.quest_desc: ["可查阅先前任务学习制作方法:&e&a轻型工程块&f&r中的&7&a铁质机械零件&f&r,以及&7&a重型工程块&f&r中的&8&a钢板金属块&f&r.\\n但&e琥珀金线圈&f&r的制作略有不同...\\n\\n&e琥珀金线圈&f&r需要1个&a铁锭&f和8个中压线圈.制作中压线圈需用工程师钢丝钳切割&e琥珀金&r.\\n&7[You can check previous Quests to learn how to build some of these: Iron Mechanical Components in the Light Engineering Blocks and Steel Sheetmetal in Heavy Engineering Blocks. \\nThe Electrum Coils will be a bit different though... \\n\\nElectrum Coils need an Iron Ingot and 8 MV Wire Coils. To get MV Wire Coils we'll need to cut up some Electrum with Engineer's Wire Cutters.]&f"]
+	quest.1A13039D6302ADA5.title: "&6&a发电机模块&f&7[Generator Block]&f"
+	quest.1A3F053E0F693002.quest_desc: ["高级润滑系统可为&8&a钻头&f&r和&8电锯刃&f&r提供类似”耐久”附魔的效果.\\n\\n使用时的耐久损耗将显著降低.\\n&7[The Advanced Lubrication System will act like Unbreaking to our Drill Heads and Buzzsaw Blades. \\n\\nThey will lose less Durability on use.]&f"]
+	quest.1A3F053E0F693002.quest_subtitle: "不许嘲笑这个名称!&7[Stop laughing at its name!]&f"
+	quest.1A6A383B4EF26B20.quest_desc: ["&4&l&a采矿钻头&f&r可选类型有限:&7&a铁质钻头&f&r或&8&a钢质钻头&f&r.\\n\\n&7&a铁质钻头&f&r开采范围为2x2,等效于&7&a铁镐&f&r,造成6点&a伤害&f,但耐久度低于...\\n\\n&8&a钢质钻头&f&r开采范围3x3,等效于&b&a钻石镐&f&r,造成7点&a伤害&f,且具有更高耐久度!\\n&7[The lMining Drill doesn't have many choices, we have an Iron Drill Head or a Steel Drill Head. \\n\\nIron Drill Heads Mine in a 2x2 Area at the Tier of an Iron Pickaxe. It also does 6 Damage and has less Durability than the... \\n\\nSteel Drill Heads Mine in a 3x3 Area at the same Tier of a Diamond Pickaxe. These do 7 Damage and have more Durability!]&f"]
+	quest.1A6A383B4EF26B20.title: "&8&a钻头&f&7[Drill Heads]&f"
+	quest.1A8F2408970BFCCF.quest_desc: ["&e琥珀金&r是由&e黄金&r与&7白银&r熔炼而成的合金.\\n\\n从其名称可知,这种合金大量应用于电力相关设备:导线、连接器、变压器等!\\n&7[Electrum is an Alloy made from Gold and Silver. \\n\\nYou can guess by its name it is used a ton in everything electricity related. Wires, Connectors, Transformers, ETC!]&f"]
+	quest.1A8F2408970BFCCF.title: "&e&a琥珀金锭&f&r&7[Electrum Ingot]&f"
+	quest.1BF02D43986ABB03.quest_desc: ["&e传送带&r有各种形状、尺寸和用途!\\n\\n首先,所有&e传送带&r都可以用&8钢脚手架&r合成覆盖层.&e带覆盖层的传送带&r会使&e物品&r在其上时无法被玩家拾取.\\n\\n最基础简单的&e传送带&r是&e垂直传送带&r,它仅用于将&e物品&r向上运输!\\n\\n&e分流传送带&r...会将&e物品&r的运输方向进行分流.它会按顺序切换:1个向左、1个向右、1个向左、1个向右.\\n\\n&e掉落传送带&r会将&e物品&r抛入下方的容器,若无容器则直接掉落地面.可通过&4红石&r信号配置使其停止抛落物品.\\n\\n最后是&e提取传送带&r,它能自动从容器中取出&e物品&r并部署到传送带上,还可与某些机器配合使用!\\n&7[Belts come in all different shapes and sizes and uses! \\n\\nFirst, all Conveyor Belts can be Crafted with Steel Scaffolding to give them covers. Covered Belts will make it so Items can't be picked up from Players while on it. \\n\\nThe first and simplest version of the Belt is the Vertical Belt. It simply takes Items upwards! \\n\\nSplitting Belts... split the directions the Items going in, go. It will switch for every Item: 1 goes Left, 1 goes Right, 1 goes Left, 1 goes Right. \\n\\nDropping Belts will drop the Items either into an Inventory below it, or if there is open space it will just drop the Items. These can be configured with Redstone to not drop Items. \\n\\nThe last is the Extracting Belt, this one will automatically take Items out from Inventories and deploy it on its Belt. These can also be used with some Machines!]&f"]
+	quest.1BF02D43986ABB03.title: "&e传送带&r类型&7[Types of Belts]&f"
 	quest.1C76E244AE3582E6.quest_desc: [
-		"&5&l装配机&r与其他机器不同,主要通过图形界面操作.\\n\\n&a右键&f点击机器,在顶部网格栏设置3种配方,排列顺序即优先级.\\n\\n可从&e传送带&f&9输入&f&e物品&f,成品会从后方&a传送带&f&6输出&f.还能&6输入&f&b流体&f用于补充合成所需的&b桶&f或&b储罐&f!\\n\\n顶部需接入&c能源&f供电."
+		"&5&l组装机&r与多数机器不同,其主要操作在图形界面内完成.\\n\\n&a右键点击&f机器,在屏幕顶部的网格中设置3种配方,排列顺序即为其优先执行顺序.\\n\\n可从&e传送带&r进行&9输入&e物品&r,加工后的物品会从后方&a传送带&r&6输出&r.还可&6输入&b流体&r用于补充合成时所需的&b桶&r或&b储罐&r!\\n\\n需从顶部注入&c能量&r进行驱动.\\n&7[The lAssembler, unlike most Machines, work mostly in its GUI. \\n\\nRight Click the Machine and set up 3 Recipes, by putting them into the Grids at the top of the screen. The order they are in, is the order it will follow for priority. \\n\\nYou can Input Items from the Belts and they will Output out of the back Belts. You can also Input Fluids which will be used to refill Buckets or Tanks used in Crafting! \\n\\nYou'll also need to power it with Energy from the Top.]&f"
 		"{@pagebreak}"
-		"放置两排平行的&8&a钢脚手架&f&r(每排3个,中间留&a1格&f间距).在中间位置放置&e&a轻型工程块&f&r,四周用&4&a红石工程块&f&r包围."
+		"放置两排平行的&8&a钢脚手架&f&r(每排3个),中间留&a1格&f空隙.在空隙中央放置&e&a轻型工程块&f&r,四周用&4&a红石工程块&f&r包围.\\n&7[Place 2 parallel lines of 3 Steel Scaffolding with a Block of space in between them. Between them place a Light Engineering Block in the center, and Redstone Engineering Blocks around it.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_assembler1.png width:100 height:100 align:center}"
-		"在&4&a红石工程块&f&r两侧安装&7&a铁板&f金属&r.接着在&e&a轻型工程块&f&r正上方放置第二个工程块.最后铺设通往并穿过&e&a轻型工程块&f&r的&e&a传送带&f&r!"
+		"在&4&a红石工程块&f&r两侧放置&7&a铁板&f&r.接着在&e&a轻型工程块&f&r正上方再放置一个同类方块.最后铺设通往并穿过&e&a轻型工程块&f&r的&e&a传送带&f&r!\\n&7[On the sides with Redstone Engineering Blocks place Iron Sheetmetal. Then, above the Light Engineering Block we of course will need another. After, place Conveyor Belts going to and through the Light Engineering Block!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_assemble2.png width:100 height:100 align:center}"
-		"单看外观可能会令人困惑:将&7&a铁板台阶&f&r放置在我们先前放置的&7&a铁板&f金属&r上.然后在它们之间放置完整的&7&a铁板&f金属&r."
+		"此步骤可能视觉上较复杂:在已放置的&7&a铁板&f&r上叠加&7&a铁板台阶&f&r,然后在台阶间隙处填充完整&7&a铁板&f&r.\\n&7[This one might be confusing just be sight alone; place Iron Sheetmetal Slabs on our previously placed Iron Sheetmetal. Then, between them place full Iron Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_assembler3.png width:100 height:100 align:center}"
-		"要建造我们的&5&l组装机&r,请用我们可爱的&6锤子&f右键点击&f第一个&e&a传送带&f&r!"
+		"手持我们的爱用&6锤子&f&r,&a右键点击&f首段&e&a传送带&f&r即可建成&5&l组装机&r!\\n&7[To build our lAssembler Right Click the first Conveyor Belt with our lovely Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_assembler.png width:100 height:100 align:center}"
 	]
-	quest.1C76E244AE3582E6.title: "&5&l组装机"
-	quest.1D4E7F548431263A.quest_desc: ["这可能是这些方块中最容易制作的一个.\\n\\n铁和&4红石&r你可以直接从&2&l原版&r游戏中获取,唯一”难”的物品是&7&a铁板&f金属&r."]
-	quest.1D4E7F548431263A.title: "&4&a红石工程块&f"
+	quest.1C76E244AE3582E6.title: "&5&l组装机&7[lAssembler]&f"
+	quest.1D4E7F548431263A.quest_desc: ["这是最容易制作的方块之一.\\n\\n铁和&4红石&r可通过&2&l原版&r玩法获取,唯一稍”难”的材料是&7&a铁板&f&r.\\n&7[Easily the simplest of these Blocks to make. \\n\\nIron and Redstone you'll just get from lVanilla gameplay, the only \"difficult\" Item is the Iron Sheetmetal.]&f"]
+	quest.1D4E7F548431263A.title: "&4&a红石工程块&f&7[Redstone Engineering Block]&f"
 	quest.1F7DA060792D716A.quest_desc: [
-		"&d&l搅拌机&r就像你妈妈/奶奶用来将鸡蛋与面粉和糖混合,烘焙美味点心的那种!\\n\\n&d&l搅拌机&r会混合&e物品&r和&b流体&r.要将&b流体&r输入,我们需要使用&d&l搅拌机&r左侧的端口.要提供&e物品&r,我们需要使用背部的端口.\\n\\n为了正常工作,需要从&d&l搅拌机&r正面上方的端口输入&c能量&r.\\n\\n一旦混合完成,结果会从机器正面的端口输出!"
+		"&d&l混合机&r就像母亲/祖母用来将鸡蛋与面粉糖粉混合烘焙美味点心的工具!\\n\\n它能混合&e物品&r与&b流体&r.左侧接口输入&b流体&r,后方接口输入&e物品&r.\\n\\n需从机器正面上方接口注入&c能量&r方可运作.\\n\\n混合完成后,成品会从机器正面接口输出!\\n&7[The lMixer is just like the ones your Mother/Grandmother uses to mix eggs into flour and sugar to bake whatever delicious treat they are making! \\n\\nThe lMixer will mix Items and Fluids. To get Fluids in we'll need to use the Port on the Left Side of the lMixer. To give it Items we'll need to use the Ports at the back. \\n\\nIn order to work it'll need Energy put into it from the Port at the Top of the Front of the lMixer. \\n\\nOnce it mixes, our result will come out the Port in the Front of the Machine!]&f"
 		"{@pagebreak}"
-		"&d&l搅拌机&r的第一层建造得像一个WiFi符号!首先是&e&a轻型工程块&f&r,然后是&b&a流体传输管道&f&r,以及&8&a钢脚手架&f&r."
+		"&d&l混合机&r首层构建呈WiFi符号状:中心是&e&a轻型工程块&f&r,外围依次环绕&b&a流体传输管道&f&r和&8&a钢脚手架&f&r.\\n&7[The first layer of the lMixer is built like a Wifi Symbol! First is Light Engineering Block, then Fluid Pipes, and Steel Scaffolding.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_mixer1.png width:100 height:100 align:center}"
-		"在&e&a轻型工程块&f&r上方,我们会再放一个,并在新放置的方块左侧放一个.在最右边的&8脚手架&r上,我们会放置一个&4&a红石工程块&f&r.然后,在机器的背部放置一个2x2的&7&a铁板&f金属&r."
+		"在&e&a轻型工程块&f&r上方再放置一个,并在新放置方块的&a左侧&f放置另一个.最右侧的&8脚手架&r上我们将放置&4&a红石工程块&f&r.然后在机器背面铺设2x2的&7&a铁板&f金属&r.\\n&7[Above our Light Engineering Block we'll put another and one to the left of the newly placed one. On the far right Scaffolding we'll place a Redstone Engineering Block. Then, we'll place a 2x2 of Iron Sheetmetal on the back of our Machine.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_mixer2.png width:100 height:100 align:center}"
-		"在第三个&e&a轻型工程块&f&r顶部,我们会放置一个单独的&8&a钢栅栏&f&r,并在其右侧放置第四个&e&a轻型工程块&f&r."
+		"在第三个&e&a轻型工程块&f&r顶部放置单个&8&a钢栅栏&f&r,其&a右侧&f将放置第四个&e&a轻型工程块&f&r.\\n&7[On top of the third Light Engineering Block we'll place a singular Steel Fence, and to the right of it will be a fourth Light Engineering Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_mixer3.png width:100 height:100 align:center}"
-		"要创建&d&l搅拌机&r,请用&6工程师锤&f右键点击&f位于&e&a轻型工程块&f&r和&4&a红石工程块&f&r之间的&7&a铁板&f金属&r!"
+		"要制作&d&l混合机&r,请用&6工程师之锤&f&a右击&f位于&e&a轻型工程块&f&r和&4&a红石工程块&f&r之间的&7&a铁板&f金属&r!\\n&7[To create the lMixer Right Click the Iron Sheetmetal between our Light Engineering Block and Redstone Engineering Block with a Engineer's Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_mixer.png width:100 height:100 align:center}"
 	]
-	quest.1F7DA060792D716A.title: "&l&d搅拌机"
-	quest.1FA44E8FEE004AB4.quest_desc: ["&a麻绳&f和&8&a钢电缆&f&r可以像普通&c电线&r一样放置在&c连接器&r和&c继电器&r上,但不会传输&c能量&r.\\n\\n它们主要用于装饰或使用&6&l工程师天钩&r!"]
-	quest.1FA44E8FEE004AB4.title: "适用于&6&l天钩&r使用!"
-	quest.2224AA108FC006F3.quest_desc: ["&a左轮快速装弹器&f实际上不是一个升级,而是一个独立的辅助物品.\\n\\n像&d&l左轮手枪&r一样填充弹夹,但现在每当需要重新装填&d&l左轮手枪&r时,只需右键点击&f即可瞬间完成装填!"]
-	quest.2224AA108FC006F3.quest_subtitle: "我开了6枪？还是只开了5枪？"
-	quest.2262AB9F934165D0.quest_desc: ["我不在乎你怎么得到它,我只需要你拿到它!\\n\\n&8&l&d沉浸工程&f&r为&8钢&r增添了比简单建造更多的用途,几乎所有东西都需要&8钢&r来制作!\\n\\n主要是工具、&a机械零件&f和建筑方块.很多是用&8&a钢板&f&r或&8脚手架&r制作的.\\n\\n你需要大量钢,但&l&c&a粗制高炉&f&r和&l&6合金炉&r无法自动化,所以我们可能需要一个..."]
-	quest.2262AB9F934165D0.title: "&8&a钢锭&f"
-	quest.231E0C0A9B0C0509.quest_desc: ["这个可以连接到你的&c&l&a蓄电池背包&f&r.\\n\\n当穿戴&c&l背包&r时,附近的&e物品&r会被吸入你的物品栏!"]
-	quest.23FDFA44A162023A.quest_desc: ["&6工程师装配台&r是进行多种合成与升级的必要方块.\\n\\n配合&9蓝图&r可制作其他设备无法合成的特殊物品:将&9蓝图&r放入左侧槽位,&e合成材料&r放入右侧槽位.\\n\\n也可投入工具进行升级改造,例如左轮手枪或&a采矿钻头&f!\\n\\n当放入&e材料&r和&9蓝图&r时,它们会实时显示在&6工作台&r表面,非常酷!"]
-	quest.23FDFA44A162023A.title: "&6工程师装配台"
-	quest.251464B43353D4C6.quest_desc: ["我们亲爱的&a园艺玻璃罩&f!这是自动化农场,本任务将教你简易使用方法:\\n\\n首先需要通过左侧、右侧或顶部面接入&c能源&6输入&r；\\n\\n随后由背面端口输入&9水&r(建议连接&9集水槽&r)；\\n\\n接着通过底部&e物品&6输入口&r放入种子、耕地及可选肥料；\\n\\n注意耕地类型需与种子匹配,&a右键点击&f玻璃罩可通过GUI界面查看详情；\\n\\n准备就绪后,它将快速种植并收获作物,并由正面&6输出&r产物；\\n\\n特别注意:种子与耕地不会被消耗,泥土会自动转化为耕地,可用肥料包括硫磺、矿渣、硝石与&a工业肥料&f."]
-	quest.252A24CED69C1882.quest_desc: ["&a热传导发电机&f(以下简称热电机)是特殊发电机.\\n\\n需在设备各侧面放置不同温度的方块或流体才能运作:\\n\\n温差越大,产生的能量越多!"]
-	quest.252A24CED69C1882.title: "温差产能"
-	quest.257C80468B080B3C.quest_desc: ["&a电磁铁&f是&8&l沉浸工程&r对&a吸收漏斗&f的改良版.\\n\\n它不会存储&e物品&r,而是将物品吸附至电磁铁顶面附近,\\n\\n方便传输到&e传送带&r或漏斗!\\n\\n需消耗&c能源&r运作."]
-	quest.27FA2DB7839172BB.quest_desc: ["默认情况下&c&l背包&r仅能为手持物品与穿戴护甲充电.若需扩大充电范围:\\n\\n请加装&a感应充电器&f!安装后,背包内所有可充电&e物品&r都将自动充电."]
-	quest.288406DE6DA31BA6.quest_desc: ["众多设备需要&c能源&r驱动(尤其在&8&l沉浸工程&r模组中).首先需要制作&6工程师钢丝钳&r:\\n\\n可用其将金属板剪切成&c导线&r,进而卷成&c线圈&r使用；\\n\\n也可用于从&c连接器&r拆除&c导线&r."]
-	quest.288406DE6DA31BA6.title: "&8&l&d沉浸工程&f&r能源体系!"
-	quest.28847A536C38EEA0.quest_desc: ["&c变压器&r用于将&6低压&r连接转换为&e中压&r连接——小号&c接口&r为&6低压&r,大号接口为&e中压&r；\\n\\n若需从&e中压&r升级至&5高压&r,需要&5&a高压变压器&f&r(工作原理相同,小接口为&e中压&r,大接口为&5高压&r)；\\n\\n注意:不可跳过&e中压&r直接从&6低压&r转换至&5高压&r!"]
-	quest.28847A536C38EEA0.quest_subtitle: "迈克尔·贝执导"
-	quest.28847A536C38EEA0.title: "&c变压器"
-	quest.28E99A6E17E86709.quest_desc: ["输送&b流体&r是&8&l沉浸工程&r的核心环节,想想&a杂酚油&f和&a植物燃油&f的运输需求!\\n\\n&b&a流体传输管道&f&r是输送&b流体&r的基础方式,若需加速传输可使用&b&a液泵&f&r.\\n\\n&b&a流体传输管道&f&r与能量连接器类似,其&9输入&r和&6输出&r方向由连接对象决定.部分机器(如&b&l储罐&r)需接收&4&a红石信号&f&r才能向&b&a流体传输管道&f&r执行&6输出&r.\\n\\n使用&6工程师锤&r可调整&b管道&r连接方向,另可用&8&a钢脚手架&f&r进行包覆处理,或通过染料改变其颜色!"]
-	quest.28E99A6E17E86709.title: "流体输送系统"
-	quest.29C9F8719DA63D8D.quest_desc: ["&2&l链锯&r的工作原理类似&4&l&a采矿钻头&f&r,专用于砍伐&2树木&r!\\n\\n需以&2生物柴油&r作为燃料(获取方式恕不赘述)!\\n\\n同时需要装配&8锯片&r,可通过&6工程师装配台&r顶部槽位安装.\\n\\n砍伐&2树木&r时,整棵树的原木、树叶和鸟巢都会随之脱落!按住Shift键可仅砍伐目标原木.\\n\\n&2&l链锯&r还能造成10点&a伤害&f——既然如此何必用剑？哦对了,&8锯具&r有耐久损耗且需消耗&2生物柴油&r.\\n\\n&2&l链锯&r可容纳1个&8锯片&r或&8锯盘&r,并搭载2个升级组件."]
-	quest.29C9F8719DA63D8D.title: "&2&l链锯装置"
-	quest.2A1BFB2E0F1F3312.quest_desc: ["&d&a末地烛&f&r可造成10点&a伤害&f并能攻击末影人.\\n&5末影珍珠&r不会直接攻击生物,但投掷时可实现超远距离传送.\\n三叉戟&r拥有常规投掷功能,造成8点&a伤害&f.\\n&c&a烈焰棒&f&r可造成10点&a伤害&f并使生物燃烧!"]
-	quest.2A1BFB2E0F1F3312.title: "&5&l磁轨炮&r的&2&l我的世界&r专属弹药"
-	quest.2E89A03BA809634E.quest_desc: ["此类物品仅可通过军火商交易获取.\\n\\n&a特种子弹&f具有特殊效果!\\n\\n追踪弹、爆破弹与信号弹需配合这些&9蓝图&r合成制作."]
-	quest.2E89A03BA809634E.title: "&9&a特种子弹&f制造蓝图"
-	quest.2E9D1131DC21CC5B.quest_desc: ["&l&d工业先锋&f&r采用流线型未来设计,&5&l&d通用机械&f&r呈现简约现代风格,而&8&l&d沉浸工程&f&r则主打复古工业风!\\n\\n整体以&6棕褐&r、&7灰白&r及&8&a深灰&f&r为主色调!\\n\\n该模组一切始于&6工程师锤&r,可用于制造板材、粉尘,更是搭建多方块结构的核心工具!\\n\\n顺带一提,是否告知过您本模组将大量建造多方块结构？希望您会喜欢!"]
-	quest.2E9D1131DC21CC5B.title: "&8&l&d沉浸工程&f"
-	quest.2F19529214CA9559.quest_desc: ["效果类似荆棘附魔但不会造成&a伤害&f,仅使攻击者陷入眩晕.\\n\\n虽仅能短暂阻滞生物,但对玩家效果尤为显著(且令人烦躁)!"]
-	quest.2F19529214CA9559.quest_subtitle: "闪电效果？"
-	quest.2F8D117F802FEAF0.quest_desc: ["突击兵属于轻装部队.\\n\\n拥有12点生命值且无护甲.\\n\\n配备&d&l左轮手枪&r及副手持握的盾牌.\\n\\n被击败时会掉落属性各异的左轮零件,其数值系统类似&d神化&f装备!"]
-	quest.2F8D117F802FEAF0.title: "突击兵"
-	quest.30EA16BB8C169F86.quest_desc: ["此为&6铜&r与&7锡&r的合金材料!\\n\\n在&7&l&d现代工业化&f&r模组中应用广泛!但在&8&l沉浸工程&r中...用量相对较少..."]
-	quest.30EA16BB8C169F86.title: "&6&a青铜锭&f"
-	quest.31324A6F96CAC112.quest_desc: ["&b&a液泵&f&r 不仅可用于灌装机,还能以更快速度输送&b流体&r!\\n\\n使用&6工程师锤&r可设置&b&a液泵&f&r的&9输入口&r与&6输出口&r.\\n\\n可通过&4红石&r或&c能量&r驱动,其中&c能量&r驱动时&b流体&r传输速度远快于&4红石&r."]
-	quest.31324A6F96CAC112.title: "&b&a液泵&f"
-	quest.320EE52EB022FAD3.quest_desc: ["这个装置非常有趣!\\n\\n&b&a流体排出口&f&r可设置为&9输入&b流体&r,并能将流体以源方块形式放置在&6输出口&r侧边!\\n\\n这意味着我们可以自动化放置&9水&r、&c熔岩&r或几乎所有&b流体&r!"]
-	quest.320EE52EB022FAD3.title: "&b&a流体排出口&f"
+	quest.1F7DA060792D716A.title: "&l&d混合机&7[lMixer]&f"
+	quest.1FA44E8FEE004AB4.quest_desc: ["&a麻绳&f和&8&a钢电缆&f&r可像普通&c导线&r一样安装在&c连接器&r和&c继电器&r上,但不会传输&c能量&r.\\n\\n它们主要用于装饰或配合&6&l工程师滑索钩&f使用!\\n&7[Hemp Rope and Steel Cables are placed like normal Wires on Connectors and Relays but won't transfer Energy. \\n\\nInstead they are for Decor or using the lEngineer's Skyhook!]&f"]
+	quest.1FA44E8FEE004AB4.title: "&6&l滑索钩&f适用安全!&7[Safe for lSkyhook usage!]&f"
+	quest.2224AA108FC006F3.quest_desc: ["&a左轮快速装弹器&f实际上不是升级件,而是独立的辅助工具.\\n\\n像给&d&l左轮手枪&f装弹那样填入弹药筒,之后每当需要给&d&l左轮手枪&f装弹时,只需&a右击&f即可瞬间完成装填!\\n&7[The Revolver Speedloader isn't actually an Upgrade, rather it is a seperate Item that's used to help. \\n\\nFill it with Cartridges like the lRevolver, but now whenever you need to Reload the lRevolver you can just Right Click with it to instantly reload!]&f"]
+	quest.2224AA108FC006F3.quest_subtitle: "我开了6枪？还是只开了5枪？&7[Did I shoot 6 times? Or only 5?]&f"
+	quest.2262AB9F934165D0.quest_desc: ["我不管你怎么弄到,我只需要你弄到手!\\n\\n&8&l&d沉浸工程&f&r为&8钢&f增添了远超建筑材料的用途,几乎所有物品都需要&8钢&f来制造!\\n\\n主要是工具、&a机械零件&f和建筑方块.多数由&8&a钢板&f&r或&8脚手架&f制成.\\n\\n需求量很大但&l&c&a粗制高炉&f&r和&l&6合金冶炼炉&f无法自动化生产,所以我们需要...\\n&7[I don't care how you got it, I just need you to get it! \\n\\nlImmersive Engineering adds a whole lot more uses to Steel than just simple builds, almost everything will need Steel to make it! \\n\\nTools, Mechanical Parts, and Building Blocks mainly. A lot are made with Steel Plates or Scaffolding. \\n\\nYou'll need a lot of it but the lCrude Blast Furnace and lAlloy Kin can't be automated so we might need a... ]&f"]
+	quest.2262AB9F934165D0.title: "&8&a钢锭&f&7[Steel Ingot]&f"
+	quest.231E0C0A9B0C0509.quest_desc: ["这个可以连接到你的&c&l&a蓄电池背包&f&r.\\n\\n当穿戴&c&l背包&f时,附近的&e物品&f会被吸入你的物品栏!\\n&7[This one can attach to your lAccumulator Backpack. \\n\\nWhen the lBackpack is worn, Items nearby will be sucked into your Inventory!]&f"]
+	quest.23FDFA44A162023A.quest_desc: ["&6工程师装配台&f是许多制作和升级的必要方块.\\n\\n配合&9蓝图&f可制作特殊物品,这是其他地方无法制作的.将&9蓝图&f放入左侧槽位,&e制作材料&f放入右侧槽位.\\n\\n也可投入工具进行升级,比如左轮手枪或&a采矿钻头&f!\\n\\n放入&e物品&f和&9蓝图&f时还能在&6方块&f表面实时显示,非常酷!\\n&7[The Engineer's Workbench is a necessary Block needed for many Crafts and Upgrades. \\n\\nWe can use it with Blueprints to Craft special Items that we can't Craft elsewhere. Put the Blueprints in the Left Slot, and our Crafting Items into the Right Slots.\\n\\nOr we can throw our Tools into it, to add Upgrades to them, like the Revolver or Mining Drill! \\n\\nAlso when you add Items and Blueprints you can see them on the Block itself, pretty cool!]&f"]
+	quest.23FDFA44A162023A.title: "&6工程师装配台&7[Engineer's Workbench]&f"
+	quest.251464B43353D4C6.quest_desc: ["我们亲爱的&a园艺玻璃罩&f!这是自动化农场,本任务中操作简单!\\n\\n启动需要从左、右或顶部输入&c能量&r!\\n\\n后端接口需要输入&9水&f(建议使用&9无限水源&f).\\n\\n接着通过底部&e物品输入口&f投入种子、耕地及可选肥料!\\n\\n需匹配种子对应的耕地,具体可通过&a右击&f玻璃罩查看GUI界面!\\n\\n准备就绪后会自动快速种植收获,并通过前端&6输出口&f输送作物.\\n\\n最后注意:会保留原始种子和耕地不消耗,泥土会自动转化为耕地,肥料包括硫磺、矿渣、硝石和&a工业肥料&f.\\n&7[Our beloved Garden Cloche! It is an automatic Farm, and with this Quest is simple to use! \\n\\nTo start it will need Energy Input from either the Left, Right, or Top! \\n\\nIt will then need Water from Back Port, (try using a Sink). \\n\\nNext, we'll need to Input our Seeds, Farmland, and optional Fertilizer by the Item Input at the Bottom! \\n\\nIt will need the correct Farmland for the Seeds, you can check this all by Right Clicking the Cloche to see its GUI BTW! \\n\\nOnce it has all that, it will quickly grow and harvest your Crops and Output them on the Front of the Dome. \\n\\nLast notes: it will keep the original Seed and Farmland and won't use them up, Dirt will be made into Farmland, and the Fertilizers are Sulfur, Slag, Nitrate, and Industrial Fertilizer.]&f"]
+	quest.252A24CED69C1882.quest_desc: ["&a热传导发电机&f(我将简称为热力发电机)是一种独特的发电机.\\n\\n它本身不会产生任何能量,我们需要在热力发电机的不同侧面放置不同温度的方块或流体.\\n\\n温差越大,产生的能量就越多!\\n&7[The Thermoelectric Generator, which I am going to just be calling a Thermo, is a unique Generator. \\n\\nOn its own it won't do anything, what we'll need to do is place Blocks or Fluids of differenting Temperatures on different sides of the Thermo. \\n\\nThe bigger the difference in Temperature the more Energy it creates!]&f"]
+	quest.252A24CED69C1882.title: "温差产能&7[Energy from Temperature]&f"
+	quest.257C80468B080B3C.quest_desc: ["&a电磁铁&f是&8&l沉浸工程&r对&a吸收漏斗&f的改造版本.\\n\\n不过它不会储存&e物品&r,而是会将物品移动到最靠近电磁铁顶面的位置.\\n\\n这可以用于将物品传输到&e传送带&r或漏斗!\\n\\n但使用时需要消耗&c能量&r.\\n&7[The Electromagnet is lIE's take on the Absorption Hopper. \\n\\nWell, kinda! It won't hold the Items rather they will be moved closest to the Top face of the Electromagnet. \\n\\nThis can be used to get them onto Belts or hoppers! \\n\\nIt will require Energy to be used though.]&f"]
+	quest.27FA2DB7839172BB.quest_desc: ["默认情况下,&c&l背包&r只会给手中的&e物品&r和穿戴的护甲充电.但如果我们需要给更多物品充电呢？\\n\\n这时就需要&a感应充电器&f!安装后,背包内所有可充电的&e物品&r都会自动充电.\\n&7[The lBackpack by default will only charge Items in your Hand and Armor you are wearing. But what if we wanted to charge more than that! \\n\\nThen we'll need the Induction Charger! With this attached, every Item in your Inventory that can take charge, will charge.]&f"]
+	quest.288406DE6DA31BA6.quest_desc: ["许多设备都需要&c能量&r,尤其是在&8&l沉浸工程&r中.首先我们需要&6工程师剪线钳&r!\\n\\n可以用它将金属板剪成&c导线&r,再卷成&c线圈&r备用.\\n\\n它们也可用于从&c连接器&r上拆除&c导线&r.\\n&7[Lots of things need Energy, especially in lIE. To get started we'll need some Engineer's Wire Cutters! \\n\\nYou can use those to snip some Plates into Wires which can then be put into Coils, ready for use. \\n\\nThey are also used for taking Wires off Connectors.]&f"]
+	quest.288406DE6DA31BA6.title: "&8&l&d沉浸工程&r能源体系!&7[lImmersive Engineering Power!]&f"
+	quest.28847A536C38EEA0.quest_desc: ["&c变压器&r用于将&6低压&r连接转换为&e中压&r连接.小号&c连接器&r是&6低压&r,大号的是&e中压&r!\\n\\n若需从&e中压&r升至&5高压&r,则需要&5&a高压变压器&f&r.其原理与其他&c变压器&r相同,只是小号&c连接器&r为&e中压&r,大号的是&5高压&r!\\n\\n注意:无法跳过&e中压&r直接从&6低压&r升至&5高压&r!\\n&7[Transformers are how we go from LV Connections to MV Connections. The little Connector is LV and bigger one is MV! \\n\\nIf you want to go from MV to HV we'll need an HV Transformer. These work the same as the other Transformer, just the smaller Connector is MV and bigger one is HV! \\n\\nNo, you can't go from LV to HV without MV!]&f"]
+	quest.28847A536C38EEA0.quest_subtitle: "迈克尔·贝执导风格&7[Directed by Michael Bay]&f"
+	quest.28847A536C38EEA0.title: "&c变压器&7[Transformers]&f"
+	quest.28E99A6E17E86709.quest_desc: ["输送&b流体&r是&8&l沉浸工程&r的核心环节,想想&a木焦油&f和&a植物燃油&f!\\n\\n&b&a流体管道&f&r是基础输送方式,需要更快速度可使用&b&a液泵&f&r.\\n\\n&b&a流体管道&f&r与能源连接器类似,根据连接对象确定&9输入&r和&6输出&r方向.部分机器(如&b&l储罐&r)需要&4&a红石信号&f&r才能向&b&a流体管道&f&r执行&6输出&r.\\n\\n使用&6工程师锤&r可更改&b管道&r连接对象,还可用&8&a钢脚手架&f&r包裹管道,或使用染料染色!\\n&7[Moving Fluids is an essential part of lIE, just think of the Creosote Oil and Plant Oil! \\n\\nFluid Pipes are our basic ways of moving Fluids, if you want them faster check out Fluid Pumps. \\n\\nFluid Pipes, like Energy Connectors, are determined where to Input and Output from what they are connected to. Some Machines need Redstone Signals to Output to Fluid Pipes, like the lTank! \\n\\nWe can use an Engineer's Hammer to change what the Pipes connect to, plus we can use Steel Scaffolding on them to cover them, or Dye to dye them!]&f"]
+	quest.28E99A6E17E86709.title: "流体输送系统&7[Moving Fluids]&f"
+	quest.29C9F8719DA63D8D.quest_desc: ["&2&l电锯&r与&4&l&a采矿钻头&f&r原理相似,专用于砍伐&2树木&r!\\n\\n需要以&2生物柴油&r为燃料(具体获取方式此处不赘述)\\n\\n同时需要配备&8锯片&r,可通过&6工程师装配台&r顶部槽位安装.\\n\\n砍伐树木时,所有原木、树叶和鸟巢都会一并掉落!按住Shift可仅砍伐目标原木.\\n\\n&2&l电锯&r还能造成10点&a伤害&f!不过&8锯具&r有耐久损耗且需消耗&2生物柴油&r.\\n\\n&2&l电锯&r可容纳1个&8锯片&r或&8锯盘&r,以及2个升级组件.\\n&7[The lBuzzsaw works similar to the lMining Drill, just for Trees! \\n\\nIt requires Bio-Diesel as Fuel, which I won't explain how to get here either! \\n\\nAnd some sort of Sawblade. Which you can attach via the Top Slot in the Engineer's Workbench. \\n\\nSimply break Logs on a Tree and every Log, Leaf, and Birds Nest will come down with it! You can hold Shift to not break everything attached. \\n\\nThe lBuzzsaw also does 10 Damage! Dang, why even use a Sword? Oh yeah Saws have Durability and it needs Bio-Diesel. \\n\\nThe lBuzzsaw can hold 1 Blade or Disk and 2 Upgrades.]&f"]
+	quest.29C9F8719DA63D8D.title: "&2&l电锯&7[lBuzzsaw]&f"
+	quest.2A1BFB2E0F1F3312.quest_desc: ["&d&a末地烛&f&r 可造成10点&a伤害&f且能击中末影人.\\n&5末影珍珠&r 不会攻击生物,而是会在投掷时将你传送至更远距离.\\n&3三叉戟&r 表现如常规&3三叉戟&r投掷,造成8点&a伤害&f.\\n&c&a烈焰棒&f&r 造成10点&a伤害&f并使生物着火!\\n&7[End Rod does 10 Damage as well as hits Endermen. \\nEnderpearls won't hit Mobs, rather they will teleport you much farther when shot. \\nTrident acts like a normal Trident throw, dealing 8 Damage. \\nBlaze Rods deal 10 Damage and set the Mobs on Fire!]&f"]
+	quest.2A1BFB2E0F1F3312.title: "来自&2&l我的世界&r的&5&l轨道炮&r弹药&7[lRailgun Ammo from lMinecraft]&f"
+	quest.2E89A03BA809634E.quest_desc: ["这些仅可通过与军械师交易获得.\\n\\n&a特种子弹&f 具有独特效果!\\n\\n追踪弹、爆炸弹与信号弹需配合这些&9蓝图&r合成.\\n&7[These can only be Traded with Gunsmiths for. \\n\\nSpecialized Projectiles are ones that do unique things! \\n\\nHoming, Explosive, and Flares are needed to be Crafted with these Blueprints.]&f"]
+	quest.2E89A03BA809634E.title: "&9&a特种子弹&f蓝图&7[Specialized Projectiles Blueprints ]&f"
+	quest.2E9D1131DC21CC5B.quest_desc: ["&l&d工业先锋&f&r采用流线型未来设计,&5&l&d通用机械&f&r呈现质朴现代风格,而&8&l&d沉浸工程&f&r则更具复古感!\\n\\n所有元素皆为&6棕褐色&r、&7灰色&r与&8&a深灰色&f&r!\\n\\n该模组起始于&6工程师之锤&r,可用于制造板材、粉尘或搭建多方块结构!\\n\\n顺便一提,我是否说过我们将在此模组中大量制作它们？希望你喜欢!\\n&7[lIndustrial Foregoing has its sleak futuristic design, lMekanism has its dull modern design, and lImmersive Engineering takes it much more retro! \\n\\nEverything is Brown, Grey, and Dark Grey! \\n\\nThe Mod all starts with the Engineer's Hammer. These can be used to make Plates, Dust, or just building our Multiblocks! \\n\\nBTW, did I tell you we'll be making a lot of those in this Mod? Hope you like them!]&f"]
+	quest.2E9D1131DC21CC5B.title: "&8&l&d沉浸工程&f&7[lImmersive Engineering]&f"
+	quest.2F19529214CA9559.quest_desc: ["效果类似荆棘附魔但不会造成&a伤害&f,仅使攻击者失向.\\n\\n仅能短暂阻滞生物,对玩家则更为有效(且令人烦躁)!\\n&7[It's like Thorns but doesn't Damage, just disorients Attackers. \\n\\nIt'll just stop Mobs for a little, it is much more effective (and aggravating) to Players!]&f"]
+	quest.2F19529214CA9559.quest_subtitle: "闪电战？&7[Blitz?]&f"
+	quest.2F8D117F802FEAF0.quest_desc: ["突击兵为轻装部队.\\n\\n他们拥有12颗心且无护甲.\\n\\n武器为&d&l左轮手枪&r及副手持握的盾牌.\\n\\n被击败时会掉落具有不同属性的左轮零件,类似&d神化&f属性系统!\\n&7[Commandos are the light troops. \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon is a lRevolver and a Shield they hold in their Offhand. \\n\\nOn death they will drop Revolver parts with different stats, similar to Apotheosis stats!]&f"]
+	quest.2F8D117F802FEAF0.title: "突击兵&7[Commando]&f"
+	quest.30EA16BB8C169F86.quest_desc: ["这是&6铜&r与&7锡&r的合金!\\n\\n在&7&l&d现代工业化&f&r中大量使用!但在&8&l沉浸工程&r中...用量不多...\\n&7[This one is a combination of Copper and Tin! \\n\\nIt's used a ton in lModern Industrialization! But in lIE... not that much...]&f"]
+	quest.30EA16BB8C169F86.title: "&6&a青铜锭&f&7[Bronze Ingot]&f"
+	quest.31324A6F96CAC112.quest_desc: ["&b&a液泵&f&r不仅用于灌装机,还可加速传输&b流体&r!\\n\\n使用&6工程师之锤&r可设置&b&a液泵&f&r的&9输入面&r与&6输出面&r.\\n\\n可通过&4红石&r或&c能量&r驱动,&c能量&r驱动时流体传输速度远快于&4红石&r.\\n&7[Fluid Pumps aren't just used for Bottlers, they can also be used to move Fluids... quicker! \\n\\nUsing an Engineer's Hammer we can set Sides of the Fluid Pump to Inputs and Outputs. \\n\\nThen, we can Power it with Redstone or Energy, with Energy moving Fluids much faster than Redstone.]&f"]
+	quest.31324A6F96CAC112.title: "&b&a液泵&f&7[Fluid Pump]&f"
+	quest.320EE52EB022FAD3.quest_desc: ["这个很有趣!\\n\\n可设置&b&a流体排出口&f&r的&9输入面&r接收&b流体&r,并通过&6输出面&r将流体以源块形式放置!\\n\\n这意味着可自动化放置&9水&r、&c岩浆&r或几乎所有&b流体&r!\\n&7[Now this is a fun one! \\n\\nFluid Outlets can be set to Input Fluids, and then we can have it so it places those Fluids as Source Blocks next to the Output Sides! \\n\\nThis means we can automate placing of Water, Lava, or pretty much any Fluids! ]&f"]
+	quest.320EE52EB022FAD3.title: "&b&a流体排出口&f&7[Fluid Outlet]&f"
 	quest.32384DE59539557D.quest_desc: [
-		"&4&l粉碎机&r是危险且嘈杂的机器.\\n\\n可从顶部栅格&9输入&e物品&r(或生物),将其&4&l粉碎&r为掉落物!\\n\\n特别适用于将&a粗矿&f转化为矿粉.使用原始矿石方块时,比&6锤子&r产出更多矿粉,还有几率获得全新类型的矿粉!\\n\\n所有掉落物会从底部前侧自动&6弹出&r,需从顶部&a右侧&f输入&c能量&r."
+		"&4&l破碎机&r是危险且嘈杂的机器.\\n\\n可从顶部栅格&9输入&e物品&r(或生物),将其&4&l破碎&r为掉落物!\\n\\n特别适用于将&a粗矿&f转为粉尘.使用原始矿石方块时,比&6锤子&r产出更多粉尘,还有几率获得全新类型的粉尘!\\n\\n所有掉落物会从底部前侧自动&6弹出&r.需从顶部&a右侧&f输入&c能量&r.\\n&7[The lCrusher is a very dangerous and loud Machine. \\n\\nYou can Input Items (or Mobs) into the Top Grates, and it will lCrush them into their Drops! \\n\\nThis can be very helpful especially with taking Raw Ores into Dust. If we use Raw Ore Blocks it will give us more Dust than what the Hammer will give, also some have a chance at giving an entirely new type of Dust! \\n\\nAll the Drops will come out of the Bottom Front Block, automatically ejecting. It will also need Energy Input from the Top Right Side.]&f"
 		"{@pagebreak}"
-		"&4&l粉碎机&r体积庞大,需按此布局放置&8&a钢脚手架&f&r和&e&a轻型工程块&f&r,其中&e&a轻型工程块&f&r的朝向即为正面!"
+		"&4&l破碎机&r体积较大,需按此布局放置&8&a钢脚手架&f&r与&e&a轻型工程块&f&r.&e&a轻型工程块&f&r的朝向即为正面!\\n&7[The lCrusher is pretty big, we'll need to place this layout of Steel Scaffolding and Light Engineering Blocks. The direction the Light Engineering Blocks face is the Front side!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crusher1.png width:100 height:150 align:center}"
-		"在3个&e&a轻型工程块&f&r顶部再放置3个,左侧放置&4&a红石工程块&f&r与&e&a轻型工程块&f&r,中央放置&e&a泛光灯&f&r并用&8&a钢栅栏&f&r围住."
+		"在3个&e&a轻型工程块&f&r上方再放置3个.同时在左侧放置&4&a红石工程块&f&r和&e&a轻型工程块&f&r.然后在中间放置另一个&e&a泛光灯&f&r并用&8&a钢栅栏&f&r围住.\\n&7[On top of our 3 Light Engineering Blocks we'll place 3 more. We'll also place a Redstone Engineering Block and Light Engineering Block on the Left Side. Then, put another Light Block in the middle and surround it with Steel Fences.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crusher2.png width:100 height:100 align:center}"
-		"最后在&8&a钢栅栏&f&r顶部及中央放置9个漏斗!"
+		"最后,只需在&8&a钢栅栏&f&r顶部和中间位置放置9个漏斗!\\n&7[Finally, we just throw 9 Hoppers on top of the Steel Fences and in the middle!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crusher3.png width:100 height:100 align:center}"
-		"需敲击中央&8栅栏&r以形成多方块结构."
+		"您需要敲击中间的&8栅栏&r来形成多方块结构.\\n&7[You'll need to smack the middle Fence to make the Multiblock.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_crusher.png width:100 height:100 align:center}"
 	]
-	quest.32384DE59539557D.title: "&l&4粉碎机"
-	quest.33732EE8110A0911.quest_desc: ["&8&lIE&r开发者曾遗忘&4&l&a采矿钻头&f&r的采矿功能,最后紧急添加了时运III效果.\\n\\n即通过&a岩石软化酸&f实现."]
-	quest.340F93695FFF8D76.quest_desc: ["升级后&b&l&a化学喷射器&f&r将更接近化学射击器.\\n\\n射程增加但喷洒宽度减小,精度更高!"]
-	quest.341BB1353A1E45EA.quest_desc: ["&a机关枪炮塔&f将成为配备电脑大脑的&d&l左轮枪&r!\\n\\n需从底部输入&c能量&r,并通过&4&a红石信号&f&r激活,或用&6工程师螺丝刀&r设置为常开模式.\\n\\n使用与&d&l左轮枪&r相同的弹药(包括特种弹),可&9输入&r子弹并&6输出&r弹壳,或通过退壳按钮直接丢弃.\\n\\n射击前需设置目标:默认不攻击放置者,可通过类型栏添加玩家或生物名称设为豁免对象.\\n\\n默认为黑名单模式(射击列表内目标),动物指&a被动型生物&f,玩家即玩家实体,中立生物包含中立型生物与村民,始终自动攻击&a敌对性生物&f!"]
-	quest.34D09336FA3E272A.quest_desc: ["&a化学喷射炮塔&f具有与&a机关枪炮塔&f完全相同的瞄准机制,请查阅此处&a了解更多信息&f!\\n\\n与&a机关枪炮塔&f类似,&a化学喷射炮塔&f需要通过端口获取&c能量&r,但还需通过管道输入&b流体&r进行储存和发射.请使用&b管道&r输入&b流体&r,因为无法通过&b桶&r填充,仅能使用&b管道&r.\\n\\n该炮塔拥有4,000mB(相当于4&b桶&r)的存储容量.您还可按下按钮点燃投掷的&b流体&r,使可燃&b流体&r燃烧!"]
-	quest.35E399D88D2EDCB6.quest_desc: ["升级后,所有攻击者将:1. 被击晕(停滞1秒) 2. 受到伤害 3. 摧毁所有抛射物.\\n\\n我认为这个升级物超所值!"]
-	quest.35E399D88D2EDCB6.quest_subtitle: "冲突？"
+	quest.32384DE59539557D.title: "&l&4粉碎机&7[lCrusher]&f"
+	quest.33732EE8110A0911.quest_desc: ["&8&lIE&r开发者忘了&4&l&a采矿钻头&f&r也可用于采矿,所以最后时刻添加了时运III附魔.\\n\\n即&a岩石软化酸&f.\\n&7[The lIE Dev forgot the lMining Drill can also be used for Mining so last minute he put in Fortune III. \\n\\nThat being the Rock Softening Acid.]&f"]
+	quest.340F93695FFF8D76.quest_desc: ["With this the lChemical Thrower will be more of a Chemical Shooter. \\n\\nThe range will be increased but the spray width will be decreased. So it is more accurate!"]
+	quest.341BB1353A1E45EA.quest_desc: ["&a机关枪炮塔&f将作为配备计算机大脑的&d&l左轮枪&r使用!\\n\\n需要从底部输入&c能量&r,并通过&4&a红石信号&f&r激活.或使用&6工程师螺丝刀&r设置为常开模式.\\n\\n使用与&d&l左轮枪&r相同的弹药,包括特种抛射物!可&9输入&r子弹并&6输出&r弹壳,或通过排壳按钮直接丢弃.\\n\\n开始射击前需设置目标筛选:首先不攻击放置者；可通过类型栏添加玩家或生物名称设为豁免目标.\\n\\n默认黑名单模式(射击列表目标),动物指&a被动型生物&f,玩家即玩家实体,中立包含中立生物和村民.请注意其始终自动瞄准&a敌对性生物&f!\\n&7[Gun Turrets will act as a lRevolver with a Computer brain! \\n\\nThey'll need Energy from below it, and a Redstone Signal to turn on. Or use an Engineer's Screwdriver on it to make it always on. \\n\\nIt uses the same Ammo as a lRevolver, that includes Speciality Projectiles! You can Input Bullets into it and Output the Casings, or just have them dropped out with the Expel Casing Button. \\n\\nBefore it starts shooting, we'll need to set its targeting. First, it won't attack the person who placed it. We also have a Type Bar we can add any Player or Mob name to Add in. These will make it so it spares them! \\n\\nIt is automatically set to Blacklist, if it is Blacklisted that means it'll Shoot what is listed. We then have Animals which means Passive Mobs. Players means just Players. Neutral stands for any Neutral Mobs and Villagers. Don't worry it was always target Hostile Mobs!]&f"]
+	quest.34D09336FA3E272A.quest_desc: ["&a化学喷射炮塔&f目标筛选机制与&a机关枪炮塔&f完全相同,请查阅&a了解更多信息&f!\\n\\n同样需要从接口输入&c能量&r,但还需通过管道输入&b流体&r进行储射.仅能使用&b管道&r&9输入流体&r,不可用&b桶&r灌注.\\n\\n该炮塔存储容量为4,000mB(4&b桶&r).可按键点燃抛洒的易燃&b流体&r使其燃烧!\\n&7[The Chemthrower Turret has the same exact targeting as the Gun Turret so check there for more info! \\n\\nJust like the Gun Turret, the Chemthrower Turret needs Energy from its ports. But it will also need Fluids Piped in to hold and shoot. Input Fluids with Pipes as you can't use Buckets to fill it, only Pipes. \\n\\nThe Chemthrower Turret has a storage of 4,000mB or 4 Buckets. You can also press a Button to Ignite Fluids that are thrown. This will set Flammable Fluids, on fire!]&f"]
+	quest.35E399D88D2EDCB6.quest_desc: ["此升级将使攻击者:1.陷入眩晕(暂停行动)2.受到伤害 3.摧毁所有抛射物.\\n\\n我认为值得升级!\\n&7[With this Upgrade everyone who attacks you will 1. be Stunned which will stop them for a second 2. hurt them and 3. destroy any Projectiles. \\n\\nI think it's worth the Upgrade!]&f"]
+	quest.35E399D88D2EDCB6.quest_subtitle: "冲突？&7[Clash?]&f"
 	quest.36EB83BB41A9E621.quest_desc: [
-		"&b&l储罐&r类似于&l&e筒仓&r,但专用于存储&b流体&r!\\n\\n它仅能储存1种&b流体&r,容量可达512&a桶&f.\\n\\n可从顶部或&a底部&f输入&b流体&r,但仅能从底部进行&6输出&r."
+		"&b&l储罐&r类似于&l&e筒仓&r,但专用于存储&b流体&r!\\n\\n仅能储存1种&b流体&r,容量为512&a桶&f.\\n\\n可从顶部或&a底部&f&9输入流体&r,但仅能从底部&6输出&r.\\n&7[The lTank is just like the lSilo but for Fluids! \\n\\nIt can hold only 1 type of Fluid, but it can hold 512 Buckets of that Fluid. \\n\\nYou can Input Fluid from the Top or Bottom Side, but you can only Output from the Bottom.]&f"
 		"{@pagebreak}"
-		"&b&l储罐&r的构建方式与&e&l筒仓&r相似,从经处理的栅栏和单块&7&a铁板&f金属&r开始."
+		"&b&l储罐&r构建方式类似&e&l筒仓&r,从经处理的栅栏和单块&7&a铁板&f金属&r开始.\\n&7[The lTank is built similar to the lSilo, start with our Treated Fences and singular Iron Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_tank1.png width:125 height:100 align:center}"
-		"在栅栏上方搭建三层&7&a铁板&f金属&r构成的中空框架."
+		"在栅栏上方搭建&7&a铁板&f金属&r空心方框,本次需搭建3格高.\\n&7[Now we build our hollow squares of Iron Sheetmetals above our Fences, this time 3 Blocks high.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_tank2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_tank3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_tank4.png width:100 height:100 align:center}"
-		"最后用实心&7&a铁板&f金属&r方块完成顶部封闭!"
+		"最后用实心&7&a铁板&f金属&r封顶!\\n&7[Then, top it off with a filled in square of Iron Sheetmetal!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_tank5.png width:100 height:100 align:center}"
-		"与&e&l筒仓&r操作相同,&a右击&f指定方块即可生成&b&l储罐&r."
+		"&a右击&f与&e&l筒仓&r相同的方块以生成&b&l储罐&r.\\n&7[Right Click the same Block as in the lSilo to create our lTank.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_tank.png width:100 height:120 align:center}"
 	]
-	quest.36EB83BB41A9E621.title: "&b&l储罐"
-	quest.373668AE257A7A94.quest_desc: ["&a烈性炸药&f弹筒会向敌人发射爆炸物,其爆炸效果类似TNT!\\n\\n龙息弹的效果类似霰弹,但弹体会附带燃烧效果!!!!!\\n\\n&a药剂弹头&f根据制作时使用的药水赋予&a药水效果&f.\\n\\n&a信号弹&f的运作方式类似弩箭发射的烟花.\\n\\n&a叶绿弹&f会自动瞄准最接近您的生物...但愿那是危险生物.\\n\\n狼群弹类似霰弹,但弹体会变成&a叶绿弹&f!"]
-	quest.373668AE257A7A94.title: "&a特种子弹&f"
-	quest.38C98FCB6A2D4226.quest_desc: ["微型特斯拉线圈的效果类似荆棘附魔.\\n\\n当您佩戴&c&l背包&r时,任何攻击者都会遭受电击,造成&a伤害&f并附加特殊效果!"]
-	quest.38F01BAEC74D5D68.quest_desc: ["这与另一个预热器完全相同,我只是想要对称布局:D."]
-	quest.39DAC0592300992A.quest_desc: ["可合成&9&a金属冲压机&f模具蓝图&r.\\n\\n&7&l&a金属冲压机&f多方块结构&r能自动化生产&7&a金属板材&f&r和&e物品&r.\\n\\n冲压&7金属&r需要模具.\\n\\n制作这些模具需要&9蓝图&r!"]
-	quest.39DAC0592300992A.title: "&9&a金属冲压模具&f蓝图"
-	quest.3A4A8EAA3022C7BA.quest_desc: ["&a水车&f是&a动能发电机&f的可选设备之一.\\n\\n相较于风车,水车结构更紧凑但造价更高.\\n\\n使用时需要让&9水流&r流过水车,周围&9水流&r越多转速越快.注意确保&9水流&r不出现双向流动!\\n\\n紧凑的结构允许我们在1台&a动能发电机&f上安装3个水车以获取更多能量."]
-	quest.3DE14F16F3109229.quest_desc: ["将任意木材的8块木板与&7&a杂酚油桶&f&r结合,我们就能得到&a防腐木&f!\\n\\n&a防腐木&f几乎用于&8&lIE&r提供给我们的每一个物品,以及大多数简单机械.\\n\\n最重要的是&6工程师装配台&r!这些将为我们提供大量新配方."]
-	quest.3DE14F16F3109229.title: "&a防腐木&f"
-	quest.3E32450DBB7529AA.quest_desc: ["&e&a计量分配器&f&r的工作原理有点像过山车的排队系统.\\n\\n&a辊压机&f过山车直到所有座位坐满才会出发!同样地,&e计量分配器&r在设定的过滤器和数量匹配之前不会&6输出&r&e物品&r.\\n\\n非常适合像&5&l&d通用机械&f&r矿石&a处理&f这样的操作,这些操作需要特定数量的&e物品&r&9输入&r,否则会出现瓶颈."]
-	quest.3E32450DBB7529AA.title: "&e&a计量分配器&f"
-	quest.3E89034E0CB8D687.quest_desc: ["&a木箱&f的功能类似桶……但是&2&lMinecraft&r风格的桶,所以是从任何一面都能打开的箱子!\\n\\n它们有27个槽位,但可以用&6工程师锤&r按住Shift键&a右击&f(多次)来关闭它们!这意味着它们可以被破坏并保留内部的&e物品&r.\\n\\n你还可以编辑箱子的文本来更改其名称,就像在铁砧中一样.\\n\\n&a强化&f箱子的功能与普通箱子完全相同,只是不会被炸毁!"]
-	quest.3E89034E0CB8D687.title: "存储&e物品"
-	quest.3ED40CC40458087E.quest_desc: ["&c&l&a蓄电池背包&f&r本身功能不多,我们需要给它一个&c蓄电池&r才能让它工作!任何&c蓄电池&r它都不挑剔!\\n\\n一旦你在&6工程师装配台&r中给它安装了一个&c蓄电池&r,你现在就可以给它充电.充电后,它会为你手中的物品和穿戴的盔甲提供&c能量&r.\\n\\n你可以将它穿戴在Curios的&a背用武器&f栏位、&a胸甲栏&f,或在工作台中与胸甲结合.\\n\\n&a背包&f可以容纳1个&c蓄电池&r和3个升级."]
-	quest.3ED40CC40458087E.title: "&c&l&a蓄电池背包&f"
-	quest.3EDDF96EA5056D28.quest_desc: ["&6铜&r和&7镍&r可以制成&6康铜&r!\\n最后这种合金在&8&lIE&r中用途相当广泛,特别是在使用热量和金属的机械或物品中,比如发电机."]
-	quest.3EDDF96EA5056D28.title: "&6&a康铜锭&f"
+	quest.36EB83BB41A9E621.title: "&b&l坦克&7[lTank]&f"
+	quest.373668AE257A7A94.quest_desc: ["&a烈性炸药&f弹筒会向敌人发射爆炸物,像TNT一样炸毁附近一切!\\n\\n龙息弹效果类似鹿弹,但现在的弹丸会燃烧!!!!\\n\\n&a药剂弹头&f根据制作时使用的药水赋予&a药水效果&f.\\n\\n&a信号弹&f工作原理类似弩箭中的烟花.\\n\\n&a叶绿弹&f会自动瞄准离你最近的生物...希望那是危险生物.\\n\\n狼群弹类似鹿弹,但现在的弹丸是&a叶绿弹&f!\\n&7[High Explosive Cartridges will shoot explosives at your Enemies, blowing up everything nearby like TNT would! \\n\\nDragon's Breath Shells work like Buckshot, but now the Projectiles are on Fire!!!!! \\n\\nPhial Cartridges give Potion Effects based on the Potion used in its creation. \\n\\nFlare Shells work like Fireworks in a Crossbow. \\n\\nHoming Cartridges will aim after whatever Mob is closest to you... let's hope it's a dangerous Mob. \\n\\nWolfpack Shells are like Buckshot Shells but now the Projectiles are Homing Cartridges!]&f"]
+	quest.373668AE257A7A94.title: "&a特种子弹&f&7[Specialized Projectiles]&f"
+	quest.38C98FCB6A2D4226.quest_desc: ["微型特斯拉线圈的效果类似荆棘附魔.\\n\\n当你穿着&c&l背包&r时,任何攻击者都会受到电击,造成&a伤害&f并施加效果!\\n&7[The Miniture Telsa Coil will act like the Thorns Enchantment. \\n\\nAnyone who hits you, while you are wearing the lBackpack, will be Shocked. Dealing Damage and giving an Effect!]&f"]
+	quest.38F01BAEC74D5D68.quest_desc: ["这个预热器和其他的一样,我只是想要对称设计:D.\\n&7[It's the same as the other Preheater I just wanted it to be symmetrical :D.]&f"]
+	quest.39DAC0592300992A.quest_desc: ["可制作&9&a金属冲压机&f模具蓝图&r.\\n\\n&7&l&a金属冲压机&f多方块结构&r能自动化生产&7&a金属板材&f&r和&e物品&r.\\n\\n冲压&7金属&r需要模具.\\n\\n制作模具需要这些&9蓝图&r!\\n&7[Metal Press Mold Blueprints can be Crafted. \\n\\nlMetal Press Multiblock will automate the creation of Metal Plates and Items. \\n\\nTo press the Metals we'll need Molds. \\n\\nIn order to make the Molds will need these Blueprints!]&f"]
+	quest.39DAC0592300992A.title: "&9&a金属冲压模具&f蓝图&7[Metal Press Molds Blueprints ]&f"
+	quest.3A4A8EAA3022C7BA.quest_desc: ["&a水车&f是可用于&a动能发电机&f的机器之一.\\n\\n相比风车更紧凑但更昂贵.\\n\\n使用时需要&9水流&r流过水车,周围&9水流&a越多&f转速越快.确保&9水流&r不朝两个不同方向流动!\\n\\n紧凑设计允许在1个&a动能发电机&f上安装3个水车以获得更多能量.\\n&7[Water Wheels are one of the Machines we can use for the Kinetic Dynamo. \\n\\nThese are much more compact but also expensive, compared to the Windmill. \\n\\nTo use them you'll need Water flowing over the Waterwheel. The more Water around it, the faster it'll go. Just make sure the Water isn't flowing in 2 different ways! \\n\\nBeing more compact means we can place 3 Waterwheels on 1 Kinetic Dynamo to get even more Energy.]&f"]
+	quest.3DE14F16F3109229.quest_desc: ["将任意木材的8块木板与&7&a杂酚油桶&f&r结合可制成&a防腐木&f!\\n\\n&a防腐木&f用于&8&lIE&r提供的几乎所有物品及大多数简易机器.\\n\\n最重要的是&6工程师装配台&r!这将提供大量新配方.\\n&7[By combining 8 Planks of any Wood, with a Bucket of Creosote Oil, we'll get Treated Wood! \\n\\nTreated Wood is used in almost every single Item lIE gives us, plus most of the simple Machines. \\n\\nMost important is the Engineer's Workbenches! These will give us a ton of new Recipes.]&f"]
+	quest.3DE14F16F3109229.title: "&a防腐木&f&7[Treated Wood]&f"
+	quest.3E32450DBB7529AA.quest_desc: ["&e&a计量分配器&f&r工作原理类似过山车轨道.\\n\\n&a辊压机&f过山车会在所有座位坐满后才发车!同样地,&e计量器&r只有在满足设定过滤条件和数量后才会&6输出&r&e物品&r.\\n\\n特别适用于需要定量&9输入&r&e物品&r的&5&l&d通用机械&f&r矿石&a处理&f,避免形成瓶颈.\\n&7[Item Batcher works kinda like the line for a Roller Coaster. \\n\\nThe Roller Coaster won't leave until all seats are filled! The same way the Batcher won't Output Items until the set Filter and Amount has been matched. \\n\\nPerfect for stuff like lMekanism Ore Processing which needs certain amounts of Items Inputed or else it will bottleneck.]&f"]
+	quest.3E32450DBB7529AA.title: "&e&a计量分配器&f&7[Item Batcher]&f"
+	quest.3E89034E0CB8D687.quest_desc: ["&a木箱&f功能类似桶...但是&2&lMinecraft&r风格的桶,即可从任意面打开的箱子!\\n\\n拥有27个槽位,可用&6工程师锤&rShift+&a右键&f点击(多次)锁闭!这样破坏时能保留内部&e物品&r.\\n\\n可在铁砧界面编辑板条箱名称.\\n\\n&a强化&f板条箱功能相同,但防爆!\\n&7[Wooden Crates act as Barrels... but lMinecraft ones, so Chests that can be opened from any side! \\n\\nThey have 27 Slots but can be Shift Right Clicked with an Engineer's Hammer (multiple times) to shut them closed! This means they can be broken and preserve the Items inside. \\n\\nYou can also edit the Text of the Crate to change its name as if it were in an Anvil. \\n\\nThe Reinforced Crate works exactly the same as the normal one, just can't be blown up!]&f"]
+	quest.3E89034E0CB8D687.title: "存储&e物品&7[Storing Items]&f"
+	quest.3ED40CC40458087E.quest_desc: ["&c&l&a蓄电池背包&f&r本身功能有限,我们需要为其安装&c蓄电器&r才能发挥作用!任何&c蓄电器&r都可以,它不挑型号!\\n\\n在&6工程师装配台&r中安装&c蓄电器&r后即可进行充电.充电完成后可为手持物品及穿戴的护甲提供&c能量&r.\\n\\n可通过Curios模组放置在&a背部装备栏&f,或置于&a胸甲栏&f,亦可在工作台中与胸甲合成使用.\\n\\n&a背包&f可容纳1个&c蓄电器&r和3个升级组件.\\n&7[The lAccumulator Backpack doesn't do much on your own, we'll need to give it an Accumulator in order to get some work out of it! Any Accumulator it's not judgy! \\n\\nOnce you give it an Accumulator in an Engineer's Workbench, you can now charge it up. Once charged it will provide Energy to Items in your Hand and Armor you are wearing. \\n\\nYou can wear it on your Back Slot in Curios, your Chestplate Slot, or combine it with a Chestplate in a Crafting Table. \\n\\nThe Backpack can hold 1 Accumulator and 3 Upgrades.]&f"]
+	quest.3ED40CC40458087E.title: "&c&l&a蓄电池背包&f&7[lAccumulator Backpack]&f"
+	quest.3EDDF96EA5056D28.quest_desc: ["&6铜&r与&7镍&r可合成&6康铜&r!\\n这种合金在&8&l沉浸工程&r中应用广泛,尤其适用于涉及热量与金属的机器设备,比如发电机.\\n&7[Copper and Nickel will make Constantan! \\nFinally this one is used quite a bit in lIE, especially in Machines or Items using Heat and Metal, like Generators.]&f"]
+	quest.3EDDF96EA5056D28.title: "&6&a康铜锭&f&7[Constantan Ingot]&f"
 	quest.3EE95747CA6DFB1A.quest_desc: [
-		"&7&l&a金属冲压机&f&r是我们处理所有&7金属&r配方的最佳伙伴!\\n\\n操作非常简单:我们将模具放在冲压机上,从顶部接入一些&c能量&r,然后将&e物品&r扔到&e&a传送带&f&r上.\\n\\n我们的&e物品&r会经过冲压机,被&7&l冲压&r,变成新的&e物品&r继续在&e传送带&r上移动!\\n\\n这些可以用来制作&c电线&r、&7板&r、&8杆&r,还有……&2&a西瓜堆&f&r？"
+		"&7&l&a金属冲压机&f&r是所有&7金属&r合成配方的最佳搭档!\\n\\n操作简易:将模具放入冲压机,从顶部接入&c能量&r,再将&e物品&r投放至&e&a传送带&f&r.\\n\\n&e物品&r经过冲压处理后,会转变为新&e物品&r继续在&e传送带&f&r上移动!\\n\\n可用于制造&c导线&r、&7金属板&r、&8金属杆&r以及...&2&a西瓜堆&f&r？\\n&7[The lMetal Press is our Best Friend for all Crafting Recipes with Metal! \\n\\nIt's very simple, we place our Molds onto the Press, attach some Energy to the top, and toss our Items onto the Conveyor Belts. \\n\\nOur Items will pass through, get lPressed, and become a new Item that keeps moving on the Belt! \\n\\nThese can be used to make Wires, Plates, Rods, and... Melon Slices?]&f"
 		"{@pagebreak}"
-		"第一层非常简单,只需要&8&a钢脚手架&f&r和一个&4红石工程块&r的两侧."
+		"底层结构简单,仅需&8&a钢脚手架&f&r和&4红石工程方块&r的双侧布局.\\n&7[First layer is very simple, just Steel Scaffolding and both sides of a Redstone Enginerring Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_press1.png width:150 height:75 align:center}"
-		"接下来,我们在&4&a红石工程块&f&r上方放置一个朝下的活塞,并在其旁边添加两个&a传送带&f."
+		"接着在&4&a红石工程方块&f&r正上方朝下放置活塞,并在其两侧各安装一条&a传送带&f.\\n&7[Next, we place a Piston, facing Down, above the Redstone Engineering Block and add two Conveyor Belts next to it.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_press2.png width:125 height:100 align:center}"
-		"然后,我们在活塞上方放置一个&7&a重型工程块&f&r!"
+		"然后在活塞正上方放置一个&7&a重型工程方块&f&r!\\n&7[Then, we place a single Heavy Engineering Block above our Piston!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_press3.png width:100 height:100 align:center}"
-		"最后,我们用工程师锤&a右击&f活塞!"
+		"最后用工程师锤&a右击&f活塞!\\n&7[Last, we Right Click the Piston with the Engineer's Hammer!]&f"
 	]
-	quest.3EE95747CA6DFB1A.title: "&l&7&a金属冲压机&f"
-	quest.407C2D00F22BD89D.quest_desc: ["这个升级提供了额外6发子弹的空间!使总容量达到14发."]
+	quest.3EE95747CA6DFB1A.title: "&l&7&a金属冲压机&f&7[lMetal Press]&f"
+	quest.407C2D00F22BD89D.quest_desc: ["此次升级可额外容纳6发子弹!总容量提升至14发.\\n&7[This Upgrade gives space for 6 more Bullets! Making the total up to 14.]&f"]
 	quest.4104C5D003D4705A.quest_desc: [
-		"又一个使用&e传送带&r的多方块结构,我发现规律了.首先需要设置&9蓝图&r,&a右键点击&f&6&l&a装配机&f&r打开其图形界面,将&9蓝图&r放入最右侧槽位.\\n\\n随后让&e物品&r通过&e传送带&r输送,在符合配方时参与合成.\\n\\n制作完成的&e物品&r(以及意外进入&e传送带&r的&e物品&r)会通过&e传送带&r输出.\\n\\n这个系统可自动化生产子弹、&0&a高定向热解石墨粉&f&r和&7机械零件&r."
+		"又一个使用&e传送带&f&r的多方块结构——我看出规律了.首先需要设置&9蓝图&r:&a右击&f&6&l&a装配机&f&r打开界面,将&9蓝图&r放入最右侧槽位.\\n\\n随后&e物品&f&r会通过&e传送带&f&r输送,符合配方要求的将被自动使用.\\n\\n加工完成的&e物品&f&r(以及误上传送带的&e物品&f&r)会从&e传送带&f&r末端输出.\\n\\n此装置适用于自动化生产子弹、&0&a高定向热解石墨粉&f&r及&7机械零件&f&r.\\n&7[Another Multiblock that uses Belts, I'm seeing a pattern. First, we need to set a Blueprint. Right Click the lAutomated Workbench to open its GUI and place a Blueprint in the Right most slot. \\n\\nThen, we can have our Items go through the Belts to be used in Recipes if possible. \\n\\nAfter that, the Crafted Item (and Items that were accidentally put on the Belts) will go out the Belts. \\n\\nThis is useful for automating Bullets, HOP Graphite, and Mechanical Components.]&f"
 		"{@pagebreak}"
-		"这类结构常以&8&a钢脚手架&f&r构建基础造型,本次需搭建斜线布局.较小转角处放置&7&a重型工程块&f&r,较大转角处放置2个&e&a轻型工程块&f&r和1个&4&a红石工程块&f&r."
+		"此类结构多采用&8&a钢脚手架&f&r构建基础框架,本次为对角线布局.较小转角处放置&7&a重型工程方块&f&r,较大转角处配置2个&e&a轻型工程方块&f&r和1个&4&a红石工程方块&f&r.\\n&7[We start a lot of these with shapes using Steel Scaffolding, this time it is a diagonal line. On the smaller corner we'll place a Heavy Engineering Block. On the bigger corner we'll place 2 Light Engineering Blocks and a Redstone Engineering Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_automated1.png width:100 height:100 align:center}"
-		"在现有结构顶部继续叠加&e轻型工程块&r与&7&a重型工程块&f&r.在&4&a红石工程块&f&r及其&a左侧&f的&8&a钢脚手架&f&r上方放置&a防腐木台阶&f,剩余空间按图示顺序铺设&e&a传送带&f&r."
+		"接着在原有结构顶部叠加&e轻型工程方块&f&r与&7&a重型工程方块&f&r.在&4&a红石工程方块&f&r及其&a左侧&f的&8&a钢脚手架&f&r上方铺设&a防腐木台阶&f.剩余空间按图示顺序安装&e&a传送带&f&r.\\n&7[Next, we'll place more Light Engineering and Heavy Engineering Blocks on top of their former selves. Above the Redstone Engineering Block and the Steel Scaffolding to the left of it we'll place Treated Wood Slabs. Within the rest of the space we'll place Conveyor Belts in the order shown.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_automated2.png width:100 height:100 align:center}"
-		"使用&6工程师锤&r敲击左侧&a防腐木台阶&f即可获得&6&l&a装配机&f&r!"
+		"使用&6工程师锤&f&r敲击左侧&a防腐木台阶&f即可获得&6&l&a装配机&f&r!\\n&7[To get our lAutomated Workbench, smack the left Treated Wood Slab with the Engineer's Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_automated.png width:100 height:100 align:center}"
 	]
-	quest.4104C5D003D4705A.title: "&l&6&a装配机&f"
+	quest.4104C5D003D4705A.title: "&l&6&a装配机&f&7[lAutomated Workbench]&f"
 	quest.41B99DBD03EB74FF.quest_desc: [
-		"这个多方块结构的改进效果名副其实!\\n\\n可实现顶部自动输入&9原料&r,正面与&a背部&f输出&6成品&r.\\n\\n左右两侧还可加装预热器!\\n\\n这些改进显著提升运行速度与工作效率!"
+		"相信我,这个多方块结构的改进效果名副其实!\\n\\n可实现顶部自动&9输入&f&r,正面与&a背部&f自动&6输出&f&r.\\n\\n左右两侧还可加装预热器!\\n\\n这些改进显著提升了运行速度与工作效率!\\n&7[Trust me the Multiblock ain't lying when it says it's improved! \\n\\nThis one can be automated to recieve Inputs from the Top, and Outputs from the Front and Back Slots. \\n\\nAlso, we can add Preheaters to its Left and Right! \\n\\nAll this makes it much faster and of course, more efficient!]&f"
 		"{@pagebreak}"
-		"终于遇到个不同的!先用3x3x3的&4&a强化高炉砖&f&r搭建基座."
+		"终于来个不一样的!你需要先用3x3x3的&4&a强化高炉砖&f&r搭建基座.\\n&7[Finally a different one! You'll start with a base of 3x3x3 Reinforced Blast Bricks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_blast1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_blast2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_blast3.png width:100 height:100 align:center}"
-		"在中心方块顶部放置漏斗."
+		"接着,在中间方块的顶部放置一个漏斗.\\n&7[Then, place a Hopper on the Top of the Middle Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_blast4.png width:100 height:125 align:center}"
-		"用&6工程师锤&r&a右键点击&f第二层中央&a方块&f."
+		"现在用&6工程师锤&f&r&a右击&f第二层的中间&a方块&f.\\n&7[Now Right Click the Middle Block of the 2nd layer with the Engineer's Hammer.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_blast.png width:100 height:150 align:center}"
 	]
-	quest.41B99DBD03EB74FF.title: "&l&4&a强化高炉&f"
-	quest.4295C863C9A81F28.quest_desc: ["特斯拉线圈是耗能巨大但趣味十足的&c能源&f防御设施!\\n\\n先通过任意端口注入&c能源&r,再输入&4&a红石信号&f&r启动,或使用&6工程师螺丝刀&f&r设为常开模式!\\n\\n启动后会持续消耗&c能源&r,当生物靠近时会触发麻痹与伤害效果!伤害行为会加大&c能源&r消耗.\\n\\nShift+&a右键点击&f使用&6工程师螺丝刀&f&r可切换低功耗模式,降低&c能源&r消耗的同时缩减作用范围与&a伤害&f值!"]
-	quest.431C62A6F8ECB4EC.quest_desc: ["&7&a铝杆&f&r - 10 \\n&7&a铁杆&f&r - 16 \\n&8&a钢杆&f&r - 24 \\n&8锯片&f&r - 12 \\n&0&a石墨电极&f&r - 30"]
-	quest.431C62A6F8ECB4EC.title: "&8&lIE&r提供的&5&l轨道炮&r弹药"
-	quest.442B1A1900BADAFC.quest_desc: ["&8&lIE&r中部分机械并非多方块结构,而是单方块设备!\\n\\n切勿因其结构简单而轻视它们的重要性!"]
-	quest.442B1A1900BADAFC.title: "小型机械"
-	quest.452EF09F6CB4AD99.quest_desc: ["&c中继器&r并非将&c导线&r连接至机器,而是将&c导线&r连接到更多&c导线&r!\\n\\n&c中继器&r通过将多束&c导线&r汇聚到一点来工作,它会接收所有&9输入&c能量&r并将其传输至连接所有&6输出端&r的&c连接器&r.\\n\\n当您有一个发电机需要为多个机器供电时,这非常有用!"]
-	quest.452EF09F6CB4AD99.title: "&c中继器"
-	quest.458265FCD6B3068E.quest_desc: ["大家都喜欢&l匠造&r的合成站,显然&8&lIE&r开发者也是如此!\\n\\n&6工程师装配台&r就像普通工作台一样,但额外增加了18个存储槽,而且当您停止查看时,它会将&e物品&r保留在网格中!\\n\\n您还能要求什么呢!"]
-	quest.458265FCD6B3068E.title: "&6工程师装配台"
-	quest.47656073894224AF.quest_desc: ["没错,就像巨型战舰上的那种!\\n\\n&5&l磁轨炮&r是一种特殊的枪械:其一,它使用特殊弹药,而非左轮手枪使用的弹壳；其二,它消耗&c能量&r且需要充能才能射击.\\n\\n使用的&a弹药&f是您库存中的&e物品&r:&7铝&r、&7铁&r、&8&a钢杆&f&r、&0&a石墨电极&f&r、锯刃、末影珍珠、三叉戟、&a烈焰棒&f和&a末地烛&f.\\n\\n它会取用您库存中的任何物品,要更改发射物,请&a按住Shift键&f并滚动鼠标滚轮.\\n\\n其次,它需要内部有&c能量&r才能射击,我们可以使用任何&c物品充能器&r为其充能,包括&8&l&d沉浸工程&f&r添加的那种!\\n\\n准备好后,按住&a右键&f直至磁轨炮达到99级,然后释放!\\n\\n&5&l磁轨炮&r的升级有:&a瞄准镜&f和散热片.\\n\\n它最多容纳2个升级,很合理,毕竟不能再多了!"]
-	quest.47656073894224AF.title: "&5&l磁轨炮"
-	quest.47E32A084CAA1512.quest_desc: ["可与军火商交易或合成获得.\\n\\n没有子弹的枪可没什么意思,所以让我们合成一些吧!不过合成需要这张&9蓝图&r."]
-	quest.47E32A084CAA1512.title: "&9&a普通子弹&f蓝图"
-	quest.481735FE3164C8D5.quest_desc: ["&b&a蓝冰&f&r- 200 K \\n&b&a浮冰&f&r- 240 K \\n&b冰&r- 260 K \\n雪- 273 K \\n&9水&r- 300 K"]
-	quest.481735FE3164C8D5.title: "&b寒冷物品"
-	quest.4AAB3899F530CC19.quest_desc: ["滑槽可以接收&e物品&r(和一些实体)并投放,无需担心消失!\\n\\n它们投放&e物品&r的速度也非常快.\\n\\n您可以使用&6工程师锤&r让滑槽弯曲,将&e物品&r抛到&e传送带&r上!"]
-	quest.4AAB3899F530CC19.quest_subtitle: "没有梯子？"
-	quest.4B42D962FE910CB3.quest_desc: ["将此附件添加到您的&d&l左轮手枪&r上后,您的子弹会使击中的生物获得眩晕效果."]
+	quest.41B99DBD03EB74FF.title: "&l&4&a强化高炉&f&7[lImproved Blast Furnace]&f"
+	quest.4295C863C9A81F28.quest_desc: ["特斯拉线圈是个非常有趣但&c耗能&f&r严重的家用防御装置!\\n\\n首先通过任意端口接入&c能源&f&r.然后可通过&4&a红石信号&f&r激活,或使用&6工程师螺丝刀&f&r设置为常开模式!\\n\\n启动后会持续消耗&c能源&f&r,当生物靠近时会将其击晕并造成伤害!攻击生物会额外消耗&c能源&f&r.\\n\\n手持&6工程师螺丝刀&f&r按住Shift键&a右击&f可切换低功耗模式,降低&c能耗&f&r的同时也会缩减作用范围和&a伤害&f效果!\\n&7[The Telsa Coil is a very fun and Energy hungry home defence! \\n\\nFirst, power it with Energy from any of its Ports. Then, either give it a Redstone Signal to turn it on, or use a Engineer's Screwdriver to make it always on! \\n\\nOnce it is on it will be actively using Energy and when a Mob comes near it, it will Stun them and hurt them! Hurting Mobs makes it take more Energy though. \\n\\nYou can Shift Right Click with an Engineer's Screwdriver to set it to low power mode. It will take less Enery but also have less Range and deal less Damage!]&f"]
+	quest.431C62A6F8ECB4EC.quest_desc: ["&7&a铝杆&f&r - 10 \\n&7&a铁杆&f&r - 16 \\n&8&a钢杆&f&r - 24 \\n&8锯片&f&r - 12 \\n&0&a石墨电极&f&r - 30\\n&7[Aluminum Rod - 10 \\nIron Rod - 16 \\nSteel Rod - 24 \\nSawblade - 12 \\nGraphite Electrode - 30]&f"]
+	quest.431C62A6F8ECB4EC.title: "来自&8&l沉浸工程&f&r的&5&l磁轨炮&f&r弹药&7[lRailgun Ammo from lIE]&f"
+	quest.442B1A1900BADAFC.quest_desc: ["&8&l沉浸工程&f&r中部分机械并非多方块结构,而是单方块设备!\\n\\n但不要因为它们仅由单个方块构成就认为不重要!\\n&7[Some Machines in lIE aren't Multiblocks, rather they are single-blocked! \\n\\nDon't think that, just because they are made with 1 Block that, they aren't important though! ]&f"]
+	quest.442B1A1900BADAFC.title: "小型机械&7[Small Machines]&f"
+	quest.452EF09F6CB4AD99.quest_desc: ["&c继电器&f&r不直接连接&c线缆&f&r到机械,而是用于&c线缆&f&r之间的互联!\\n\\n&c继电器&f&r能将多股&c线缆&f&r汇聚到一点,收集所有&9输入能源&f&r后通过&c连接器&f&r分配至所有连接的&6输出端&f&r.\\n\\n当需要单个发电机为多个机械供能时特别有用!\\n&7[Relays don't connect Wires to Machines, rather they connect Wires to more Wires! \\n\\nRelays work by combining a bunch of Wires into one spot, so it will take all the Input Energy and send them to Connectors to all the Outputs connected. \\n\\nThis is helpful for when you have either one Power Generator that you want to charge multiple Machines!]&f"]
+	quest.452EF09F6CB4AD99.title: "&c继电器&7[Relays]&f"
+	quest.458265FCD6B3068E.quest_desc: ["大家都爱&l匠魂&f&r的合成站,&8&l沉浸工程&f&r开发者显然也是!\\n\\n&6工程师装配台&f&r除常规合成功能外,内置18格存储空间,且关闭界面时&e物品&f&r会保留在合成网格中!\\n\\n夫复何求!\\n&7[Everybody loved the Crafting Stations from lTinker's Construct and apparently so did the lIE Devs! \\n\\nThe Engineer's Crafting Table will act like a normal Crafting Table, with an added 18 Slots of Storage in it, plus it keeps your Items in the Grid when you stop viewing it! \\n\\nWhat more could you want!]&f"]
+	quest.458265FCD6B3068E.title: "&6工程师装配台&7[Engineer's Crafting Table]&f"
+	quest.47656073894224AF.quest_desc: ["没错,就像巨型战舰上的那种!\\n\\n&5&l磁轨炮&f&r是特殊枪械:1.使用专属弹药(非左轮手枪的弹夹)2.需要消耗&c能源&f&r且射击前需充能.\\n\\n可使用背包内的&e物品&f&r作为&a弹药&f:&7铝&f&r、&7铁&f&r、&8&a钢杆&f&r、&0&a石墨电极&f&r、锯片、末影珍珠、三叉戟、&a烈焰棒&f、&a末地烛&f.\\n\\n自动读取背包内物品,按住Shift键&a滚动鼠标&f可切换弹药类型.\\n\\n需注入&c能源&f&r才能射击,可通过任意&c物品充能器&f&r(包括&8&l&d沉浸工程&f&r自带款)充能.\\n\\n准备就绪后长按&a右键&f直至充能达到99级后释放!\\n\\n&5&l磁轨炮&f&r可装配&a瞄准镜&f和散热片两种配件.\\n\\n最多同时装载两个配件——毕竟也装不下更多了!\\n&7[Yes, it is just like the ones on giant Battleships! \\n\\nThe lRailgun is a special Gun. For 1. it uses special Ammo, not Cartridges like the Revolver uses 2. it uses Energy and needs to charge before shooting. \\n\\nThe Ammo it uses is Items from your Inventory: Aluminum, Iron, and Steel Rods, Graphite Electrodes, Sawblades, Enderpearls, Tridents, Blaze Rods, and End Rods. \\n\\nIt'll take whatever is in your Inventory, to change what it Shoots, Hold Shift and Scroll. \\n\\nNext, it needs Energy within it to Shoot, to charge it we can use any Item Charger, including the one added by lImmersive Engineering! \\n\\nOnce we have all this, Hold Right Click until the Railgun gets to Level 99, then release! \\n\\nThe lRailgun's Upgrades are: Precision Scope and Heatsinks. \\n\\nIt can hold 2 Upgrades, well that makes sense it can't use anymore than that!]&f"]
+	quest.47656073894224AF.title: "&5&l磁轨炮&7[lRailgun]&f"
+	quest.47E32A084CAA1512.quest_desc: ["可通过与军火商交易或合成获得.\\n\\n没有子弹的枪械乐趣有限,让我们来合成一些吧!不过合成之前需要这张&9蓝图&r.\\n&7[Can be Traded with a Gunsmith or Crafted. \\n\\nGuns aren't much fun without Bullets, so let's Craft some! In order to Craft them though we'll need this Blueprint.]&f"]
+	quest.47E32A084CAA1512.title: "&9&a普通子弹&f 蓝图&7[Common Projectiles Blueprint]&f"
+	quest.481735FE3164C8D5.quest_desc: ["&b&a蓝冰&f&r- 200 K \\n&b&a浮冰&f&r- 240 K \\n&b冰&r- 260 K \\n雪- 273 K \\n&9水&r- 300 K\\n&7[Blue Ice- 200 K \\nPacked Ice- 240 K \\nIce- 260 K \\nSnow- 273 K \\nWater- 300]&f"]
+	quest.481735FE3164C8D5.title: "&b寒冷物品&7[Cold Items]&f"
+	quest.4AAB3899F530CC19.quest_desc: ["滑槽可以输送&e物品&r(及部分实体)并掉落,无需担心消失!\\n\\n它们掉落&e物品&r的速度也非常快.\\n\\n使用&6工程师锤&r可使滑槽弯曲,将&e物品&r抛掷到&e传送带&r上!\\n&7[Chutes can take Items (and some Entities) and drop them without worry of despawning! \\n\\nThey also drop Items pretty darn quickly. \\n\\nYou can use the Engineer's Hammer to make a Chute curve to toss the Items onto a Belt!]&f"]
+	quest.4AAB3899F530CC19.quest_subtitle: "没有梯子？&7[No Ladders?]&f"
+	quest.4B42D962FE910CB3.quest_desc: ["将此部件加装到您的&d&l左轮手枪&r上,被击中的生物将获得眩晕效果.\\n&7[With this added on to your lRevolver, your Bullets will give the Mobs you hit the Stunned Effect.]&f"]
 	quest.4BA2F4AC2A08C294.quest_desc: [
-		"这是什么？这可是&8&l&d沉浸工程&f&r中最难制作且最昂贵的多方块结构——&c&l挖掘机&r!\\n\\n这个巨型机器会自动从地面收集矿石和方块.\\n\\n它拾取的&a物品&f会从其背部的端口&6输出&r.如果旁边没有容器,它会将物品吐出.\\n\\n这也是一个超级耗&c能量&r的机器,您需要用它左侧的能量端口为其供能!"
+		"这是什么？这正是&8&l&d沉浸工程&f&r中最复杂昂贵的多方块结构——&c&l挖掘机&r!\\n\\n这个巨型设备能自动采集地下的矿石与方块.\\n\\n采集的&a道具&f会从后方端口的&6输出口&r排出.若周边没有容器,物品将直接掉落.\\n\\n这也是台超级耗&c能量&r的机器,需通过左侧能量端口为其供能!\\n&7[What's that? It's only the hardest and most expensive Multiblock in lImmersive Engineering. The lExcavator! \\n\\nThis giant behemoth will automatically collect Ores and Blocks from the Ground. \\n\\nThe Items it picks up will be Output from a Port in the Back of it. If there's no Inventory next to it, it will dispense the Items. \\n\\nThis is also a super Energy hungry Machine, you'll need to use the Energy Ports on the Left Side of it to feed it!]&f"
 		"{@pagebreak}"
-		"放置一个&8&a钢块&f&r."
+		"放置一个&8&a钢块&f&r.\\n&7[Place a Steel Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator1.png width:100 height:100 align:center}"
-		"在&8&a钢块&f&r上方添加3个&8&a钢脚手架&f&r,并在两端各放置2个&8&a钢块&f&r."
+		"在&8&a钢块&f&r上方叠加3个&8&a钢脚手架&f&r,并在两端各放置1个&8&a钢块&f&r.\\n&7[Add 3 Steel Scaffolding above the Steel Block and place 2 Steel Blocks on the ends.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator2.png width:175 height:100 align:center}"
-		"随后在先前&8脚手架&r的上方用&8&a钢脚手架&f&r搭建3x3结构,并在每个&8&a钢块&f&r上额外添加一个.接着用&8&a钢板金属块&f&r从&8脚手架&r延伸出环形结构,需包含&e&a轻型工程块&f&r和&8&a散热器模块&f&r."
+		"接着在原有&8脚手架&r上方铺设3x3的&8&a钢脚手架&f&r,每个&8&a钢块&f&r上方额外加装1个.然后用&8&a钢板金属块&f&r围绕&8脚手架&r制作环形结构,包含&e&a轻型工程块&f&r和&8&a散热器模块&f&r.\\n&7[After that place a 3x3 of Steel Scaffolding above the previous Scaffolding, and an extra one on each of the Steel Blocks. Then, using Steel Sheetmetal make a hoop off of the Scaffolding, including a Light Engineering Block and a Radiator Block. ]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator3.png width:150 height:100 align:center}"
-		"在&8&a钢脚手架&f&r上方继续加高,中间放置&8&a钢块&f&r,并在其两端连接更多&8&a钢块&f&r.一侧为3个&e&a轻型工程块&f&r,另一侧为3个&7&a重型工程块&f&r.最顶层的&e&a轻型工程块&f&r上方需再叠放一个,&8&a散热器模块&f&r上方放置&4&a红石工程块&f&r.其旁侧另有一个&7&a重型工程块&f&r,其余部分用&8&a钢板金属块&f&r填充."
+		"在&8&a钢脚手架&f&r上层继续延伸,中央放置&8&a钢块&f&r,两端连接更多&8&a钢块&f&r.一侧安装3个&e&a轻型工程块&f&r,另一侧为3个&7&a重型工程块&f&r.顶层&e&a轻型工程块&f&r上方再加装1个,&8&a散热器模块&f&r上方放置&4&a红石工程块&f&r.相邻处设置&7&a重型工程块&f&r,其余用&8&a钢板金属块&f&r填充.\\n&7[Above the Steel Scaffolding add more, with a Steel Block in the middle. Then, attach more Steel Blocks to the ends of those. On one side it'll be 3 Light Engineering Blocks and the other will be 3 Heavy Engineering Blocks. Above the Light Engineering Block in the last layer, will be another. And above the Radiator Block will be a Redstone Engineering Block. Next to it will be another Heavy Engineering Block and the rest will be Steel Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator4.png width:150 height:100 align:center}"
-		"中间部分将重复下半区的构造,现仅需使用&8&a钢脚手架&f&r.毗邻&e&a轻型工程块&f&r的一侧需再加3个,另一侧零散的&e&a轻型工程块&f&r同理.3个&e&a轻型工程块&f&r旁放置2个&8&a散热器模块&f&r,其余全部用&8钢板金属&r填充."
+		"中层重复下半部分结构,现仅需&8&a钢脚手架&f&r.毗邻&e&a轻型工程块&f&r的一侧再加装3个,另一侧零星分布的&e&a轻型工程块&f&r同理.3个&e&a轻型工程块&f&r旁放置2个&8&a散热器模块&f&r,其余全部使用&8钢板&r.\\n&7[Now for the middle part we'll be repeating what we did below the half, so now it's just Steel Scaffolding. On the side next to it with Light Engineering Blocks will be 3 more, same with the random Light Engineering Block on the otherside. Next to the 3 Light Engineering Blocks will be 2 Radiator Blocks, and everything else is Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator5.png width:150 height:100 align:center}"
-		"&8&a钢脚手架&f&r上方依次放置1个&8&a钢块&f&r、3个&8脚手架&r和另一个&8方块&r."
+		"&8&a钢脚手架&f&r上层依次放置:1个&8&a钢块&f&r → 3个&8脚手架&r → 另1个&8方块&r.\\n&7[Above the Steel Scaffolding will be 1 Steel Block followed by 3 Scaffolding and another Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator6.png width:150 height:100 align:center}"
-		"最后封顶的是&8&a钢块&f&r!"
+		"最后封顶:&8&a钢块&f&r!\\n&7[The final cherry on top, Steel Block!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator7.png width:150 height:100 align:center}"
-		"随后用&6锤子&f&r&a右击&f后方&7&a重型工程块&f&r,它便会化作强大的&c&l挖掘机&r!"
+		"用&6锤&r&a右键点击&f后方&7&a重型工程块&f&r,即可变身为强大的&c&l挖掘机&r!\\n&7[Then, we just Right Click the Heavy Engineering Block in the back with our Hammer and it'll become the mighty lExcavator!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_excavator.png width:125 height:100 align:center}"
 	]
-	quest.4BA2F4AC2A08C294.title: "&l&c挖掘机"
+	quest.4BA2F4AC2A08C294.title: "&l&c挖掘机&7[lExcavator]&f"
 	quest.4BBF987FEF639801.quest_desc: [
-		"合金是两种不同金属的组合.\\n\\n金属在常温下通常非液态(承除外),因此需要熔炼.\\n\\n将两种金属放入顶部槽位,底部槽位放入熔炉燃料如&0木炭&r.\\n\\n注意...&8钢&r其实是一种合金!"
+		"合金是两种金属的复合物.\\n\\n金属通常在室温下并非液态,需要熔炼处理(感谢水银!).\\n\\n将两种金属放入顶部槽位,&0木炭&r等燃料放入底部槽位.\\n\\n等等...&8钢&r其实是一种合金!\\n&7[Alloys are combinations of 2 different Metals. \\n\\nMetals aren't usually liquid at room temperature so we'll need to smelt them a bit (thanks Mercury)! \\n\\nAdd the 2 Metals into the top slots, and a Furnace Fuel like Charcoal into the bottom slot. \\n\\nWait... Steel is an Alloy!]&f"
 		"{@pagebreak}"
-		"&6&l&a合金窑&f&r由2x2x2的&6&a窑砖&f&r构成."
+		"&6&l&a合金窑&f&r是由8个&6&a窑砖&f&r组成的2x2x2结构体.\\n&7[The lAlloy Kiln is a 2x2x2 of Kiln Bricks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_alloy1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_alloy2.png width:100 height:100 align:center}"
-		"用&6工程师锤&f&a右击&f&a右上角&f方块即可完成制作!"
+		"然后用&6工程师锤&r&a右击&f&a右上角&f的方块即可完成制作!\\n&7[Then Right Click the Top Right Block with an Engineer's Hammer to make it!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_alloy.png width:100 height:100 align:center}"
 	]
-	quest.4BBF987FEF639801.title: "&l&6&a合金窑&f"
-	quest.4C4C9ADAC6107F89.quest_desc: ["&e&a轻型工程块&f&r配方简单:\\n\\n1个&6&a铜锭&f&r(基础&2&l原版&r合成),\\n\\n4个&7铁板金属&r(由4个&7&a铁板&f&r合成),\\n\\n4个&7&a铁质机械零件&f&r(工作台用4个&7&a铁板&f&r+1个&6&a铜锭&f&r,或工程师装配台用2个&7&a铁板&f&r+1个&6&a铜锭&f&r)."]
-	quest.4C4C9ADAC6107F89.title: "&e&a轻型工程块&f"
+	quest.4BBF987FEF639801.title: "&l&6&a合金窑&f&7[lAlloy Kiln]&f"
+	quest.4C4C9ADAC6107F89.quest_desc: ["&e&a轻型工程块&f&r的合成配方相当简单.\\n\\n需要1个&6&a铜锭&f&r(这不需要解释,根本就是&2&l原版&r内容).\\n\\n4个&7铁板金属&r,即4个&7&a铁板&f&r相互合成!\\n\\n还需要4个&7&a铁质机械零件&f&r,可通过工作台用4个&7&a铁板&f&r加1个&6&a铜锭&f&r合成,或在&6工程师装配台&r中用2个&7&a铁板&f&r加1个&6&a铜锭&f&r制作.\\n&7[The Light Engineering Block is pretty easy recipe. \\n\\nYou'll need 1 Copper Ingot, which I shouldn't have to explain it's literally a lVanilla feature. \\n\\n4 Ironsheetmetal, which are just 4 Iron Plates combined with each other! \\n\\nYou'll also need 4 Iron Mechanical Components, which are either 4 Iron Plates and a Copper Ingot in a Crafting Table, or 2 Iron Plates and a Copper Ingot in the Engineer's Workbench.]&f"]
+	quest.4C4C9ADAC6107F89.title: "&e&a轻型工程块&f&7[Light Engineering Block]&f"
 	quest.4D193D60A3CAF435.quest_desc: [
-		"这是最常用的&2&l&a柴油发电机&f&r!\\n\\n需在发电机左下和右下角&9输入&a燃料&f&r,可选:杂酚油、生物柴油、&a高十六烷值生物柴油&f(品质由低到高).\\n\\n燃烧燃料产生&c能量&r,可通过前方3个接口&6输出&r."
+		"这是你最可能使用的发电机——&2&l&a柴油发电机&f&r!\\n\\n需在&2&l&a柴油发电机&f&r左下和右下角&9输入&f燃料.&a燃料&f可以是:木焦油、生物柴油、以及&a高十六烷值生物柴油&f.按品质从劣到优排列!\\n\\n&2&l&a柴油发电机&f&r燃烧燃料产生&c能量&r,可通过正面3个接口&6输出&f.\\n&7[This is the Generator you will most likely be using, the lDiesel Generator! \\n\\nYou will Input Fuel in the bottom left and right corners of the lDiesel Generator. The Fuel can be: Creasote Oil, Biodiesel, and High-Cetane Biodiesel. Those are in order from worst to best! \\n\\nThe lDiesel Generator will burn the Fuel and produce Energy which can be Output from the 3 connectors in the front.]&f"
 		"{@pagebreak}"
-		"发电机后方需安装3个&8&a散热器模块&f&r,中部用&8&a钢脚手架&f&r包围&b&a流体传输管道&f&r,正面配置&6&a发电机模块&f&r及其两侧的2个&b&a流体传输管道&f&r."
+		"在&2&l&a柴油发电机&f&r背部需要安装3个&8&a散热器模块&f&r.中央布置&b&a流体传输管道&f&r,外围用&8&a钢脚手架&f&r包裹.正面配置1个&6&a发电机模块&f&r和两侧各1个&b&a流体传输管道&f&r.\\n&7[In the back of the lDiesel Generator we'll need 3 Radiator Blocks. The middle will be Fluid Pipes surrounded by Steel Scaffolding. With the front having a Generator Block and 2 Fluid Pipes next to it.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_diesel1.png width:100 height:150 align:center}"
-		"3个&8&a散热器模块&f&r的上方再放置3个&8&a散热器模块&f&r!其相邻的&6&a发电机模块&f&r和&b&a流体传输管道&f&r上方则需放置3个&6&a发电机模块&f&r.剩余空间用&7&a重型工程块&f&r填满,并加入一个&4&a红石工程块&f&r."
+		"3个&8&a散热器模块&f&r上方再叠加3个&8&a散热器模块&f&r!而&6&a发电机模块&f&r与相邻的&b&a流体传输管道&f&r上方需布置3个&6&a发电机模块&f&r.剩余空间用&7&a重型工程块&f&r填充,并加入1个&4&a红石工程块&f&r.\\n&7[Above the 3 Radiator Blocks will be 3 more Radiator Blocks! And the Generator Block and Fluid Pipes next to it, will have 3 Generator Blocks above them. The rest will be filled with Heavy Engineering Blocks and a single Redstone Engineering Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_diesel2.png width:100 height:100 align:center}"
-		"最后阶段需在原有结构上方再加3个&8&a散热器模块&f&r,其侧面用&7&a重型工程块&f&r搭成交叉形状."
+		"最后在顶部再叠加3个&8&a散热器模块&f&r,相邻区域用&7&a重型工程块&f&r搭成交叉结构.\\n&7[To finish we'll need 3 more Radiator Blocks above the other ones, and next to it we'll make a cross of Heavy Engineering Blocks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_diesel3.png width:100 height:100 align:center}"
-		"最后用&6工程师之锤&f&r&a右击&f顶部和中间的&6&a发电机模块&f&r!"
+		"最后用&6工程师锤&r&a右击&f中部和顶部的&6&a发电机模块&f&r!\\n&7[Last step is to Right Click the middle and top Generator Block with our Engineer's Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_diesel.png width:100 height:100 align:center}"
 	]
-	quest.4D193D60A3CAF435.title: "&2&l&a柴油发电&f"
-	quest.4D8190E94851C546.quest_desc: ["通电的&c线缆&f(传输&c能量&f的&c线缆&f即为通电状态)在使用&6&l天钩&f&r时会对你造成伤害.\\n\\n除非给握柄做好绝缘处理!"]
-	quest.4E297778DCEEC963.quest_desc: ["&a附加电容&f是&5&l磁轨炮&f&r的专属升级部件.\\n\\n它能大幅提升&5&l磁轨炮&f&r的充能速度!"]
-	quest.4E8860056D068610.quest_desc: ["这些无法合成,只能通过机械师村民的最终交易获取.\\n\\n&0&a石墨电极&f&r是&8&l&a电弧炉&f&r的燃料(也可用于&a荧光灯&f).\\n\\n制作需要这张特殊的&9蓝图&r."]
-	quest.4E8860056D068610.title: "&9&a电弧炉电极&f蓝图"
+	quest.4D193D60A3CAF435.title: "&2&l&a柴油发电&f&7[lDiesel Generator]&f"
+	quest.4D8190E94851C546.quest_desc: ["通电的&c线缆&r(传输&c能量&r的&c线缆&r即为通电状态)在使用&6&l天钩&r接触时会对你造成伤害.\\n\\n除非给握柄做好绝缘处理!\\n&7[Live Wires (Wires transporting Energy are Live Wires) will hurt you when using a lSkyhook on them. \\n\\nUnless you Insulate your Grip!]&f"]
+	quest.4E297778DCEEC963.quest_desc: ["&a附加电容&f是&5&l磁轨炮&f&r的专属升级部件.\\n\\n能显著提升&5&l磁轨炮&f&r的充能速度!\\n&7[Advanced Heatsinks are our only lRailgun exclusive Upgrades. \\n\\nIt will make it so the lRailgun charges up much faster!]&f"]
+	quest.4E8860056D068610.quest_desc: ["这些无法合成,只能通过机械师村民的最终交易获取.\\n\\n&0&a石墨电极&f&r是&8&l&a电弧炉&f&r的燃料(也可用于&a荧光灯&f).\\n\\n需要特殊&9蓝图&f&r才能制作.\\n&7[These can't be Crafted, instead they are last Trades from a Machinist Villager. \\n\\nGraphite Electrodes are used as Fuel for the lArc Furnace (also for Fluorescent Lights). \\n\\nTo get them we'll need this special Blueprint.]&f"]
+	quest.4E8860056D068610.title: "&9&a电弧炉电极&f蓝图&7[Arc Furnace Electrodes Blueprints ]&f"
 	quest.4F56BFE6E4716F6D.quest_desc: [
-		"&8&l&a电弧炉&f&r是功能强大的巨型设备,其出现使多数机械沦为摆设!\\n\\n启动需从设备背部接口接入&c能量&f,并以&0&a石墨电极&f&r为燃料(仅能通过图形界面手动添加,无法自动化).\\n\\n随后从顶部端口(靠近&0&a石墨电极&f&r的位置)&6输入&f&e物品&f.在供能供料状态下,它能熔解几乎所有物品:从&7&a铁棒&f&r到&7&a铁锭&f&r,从&b&a霜钢头盔&f&r到&b霜钢&f&r,从&e金镐&f&r到&e黄金&f&r!\\n\\n熔炼产物会从背部能量接口下方的&6输出口&f排出.\\n\\n它还能冶炼金属合金!"
+		"&8&l&a电弧炉&f&r是巨型高效设备,能使多数其他机器淘汰!\\n\\n启动需从背部接口输入&c能量&r,并以&0&a石墨电极&f&r为燃料(仅能通过GUI手动添加,不可自动化).\\n\\n随后从顶部端口(靠近&0&a石墨电极&f&r的位置)&6输入&f&e物品&f.当供能充足时,可熔解几乎所有物品:从&7&a铁棒&f&r到&7&a铁锭&f&r,从&b&a霜钢头盔&f&r到&b霜钢&f&r,从&e金镐&f&r到&e黄金&f&r!\\n\\n熔炼产物会从能量接口下方的背部&6输出&f.\\n\\n还能将金属合成合金!\\n&7[The lArc Furnace is a massive and helpful Machine. It makes most other Machines useless! \\n\\nTo start you'll need Energy Input from the outlets in the Back of the lArc Furnace. It'll then need Fuel which are Graphite Electrodes. These can only be placed into its GUI, they can't be automated. \\n\\nYou'll then need to Input the Items into the Top Ports, near where the Graphite Electrodes are. When fueled and powered it'll melt down, just about anything. From Iron Rods to Iron Ingots, to Froststeel Helmets to Froststeel, to Gold Pickaxes to Gold! \\n\\nThe melted down Items will be Output into the Back below the Power Outlets. \\n\\nIt can also make Alloys from Metals!]&f"
 		"{@pagebreak}"
-		"第一层用&8&a钢板金属块&f&r构成U形基底,中心放置&7&a重型工程块&f&r,四角用&8&a钢块&f&r封边.其余区域铺&8&a钢板台阶&f&r,并放置一个&8&a钢脚手架&f&r与炼药锅."
+		"第一层以U形结构开始,由&8&a钢板金属块&f&r构成,中心为&7&a重型工程块&f&r,两端为&8&a钢块&f&r.其余部分使用&8&a钢板台阶&f&r,并配有一个零散的&8&a钢脚手架&f&r和熔炉.\\n&7[1st layer starts off with a U made of Steel Sheetmetal with the center being Heavy Engineering Block and the tips being Steel Blocks. The rest will be Steel Sheetmetal Slabs with a stray Steel Scaffolding and Cauldron.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc1.png width:100 height:100 align:center}"
-		"第二层在&7&a重型工程块&f&r及其相邻两格上方放置&e&a轻型工程块&f&r,U形侧边改用&7&a重型工程块&f&r,原有&8&a钢块&f&r上方继续叠加.还需在&8台阶&f&r上方铺设2x3的&4&a强化高炉砖&f&r,别忘了在&8脚手架&f&r顶部加&4&a红石工程块&f&r!"
+		"第二层开始,在&7&a重型工程块&f&r上方及相邻的两个方块将是&e&a轻型工程块&f&r.接着,U形两侧使用&7&a重型工程块&f&r.在之前的方块上方添加更多&8&a钢块&f&r.我们还需要在&8台阶&r上方放置一个2x3的&4&a强化高炉砖&f&r区域.别忘了在&8脚手架&r上方放置&4&a红石工程块&f&r!\\n&7[2nd layer starts with, above the Heavy Engineering Block and the 2 Blocks next to it will be Light Engineering Blocks. Then, the sides of the U will be Heavy Engineering Blocks. With more Steel Blocks above the previous ones. We'll also need a 2x3 of Reinforced Blast Bricks above the Slabs. Don't forget the Redstone Engineering Block above the Scaffolding!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc2.png width:100 height:100 align:center}"
-		"第三层增加&8&a钢块&f&r与&e&a轻型工程块&f&r的数量,扩展&4&a强化高炉砖&f&r结构,并在两侧各补一个&8&a钢板金属块&f&r."
+		"第三层需要更多&8&a钢块&f&r和&e&a轻型工程块&f&r,并扩展&4&a强化高炉砖&f&r区域.每侧还需各放置1个&8&a钢板金属块&f&r.\\n&7[3rd has more Steel Blocks, more Light Engineering Blocks, and an extension of our Reinforced Blast Bricks. We'll also need 1 Steel Sheetmetal on each side.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc3.png width:100 height:100 align:center}"
-		"第四层在中心区域顶部加&e&a轻型工程块&f&r,两侧各立2个&8&a钢脚手架&f&r.继续扩展&4&a强化高炉砖&f&r结构,但本次纵向缩短&a一格&f!"
+		"第四层需在中心位置的其他方块上方放置一个&e&a轻型工程块&f&r.其两侧放置2个&8&a钢脚手架&f&r.还需添加更多&4&a强化高炉砖&f&r,但这次长度要缩短&a一个方块&f!\\n&7[4th needs a Light Engineering Block placed in the middle above the others. Next to it will be 2 Steel Scaffolding. And we'll need to add more Reinforced Blast Brick but this time a Block of length short!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc4.png width:100 height:100 align:center}"
-		"第五层(最终层)在原有基础上增建2个&8&a钢脚手架&f&r,随后在前序结构顶部及正面线性铺设&e&a轻型工程块&f&r."
+		"第五层即最后一层,只需在顶部额外放置2个&8&a钢脚手架&f&r.然后在之前方块的顶部及前方一排放置&e&a轻型工程块&f&r.\\n&7[5th and final layer is just 2 more Steel Scaffolding on top of the others. Then, Light Engineering Blocks above the previous one and in a line in front of it.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc5.png width:100 height:100 align:center}"
-		"最后用&6锤&f&r&a右击&f炼药锅完成组装!"
+		"最后用&6工匠锤&f&a右击&f熔炉完成建造!\\n&7[Finally Right Click the Cauldron with the Hammer to finish it!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_arc.png width:100 height:100 align:center}"
 	]
-	quest.4F56BFE6E4716F6D.title: "&8&l&a电弧炉&f"
-	quest.50326B1D6EE8FA0B.quest_desc: ["&c蓄电器&r是&8&lIE&r模组中的电池装置.\\n\\n其储能规格为:&6低压级&r储存100kFE,&e中压级&r储存1MFE,&5高压级&r储存4MFE!\\n\\n默认顶部栏位仅支持&9输入模式&r,使用&6工程师锤&r可任意调整侧面模式为&9输入&r、&6输出&r或关闭功能."]
-	quest.50326B1D6EE8FA0B.title: "&c蓄电器"
-	quest.506F20AF8E857559.quest_desc: ["&a动能发电机&f是通过动量转化能量的发电设备!\\n\\n需在侧面巨型开口处连接水车或风车以启动发电.\\n\\n该设备无内置储能功能,直接向连接块(如连接器或蓄电器)传输能量."]
-	quest.506F20AF8E857559.title: "运动之力转化能源!"
-	quest.50F1C4521D282C60.quest_desc: ["&a身如壁垒&f是这些武装分子的重装单位.\\n\\n拥有12颗心生命值及18点&a护甲值&f!\\n\\n主手武器为&b&l化学喷射器&r,副手持&8&l&a重型盾牌&f&r.\\n\\n击败后可获得&a绿宝石&r和大师级着色袋!"]
-	quest.50F1C4521D282C60.title: "坚壁守卫"
-	quest.520904C106D7D93D.quest_desc: ["使&6&l天钩&r获得链锤特性,下落攻击时对生物造成额外&a伤害&f.\\n\\n此技在《生化奇兵:无限》中称为天袭!"]
-	quest.520904C106D7D93D.quest_subtitle: "左键发动天袭"
-	quest.5218DAE147AC9F44.quest_desc: ["&a锯片盒&f可让&2&l电锯&r装载更多&8锯片&r或&8类锯片物品&r.\\n\\n按住&aShift键&f滚动鼠标切换&8锯片&r(或&8类锯片物品&r).\\n\\n便于更换损坏锯片或切换为&8磨盘&r!"]
-	quest.553ADA7040B652CD.quest_desc: ["&4&l&a采矿钻头&f&r、&2&l电锯&r和&b&l&a化学喷射器&f&r常规容量为1,000mB(相当于&a1桶&b流体&r).\\n\\n安装&a大型油箱&f后容量提升至2,000mB(&a2桶&b流体&r).\\n\\n虽数值看似不高,但实际效用显著."]
-	quest.5585130028BB8298.quest_desc: ["&6&lATM10&r中最基础的枪械——&d&l左轮手枪&r!\\n\\nShift+右键&a打开&d&l左轮手枪&r装弹界面,填入弹药后&a右键&f即可射击.\\n\\n可搭载两种改装部件:&a新材料发现&f包括刺刀、快速装弹器、&a扩容弹匣&f、&a强化电子管&f与&a瞄准镜&f.\\n\\n虽仅支持两个改装位,但快速装弹器属特殊功能部件."]
-	quest.5585130028BB8298.quest_subtitle: "觉得自己够幸运吗,小子？"
-	quest.5585130028BB8298.title: "&d&l左轮手枪"
-	quest.56CE6CF9C99FB522.quest_desc: ["制作&8散热器&r需要常规材料&8&a钢板金属块&f&r、新增的&9&a水桶&f&r以及&6&a康铜板&f&r.\\n\\n&6康铜&r是通过在&l&6&a合金窑&f&r中融合&6铜&r与&7镍&r制成的合金."]
-	quest.56CE6CF9C99FB522.title: "&8&a散热器模块&f"
-	quest.56E30438AE512475.quest_desc: ["让烈焰燃烧起来!\\n\\n预热器是&l&4&a强化高炉&f&r的简易增效附件.\\n\\n将其放置于&l&4&a强化高炉&f&r左右两侧,顶部连接能源即可加速熔炉运作."]
+	quest.4F56BFE6E4716F6D.title: "&8&l&a电弧炉&f&7[lArc Furnace]&f"
+	quest.50326B1D6EE8FA0B.quest_desc: ["&c能量缓存器&r是&8&l沉浸工程&r模组中的电池装置.\\n\\n可存储&c能量&r:&6低压&f容量10万FE,&e中压&f容量100万FE,&5高压&f容量400万FE!\\n\\n默认顶部栏位仅支持&9输入&f,但可用&6工匠锤&f将任意面调整为&9输入&f、&6输出&f或关闭功能.\\n&7[Accumulators are lIE's version of batteries. \\n\\nThey hold Energy with LV holding 100kFE, MV holds 1MFE, and HV holds 4MFE! \\n\\nBy default they have a top slot which only allows Input, but any side can be changed with the Engineer's Hammer to Input, Output, or Neither.]&f"]
+	quest.50326B1D6EE8FA0B.title: "&c能量缓存器&7[Accumulators]&f"
+	quest.506F20AF8E857559.quest_desc: ["&a动能发电机&f是通过动能转化能量的发电设备!\\n\\n需在侧面巨大开口处连接水车或风车以启动发电.\\n\\n该设备无内置储能,直接向连接的方块(如连接器或能量缓存器)输送能量.\\n&7[The Kinetic Dynamo is a Generator which uses momentum to make Energy! \\n\\nTo start making Energy you'll need either a Waterwheel or Windmill attached to the side with the giant gaping hole in it! \\n\\nThe Kinetic Dynamo doesn't have an internal Energy storage, rather it provides Energy to connected Blocks like Connectors or Accumulators.]&f"]
+	quest.506F20AF8E857559.title: "运动造能!&7[Energy from moving things!]&f"
+	quest.50F1C4521D282C60.quest_desc: ["&a身如壁垒&f是这些武装分子的重装单位.\\n\\n拥有12颗心生命值及18点&a护甲值&f!\\n\\n主手武器为&b&l化学喷射器&r,副手持&8&l&a重型盾牌&f&r.\\n\\n击败后可获得&a绿宝石&f和大师级着色袋!\\n&7[The Bulwark are the heavy units of these militants. \\n\\nThey have 12 Hearts with 18 Armor Points! \\n\\nTheir weapon is the lChemthrower with a lHeavy Plated Shield in the Offhand. \\n\\nIf you somehow kill one you will get Emeralds and Masterwork Shader Bags!]&f"]
+	quest.50F1C4521D282C60.title: "重装壁垒&7[Bulwark]&f"
+	quest.520904C106D7D93D.quest_desc: ["使&6&l天钩&r产生类似链锤的效果:下落过程中击中生物时造成额外&a伤害&f.\\n\\n此效果在《生化奇兵:无限》中称为天击!\\n&7[These make the lSkyhook act similar to a Mace, you'll do extra Damage hurting Mobs if you are falling while you hit them. \\n\\nIn Bioshock Infinite it's called a Skystrike!]&f"]
+	quest.520904C106D7D93D.quest_subtitle: "左键触发天击&7[Press LMB to Skystrike]&f"
+	quest.5218DAE147AC9F44.quest_desc: ["&a锯片盒&f可让&2&l电锯&f装载更多&8锯片&f或&8类锯片物品&f.\\n\\n按&aShift键&f滚动切换&8锯片&f(或&8类锯片物品&f).\\n\\n便于更换损坏的&8锯片&f或切换为&8磨盘&f!\\n&7[The Blade Quiver allows you to hold more Blades or Blade like Items on the lBuzzsaw. \\n\\nTo switch between the Blades (or Blade like Items) Hold Shift and Scroll. \\n\\nThis is useful for replacing broken Blades or even switching to Grinding Disks!]&f"]
+	quest.553ADA7040B652CD.quest_desc: ["&4&l&a采矿钻头&f&r、&2&l电锯&f和&b&l&a化学喷射器&f&r常规容量为1000mB(即&a1桶&f)&b流体&f.\\n\\n加装&a大型油箱&f后容量提升至2000mB(&a2桶&f).\\n\\n虽看似不多,但实际效用显著.\\n&7[The lMining Drill, lBuzzsaw, and lChemical Thrower normally hold 1,000mB or 1 Bucket worth of Fluid. \\n\\nNormally doesn't mean always! With the Large Tank they can now hold 2,000mB or 2 Buckets worth. \\n\\nIt doesn't sound like a lot but trust me it is.]&f"]
+	quest.5585130028BB8298.quest_desc: ["我们在&6&lATM10&r中最基础的枪械——&d&l左轮手枪&r!\\n\\n按住Shift键&a右键点击&f打开&d&l左轮手枪&r界面,将弹药放入插槽后,直接&a右键&f即可射击!\\n\\n可安装2个改装部件.&a新发现材料&f包括:刺刀、快速装弹器、&a扩容弹匣&f、&a强化电子管&f和&a瞄准镜&f.\\n\\n&d&l左轮手枪&r虽只能装载2个改装件,但快速装弹器在机制上有所不同.\\n&7[The most basic Gun we can find in lATM10, the lRevolver! \\n\\nShift Right Click to open the lRevolver, then move some Ammo into the Slots. After that, just Right Click to shoot! \\n\\nYou can apply 2 Upgrades to it. The Upgrades being: Bayonet, Speedloader, Extended Magazine, Amplifier Electron Tubes, and Precision Scope. \\n\\nThe lRevolver can only hold 2 Upgrades but the Speedloader is technically different.]&f"]
+	quest.5585130028BB8298.quest_subtitle: "你觉得够幸运吗,小子？&7[Do you feel lucky, Punk?]&f"
+	quest.5585130028BB8298.title: "&d&l左轮手枪&7[lRevolver]&f"
+	quest.56CE6CF9C99FB522.quest_desc: ["制作&8散热器&r需要常规材料&8&a钢板金属块&f&r,新增材料&9&a水桶&f&r,以及&6&a康铜板&f&r.\\n\\n&6康铜&r是通过在&l&6&a合金窑&f&r中将&6铜&r与&7镍&r熔融合成的合金.\\n&7[For Radiators we'll need the usual Steel Sheetmetal, a Water Bucket which is a new one! And Constantan Plates. \\n\\nConstantan is an Alloy made by combining Copper and Nickel in an lAlloy Kiln.]&f"]
+	quest.56CE6CF9C99FB522.title: "&8&a散热器模块&f&7[Radiator Block]&f"
+	quest.56E30438AE512475.quest_desc: ["让我们点燃这些火焰!\\n\\n预热器是&l&4&a强化高炉&f&r的简易附加组件.\\n\\n只需将其放置在&l&4&a强化高炉&f&r左右两侧,顶部接通能源即可加速熔炉运作.\\n&7[Let's get these flames burning! \\n\\nThe Preheater is a very simple addition to the lImproved Blast Furnace. \\n\\nSimply place them on the Left and Right of the lImproved Blast Furnace. Then, connect power to the top of it and it will start speeding up the lImproved Blast Furnace.]&f"]
 	quest.573C2242EAB85B49.quest_desc: [
-		"&0&l&a焦炉&f&r 是我们制造 &0&a焦煤&f&r 的方式,猜猜它是由什么制成的!\\n\\n我们可以使用 &0&l熔炉&r 将原木烧制成 &0木炭&r,或者将 &0煤炭&r 和 &0煤炭块&r 烧制成 &0焦炭&r!\\n\\n这两种方法都会产生 &a杂酚油&f 以及常规配方."
+		"&0&l&a焦炉&f&r是制作&0&a焦煤&f&r的设备——猜猜它的原料？\\n\\n可用&0&l焦炉&f将原木烧制成&0木炭&r,或将&0煤炭&r与&0煤炭块&r炼成&0焦炭&r!\\n\\n两种方式均会产出&a杂酚油&f及其他常规产物.\\n&7[lCoke Oven is how we make our Coal Coke, take a guess what it's made of! \\n\\nWe can use the lOven to smelt Logs into Charcoal, or smelt Coal and Coal Blocks into Coke! \\n\\nEither of these will produce Creosote Oil as well as the normal recipe.]&f"
 		"{@pagebreak}"
-		"&0&l&a焦炉&f&r 是一个非常简单的多方块结构,由 3x3x3 的 &0&a焦炉砖&f&r 组成."
+		"&0&l&a焦炉&f&r是简易多方块结构,由3x3x3的&0&a焦炉砖&f&r构成.\\n&7[The lCoke Oven is a very simple Multiblock, 3x3x3 of Coke Bricks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_coke1.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_coke3.png width:100 height:100 align:center}"
-		"只需用 &6工程师锤&r &a右键点击&f 前侧中间的 &a方块&f 即可创建."
+		"手持&6工程师锤&r&a右键点击&f正面中央&a方块&f即可完成搭建.\\n&7[Simply Right Click the Middle Block of the Front Side with an Engineer's Hammer to create it.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_coke.png width:100 height:100 align:center}"
 	]
-	quest.573C2242EAB85B49.title: "&l&8&a焦炉&f"
-	quest.586F6FD38CF85DCA.quest_desc: ["&4&l&a采矿钻头&f&r 如其名,用于采矿!\\n\\n它的工作原理类似 &a镐&f,只需要 &8&a钻头&f&r 和 &2生物柴油&r.&8&a钻头&f&r 决定其采矿等级并具有耐久度,这意味着需要更换.你可以在 &6工程师装配台&r 的顶部槽位安装 &8&a钻头&f&r.\\n\\n&2生物柴油&r 是一种 &b液体燃料&r,制作配方非常复杂...不过那是另一个任务的内容,我们这里只关注如何添加燃料!你可以对任何装有 &2生物柴油&r 的 &b储罐&r 或机器使用 &4&l钻头&r 来填充它.\\n\\n&4&l&a采矿钻头&f&r 会在 3x3 或 2x2 的区域内采矿,除非你在破坏时按住潜行键!\\n\\n你还可以用它攻击生物,造成与 &a下界合金剑&f 相同的 &a伤害&f,但这会消耗燃料和耐久度.\\n\\n&4&l&a采矿钻头&f&r 可以容纳 1 个 &a钻头&f 和 3 个升级."]
-	quest.586F6FD38CF85DCA.quest_subtitle: "请问可以吗？"
-	quest.586F6FD38CF85DCA.title: "&4&l&a采矿钻头&f"
-	quest.591E6964ABCC638C.quest_desc: ["&e&a传送带&f&r 是我们移动 &e物品&r(和一些实体)的方式.\\n\\n当 &e物品&r 掉落到 &e传送带&r 上时,它们会被固定并移动.然后可以将它们移动到不同的库存中,如果我们要从库存中提取,则需要一种特殊类型的 &e传送带&r!\\n\\n放置 &e传送带&r 的方式将决定其移动方向,这也可以用 &6工程师锤&r 更改!\\n它们需要放置在方块上,但有趣的是,不需要下方的方块来保持站立和工作!"]
-	quest.591E6964ABCC638C.quest_subtitle: "和一些实体!"
-	quest.591E6964ABCC638C.title: "移动 &e物品&r"
-	quest.598DE7CEDA864B50.quest_desc: ["既然我们可以使用 3 个,为什么只用一个储罐呢!\\n\\n你现在可以在 &b&l&a化学喷射器&f&r 中容纳 3 种不同的 &b流体&r.&a按住 Shift 键&f 并滚动 &a切换模式&f 以在它们之间切换.\\n\\n但这不能与 &a大型储罐&f 一起使用..."]
-	quest.5A2A718C569F3C19.quest_desc: ["通过在 &l&a焦炉&f&r 中烧炼 &0煤炭&r,我们可以得到 &0&a焦煤&f&r!或者我称之为 &0焦炭&r!\\n\\n它基本上就是 &0煤炭&r,但在 &8&lIE&r 中有更多用途.\\n\\n你可以将其与铁结合得到 &7钢&r,粉碎它得到 &0&a焦煤粉&f&r(用于制作 &0石墨&r),或用作 &a爆裂熔炉&f 的燃料."]
-	quest.5A2A718C569F3C19.title: "&8焦炭&r"
-	quest.5C5546A5103BCF55.quest_desc: ["这个本应喷射像 &b流体&r 或气体之类的化学品...但它不会为我这样做.\\n\\n它至少可以容纳 2 个升级!那些是有效的!"]
-	quest.5C5546A5103BCF55.title: "&b&l&a化学喷射器&f"
+	quest.573C2242EAB85B49.title: "&l&8&a焦炉&f&7[lCoke Oven]&f"
+	quest.586F6FD38CF85DCA.quest_desc: ["&4&l&a采矿钻头&f&r如其名,用于采矿!\\n\\n工作原理类似&a镐&f,需配备&8&a钻头&f&r并使用&2生物柴油&r驱动.&8&a钻头&f&r决定开采等级且有耐久度损耗,需定期更换.可在&6工程师装配台&f顶部插槽安装钻头.\\n\\n&2生物柴油&r是&b液态燃料&f,合成配方复杂(属其他任务内容),只需学会填充方法.对储存&2生物柴油&r的&b储罐&f或机器使用&4&l钻机&f即可补充燃料.\\n\\n&4&l&a采矿钻头&f&r默认3x3或2x2区域采矿,破坏方块时按住Shift可切换模式.\\n\\n攻击生物时造成与&a下界合金剑&f同等的&a伤害&f,但会消耗燃料与耐久.\\n\\n&4&l&a采矿钻头&f&r可装载1个&a钻头&f和3个改装件.\\n&7[The lMining Drill does as the name suggests, it Mines! \\n\\nIt works like a Pickaxe, just needing Drill Heads and Bio-Diesel. Drill Heads determine its Mining Level and have Durability which means they'll need to be replaced. You can attach Drill Heads in the Engineer's Workbench, in the Top Slot. \\n\\nBio-Diesel is a Liquid Fuel which has a very difficult recipe to make... that's for a different Quest though we're just looking for how to Fuel it! You can use the lDrill on any Tank or Machine holding Bio-Diesel to fill it. \\n\\nThe lMining Drill will mine in a 3x3 or 2x2 area, unless you are Shifting while breaking! \\n\\nYou can also Hit Mobs with it to do the same amount of Damage as a Netherite Sword, this takes up Fuel as well as Durability though. \\n\\nThe lMining Drill can hold 1 Drill Head and 3 Upgrades.]&f"]
+	quest.586F6FD38CF85DCA.quest_subtitle: "可否请您动手？&7[Would you kindly?]&f"
+	quest.586F6FD38CF85DCA.title: "&4&l&a采矿钻头&f&7[lMining Drill]&f"
+	quest.591E6964ABCC638C.quest_desc: ["&e&a传送带&f&r用于运输&e物品&f(及部分实体).\\n\\n物品掉落至&e传送带&f后会随履带移动,可被输送至不同容器.要从容器提取物品需使用特殊类型&e传送带&f!\\n\\n铺设方向决定运输方位,可用&6工程师锤&f调整.\\n需放置在方块上,但有趣的是下方无需支撑方块即可持续运作!\\n&7[Conveyor Belts are how we can move Items (and some Entities). \\n\\nWhen Items are dropped onto Belts they will hold them and move them. These can then be moved into different Inventories, if we want to extract from Inventories we'll need a special type of Belt! \\n\\nThe way you place your Belt will determine where it moves, this can also be changed with the Engineer's Hammer! \\nThey need to be placed on Blocks but funny enough don't need Blocks below to keep standing and working!]&f"]
+	quest.591E6964ABCC638C.quest_subtitle: "及部分实体!&7[and some Entities!]&f"
+	quest.591E6964ABCC638C.title: "运输&e物品&f&7[Moving Items]&f"
+	quest.598DE7CEDA864B50.quest_desc: ["既然能用3个储罐,何必只满足于1个!\\n\\n现在你的&b&l&a化学喷射器&f&r可同时容纳3种不同的&b流体&r.通过&a按住Shift键&f并滚动鼠标&a切换模式&f即可在它们之间循环选择.\\n\\n注意该功能不能与&a大型油箱&f兼容使用...\\n&7[Why just have 1 Tank, when we can use 3! \\n\\nYou can now hold 3 different Fluids in your lChemical Thrower. Hold Shift and Scroll to switch between them. \\n\\nThis can't be used with the Large Tank though...]&f"]
+	quest.5A2A718C569F3C19.quest_desc: ["在&l&a焦炉&f&r中熔炼&0煤炭&r可获得&0&a焦煤&f&r!我习惯直接称它为&0焦炭&r!\\n\\n其性质类似&0煤炭&r,但在&8&lIE&r中有更多用途:\\n\\n可与铁合成&7钢&r,粉碎成制备&0石墨&r所需的&0&a焦煤粉&f&r,或作为&a爆裂熔炉&f的燃料.\\n&7[By Smelting Coal in a lCoke Oven we can get Coal Coke! Or as I will call it, just Coke! \\n\\nIt pretty much is just Coal but has more uses in lIE. \\n\\nYou can combine it with Iron to get Steel, Crush it to get Coke Dust which will be needed for Graphite, or use as Fuel for a Blast Furnace.]&f"]
+	quest.5A2A718C569F3C19.title: "&8焦炭&r&7[Coke]&f"
+	quest.5C5546A5103BCF55.quest_desc: ["这个装置本应能喷射&b流体&r或气体等化学品...但目前无法正常运作.\\n\\n不过至少可安装2个升级模块!这些模块是有效的!\\n&7[This one is supposed to shoot Chemicals like Fluids or Gases... but it won't do it for me. \\n\\nIt can hold 2 Upgrades atleast! Those work!]&f"]
+	quest.5C5546A5103BCF55.title: "&b&l&a化学喷射器&f&7[lChemical Thrower]&f"
 	quest.5DE3F2A96715BA2E.quest_desc: [
-		"&e&l筒仓&r 是一个多方块结构,用于存储大量单一类型的 &e物品&r,类似于抽屉.\\n\\n你可以将 &e物品&r 及其复制品存放在 &a顶部&f 或 &a底部&f,但要 &6提取&f,你需要使用 &a底部&f!\\n\\n它可以容纳 41,472 个 &e物品&r,但只能是同一类型."
+		"&e&l筒仓&r是用于海量存储单一&e物品&r的多方块结构,类似抽屉柜.\\n\\n可通过&a顶部&f或&a底部&f&9存入&r该&e物品&r及其衍生品,但&6提取&r必须使用&a底部&f!\\n\\n最多存储41,472个&e物品&r,且仅限同种类.\\n&7[The lSilo is a Multiblock made for storing tons of just one type of Item, like a Drawer. \\n\\nYou can deposit the Item and its duplicates in the Top Side or Bottom Side, but to extract you'll need to use the Bottom Side! \\n\\nIt can hold 41,472 Items, just only of the same type.]&f"
 		"{@pagebreak}"
-		"首先放置一个由&a防腐木栅栏&f组成的方形框架,中心放置&7&a铁板&f金属&r."
+		"首先用&a防腐木栅栏&f围成方形,中心放置&7&a铁板&f金属&r.\\n&7[First we place a square of Treated Wood Fences with an Iron Sheetmetal in the center.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_silo1.png width:125 height:100 align:center}"
-		"接着在栅栏上方用&7&a铁板&f金属&r搭建完整方形结构,中心留空.重复此操作5次!"
+		"接着在栅栏上方用&7&a铁板&f金属&r搭建完整方形结构,中心留空.重复此操作5次!\\n&7[Next, we make a full square of Iron Sheetmetal above our Fences, while leaving a space in the center hollow. Do this 5 times!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_silo2.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo3.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo4.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo5.png width:100 height:100 align:center}"
 		"{image:atm:textures/questpics/immersive/immersive_silo6.png width:100 height:100 align:center}"
-		"最后铺设完整顶层,用&7&a铁板&f金属&r填满整个平面,包括中心区域."
+		"最后层用&7&a铁板&f金属&r铺满整个方形区域,包括中心区块.\\n&7[Then, the final layer which is an entire square of Iron Sheetmetal, including us filling in the center Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_silo7.png width:100 height:100 align:center}"
-		"完成后,用&6锤子&r&a右击&f第二层中心的&7&a铁板&f金属&r,即可生成我们的&e&l筒仓&r!"
+		"完成后,用&6锤子&a右击&f第二层中心的&7&a铁板&f金属&r即可生成&e&l筒仓&r!\\n&7[After that, Right Click the Middle Iron Sheetmetal on the second layer with our Hammer to create our lSilo!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_silo.png width:100 height:125 align:center}"
 	]
-	quest.5DE3F2A96715BA2E.title: "&l&e筒仓"
-	quest.5E228ACA1B13AD04.quest_desc: ["现在它能发射并打击目标了!"]
+	quest.5DE3F2A96715BA2E.title: "&l&e筒仓&7[lSilo]&f"
+	quest.5E228ACA1B13AD04.quest_desc: ["现在它能射击和猛击了!\\n&7[Now it shoots and smacks!]&f"]
 	quest.5EE1DF1C8F0C1FF9.quest_desc: [
-		"建造&l&5闪电线圈&r后,可引导&a雷击&f劈中&8&a钢栅栏&f&r,将其转化为&c能量&r储存于专属&c能量&r储备器.\\n\\n&a增加&f &8&a钢栅栏&f&r数量可提升&a闪电&f触发概率!\\n\\n不知能否通过其他模组召唤闪电？"
+		"建造&l&5闪电线圈&r后,&a雷电&f会击中&8&a钢栅栏&f&r,其能量将存入专属&c能源&r储备库.\\n\\n&8&a钢栅栏&f&r数量&a越多&f,引雷概率&a越高&f!\\n\\n不知能否通过其他模组召唤闪电？\\n&7[After building the lLightning Coil we can have Lightning Strike the Steel Fences, which will then become Energy in its own Energy resevior. \\n\\nThe more Steel Fences the higher chance of Lightning! \\n\\nI wonder if we can use other Mods to summon Lightning?]&f"
 		"{@pagebreak}"
-		"要驾驭自然界最具破坏力的力量,首先需要放置&5高压线圈方块&r,在其相邻位置安装&5&a高压蓄电池&f&r,并在四角布置&8&a钢脚手架&f&r."
+		"要驾驭自然界最具破坏力的力量,首先需要&5高压线圈方块&r.在其相邻位置放置&5&a高压蓄电池&f&r,角落处搭建&8&a钢脚手架&f&r.\\n&7[To harness the power of Mother Nature's most devastating we'll need to start with a High-Voltage Coil Block. Then, place HV Accumulators adjacent to the High-Voltage Coil Block. On the corners place down Steel Scaffolding.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_lightning1.png width:100 height:100 align:center}"
-		"第二层在上层线圈正上方叠加另一个&5高压线圈方块&r,其侧面连接&e&a轻型工程块&f&r,四角则使用普通防腐木栅栏."
+		"第二层在原有线圈上方叠加&5高压线圈方块&r,相邻位置放置&e&a轻型工程块&f&r,角落只需普通防腐木栅栏!\\n&7[For the next layer, place another High-Voltage Coil Block on top of the previous one. Adjacent to that one, will be Light Engineering Blocks. On the corners will just be simple Treated Fences!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_lightning2.png width:100 height:100 align:center}"
-		"现在需要第三层&5高压线圈方块&r,周围环绕8个&6铜线圈方块&r."
+		"第三层继续叠加&5高压线圈方块&r,周围环绕8个&6铜线圈方块&r.\\n&7[Now, we need a third High-Voltage Coil Blocks above the others, and surrounding it will be 8 Copper Coil Blocks.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_lightning3.png width:100 height:100 align:center}"
-		"然后用&6锤子&r&a右击&f&a前侧&f的&e&a轻型工程块&f&r,将其转换为&5&l闪电线圈&r!"
+		"最后用&6锤子&a右击&f&a正面&f的&e&a轻型工程块&f&r,即可转换为&5&l闪电线圈&r!\\n&7[Then, Right Click the Light Engineering Block on the Front Side with a Hammer to convert it to the lLightning Coil!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_lightning.png width:100 height:100 align:center}"
-		"此步骤虽无图示,但需在&5&l闪电线圈&r顶部放置&8&a钢栅栏&f&r才能引导闪电击中!"
+		"此步骤虽无图示,但需在&5&l闪电线圈&r顶部放置&8&a钢栅栏&f&r才能引雷!\\n&7[I didn't make a picture for this step but you will need Steel Fences on top of the lLightning Coil in order to get Lightning to hit it!]&f"
 	]
-	quest.5EE1DF1C8F0C1FF9.title: "&5&l闪电线圈"
+	quest.5EE1DF1C8F0C1FF9.title: "&5&l闪电线圈&7[lLightning Coil]&f"
 	quest.5F4F7637044BD4F1.quest_desc: [
-		"&2&l发酵机&r可储存食物类&e物品&r,经过发酵会转化为乙醇.\\n\\n可用物品清单记载于&6工程师手册&r,可通过后方及左侧端口放入&2&l发酵机&r.\\n\\n若使用&6&a蜂蜜瓶&f&r,可从&a右侧&f端口&6提取&f空瓶.\\n\\n&2&l发酵机&r需通过顶部端口输入&c能量&r!"
+		"&2&l发酵机&r可存放食物类&e物品&r,经过一段时间会将其转化为乙醇.\\n\\n具体可放入&2&l发酵机&r的&e物品&r清单请查阅&6工程师手册&r,通过机器后方及左侧的端口进行投料.\\n\\n若使用&6&a蜂蜜瓶&f&r,可从&a右侧&f端口&6提取&r空瓶.\\n\\n&2&l发酵机&r需通过顶部端口接收&c能量&r进行运作!\\n&7[The lFermenter will hold your Food Items and after awhile will form them into Ethanol. \\n\\nThere is a list of Items, you can find it in the Engineer's Manual, of Items that can be put into the lFermenter by the Ports in the Back and Left side. \\n\\nIf you use Honey Bottles, you can Extract the Bottles out from the Port on the Right Side. \\n\\nThe lFermenter will need Energy which will come from a Port on Top of the lFermenter! ]&f"
 		"{@pagebreak}"
-		"起始步骤简单:用&8&a钢脚手架&f&r搭建倒n形结构,内部放置&b&a流体传输管道&f&r,转角处设置&e&a轻型工程块&f&r."
+		"初始步骤很简单:用&8&a钢脚手架&f&r摆出倒置的n形结构,内部铺设&b&a流体传输管道&f&r,转角处放置&e&a轻型工程块&f&r.\\n&7[Pretty simple start, make a backwards n out of Steel Scaffolding and within it place Fluid Pipes and on the corner place a Light Engineering Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_fermenter1.png width:100 height:100 align:center}"
-		"在&e&a轻型工程块&f&r正上方叠加另一个,其右侧间隔一格放置&4&a红石工程块&f&r,左侧则摆放2x2的炼药锅阵列."
+		"在&e&a轻型工程块&f&r正上方再放置一个,其右侧间隔一格放置&4&a红石工程块&f&r,左侧区域摆放2x2规格的炼药锅阵列.\\n&7[Above the Light Engineering Block place another. To the right of it, skip a Block, then place a Redstone Engineering Block. To the left of the Light Engineering Block we'll place a 2x2 of Cauldrons.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_fermenter2.png width:100 height:100 align:center}"
-		"简单步骤:在所有炼药锅上方覆盖&7&a铁板&f金属&r!"
+		"简单后续步骤:在所有炼药锅上方覆盖&7&a铁板&f金属&r!\\n&7[Another simple step, just place Iron Sheetmetal above all the Cauldrons!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_fermenter3.png width:100 height:100 align:center}"
-		"用&6锤子&r&a右击&f位于&e&a轻型工程块&f&r与&4&a红石工程块&f&r之间的炼药锅."
+		"对&e&a轻型工程块&f&r与&4&a红石工程块&f&r之间的炼药锅持&6锤子&a右击&f.\\n&7[Right Click the Cauldron between the Light Engineering Block and Redstone Engineering Block with a Hammer.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_fermenter.png width:100 height:100 align:center}"
 	]
-	quest.5F4F7637044BD4F1.title: "&l&2发酵机"
-	quest.607D9B53C632DEDE.quest_desc: ["&b&a管道阀门&f&r 用于协助分类和阻断&b流体&r流动!\\n\\n当与&b&a流体传输管道&f&r配合使用时,它们会使&b流体&r仅沿着&b&a管道阀门&f&r上的箭头方向流动.\\n\\n您还可以向其发送&4&a红石信号&f&r,这将完全停止&b流体&r的流动!"]
-	quest.607D9B53C632DEDE.title: "&b&a管道阀门&f"
-	quest.6140EAA6E042EF7C.quest_desc: ["&6&l天钩&r 既可作为工具也可作为武器使用.\\n\\n您可以像用剑一样击打生物,或用于在基地内移动!\\n\\n当靠近&c电线&r(&6低压&r、&e中压&r、&5高压&r、绝缘线、麻线、&8钢线&r、&4红石线&r)时,按住&a右键&f即可附着其上.然后,您可以移动并沿&c电线&r滑行!\\n\\n若要在通电的&c电线&r上使用,需安装升级部件!例如:&a高扭矩马达&f、&a绝缘把手&f和&a重击钩子&f.\\n\\n最多可容纳2个升级部件."]
-	quest.6140EAA6E042EF7C.quest_subtitle: "布克,接住!"
-	quest.6140EAA6E042EF7C.title: "&6&l工程师天钩"
+	quest.5F4F7637044BD4F1.title: "&l&2发酵机&7[lFermenter]&f"
+	quest.607D9B53C632DEDE.quest_desc: ["&b&a管道阀门&f&r用于调控&b流体&r的流向与截断!\\n\\n配合&b&a流体传输管道&f&r使用时,可限制流体仅沿阀门箭头标识方向流动.\\n\\n接收&4&a红石信号&f&r时会完全阻断流体传输!\\n&7[Pipe Valves work at helping sort and stop Fluid flow! \\n\\nWhen used with Fluid Pipes, they will make it so the Fluid only goes in direction with the arrows on the Pipe Valve. \\n\\nYou can also send it a Redstone Signal to which it will completely stop Fluid flow!]&f"]
+	quest.607D9B53C632DEDE.title: "&b&a管道阀门&f&7[Pipe Valve]&f"
+	quest.6140EAA6E042EF7C.quest_desc: ["&6&l天钩&r兼具工具与武器功能.\\n\\n可如剑般攻击生物,亦可在基地内高速移动!\\n\\n靠近&c线缆&r时(&6低压&r/&e中压&r/&5高压&r/绝缘/麻绳/&8钢制&r/&4红石&r),长按&a右键&f即可附着,随后可沿&c线缆&r滑行.\\n\\n若要在通电&c线缆&r上使用,需安装升级件:&a高扭矩马达&f、&a绝缘把手&f或&a重击钩子&f.\\n\\n最多同时装载2个升级件.\\n&7[The lSkyhook works both as a Tool and Weapon. \\n\\nYou can just smack Mobs with it as if it were a Sword or you can use it for moving around you base! \\n\\nWhen you get close to a Wire (LV, MV, HV, Insulated, Hemp, Steel, Redstone) you can Hold Right Click to attach to them. Then, you can move around to slide down the Wires! \\n\\nIf you want to use it on active Wires, you'll need some Upgrades! Upgrades like: High Torque Motor, Insulated Grip, and Heavy Impact Hooks. \\n\\nIt can hold 2 Upgrades.]&f"]
+	quest.6140EAA6E042EF7C.quest_subtitle: "布克接住了!&7[Booker catch!]&f"
+	quest.6140EAA6E042EF7C.title: "&6&l工程师天钩&7[lEngineer's Skyhook]&f"
 	quest.63F5314A1072FA05.quest_desc: [
-		"&e&l锯木机&r 工作原理类似&7&l&a金属冲压机&f&r,使用&e&a传送带&f&r且需要额外物品.\\n\\n分两阶段工作:先剥去原木树皮(若无锯片则仅进行此操作),第二阶段将原木锯成木板(需安装锯片).\\n\\n锯片需消耗大量&8钢&r制作,具有耐久度.通过&a右键&f点击锯木机后方槽位安装,取出时需用&4红石信号&f关闭机器,然后按住Shift&a右键&f点击安装位置.\\n\\n需从机器背面顶部输入&c能量&r,通过&e&a传送带&f&r实现&9物品输入&r.成品通过相同&e传送带&r&6输出&r,锯屑则从机器正面的端口排出."
+		"&e&l锯木机&r运作原理类似&7&l&a金属冲压机&f&r,需配合&e&a传送带&f&r及附加材料.\\n\\n分两阶段处理:先剥离原木表皮(无锯片时仅执行此步骤),再通过锯片将原木加工成木板.\\n\\n锯片需消耗大量&8钢&r制作,具有耐久度.通过机器后方插槽&a右击&f装入,取出时需先以&4红石信号&r停机,再按住Shift&a右击&f插槽.\\n\\n能量从机器背面顶部&c输入&r,物品通过&e&a传送带&f&r&9输入&r,成品由同款传送带&6输出&r,锯末则从机器正前方端口排出.\\n&7[The lSawmill works similar to the lMetal Press, using Conveyor Belts and needing extra Items. \\n\\nIt works in 2 stages, first it Strips the Logs. If it doesn't have a Sawblade within it, it will only Strip Logs. Second stage is cutting the Log into Planks, this needs a Sawblade. \\n\\nSawblades are Crafted with a ton of Steel. They have Durability and to insert them, Right Click the Slots near the Back of the Sawmill. If you wish to take them out, turn off the Sawmill with Redstone, then Shift Right Click where you inserted them. \\n\\nYou'll need to give it Energy on the Top of the Back Side, and you can Input Items via the Conveyor Belts. The Items will Output with those same Belts, but the Sawdust comes out of a Port in Front of the lMachine.]&f"
 		"{@pagebreak}"
-		"用&8&a钢脚手架&f&r摆成I字形(记得加入&7&a重型工程块&f&r),一侧填充&e&a轻型工程块&f&r,另一侧填充&7&a铁板&f金属&r."
+		"用&8&a钢脚手架&f&r搭设I形框架(勿忘安装&7&a重型工程块&f&r),其中一侧填充&e&a轻型工程块&f&r,另一侧覆盖&7&a铁板&f金属&r.\\n&7[Make an I shape with Steel Scaffolding (don't forget the Heavy Engineering Block) and fill in one part with Light Engineering Blocks and the other with Iron Sheetmetal.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_saw1.png width:150 height:100 align:center}"
-		"在底层构件上放置3个&e&a轻型工程块&f&r.最左侧的&7&a铁板&f金属&r上放置1个&7&a铁板&f金属&r,相邻位置安装&4&a红石工程块&f&r.顶部&7&a铁板&f金属&r旁需再加一个&7&a重型工程块&f&r.别忘了添加&a传送带&f,这是建造必备!"
+		"在底层结构上再放置3个&e&a轻型工程块&f&r.最左侧的&7&a铁板&fmetal&r上方需叠加1个&7&a铁板&fmetal&r,紧邻其侧放置&4&a红石工程块&f&r.顶层&7&a铁板&fmetal&r旁需要再安置一个&7&a重型工程块&f&r.别忘了添加&a传送带&f,这是建造必备组件!\\n&7[Place 3 more Light Engineering Blocks on their lower comrades. Add 1 Iron Sheetmetal on the Left most Iron Sheetmetal and next to it place a Redstone Engineering Block. Next to top Iron Sheetmetal we'll need another Heavy Engineering Block. Don't forget to add the Conveyor Belts, these are needed to Build it!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_saw2.png width:100 height:100 align:center}"
-		"用锤子&a右键&f点击中间的&7&a铁板&f金属&r!"
+		"用我们的锤子&a右击&f中间的&7&a铁板&fmetal&r!\\n&7[Right Click the middle Iron Sheetmetal with our Hammer!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_saw.png width:100 height:100 align:center}"
 	]
-	quest.63F5314A1072FA05.title: "&e&l锯木机"
-	quest.662DD269B027B6C8.quest_desc: ["无法无线充电您的&c&l&a蓄电池背包&f&r...但可进行&c有线充电&r!\\n\\n将充电天线连接至&c&l&a蓄电池背包&f&r,靠近任何传输&c能量&r的&c电线&r即可自动补充能源."]
-	quest.67940C0774E73217.quest_desc: ["&e物品路由&r会通过&9输入&e物品&r并根据界面设置的过滤规则&6输出&r至指定位置!\\n\\n可连接至&e传送带&r、板条箱或其他容器."]
-	quest.67940C0774E73217.title: "&e物品路由器"
-	quest.679E80EBB9A2AE7E.quest_desc: ["&b&a流体路由器&f&r对通过的&b流体&r进行分类过滤.\\n\\n需在界面中配置过滤规则和方向设置,完成后将自动引导流入的&b流体&r至指定目的地!"]
-	quest.679E80EBB9A2AE7E.title: "&b&a流体路由器&f"
-	quest.67FB03BE6685AFE1.quest_desc: ["要发动战争,我们得先宣战!\\n\\n开玩笑的,我们直接开火!这儿不搞外交那套!\\n\\n首先,用&d&l左轮手枪&r射击一个掠夺者.\\n\\n这会开始生成新的、更强大的掠夺者!"]
-	quest.67FB03BE6685AFE1.title: "进攻与防守"
-	quest.6B2BD6F939136F50.quest_desc: ["转盘很简单.&a顶部&f带有&7灰色&r方块的面是活动部分.\\n\\n其他面是&4&a红石接口&f&r,你可以通过它们输入&4&a红石信号&f&r来激活它.\\n\\n激活后,它会旋转附着在顶部的任何方块.\\n\\n你可能需要用&6工程师锤&r调整它的旋转方式!"]
+	quest.63F5314A1072FA05.title: "&e&l锯木厂&7[lSawmill]&f"
+	quest.662DD269B027B6C8.quest_desc: ["您的&c&l&a蓄电池背包&f&r无法无线充电...但可以&c有线充电&r!\\n\\n只需将充电天线连接至&c&l&a蓄电池背包&f&r,靠近任何传输&c能量&r的&c导线&r即可自动补充&c&l背包&r电量.\\n&7[You can't wirelessly charge your lAccumulator Backpack... but you can charge it wired! \\n\\nSimply attach your Charging Antenna to your lAccumulator Backpack and walk up to any Wires transporting Energy and some of it will come to your lBackpack.]&f"]
+	quest.67940C0774E73217.quest_desc: ["&e物品路由&r具备&9输入&e物品&r并根据界面设置将物品&6输出&r至指定位置!\\n\\n可设置为连接&e传送带&r、板条箱或其他容器.\\n&7[Item Router will Input Items and Output them to certain locations based on the Filtering set in its UI! \\n\\nThese can be set to Belts, Crates, or other Inventories.]&f"]
+	quest.67940C0774E73217.title: "&e物品路由&7[Item Router]&f"
+	quest.679E80EBB9A2AE7E.quest_desc: ["&b&a流体路由器&f&r可分类过滤通过的&b流体&r.\\n\\n需在界面中配置过滤规则和方向设置,完成后将自动引导流入的&b流体&r至指定出口.\\n&7[Fluid Routers sort and filter Fluids passing through. \\n\\nYou'll need to set configs within its UI to set the Filters and which Side. Once you do that, it will take all Fluids coming in and send them to where they are set to go!]&f"]
+	quest.679E80EBB9A2AE7E.title: "&b&a流体路由器&f&7[Fluid Router]&f"
+	quest.67FB03BE6685AFE1.quest_desc: ["发动战争需先宣战!\\n\\n开个玩笑——我们直接开火!这儿不搞外交辞令!\\n\\n首先用&d&l左轮手枪&r射击卫道士.\\n\\n这将触发更强力卫道士的生成机制!\\n&7[To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, shoot a Pillager with a lRevolver. \\n\\nThis will start the spawning of new and harder Pillagers!]&f"]
+	quest.67FB03BE6685AFE1.title: "攻防战略&7[Offense and Defense]&f"
+	quest.6B2BD6F939136F50.quest_desc: ["转盘装置操作简单:顶部带&7灰色&r方块的&a顶面&f为旋转部件.\\n\\n其他面是&4&a红石接口&f&r,需输入&4&a红石信号&f&r激活.\\n\\n激活后顶部连接的方块将产生旋转.\\n\\n可能需要使用&6工程师锤&r调整旋转模式!\\n&7[Turntable is pretty simple. The Top face with the Grey square will be the moving part. \\n\\nThe other faces are the Redstone Ports, where you will give a Redstone Signal to activate it. \\n\\nWhen activated it will rotate whatever Block is attached to the Top. \\n\\nYou might need to use your Engineer's Hammer on it to change how it rotates!]&f"]
 	quest.6BD348735C27BB44.quest_desc: [
-		"&b&l&a灌装机&f&r会灌装任何经过&e传送带&r的&e物品&r.\\n\\n使用背面的端口将&b流体&r注入&b&l机器&r,当储罐充满&b流体&r时,你就知道它在工作了!\\n\\n然后,当&b桶&r、&b储罐&r或任何&b流体存储器&r经过&e传送带&r时,它们会被灌满那种&b流体&r.\\n\\n接着,&b桶&r、&b储罐&r或其他容器会带着满满的&b流体&r继续在&e传送带&r上移动!\\n\\n顺便说一下,就像生活中的一切一样,&b&l&a灌装机&f&r需要背部顶端的端口提供&c能量&r!"
+		"&b&l&a灌装机&f&r会自动灌装&e传送带&r上的&e物品&r.\\n\\n通过后方端口注入&b流体&r,储罐充满即表示正常工作.\\n\\n当&b桶&r、&b储罐&r等&b流体容器&r经过&e传送带&r时,将自动灌注对应&b流体&r.\\n\\n装满的容器会随&e传送带&r继续传输!\\n\\n注意:&b&l&a灌装机&f&r需通过背部顶端端口输入&c能量&r才能运作.\\n&7[The lBottling Machine will fill up whatever Item comes by on the Belt. \\n\\nUse the Ports in the Back to fill the lMachine with Fluids, you'll know it is working when the Tank is full of that Fluid! \\n\\nThen, when a Bucket, Tank, or any Fluid Storage comes down the Belt, it will be filled with that Fluid. \\n\\nThe Bucket, Tank, or whatever will then move down the Belts full of that Fluid! \\n\\nBy the way, like everything in life, the lBottling Machine will need Energy in the Ports at the Top of the Back side!]&f"
 		"{@pagebreak}"
-		"首先,用&8&a钢脚手架&f&r搭一个三角形.然后用&7&a铁板&f金属&r、&4&a红石工程块&f&r和一个&e&a轻型工程块&f&r填满孔洞."
+		"首先用&8&a钢脚手架&f&r搭建三角框架,随后用&7&a铁板&fmetal&r、&4&a红石工程块&f&r和&e&a轻型工程块&f&r填充空隙.\\n&7[To start, make a triangle out of Steel Scaffolding. Then fill the holes with Iron Sheetmetal, Redstone Engineering Block, and a Light Engineering Block.]&f"
 		"{image:atm:textures/questpics/immersive/immersive_bottler1.png width:100 height:100 align:center}"
-		"现在,我们在前面加一条&e&a传送带&f&r.然后,在另一边加第二块&7&a铁板&f金属&r,旁边放一个&b&a液泵&f&r,前一个上面放一个&e&a轻型工程块&f&r!"
+		"现在正前方横置&e&a传送带&f&r,另一侧添加第二块&7&a铁板&fmetal&r,相邻放置&b&a液泵&f&r,前层结构上再加&e&a轻型工程块&f&r!\\n&7[Now we just add a Conveyor Belt across the front side. Then, add a second Iron Sheetmetal on the other, a Fluid Pump next to it, and a Light Engineering Block on the previous one!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_bottler2.png width:100 height:100 align:center}"
-		"只需用&6锤子&r敲击中间的&e&a传送带&f&r,砰的一声就完成了!"
+		"只需用&6工程师锤&r敲击中间&e&a传送带&f&r——砰!即刻完成!\\n&7[Simply Hammer the middle Conveyor Belt and BOOM done!]&f"
 		"{image:atm:textures/questpics/immersive/immersive_bottler.png width:100 height:100 align:center}"
 	]
-	quest.6BD348735C27BB44.title: "&b&l&a灌装机&f"
-	quest.6D42D0102D1CBC19.quest_desc: ["&a附加螺旋钻&f是锋利附魔...不过只适用于&4&l钻头&r!\\n\\n哦对了,你一次可以拥有3个,以叠加威力."]
-	quest.6F3C82072672FD17.quest_desc: ["此任务由&6AllTheMods团队&r或&2社区贡献者&r编写,用于AllTheMods整合包.\\n\\n由于所有&6AllTheMods&r整合包均采用&e保留所有权利&r许可,未经明确许可,此任务不得用于任何非&6AllTheMods团队&r发布的公开整合包.\\n\\n此任务被故意隐藏,如果你看到这个,说明你正处于编辑模式."]
-	quest.7060290E107D92AB.quest_desc: ["很多东西都需要&c能量&r,包括一些无法放置的&e物品&r,比如&5&l轨道炮&r!那么我们如何给它们充电呢？\\n\\n&a充电&f &a空间站&f就是干这个的!\\n\\n只需从背面或底部&6输入&c能量&r,它就能给放入其中的任何&e物品&r充电!\\n\\n这包括&5&l轨道炮&r、&c蓄电器&r以及其他模组的东西!不过它不能给附近的方块充电..."]
-	quest.72CE46D28C9E7452.quest_desc: ["&a瞄准镜&f可以用于&5&l轨道炮&r和&d&l左轮手枪&r.\\n\\n使用&d&l左轮手枪&r和&5&l轨道炮&r时,你可以按下中键使用瞄准镜,然后滚动调整放大倍数."]
-	quest.73110103EF23BFDF.quest_desc: ["&6铜&r和&7锌&r的混合物.\\n\\n在&8&lIE&r中没什么大用...我想你可以用它做告示牌..."]
-	quest.73110103EF23BFDF.title: "&6&a黄铜锭&f"
-	quest.763AE58CF620695E.quest_desc: ["这张&9工程蓝图&r和许多其他蓝图一样,可以通过合成获得.\\n\\n&8&l沉浸工程&r模组自带专属的&a旗帜图案&r!\\n\\n不过合成它们需要用到&9工程蓝图&r."]
-	quest.763AE58CF620695E.title: "&9&a旗帜图案&r工程蓝图"
-	quest.767E4FC03B6F6534.quest_desc: ["&a殷钢锭&r由&7铁锭&r和&7镍锭&r合成.\\n\\n和多数合金一样,它们在&8&l沉浸工程&r中并无实际用途."]
-	quest.767E4FC03B6F6534.title: "&7&a殷钢锭&f"
-	quest.7744BEC5CD328262.quest_desc: ["开采&b水下&r方块需要这个升级模块.\\n\\n它还会赋予你&a水亲和模块&r!(这意味着在&b水&r中采矿不会降低速度)"]
-	quest.78DA970F97002975.quest_desc: ["储罐是储存&b流体&r的基础设备.\\n\\n分为&a木制储罐&r和&a金属储罐&r.木制储罐只能储存常温及低温&b流体&r,无法储存高温&b流体&r或气体.而&a金属储罐&r可储存所有类型的&b流体&r与气体.\\n\\n两种储罐均可容纳12桶&b流体&r.默认从&a顶部&r自动&9输入&r,从底部&6输出&r,但这个设置可以更改."]
-	quest.78DA970F97002975.title: "流体储存"
-	quest.79BEECD4E545793F.quest_desc: ["&a刀片刺网&r类似蛛网...但更锋利!\\n\\n任何试图穿越的物体(包括我们自己)都会受到&a伤害&r并减速!\\n\\n可以用&6工程师钢丝钳&r安全拆除.\\n\\n也可连接&6低压导线&r提升&a伤害&r并附加眩晕效果!"]
-	quest.7A1E3E7E2DF17AD2.quest_desc: ["首先是&8锯刃&r,用于砍伐&2树木&r.它会砍断被锯原木上方的所有树干和树叶.\\n\\n其次是&8&a凿岩机刀片&r&r,不能砍树,而是作为附有&a精准采集&r的&a镐&r使用,开采石头会直接掉落石头而非圆石.\\n\\n第三是&8磨削盘&r,不能砍树或采石,专门用于破坏&7金属方块&r!适用于拆除&8&a钢脚手架&r&r以及清除&6铜块&r的氧化层!"]
-	quest.7A1E3E7E2DF17AD2.title: "&2&l电锯&r的弹药"
-	quest.7A41038180C06B00.quest_desc: ["&c连接器&r的功能就是连接!它将机器、&c蓄电器&r、发电机等几乎所有设备的&c导线&r相互连接!\\n\\n&c连接器&r的&9输入&r或&6输出&r模式取决于所连接设备的配置!\\n\\n它们自带内部&c能量&r存储空间,电压等级决定存储容量."]
-	quest.7A41038180C06B00.title: "&c连接器"
-	quest.7AE85F4FF4DDF4F2.quest_desc: ["&a风车&r是&a动能发电机&r的另一种动力来源!\\n\\n风车会自动旋转,转速越快产生的能量越多.\\n\\n如何提升转速？首先需要前方留有空间,正面&a障碍物越少&r转速越快!\\n\\n另一个影响因素是&a改良风车叶片&r.手持叶片&a右击&r风车核心方块最多可安装8片&a改良风车叶片&r."]
-	quest.7B447E986493AD6B.quest_desc: ["&7&a杂酚油&r&r是&l&a焦炉&r&r的副产品.\\n\\n主要用于制作&a防腐木&r——&8&l沉浸工程&r中重要的建筑&a方块&r.\\n\\n后续另一种流体也会用到它,届时我们再详细说明."]
-	quest.7B447E986493AD6B.title: "&7&a杂酚油&f"
-	quest.7B9672C4FCFFB887.quest_desc: ["这些&9蓝图&r可以合成,而且成本非常低廉!\\n\\n&a警告标志&f是用&7&a金属板材&f&r、染料和这张&9蓝图&r制作的简易装饰物."]
-	quest.7B9672C4FCFFB887.title: "&9&a警告标志&f蓝图"
-	quest.7FE273141D3DFFFD.quest_desc: ["&a燧发枪手&f是新掠夺者的中型单位!\\n\\n他们拥有12点生命值且无护甲.\\n\\n其专属武器是通过所佩戴的&a蓄电池背包&f充能的&5&l磁轨炮&r!\\n\\n被击败时会掉落&a绿宝石&r和&7&a铁锭&f&r."]
-	quest.7FE273141D3DFFFD.title: "燧发枪手"
-	task.02B26D0D73E5E361.title: "传送带"
-	task.0837FA64B9C50048.title: "圆锯弹药"
-	task.0B62C759781950A1.title: "IE磁轨炮弹药"
-	task.0CD67A3D64E9B49B.title: "装饰线缆"
-	task.0D7C60D7BFBD8CF0.title: "版权所有"
-	task.15795AB2872E2DEE.title: "滑槽"
-	task.173B725A839DEEAA.title: "&a普通子弹&f"
-	task.20D0DB49AFA7976F.title: "任意蓄电器"
-	task.4025792887CB9BE2.title: "线圈"
-	task.43FDC45CF464047E.title: "保暖物品"
-	task.440F173D6B5EE74E.title: "继电器"
-	task.529FFD7D692AEFA5.title: "&a特种子弹&f"
-	task.53AF5EFD070E8761.title: "变压器"
-	task.5580FF146C9E7EA0.title: "木桶"
-	task.56D7513E9D02F900.title: "&a钻头&f"
-	task.59DC19A11848EFE1.title: "连接器"
-	task.5CEB2D56A9EA74D0.title: "冷藏物品"
-	task.603A16080675C348.title: "版权所有"
-	task.79F67E07C28F8E97.title: "Minecraft磁轨炮弹药"
-	task.7FED013A7F667CC6.title: "板条箱"
+	quest.6BD348735C27BB44.title: "&b&l&a灌装机&f&7[lBottling Machine]&f"
+	quest.6D42D0102D1CBC19.quest_desc: ["&a附加螺旋钻&f附魔相当于精准采集...但仅适用于&4&l钻头&r!\\n\\n最多可叠加三个以提升效能.\\n&7[The Additional Augers are Sharpness... just for the lDrill though! \\n\\nOh yeah and you can have 3 at a time, for stacked power.]&f"]
+	quest.6F3C82072672FD17.quest_desc: ["该任务由&6ATM官方团队&r或&2社区贡献者&r创作,专用于ATM整合包.\\n\\n由于所有&6ATM&r系列均采用&e保留所有权利&r许可协议,未经&6ATM团队&r明确授权,不得在任何公开发布的整合包中使用此任务.\\n\\n此任务为隐藏内容,若您能看到本条说明,说明您正处于编辑模式.\\n&7[This Quest has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods Modpacks. \\n\\nAs all AllTheMods packs are licensed under All Rights Reserved, this Quest is not allowed to be used in any public packs not released by AllTheMods Team without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode.]&f"]
+	quest.7060290E107D92AB.quest_desc: ["许多设备需要&c能量&r供应,包括某些无法放置的&e物品&r(例如&5&l磁轨炮&r)!如何为它们充能？\\n|6n7p&a充电&f &a空间站&f正是为此而生!\\n\\n只需从背面或底部&6输入&c能量&r,即可为放入其中的任何&e物品&r充电!\\n\\n适用于&5&l磁轨炮&r、&c蓄电器&r及其他模组物品!但无法为邻近的方块充电...\\n&7[A lot of things will need Energy, including some Items that can't be placed down, like the lRailgun! So how do we charge them? \\n\\nThe Charging Station is our man for that job! \\n\\nSimply Input Energy from either the Back or Bottom, and it will be ready to charge any Item put within it! \\n\\nThis includes lRailguns, Accumulators, and stuff from other Mods! It can't charge Blocks near it though...]&f"]
+	quest.72CE46D28C9E7452.quest_desc: ["&a瞄准镜&f可同时适用于&5&l磁轨炮&r与&d&l左轮手枪&r.\\n\\n手持&d&l左轮手枪&r或&5&l磁轨炮&r时,按下中键使用瞄准镜,滚动鼠标滑轮可调节放大倍率.\\n&7[The Precision Scope can be used on both the lRailgun and the lRevolver. \\n\\nWith the lRevolver and lRailgun you can press down Middle Click to use the Scope, then you can Scroll to adjust the magnification.]&f"]
+	quest.73110103EF23BFDF.quest_desc: ["&6铜&r与&7锌&r的合金.\\n\\n在&8&l沉浸工程&r中用途有限...或许可用来制作告示牌...\\n&7[A mix of Copper and Zinc. \\n\\nNot really used for much in lIE... You can make Signs with it I guess...]&f"]
+	quest.73110103EF23BFDF.title: "&6&a黄铜锭&f&7[Brass Ingot]&f"
+	quest.763AE58CF620695E.quest_desc: ["此&9蓝图&r与多数同类物品均可合成.\\n\\n&8&l&d沉浸工程&f&r自带专属的&a旗帜图案&f!\\n\\n但合成时需要&9蓝图&r作为材料.\\n&7[This Blueprint, like many others, can be Crafted. \\n\\nlImmersive Engineering comes with it's own Banner Patterns! \\n\\nYou'll need Blueprints to craft them though.]&f"]
+	quest.763AE58CF620695E.title: "&9&a旗帜图案&f蓝图&7[Banner Patterns Blueprints ]&f"
+	quest.767E4FC03B6F6534.quest_desc: ["&a殷钢锭&f由&7铁&r与&7镍&r熔炼而成.\\n\\n如同多数合金,其在&8&l沉浸工程&r中实用性较低.\\n&7[Invar Ingots are made with Iron and Nickel. \\n\\nLike a lot of these Alloys they aren't useful in lIE.]&f"]
+	quest.767E4FC03B6F6534.title: "&7&a殷钢锭&f&7[Invar Ingot]&f"
+	quest.7744BEC5CD328262.quest_desc: ["开采&b水下&r方块需安装此升级模块.\\n\\n同时赋予&a水亲和模块&f效果!(即在&b水中挖掘不会减速.)\\n&7[In order to mine Blocks underwater you'll need this Upgrade. \\n\\nIt also gives you Aqua Affinity! (That means being in Water doesn't slow down your Mining.)]&f"]
+	quest.78DA970F97002975.quest_desc: ["储罐是存储&b流体&r的基础设备.\\n\\n分为&a木制储罐&f和&a金属储罐&f:木制储罐仅能储存常温与低温&b流体&r,不可存储高温&b流体&r或气体；而&a金属储罐&f可容纳所有类型的&b流体&r与气体.\\n\\n两类储罐均能存储12桶&b流体&r,默认从&a顶部&f自动&9输入&r并从底部&6输出&r,该设定可手动调整.\\n&7[Barrels are simple ways of holding Fluids. \\n\\nThere's Wooden Barrels and Metal Barrels. Wooden ones can only hold cold and room temperature Fluids, not warm Fluids or Gases. While Metal Barrels can hold all types of Fluids and Gases. \\n\\nBoth Barrels can hold 12 Buckets of Fluid. They automatically Input from the Top side and Output to the Bottom but this can be changed.]&f"]
+	quest.78DA970F97002975.title: "&b流体&r存储&7[Storing Fluids]&f"
+	quest.79BEECD4E545793F.quest_desc: ["&a刀片刺网&f作用类似蛛网...但更具杀伤力!\\n\\n任何穿越其中的实体(包括玩家)都将受到&a伤害&f并减速.\\n\\n使用&6工程师钢丝钳&r可安全拆除.\\n\\n若连接&6低压导线&r,可增强&a伤害&f并附加眩晕效果!\\n&7[Razor Wire works like Cobwebs... just sharper! \\n\\nThe Razor Wire will Damage and Slow anything that tries to go through it, including us! \\n\\nWe can safely take it apart with our Engineer's Wirecutters. \\n\\nOr we can use LV Wires to make it do more Damage and a Stun Effect!]&f"]
+	quest.7A1E3E7E2DF17AD2.quest_desc: ["首先是&8锯片&r,用于砍伐&2树木&r——能一次性砍断被伐原木上方的所有树干与树叶.\\n\\n其次是&8&a凿岩机刀头&f&r,无法砍伐&2树木&r,而是作为附有&a精准采集&f的&a镐类工具&r使用,开采岩石时直接掉落岩石而非圆石.\\n\\n最后是&8磨削盘&r,专门破坏&7金属方块&r,适用于拆除&8&a钢脚手架&f&r或清除&6铜&r块的氧化层.\\n&7[First, is the Sawblade. This is used for cutting down Trees. It will chop every Log and Leaf in the Tree above the Log that is cut. \\n\\nSecond, is the Rockcutter Blade. This one can not break Trees, rather it is used as a Pickaxe with Silk Touch. It will break Stone and give you Stone instead of Cobble. \\n\\nThird is the Grinding Disk. It won't break Trees or Stone rather it'll break Metal Blocks! Good for Steel Scaffolding and scraping Oxidization off Copper!]&f"]
+	quest.7A1E3E7E2DF17AD2.title: "&2&l电锯&r弹药类型&7[Ammo for lBuzzsaw]&f"
+	quest.7A41038180C06B00.quest_desc: ["&c连接器&r的功能正如其名——实现连接!它们将&c电线&r从机器连接到&c蓄电器&r、发电机,几乎能连接所有设备!\\n\\n&c连接器&r作为&9输入&f或&6输出&r端的功能取决于其所连接设备的配置!\\n\\n它们还拥有内部&c能量&r存储空间,电压等级决定其容量大小.\\n&7[Connectors are what... well connect! They connect Wires from Machines, to Accumulators, to Generators, from pretty much everything! \\n\\nWhether a Connector Inputs or Outputs is determined by the configuration of what it is attached to! \\n\\nThey also have their own internal Energy storage, the Tier of Voltage determines how much.]&f"]
+	quest.7A41038180C06B00.title: "&c连接器&7[Connectors]&f"
+	quest.7AE85F4FF4DDF4F2.quest_desc: ["&a风车&f是可与&a动能发电机&f配套使用的另一种选择!\\n\\n风车会自动旋转,转速越快产生的能量越多.\\n\\n如何提升转速？首先需要确保风车前方有足够空间.前方&a减少&f方块遮挡可显著加速!\\n\\n另一个加速因素是&a改良风车叶片&f.手持叶片&a右击&f风车中心方块,最多可安装8片&a改良风车叶片&f.\\n&7[The Windmill is another option we can use with the Kinetic Dynamo! \\n\\nThese will automatically start moving and with its speed we get Energy, so more speed more Energy. \\n\\nHow do we get speed? Well for one, it needs space in front of it to work. The less blocks in front of it, the quicker it goes! \\n\\nAnother factor into speed is Windmill Sails. You can add 8 Windmill Sails in total by Right Clicking the middle Windmill Block with the Sails in hand.]&f"]
+	quest.7B447E986493AD6B.quest_desc: ["&7&a杂酚油&f&r是&l&a焦炉&f&r的副产品.\\n\\n主要用途是制造&a防腐木&f——&8&lIE&r模组中重要的建筑&a方块&f.\\n\\n后续还会用于制作另一种流体,届时我们再详细说明.\\n&7[Creosote Oil is a byproduct of the lCoke Oven. \\n\\nIts main use will be for making Treated Wood, an essential Building Block of lIE. \\n\\nYou will also need it for a different Fluid later, we'll worry about it when we get there.]&f"]
+	quest.7B447E986493AD6B.title: "&7&a杂酚油&f&7[Creosote Oil]&f"
+	quest.7B9672C4FCFFB887.quest_desc: ["这些&9蓝图&r合成成本极低!\\n\\n&a警告标志&f是通过&7&a金属板材&f&r、染料和此&9蓝图&r制作的简易装饰物.\\n&7[These Blueprints can be Crafted and boy are they cheap! \\n\\nWarning Signs are very simple decorations we can make with Metal Plates, Dyes, and this Blueprint.]&f"]
+	quest.7B9672C4FCFFB887.title: "&9&a警告标志&f蓝图&7[Warning Signs Blueprints ]&f"
+	quest.7FE273141D3DFFFD.quest_desc: ["&a燧发枪手&f是新掠夺者中的中型单位!\\n\\n拥有12点生命值且无护甲.\\n\\n使用&5&l磁轨炮&r作为武器,由其佩戴的&a蓄电池背包&f充能!\\n\\n击败后会掉落&a绿宝石&r和&7&a铁棍&f&r.\\n&7[The Fusilier is the medium unit of the new Pillagers! \\n\\nThey have 12 Hearts and no Armor. \\n\\nTheir weapon of choice is a lRailgun that is charged by their Accumulator Backpack they wear! \\n\\nOn death they will drop Emeralds and Iron Rods.]&f"]
+	quest.7FE273141D3DFFFD.title: "燧发枪手&7[Fusilier]&f"
+	task.02B26D0D73E5E361.title: "传送带&7[Belts]&f"
+	task.0837FA64B9C50048.title: "圆锯弹药&7[Ammo for Buzzsaw]&f"
+	task.0B62C759781950A1.title: "IE磁轨炮弹药&7[IE Railgun Ammo]&f"
+	task.0CD67A3D64E9B49B.title: "装饰电线&7[Decor Wires]&f"
+	task.0D7C60D7BFBD8CF0.title: "版权所有&7[AllRightsReserved]&f"
+	task.15795AB2872E2DEE.title: "滑槽&7[Chutes]&f"
+	task.173B725A839DEEAA.title: "&a普通子弹&f&7[Common Projectiles]&f"
+	task.20D0DB49AFA7976F.title: "任意蓄电器&7[Any Accumulator]&f"
+	task.4025792887CB9BE2.title: "线圈&7[Wire Coils]&f"
+	task.43FDC45CF464047E.title: "保暖物品&7[Warm Items]&f"
+	task.440F173D6B5EE74E.title: "继电器&7[Relays]&f"
+	task.529FFD7D692AEFA5.title: "&a特种子弹&f&7[Specialized Projectiles]&f"
+	task.53AF5EFD070E8761.title: "变压器&7[Transformers]&f"
+	task.5580FF146C9E7EA0.title: "储罐桶&7[Barrels]&f"
+	task.56D7513E9D02F900.title: "&a钻头&f&7[Drill Heads]&f"
+	task.59DC19A11848EFE1.title: "连接器&7[Connectors]&f"
+	task.5CEB2D56A9EA74D0.title: "冷藏物品&7[Cold Items]&f"
+	task.603A16080675C348.title: "版权所有&7[AllRightsReserved]&f"
+	task.79F67E07C28F8E97.title: "我的世界磁轨炮弹药&7[Minecraft Railgun Ammo]&f"
+	task.7FED013A7F667CC6.title: "板条箱&7[Crates]&f"
 }
